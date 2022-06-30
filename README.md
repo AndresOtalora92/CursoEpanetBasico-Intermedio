@@ -12,5 +12,5 @@ como software de gestión para todo tipo de programas de tuberías presurizadas.
 el análisis de sistemas con agua potable, también puede ser utilizado para el análisis de cualquier 
 fluido no compresible con flujo a presión. 
 
-| [¡Incio el Curso!](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio.wiki.git) | 
+| [¡Incio el Curso!](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | 
 | ------------- |
