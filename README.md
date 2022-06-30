@@ -11,5 +11,5 @@ ser utilizado para el análisis de cualquier fluido no compresible con flujo a p
 
 ...continuación...
 
-| [¡Incio el Curso!](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | 
+| [¡Inicia el Curso!](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | 
 | ------------- |
