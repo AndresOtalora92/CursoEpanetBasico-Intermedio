@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Submódulo 1.1. 
+# Curso de Epanet - Módulo 1 - Submódulo 1.2. 
 ![Imagen 1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b30a070763c8fdd0debdf2836196f1bbc795673b/.jpg/IconoEpanetV3.png)
 
 *Universidad Escuela Colombiana de Ingeniería Julio Garavito*
