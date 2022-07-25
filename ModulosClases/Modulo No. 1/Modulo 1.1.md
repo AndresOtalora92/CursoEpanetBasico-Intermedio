@@ -35,7 +35,7 @@ $dp/dx=\\frac{P2-P1}{L}$
 <br>Ecuación 1. Gradiente de presiones en un sistema a presión.
 </div>
 
-<br>Por definición el gradiente hidráulico se define por la expresión:
+Por definición el gradiente hidráulico se define por la expresión:
 
 
 - Definición de caudal, velocidad y presión.
