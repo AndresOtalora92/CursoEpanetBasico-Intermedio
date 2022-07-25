@@ -38,7 +38,6 @@ por la expresión:
 <div align="center">
 
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/4847e332f2955fb10e068b43afe10eb44e628e18/ecuaciones/Ecuacion1.PNG" width="200px">
-<br> <b>Ecuación 1. Gradiente de presiones en un sistema a presión.</b>
 
 </div>
 
@@ -49,8 +48,20 @@ El caudal corresponde a la cantidad de fluido en unidades de volumen
 que pasa por una sección transversal en una unidad de tiempo. 
 Generalmente el caudal es expresado en m³/s, L/s o ft³/s.
 
+<div align="center">
+Q = V * A
+</div>
+
+Donde, 
+<br> Q: Caudal
+<br>V: Velocidad Media
+<br>A: Área hidráulica de la sección transversal
+
+
 Es posible expresar el caudal asumiendo en función de la velocidad
 media del flujo, así:
+
+
 
 Si se tiene en cuenta el perfil de velocidades real en una sección transversakl es posible determinar el caudal aplicando su definición a partir del concepto de integral, así:
 
