@@ -16,7 +16,12 @@ de la hidráulica, descripción y detalle de las ecuaciones básicas que rigen l
 En téminos simples, el flujo corresponden al movimiento de un fluido con respecto a un sistema inercial dentro de una 
 superficie sólida definida. Un flujo a presión corresponde a un flujo en el cual el fluido cual ocupa la totalidad 
 de las paredes que definen las fronteras de la superficie que transporta el fluido. La presión del fluido es diferente
-a la presión atmosférica. El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
+a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este concepto.
+
+[![Imagen 1.1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/812f1e04a401da8f2f6d6c3fde0de0ad9f6a359a/ModulosClases/Modulo%20No.%201/Imagenes/Imagen%20No.%201.PNG)]
+Figura 1.1 Gradiente de presiones en una tubería con flujo a presión.
+
+El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
 una longitud definida generando un gradiente de presión.
 
 $dp/dx=\\frac{P2-P1}{L}$
