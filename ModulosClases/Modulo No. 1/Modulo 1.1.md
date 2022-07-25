@@ -74,4 +74,4 @@ Descripción y gráficos de los tipos de flujo. Puede tomarse fotos del laborato
 - Concepto muy básico de redes cerradas (este tema se manejará en el módulo 3).
 
 
-
+[^1]: Saldarriaga, Juan. Hidráulica a Presión.
