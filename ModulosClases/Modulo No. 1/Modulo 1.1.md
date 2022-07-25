@@ -20,6 +20,7 @@ a la presión atmosférica. El flujo en un sistema a presión se genera por la d
 una longitud definida generando un gradiente de presión.
 
 $dp/dx=(P2-P1)/L$
+'\\frac{1}{\\sqrt{x^2 + 1}}'
 
 Ecuación 1. Gradiente de presiones en un sistema a presión.
 
