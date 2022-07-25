@@ -19,7 +19,8 @@ de las paredes que definen las fronteras de la superficie que transporta el flui
 a la presión atmosférica. El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
 una longitud definida generando un gradiente de presión.
 
-$\sqrt{3x-1}+(1+x)^2$
+$dp/dx=(P2-P1)/L$
+
 Ecuación 1. Gradiente de presiones en un sistema a presión.
 
 Por definición el gradiente hidráulico se define por la expresión:
