@@ -64,7 +64,7 @@ Si se tiene en cuenta el perfil de velocidades real en una sección transversakl
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/22a451dbc2a653b78f63f4bd4c9898dd1cc2417d/ecuaciones/Ecuacion2.PNG" width="200px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/22a451dbc2a653b78f63f4bd4c9898dd1cc2417d/ecuaciones/Ecuacion2.PNG" width="100px">
 
 </div>
 
@@ -77,7 +77,7 @@ En la siguiente tabla se resumen los valores de densidad y viscosidad del agua p
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/ad4cc9e0a958d1a2c3cc79d07e99629ae5374753/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.2.PNG" width="200px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/ad4cc9e0a958d1a2c3cc79d07e99629ae5374753/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.2.PNG" width="600px">
 </div>
 
 >Figura 1.2 Densidad y viscosidad del agua[^2].
