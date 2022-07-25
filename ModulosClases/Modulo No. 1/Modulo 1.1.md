@@ -29,10 +29,7 @@ a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este conc
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG" width="400px">
 </div>
 
-
 >Figura 1.1 Gradiente de presiones en una tubería con flujo a presión[^1].
-
-
 
 <br>El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
 una longitud definida generando un gradiente de presión.Por definición el gradiente hidráulico se define 
@@ -41,14 +38,24 @@ por la expresión:
 <div align="center">
 
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/4847e332f2955fb10e068b43afe10eb44e628e18/ecuaciones/Ecuacion1.PNG" width="200px">
+
+<br> <b>Ecuación 1. Gradiente de presiones en un sistema a presión.</b>
+
 </div>
 
-<div align="center">
-<b>Ecuación 1. Gradiente de presiones en un sistema a presión.</b>
-</div>
+
+- Definición de caudal.
+
+El caudal corresponde a la cantidad de fluido en unidades de volumen
+que pasa por una sección transversal en una unidad de tiempo. 
+Generalmente el caudal es expresado en m³/s, L/s o ft³/s.
+
+Es posible expresar el caudal asumiendo en función de la velocidad
+media del flujo, así:
+
+Si se tiene en cuenta el perfil de velocidades real en una sección transversakl es posible determinar el caudal aplicando su definición a partir del concepto de integral, así:
 
 
-- Definición de caudal, velocidad y presión.
 - Definición de Viscosidad y rugosidad (agregar gráficos y tablas)
 - Definición de esfuerzo cortante.
 
