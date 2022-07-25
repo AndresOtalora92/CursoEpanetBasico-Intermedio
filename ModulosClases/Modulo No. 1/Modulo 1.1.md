@@ -41,9 +41,10 @@ por la expresión:
 $\big\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}$
 </div>
 
-<div align="center"> 
-$\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}\big$
-</div>
+
+$\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}$\big
+
+\big$\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}$
 
 Ecuación 1. Gradiente de presiones en un sistema a presión.
 
