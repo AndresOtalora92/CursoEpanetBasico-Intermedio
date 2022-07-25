@@ -38,7 +38,7 @@ una longitud definida generando un gradiente de presión.Por definición el grad
 por la expresión:
 
 <div align="center"> 
-$ \Bigg(\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L})$
+$\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}$
 </div>
 
 
