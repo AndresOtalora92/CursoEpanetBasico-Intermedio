@@ -30,7 +30,7 @@ a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este conc
 </div>
 
 <div align="center">
-Figura 1.1 Gradiente de presiones en una tubería con flujo a presión<1>.
+Figura 1.1 Gradiente de presiones en una tubería con flujo a presión[^1].
 
 </div>
 
