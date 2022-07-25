@@ -29,10 +29,10 @@ a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este conc
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG" width="400px">
 </div>
 
-<div align="center">
-Figura 1.1 Gradiente de presiones en una tubería con flujo a presión[^1].
 
-</div>
+>Figura 1.1 Gradiente de presiones en una tubería con flujo a presión[^1].
+
+
 
 <br>El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
 una longitud definida generando un gradiente de presión.Por definición el gradiente hidráulico se define 
