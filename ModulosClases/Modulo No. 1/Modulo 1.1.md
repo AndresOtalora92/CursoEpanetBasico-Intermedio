@@ -30,8 +30,8 @@ a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este conc
 </div>
 
 <div align="center">
-Figura 1.1 Gradiente de presiones en una tubería con flujo a presión.
-<br><i><br>Referencia: Saldarriaga Juan. Hidráulica de Tuberías.</i></br>
+Figura 1.1 Gradiente de presiones en una tubería con flujo a presión<1>.
+
 </div>
 
 <br>El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
