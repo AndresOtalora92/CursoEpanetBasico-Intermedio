@@ -48,6 +48,9 @@ El caudal corresponde a la cantidad de fluido en unidades de volumen
 que pasa por una sección transversal en una unidad de tiempo. 
 Generalmente el caudal es expresado en m³/s, L/s o ft³/s.
 
+Es posible expresar el caudal asumiendo en función de la velocidad
+media del flujo, así:
+
 <div align="center">
 Q = V * A
 </div>
@@ -57,21 +60,28 @@ Donde,
 <br>V: Velocidad Media
 <br>A: Área hidráulica de la sección transversal
 
-
-Es posible expresar el caudal asumiendo en función de la velocidad
-media del flujo, así:
+Si se tiene en cuenta el perfil de velocidades real en una sección transversakl es posible determinar el caudal aplicando su definición a partir del concepto de integral, así:
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/4847e332f2955fb10e068b43afe10eb44e628e18/ecuaciones/Ecuacion1.PNG" width="200px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/22a451dbc2a653b78f63f4bd4c9898dd1cc2417d/ecuaciones/Ecuacion2.PNG" width="200px">
 
 </div>
 
+- Definición de densidad y Viscosidad.
+La densidad corresponde al peso en unidades de masa por unidad de volumen. En los fluidos líquidos, la densidad de los fluidos aumenta al reducirse la temperatura. 
 
-Si se tiene en cuenta el perfil de velocidades real en una sección transversakl es posible determinar el caudal aplicando su definición a partir del concepto de integral, así:
+La viscosidad corresponde a la propiedad intrínseca de los fluidos a impedir el movimiento o su "fluidez". En los fluidos líquidos, la viscosdidad de los fluidos aumenta al reducirse la temperatura. 
 
+En la siguiente tabla se resumen los valores de densidad y viscosidad del agua para diferentes temperatura en Sistema Internacional y Sistema Inglés.
 
-- Definición de Viscosidad y rugosidad (agregar gráficos y tablas)
+<div align="center">
+
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG" width="400px">
+</div>
+
+>Figura 1.2 Densidad y viscosidad del agua[^2].
+
 - Definición de esfuerzo cortante.
 
 ### Flujo en tuberías. Usos y aplicaciones de los sistemas a presión.
@@ -97,3 +107,4 @@ Descripción y gráficos de los tipos de flujo. Puede tomarse fotos del laborato
 
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión.
+[^2]: Frank M. White. Mecanica De Fluidos (2020)
