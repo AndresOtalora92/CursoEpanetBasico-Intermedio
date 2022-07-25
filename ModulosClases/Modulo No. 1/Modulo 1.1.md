@@ -19,11 +19,12 @@ de las paredes que definen las fronteras de la superficie que transporta el flui
 a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este concepto.
 
 <div align="center">
-
 [![Imagen 1.1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG)
+</div>
+
 Figura 1.1 Gradiente de presiones en una tubería con flujo a presión.
 
-</div>
+
 
 El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
 una longitud definida generando un gradiente de presión.
