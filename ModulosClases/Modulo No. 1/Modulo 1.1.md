@@ -26,11 +26,7 @@ a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este conc
 Figura 1.1 Gradiente de presiones en una tubería con flujo a presión.
 </div>
 
-
-
-
-
-El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
+<br>El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
 una longitud definida generando un gradiente de presión.
 
 $dp/dx=\\frac{P2-P1}{L}$
