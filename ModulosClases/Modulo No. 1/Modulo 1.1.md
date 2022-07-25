@@ -5,14 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG" width="600px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/5e4e6f45e715bf4b5054fa289e045ede8dc073c9/.jpg/IconoEpanetV3.png" width="600px">
 </div>
 
 <br>*Universidad Escuela Colombiana de Ingeniería Julio Garavito*
 <br>***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
-
-![Imagen 1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b30a070763c8fdd0debdf2836196f1bbc795673b/.jpg/IconoEpanetV3.png)
-
 
 ## **1.1 Conceptos generales de flujo a presión**
 Descripción de los conceptos generales de los flujos a presión. Definiciones conceptuales de los fundamentos
