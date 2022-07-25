@@ -43,8 +43,9 @@ por la expresión:
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/4847e332f2955fb10e068b43afe10eb44e628e18/ecuaciones/Ecuacion1.PNG" width="200px">
 </div>
 
-
-Ecuación 1. Gradiente de presiones en un sistema a presión.
+<div align="center">
+<b>Ecuación 1. Gradiente de presiones en un sistema a presión.</b>
+</div>
 
 
 - Definición de caudal, velocidad y presión.
