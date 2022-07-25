@@ -37,10 +37,10 @@ Referencia: Saldarriaga Juan. Hidráulica de Tuberías.
 una longitud definida generando un gradiente de presión.Por definición el gradiente hidráulico se define 
 por la expresión:
 
-<div align="center">
-$dp/dx=\\frac{P2-P1}{L}$
-<br>Ecuación 1. Gradiente de presiones en un sistema a presión.
-</div>
+\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}
+
+Ecuación 1. Gradiente de presiones en un sistema a presión.
+
 
 - Definición de caudal, velocidad y presión.
 - Definición de Viscosidad y rugosidad (agregar gráficos y tablas)
