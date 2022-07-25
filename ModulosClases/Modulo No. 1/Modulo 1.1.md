@@ -1,12 +1,15 @@
-<div align="center">
 # Curso de Epanet - Módulo 1 - Submódulo 1.1. 
+
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
 </div>
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b30a070763c8fdd0debdf2836196f1bbc795673b/.jpg/IconoEpanetV3.png)" width="600px">
-*Universidad Escuela Colombiana de Ingeniería Julio Garavito*
-***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG" width="600px">
 </div>
+
+<br>*Universidad Escuela Colombiana de Ingeniería Julio Garavito*
+<br>***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
 
 ![Imagen 1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b30a070763c8fdd0debdf2836196f1bbc795673b/.jpg/IconoEpanetV3.png)
 
