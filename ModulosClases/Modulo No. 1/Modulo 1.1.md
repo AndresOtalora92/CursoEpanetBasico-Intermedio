@@ -18,7 +18,7 @@ superficie sólida definida. Un flujo a presión corresponde a un flujo en el cu
 de las paredes que definen las fronteras de la superficie que transporta el fluido. La presión del fluido es diferente
 a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este concepto.
 
-[![Imagen 1.1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c17d2ae98e5819ef3b0b460d33cb61a106a17a7a/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1.PNG)]
+[![Imagen 1.1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG)
 
 Figura 1.1 Gradiente de presiones en una tubería con flujo a presión.
 
