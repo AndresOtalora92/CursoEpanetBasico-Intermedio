@@ -61,6 +61,11 @@ Donde,
 Es posible expresar el caudal asumiendo en función de la velocidad
 media del flujo, así:
 
+<div align="center">
+
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/4847e332f2955fb10e068b43afe10eb44e628e18/ecuaciones/Ecuacion1.PNG" width="200px">
+
+</div>
 
 
 Si se tiene en cuenta el perfil de velocidades real en una sección transversakl es posible determinar el caudal aplicando su definición a partir del concepto de integral, así:
