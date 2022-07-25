@@ -19,10 +19,14 @@ de las paredes que definen las fronteras de la superficie que transporta el flui
 a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este concepto.
 
 <div align="center">
-[![Imagen 1.1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG)
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG" width="600px">
 </div>
 
+<div align="center">
 Figura 1.1 Gradiente de presiones en una tubería con flujo a presión.
+</div>
+
+
 
 
 
