@@ -1,15 +1,15 @@
 # Curso de Epanet - Módulo 1 - Submódulo 1.1. 
 
 <div align="center">
-<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
-</div>
-
-<div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/5e4e6f45e715bf4b5054fa289e045ede8dc073c9/.jpg/IconoEpanetV3.png" width="600px">
 </div>
 
-<br>*Universidad Escuela Colombiana de Ingeniería Julio Garavito*
-<br>***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
+</div>
+
+
 
 ## **1.1 Conceptos generales de flujo a presión**
 Descripción de los conceptos generales de los flujos a presión. Definiciones conceptuales de los fundamentos
