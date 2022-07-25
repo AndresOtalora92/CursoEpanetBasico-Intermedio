@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b30a070763c8fdd0debdf2836196f1bbc795673b/.jpg/IconoEpanetV3.png)" width="600px">
-<br>*Universidad Escuela Colombiana de Ingeniería Julio Garavito*
-<br>***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
+*Universidad Escuela Colombiana de Ingeniería Julio Garavito*
+***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
 </div>
 
 ![Imagen 1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b30a070763c8fdd0debdf2836196f1bbc795673b/.jpg/IconoEpanetV3.png)
