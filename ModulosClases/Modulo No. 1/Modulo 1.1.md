@@ -19,10 +19,7 @@ de las paredes que definen las fronteras de la superficie que transporta el flui
 a la presión atmosférica. El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
 una longitud definida generando un gradiente de presión.
 
-$dp/dx=(P2-P1)/L$
-
-
-$\\frac{P2-P1}{L}$
+$dp/dx=\\frac{P2-P1}{L}$
 
 Ecuación 1. Gradiente de presiones en un sistema a presión.
 
