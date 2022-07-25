@@ -38,7 +38,8 @@ una longitud definida generando un gradiente de presión.Por definición el grad
 por la expresión:
 
 <div align="center"> 
-$\frac{dp}{dx}=\frac{\big\left ( P1-P2 \right )}{L}$
+$\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}$
+
 </div>
 
 Ecuación 1. Gradiente de presiones en un sistema a presión.
