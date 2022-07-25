@@ -39,7 +39,7 @@ una longitud definida generando un gradiente de presión.Por definición el grad
 por la expresión:
 
 <div align="center"> 
- <h1>$\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}$ </h1>
+$\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}$ 
 
 </div>
 
