@@ -25,7 +25,7 @@ de las paredes que definen las fronteras de la superficie que transporta el flui
 a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este concepto.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG" width="300px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG" width="400px">
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@ una longitud definida generando un gradiente de presión.Por definición el grad
 por la expresión:
 
 <div align="center">
-$\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}$
+\Huge $\frac{dp}{dx}=\frac{\left ( P1-P2 \right )}{L}$
 </div>
 
 
