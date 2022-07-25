@@ -29,11 +29,13 @@ Figura 1.1 Gradiente de presiones en una tubería con flujo a presión.
 <br>El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
 una longitud definida generando un gradiente de presión.
 
+<div align="center">
+
 $dp/dx=\\frac{P2-P1}{L}$
+<br>Ecuación 1. Gradiente de presiones en un sistema a presión.
+</div>
 
-Ecuación 1. Gradiente de presiones en un sistema a presión.
-
-Por definición el gradiente hidráulico se define por la expresión:
+<br>Por definición el gradiente hidráulico se define por la expresión:
 
 
 - Definición de caudal, velocidad y presión.
