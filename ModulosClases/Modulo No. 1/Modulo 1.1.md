@@ -11,7 +11,20 @@ de la hidráulica, descripción y detalle de las ecuaciones básicas que rigen l
 
 ### Flujo a presión. Definiciones y características.
 
-- Definición de flujo. 
+- Definición de flujo. Flujo a presión.
+
+En téminos simples, el flujo corresponden al movimiento de un fluido con respecto a un sistema inercial dentro de una 
+superficie sólida definida. Un flujo a presión corresponde a un flujo en el cual el fluido cual ocupa la totalidad 
+de las paredes que definen las fronteras de la superficie que transporta el fluido. La presión del fluido es diferente
+a la presión atmosférica. El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
+una longitud definida generando un gradiente de presión.
+
+$\sqrt{3x-1}+(1+x)^2$
+Ecuación 1. Gradiente de presiones en un sistema a presión.
+
+Por definición el gradiente hidráulico se define por la expresión:
+
+
 - Definición de caudal, velocidad y presión.
 - Definición de Viscosidad y rugosidad (agregar gráficos y tablas)
 - Definición de esfuerzo cortante.
