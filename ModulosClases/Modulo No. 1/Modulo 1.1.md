@@ -80,13 +80,14 @@ El esfuerzo cortante corresponde a la fuerza por unidad de área ejercicida por 
 En la siguiente ecuación se presenta una de las formas más comunes para estimar el esfuerzo cortante en función del gradiente hidráulico en un flujo a presión.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion4.PNG" width="600px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion4.PNG" width="200px">
 </div>
 
 Donde, 
-<br> Q: Caudal
-<br>V: Velocidad Media
-<br>A: Área hidráulica de la sección transversal
+<br> \tau: Esfuerzo Cortante
+<br> R: Radio hidráulico. A/P
+<br> P: Perímetro hidráulico.
+<br> Sf: gradiente hidráulico.
 
 
 ### Flujo en tuberías. Usos y aplicaciones de los sistemas a presión.
