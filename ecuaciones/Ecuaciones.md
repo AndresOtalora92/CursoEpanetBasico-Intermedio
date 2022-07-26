@@ -10,5 +10,9 @@ $Q=\int (\vec{V}*dA)$
 $\tau=\gamma *R*S_f$
 </div>
 
+<div align="center"> 
+$R_e=\frac{\rho *\bar{V}*D}{\mu}$
+</div>
+
 
 

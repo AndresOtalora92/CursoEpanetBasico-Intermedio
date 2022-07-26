@@ -68,7 +68,7 @@ En la siguiente tabla se resumen los valores de densidad y viscosidad del agua p
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/ad4cc9e0a958d1a2c3cc79d07e99629ae5374753/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.2.PNG" width="600px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b324f792a527b5eab104f9e9c7fa067ebc0e6fe2/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.2.PNG" width="600px">
 </div>
 
 >Figura 1.2 Densidad y viscosidad del agua[^2].
@@ -89,21 +89,42 @@ Donde,
 <br> P: Perímetro hidráulico.
 <br> Sf: gradiente hidráulico.
 
+###  Número de Reynolds. 
 
-### Flujo en tuberías. Usos y aplicaciones de los sistemas a presión.
+El número de Reynolds corresponde a un número adimensiones (conjunto organizado de variables con dimensiones que generan un resultado adimensional) que permite establecer la relación entre las fuerza generadas por las fuerzas de fricción y las fuerzas inerciales.
+
+Este número permite clasificar el flujo en función de su régimen; clasificación que depende mayormente de la velocidad media del flujo. En la siguiente ecuación se presenta este número adimensional.
+
+
+Como se verá más adelante la magnitud de este número permite clasificar los flujos a presión en flujos laminares, en flujos en transición y en flujos turbulentos.
+
+
+### Régimen de flujo. Flujo laminar, en transición y turbulento.
+
+Descripción y gráficos de los tipos de flujo. Puede tomarse fotos del laboratorio de hidráulica
+
+
+### Flujo en tuberías. Definición, usos y aplicaciones de los sistemas a presión.
+
+
+#### Definición de un sistema hidráulico.
+
+
+#### Consideraciones y limites de un diseño hidráulico en función del caudal, la velocidad, las presiones y el esfuerzo cortante.
+
+
+Como se analizará más adelante en los siguientes módulos, el diseño hidráulico de sistemas de tuberías a presión (trazado y dimensionamiento) depende del caudal que se requiera con el objetivo de cumplir un caudal mínimo demandado en los nodos o puntos de consumo. El diseño de los sistemas hidráulicos se limitan en función de la magnitud de la velocidad, las presiones y el esfuerzo cortante tanto en los tramos de tuberías como en lo nodos. 
+
+Los límites mínimos y máximos de estas variables generalmente están definidos por el criterio y la experiencia del diseñador, el cumplimiento de normas o recomendaciones de referencia bibliográficas y el límite definido por la resistencia de los materiales que conforman las tuberías y accesorios. 
+
+#### Usos y aplicaciones.
 
 - Sistemas de riego (agregar gráfico y descripción)
 - Acueductos (agregar gráfico y descripción)
 - Redes hidrosanitarias (agregar gráfico y descripción)
 
 
-### Régimen de flujo. Flujo laminar y turbulento.
 
-Descripción y gráficos de los tipos de flujo. Puede tomarse fotos del laboratorio de hidráulica
-
-###  Número de Reynolds. 
-
--Definición del número de Reynold
 
 ### Tipos de redes. Descripción.
 
