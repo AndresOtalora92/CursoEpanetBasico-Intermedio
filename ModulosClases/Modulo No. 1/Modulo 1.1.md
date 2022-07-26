@@ -12,17 +12,13 @@
 
 
 ## **1.1 Conceptos generales de flujo a presión**
-Descripción de los conceptos generales de los flujos a presión. Definiciones conceptuales de los fundamentos
-de la hidráulica, descripción y detalle de las ecuaciones básicas que rigen los sistemas presurizados. 
+En el presente capítulo se describen algunos conceptos generales relacionados con el flujo en los sistemas a presión. Se definen algunos conceptos fundamentales de la hidráulica a presión que el lector debe conocer o recordar antes de iniciar los siguientes capítulos. Es importante que el estudiante tenga bases conceptuales con el propósito de que pueda entender las diferentes variables de entrada del modelo hidráulico y que tenga la capacidad de analizar cualitativa y cuantitativamente los resultados.
 
 ### Flujo a presión. Definiciones y características.
 
 - Definición de flujo. Flujo a presión.
 
-En téminos simples, el flujo corresponden al movimiento de un fluido con respecto a un sistema inercial dentro de una 
-superficie sólida definida. Un flujo a presión corresponde a un flujo en el cual el fluido cual ocupa la totalidad 
-de las paredes que definen las fronteras de la superficie que transporta el fluido. La presión del fluido es diferente
-a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este concepto.
+El flujo corresponde al movimiento de un fluido con respecto a un sistema inercial dentro de una  superficie sólida definida. Un flujo a presión corresponde a un flujo en el cual el fluido ocupa la totalidad de las paredes o fronteras de la superficie que contiene el fluido. Por definición un flujo a presión presenta presiones distintas a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este concepto.
 
 <div align="center">
 
@@ -31,9 +27,7 @@ a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este conc
 
 >Figura 1.1 Gradiente de presiones en una tubería con flujo a presión[^1].
 
-<br>El flujo en un sistema a presión se genera por la diferencia de presiones entre dos puntos en
-una longitud definida generando un gradiente de presión.Por definición el gradiente hidráulico se define 
-por la expresión:
+<br>El flujo en un sistema se genera por la diferencia de presiones entre dos puntos en una longitud definida. La diferencia de presión genera un gradiente hidráulico.Por definición, el gradiente hidráulico se define por la expresión:
 
 <div align="center">
 
@@ -44,12 +38,9 @@ por la expresión:
 
 - Definición de caudal.
 
-El caudal corresponde a la cantidad de fluido en unidades de volumen
-que pasa por una sección transversal en una unidad de tiempo. 
-Generalmente el caudal es expresado en m³/s, L/s o ft³/s.
+El caudal corresponde a la cantidad de fluido, en unidades de volumen, que atraviesa por una sección transversal en una unidad de tiempo. En general la unidades del caudal se expresan en m³/s, L/s o ft³/s.
 
-Es posible expresar el caudal asumiendo en función de la velocidad
-media del flujo, así:
+Si se asume que la velocidad del flujo en toda la sección transveral es la misma y que corresponde a una velocidad media, el caudal se define así:
 
 <div align="center">
 Q = V * A
@@ -60,7 +51,7 @@ Donde,
 <br>V: Velocidad Media
 <br>A: Área hidráulica de la sección transversal
 
-Si se tiene en cuenta el perfil de velocidades real en una sección transversakl es posible determinar el caudal aplicando su definición a partir del concepto de integral, así:
+Si se tiene en cuenta el perfil de velocidades real en una sección transversal el caudal se define aplicando el concepto de integral, así:
 
 <div align="center">
 
@@ -69,9 +60,9 @@ Si se tiene en cuenta el perfil de velocidades real en una sección transversakl
 </div>
 
 - Definición de densidad y Viscosidad.
-La densidad corresponde al peso en unidades de masa por unidad de volumen. En los fluidos líquidos, la densidad de los fluidos aumenta al reducirse la temperatura. 
+La densidad corresponde al peso, en unidades de masa, por unidad de volumen. En los fluidos líquidos, la densidad de los fluidos aumenta a medida que disminuye la temperatura. 
 
-La viscosidad corresponde a la propiedad intrínseca de los fluidos a impedir el movimiento o su "fluidez". En los fluidos líquidos, la viscosdidad de los fluidos aumenta al reducirse la temperatura. 
+La viscosidad a un efecto de la resistencia molecular de las partículas a impedir su movimiento adhiriendose a las paredes de la supeficie. La viscosidad en términos  a impedir el movimiento o su "fluidez". En los fluidos líquidos, la viscosdidad de los fluidos aumenta al reducirse la temperatura. 
 
 En la siguiente tabla se resumen los valores de densidad y viscosidad del agua para diferentes temperatura en Sistema Internacional y Sistema Inglés.
 
@@ -83,6 +74,20 @@ En la siguiente tabla se resumen los valores de densidad y viscosidad del agua p
 >Figura 1.2 Densidad y viscosidad del agua[^2].
 
 - Definición de esfuerzo cortante.
+
+El esfuerzo cortante corresponde a la fuerza por unidad de área ejercicida por un flujo (fluido en movimiento) en las paredes de la superficie que lo contiene. El esfuerzo cortante es proporcional a la magnitud de la viscosidad del fluido.
+
+En la siguiente ecuación se presenta una de las formas más comunes para estimar el esfuerzo cortante en función del gradiente hidráulico en un flujo a presión.
+
+<div align="center">
+Q = V * A
+</div>
+
+Donde, 
+<br> Q: Caudal
+<br>V: Velocidad Media
+<br>A: Área hidráulica de la sección transversal
+
 
 ### Flujo en tuberías. Usos y aplicaciones de los sistemas a presión.
 
