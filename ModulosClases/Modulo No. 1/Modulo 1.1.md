@@ -113,9 +113,11 @@ Reynolds desarrollo un ensayo simple utilizando un sistema hidráulico compuesto
  
 A partir de los rangos definidos por Reynolds, se tiene que:
 
-1. Flujo Laminar (Re<2200): El flujo se mueve en capas sin intercambio de cantidad de movimiento entre las partículas y sin componentes perpendiculares de la velocidad. 
-2. Flujo en transición (2200<Re<4000): Condición intermedia, en el cual el flujo se desarrolla, pasando entre el flujo laminar y el flujo en transición o viceversa. Existen zona donde el flujo es organizado y zona donde el flujo es errático.
-3. Flujo turbulento (Re>4000):El flujo se mueve de manera errática, con intercambio de cantidad de movimiento entre las partículas y con presencia de componentes de velocidad en todas las direcciones.
+<b> 1. Flujo Laminar (Re<2200):</b> El flujo se mueve en capas sin intercambio de cantidad de movimiento entre las partículas y sin componentes perpendiculares de la velocidad. 
+
+</br><b>2. Flujo en transición (2200<Re<4000): </b> Condición intermedia, en el cual el flujo se desarrolla, pasando entre el flujo laminar y el flujo en transición o viceversa. Existen zona donde el flujo es organizado y zona donde el flujo es errático.
+
+</br><b>3. Flujo turbulento (Re>4000): </b> El flujo se mueve de manera errática, con intercambio de cantidad de movimiento entre las partículas y con presencia de componentes de velocidad en todas las direcciones.
 
 En la siguiente figura se presenta una representación esquemática del experimento de Reynolds para cada uno de los tres régimen de flujo.
 
@@ -126,12 +128,10 @@ En la siguiente figura se presenta una representación esquemática del experime
 
 ### Redes hidráulicas. Definición, usos y aplicaciones de los sistemas a presión.
 
-
 #### Definición de red de drenaje.
+Una red de drenaje corresponde a la disposición de tuberías y accesorios hidráulicos cuyo objetivo corresponde al transporte y disposición un fluido para cumplir las demandas en puntos particulares.
 
-
-#### Consideraciones y limites de un diseño hidráulico en función del caudal, la velocidad, las presiones y el esfuerzo cortante.
-
+#### Consideraciones y limites de un diseño hidráulico una red de drenaje en función del caudal, la velocidad, las presiones y el esfuerzo cortante.
 
 Como se analizará más adelante en los siguientes módulos, el diseño hidráulico de sistemas de tuberías a presión (trazado y dimensionamiento) depende del caudal que se requiera con el objetivo de cumplir un caudal mínimo demandado en los nodos o puntos de consumo. El diseño de los sistemas hidráulicos se limitan en función de la magnitud de la velocidad, las presiones y el esfuerzo cortante tanto en los tramos de tuberías como en lo nodos. 
 
@@ -139,6 +139,7 @@ Los límites mínimos y máximos de estas variables generalmente están definido
 
 #### Usos y aplicaciones.
 
+Son muchas las aplicaciones de las redes hidráulica de flujos a presión. Entre los más importantes se puede
 - Sistemas de riego (agregar gráfico y descripción)
 - Acueductos (agregar gráfico y descripción)
 - Redes hidrosanitarias (agregar gráfico y descripción)
@@ -148,9 +149,8 @@ Los límites mínimos y máximos de estas variables generalmente están definido
 
 ### Tipos de redes. Descripción.
 
-- Definición de red.
-- Concepto muy básico de redes abiertas (este tema se manejará en el módulo 3).
-- Concepto muy básico de redes cerradas (este tema se manejará en el módulo 3).
+- Concepto muy básico de redes abiertas (este tema se manejará en el módulo 3,agregar gráfico).
+- Concepto muy básico de redes cerradas (este tema se manejará en el módulo 3,agregar gráfico).
 
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión.
