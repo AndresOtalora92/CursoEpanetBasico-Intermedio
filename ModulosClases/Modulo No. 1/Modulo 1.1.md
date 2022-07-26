@@ -100,19 +100,29 @@ Este número permite clasificar el flujo en función de su régimen; clasificaci
 </div>
 
 Donde, 
-<br> $\mu$: Esfuerzo Cortante
+<br> $\tau$: Esfuerzo Cortante
 <br> R: Radio hidráulico. A/P
 <br> P: Perímetro hidráulico.
 <br> Sf: gradiente hidráulico.
 
+Este número adimensional desarrollado por Osborne Reynolds, tal como se verá más adelante permite clasificar los flujos a presión en flujos laminares, en flujos en transición y en flujos turbulentos.
 
-Como se verá más adelante la magnitud de este número permite clasificar los flujos a presión en flujos laminares, en flujos en transición y en flujos turbulentos.
-
+Reynolds desarrollo un ensayo simple utilizando un sistema hidráulico compuesto por un tanque de nivel constante, una tubería lisa y una válvula en la salida del sistema. A partir de la inyección de tinta en la tubería y realizando una revisión visual del cambio en el comportamiento filamente de la tinta en el agua, Reynolds determinó diferentes intervalos que clasifican el régimen de fluo en laminar, en transición y turbulento. 
 
 ### Régimen de flujo. Flujo laminar, en transición y turbulento.
+ 
+A partir de los rangos definidos por Reynolds, se tiene que:
 
-Descripción y gráficos de los tipos de flujo. Puede tomarse fotos del laboratorio de hidráulica
+1. Flujo Laminar (Re<2200): El flujo se mueve en capas sin intercambio de cantidad de movimiento entre las partículas y sin componentes perpendiculares de la velocidad. 
+2. Flujo en transición (2200<Re<4000): Condición intermedia, en el cual el flujo se desarrolla, pasando entre el flujo laminar y el flujo en transición o viceversa. Existen zona donde el flujo es organizado y zona donde el flujo es errático.
+3. Flujo turbulento (Re>4000):El flujo se mueve de manera errática, con intercambio de cantidad de movimiento entre las partículas y con presencia de componentes de velocidad en todas las direcciones.
 
+En la siguiente figura se presenta una representación esquemática del experimento de Reynolds para cada uno de los tres régimen de flujo.
+
+
+<div align="center">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/cb4d3c1ade36c790faa5e87fa5f849da3e4e51de/ecuaciones/Ecuacion5.PNG" width="200px">
+</div>
 
 ### Flujo en tuberías. Definición, usos y aplicaciones de los sistemas a presión.
 
