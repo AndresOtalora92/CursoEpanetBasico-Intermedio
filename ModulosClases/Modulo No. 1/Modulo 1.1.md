@@ -55,7 +55,7 @@ Si se tiene en cuenta el perfil de velocidades real en una sección transversal 
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/22a451dbc2a653b78f63f4bd4c9898dd1cc2417d/ecuaciones/Ecuacion2.PNG" width="100px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion3.PNG" width="100px">
 
 </div>
 
@@ -80,7 +80,7 @@ El esfuerzo cortante corresponde a la fuerza por unidad de área ejercicida por 
 En la siguiente ecuación se presenta una de las formas más comunes para estimar el esfuerzo cortante en función del gradiente hidráulico en un flujo a presión.
 
 <div align="center">
-Q = V * A
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion4.PNG" width="600px">
 </div>
 
 Donde, 
