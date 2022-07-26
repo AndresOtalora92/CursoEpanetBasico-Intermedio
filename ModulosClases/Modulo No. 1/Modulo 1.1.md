@@ -43,7 +43,7 @@ El caudal corresponde a la cantidad de fluido, en unidades de volumen, que atrav
 Si se asume que la velocidad del flujo en toda la sección transveral es la misma y que corresponde a una velocidad media, el caudal se define así:
 
 <div align="center">
-Q = V * A
+<b> Q = V * A </b>
 </div>
 
 Donde, 
@@ -55,7 +55,7 @@ Si se tiene en cuenta el perfil de velocidades real en una sección transversal 
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion3.PNG" width="100px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion3.PNG" width="200px">
 
 </div>
 
@@ -124,10 +124,10 @@ En la siguiente figura se presenta una representación esquemática del experime
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/a034c28cfd68cf4cca1b0e7565e40ac925cf0a76/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.3.PNG" width="200px">
 </div>
 
-### Flujo en tuberías. Definición, usos y aplicaciones de los sistemas a presión.
+### Redes hidráulicas. Definición, usos y aplicaciones de los sistemas a presión.
 
 
-#### Definición de un sistema hidráulico.
+#### Definición de red de drenaje.
 
 
 #### Consideraciones y limites de un diseño hidráulico en función del caudal, la velocidad, las presiones y el esfuerzo cortante.
