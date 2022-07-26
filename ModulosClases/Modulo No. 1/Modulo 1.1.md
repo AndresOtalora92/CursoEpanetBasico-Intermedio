@@ -96,11 +96,11 @@ El número de Reynolds corresponde a un número adimensiones (conjunto organizad
 Este número permite clasificar el flujo en función de su régimen; clasificación que depende mayormente de la velocidad media del flujo. En la siguiente ecuación se presenta este número adimensional.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion4.PNG" width="150px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/cb4d3c1ade36c790faa5e87fa5f849da3e4e51de/ecuaciones/Ecuacion5.PNG" width="200px">
 </div>
 
 Donde, 
-<br> tau: Esfuerzo Cortante
+<br> $\mu$: Esfuerzo Cortante
 <br> R: Radio hidráulico. A/P
 <br> P: Perímetro hidráulico.
 <br> Sf: gradiente hidráulico.
