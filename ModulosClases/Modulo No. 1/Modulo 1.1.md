@@ -80,11 +80,11 @@ El esfuerzo cortante corresponde a la fuerza por unidad de área ejercicida por 
 En la siguiente ecuación se presenta una de las formas más comunes para estimar el esfuerzo cortante en función del gradiente hidráulico en un flujo a presión.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion4.PNG" width="200px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion4.PNG" width="150px">
 </div>
 
 Donde, 
-<br> \tau: Esfuerzo Cortante
+<br> tau: Esfuerzo Cortante
 <br> R: Radio hidráulico. A/P
 <br> P: Perímetro hidráulico.
 <br> Sf: gradiente hidráulico.
@@ -94,6 +94,16 @@ Donde,
 El número de Reynolds corresponde a un número adimensiones (conjunto organizado de variables con dimensiones que generan un resultado adimensional) que permite establecer la relación entre las fuerza generadas por las fuerzas de fricción y las fuerzas inerciales.
 
 Este número permite clasificar el flujo en función de su régimen; clasificación que depende mayormente de la velocidad media del flujo. En la siguiente ecuación se presenta este número adimensional.
+
+<div align="center">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion4.PNG" width="150px">
+</div>
+
+Donde, 
+<br> tau: Esfuerzo Cortante
+<br> R: Radio hidráulico. A/P
+<br> P: Perímetro hidráulico.
+<br> Sf: gradiente hidráulico.
 
 
 Como se verá más adelante la magnitud de este número permite clasificar los flujos a presión en flujos laminares, en flujos en transición y en flujos turbulentos.
