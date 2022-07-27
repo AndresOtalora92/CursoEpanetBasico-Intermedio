@@ -146,15 +146,24 @@ Son muchas las aplicaciones de las redes hidráulica de flujos a presión. Entre
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
+<div align="center">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.4.PNG" width="400px">
+</div>
+
 - Acueductos: Corresponde a la red que permite el transporte de agua potable desde una fuente hasta la población. En general, las fuentes de abastecimiento de los acueductos corresponde a embalses, ríos o pozos. 
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
+
+ <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.5.PNG" width="400px">
+</div>
 
 - Redes hidrosanitarias y contraincendios:
 Las redes hidrosanitarias de acueducto corresponden a las redes internas de las edificaciones, viviendas familiares, fábricas, estructuras comerciales, etc, que transportan el agua potable desde la red principal o secundaria del acueducto a los accesorios hidrosanitarios tales como grifos, cisternas, lavamanos, etc.
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
+<img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.6.PNG" width="400px">
+</div>
 
 ### Tipos de redes. Descripción.
 
