@@ -125,7 +125,7 @@ En la siguiente figura se presenta una representación esquemática del experime
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/a034c28cfd68cf4cca1b0e7565e40ac925cf0a76/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.3.PNG" width="400px">
 </div>
-aaaa
+
 
 ### Redes hidráulicas. Definición, usos y aplicaciones de los sistemas a presión.
 
@@ -155,6 +155,7 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
+<div align="center">
  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.5.PNG" width="400px">
 </div>
 
@@ -163,7 +164,8 @@ Las redes hidrosanitarias de acueducto corresponden a las redes internas de las 
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
-<img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.6.PNG" width="400px">
+<div align="center">
+    <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.6.PNG" width="400px">
 </div>
 
 ### Tipos de redes. Descripción.
