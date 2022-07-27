@@ -146,11 +146,12 @@ Son muchas las aplicaciones de las redes hidráulica de flujos a presión. Entre
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
-- Acueductos: Corresponde a la red que permite el transporte de agua potable a la población. El inicio de los acuectos generalmente corresponde a embalse, río o pozos. 
+- Acueductos: Corresponde a la red que permite el transporte de agua potable desde una fuente hasta la población. En general, las fuentes de abastecimiento de los acueductos corresponde a embalses, ríos o pozos. 
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
-- Redes hidrosanitarias:
+- Redes hidrosanitarias y contraincendios:
+Las redes hidrosanitarias de acueducto corresponden a las redes internas de las edificaciones, viviendas familiares, fábricas, estructuras comerciales, etc, que transportan el agua potable desde la red principal o secundaria del acueducto a los accesorios hidrosanitarios tales como grifos, cisternas, lavamanos, etc.
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
