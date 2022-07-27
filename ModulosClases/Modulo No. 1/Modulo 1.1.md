@@ -125,6 +125,7 @@ En la siguiente figura se presenta una representación esquemática del experime
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/a034c28cfd68cf4cca1b0e7565e40ac925cf0a76/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.3.PNG" width="400px">
 </div>
+aaaa
 
 ### Redes hidráulicas. Definición, usos y aplicaciones de los sistemas a presión.
 
