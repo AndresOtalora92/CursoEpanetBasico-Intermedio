@@ -156,8 +156,10 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
- <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.5.PNG" width="400px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.5.PNG" width="400px">
 </div>
+
+
 
 - Redes hidrosanitarias y contraincendios:
 Las redes hidrosanitarias de acueducto corresponden a las redes internas de las edificaciones, viviendas familiares, fábricas, estructuras comerciales, etc, que transportan el agua potable desde la red principal o secundaria del acueducto a los accesorios hidrosanitarios tales como grifos, cisternas, lavamanos, etc.
