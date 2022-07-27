@@ -128,6 +128,7 @@ En la siguiente figura se presenta una representación esquemática del experime
 
 ### Redes hidráulicas. Definición, usos y aplicaciones de los sistemas a presión.
 
+
 #### Definición de red de drenaje.
 Una red de drenaje corresponde a la disposición de tuberías y accesorios hidráulicos cuyo objetivo corresponde al transporte y disposición un fluido para cumplir las demandas en puntos particulares.
 
@@ -139,12 +140,19 @@ Los límites mínimos y máximos de estas variables generalmente están definido
 
 #### Usos y aplicaciones.
 
-Son muchas las aplicaciones de las redes hidráulica de flujos a presión. Entre los más importantes se puede
-- Sistemas de riego (agregar gráfico y descripción)
-- Acueductos (agregar gráfico y descripción)
-- Redes hidrosanitarias (agregar gráfico y descripción)
+Son muchas las aplicaciones de las redes hidráulica de flujos a presión. Entre los más importantes se pueden destacar los siguientes:
 
+- Sistemas de riego: Corresponde a los sistemas de tuberías que permite el transporte y riego de las zonas de cultivo. El trazado y disposición de esta red generalmente se debe adaptar a la distribución de los cultivos en las parcelas, fincas y predios. La red permite el transporte del flujo de manera controlada, tanto en tiempo como en cantidad, pemitiendo una riego adecuado para el crecimiento óptimo de las plantas. 
 
+En la siguiente imagen se presenta un ejemplo de estas redes.
+
+- Acueductos: Corresponde a la red que permite el transporte de agua potable a la población. El inicio de los acuectos generalmente corresponde a embalse, río o pozos. 
+
+En la siguiente imagen se presenta un ejemplo de estas redes.
+
+- Redes hidrosanitarias:
+
+En la siguiente imagen se presenta un ejemplo de estas redes.
 
 
 ### Tipos de redes. Descripción.
