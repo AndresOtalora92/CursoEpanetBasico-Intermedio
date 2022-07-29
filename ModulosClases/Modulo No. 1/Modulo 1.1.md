@@ -145,7 +145,7 @@ Son muchas las aplicaciones de las redes hidráulica de flujos a presión. Entre
 
 - Sistemas de riego: Corresponde a los sistemas de tuberías que permite el transporte y riego de las zonas de cultivo. El trazado y disposición de esta red generalmente se debe adaptar a la distribución de los cultivos en las parcelas, fincas y predios. La red permite el transporte del flujo de manera controlada, tanto en tiempo como en cantidad, pemitiendo una riego adecuado para el crecimiento óptimo de las plantas. 
 
-En la siguiente imagen se presenta un ejemplo de estas redes.
+En la siguiente imagen se presenta un ejemplo de estas redes..
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.4.PNG" width="400px">
