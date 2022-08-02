@@ -43,7 +43,9 @@ El caudal corresponde a la cantidad de fluido, en unidades de volumen, que atrav
 Si se asume que la velocidad del flujo en toda la sección transveral es la misma y que corresponde a una velocidad media, el caudal se define así:
 
 <div align="center">
-<b> Q = V * A </b>
+
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/afab8848680381d32398accb9c7a3e528da39c4e/ecuaciones/Ecuacion6.PNG" width="200px">
+
 </div>
 
 Donde, 
