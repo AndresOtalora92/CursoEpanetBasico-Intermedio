@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Submódulo 1.1. 
+# Curso de Epanet - Módulo 1 - Concepto generales de flujo a presión. 
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/5e4e6f45e715bf4b5054fa289e045ede8dc073c9/.jpg/IconoEpanetV3.png" width="600px">
@@ -11,7 +11,7 @@
 
 
 
-## **1.1 Conceptos generales de flujo a presión**
+## **Conceptos generales de flujo a presión**
 En el presente capítulo se describen algunos conceptos generales relacionados con el flujo en los sistemas a presión. Se definen algunos conceptos fundamentales de la hidráulica a presión que el lector debe conocer o recordar antes de iniciar los siguientes capítulos. Es importante que el estudiante tenga bases conceptuales con el propósito de que pueda entender las diferentes variables de entrada del modelo hidráulico y que tenga la capacidad de analizar cualitativa y cuantitativamente los resultados.
 
 ### Flujo a presión. Definiciones y características.

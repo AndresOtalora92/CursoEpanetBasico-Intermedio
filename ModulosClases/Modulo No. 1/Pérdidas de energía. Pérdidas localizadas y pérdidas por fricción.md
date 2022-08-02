@@ -1,11 +1,11 @@
-# Curso de Epanet - Módulo 1 - Submódulo 1.3. 
+# Curso de Epanet - Módulo 1 - Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción. 
 ![Imagen 1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b30a070763c8fdd0debdf2836196f1bbc795673b/.jpg/IconoEpanetV3.png)
 
 *Universidad Escuela Colombiana de Ingeniería Julio Garavito*
 
 ***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
 
-## **1.3 Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción**
+## **Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción**
 Descripción de las pérdidas de energía localizadas utilizando la ecuación de Darcy - Weisbach. Revisión de
 los coeficientes de rugosidad de las tuberías. Análisis de las ecuación de pérdidas localizadas. Revisión
 de coeficientes de pérdidas localizadas.

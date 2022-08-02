@@ -5,7 +5,7 @@
 
 ***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
 
-## **1.3 Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción**
+## **Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción**
 Descripción de las pérdidas de energía localizadas utilizando la ecuación de Darcy - Weisbach. Revisión de
 los coeficientes de rugosidad de las tuberías. Análisis de las ecuación de pérdidas localizadas. Revisión
 de coeficientes de pérdidas localizadas.
