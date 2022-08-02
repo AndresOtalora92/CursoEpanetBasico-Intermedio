@@ -14,5 +14,8 @@ $\tau=\gamma *R*S_f$
 $R_e=\frac{\rho *\bar{V}*D}{\mu}$
 </div>
 
+<div align="center"> 
+$Q= V*A$
+</div>
 
 
