@@ -143,15 +143,15 @@ Los límites mínimos y máximos de estas variables generalmente están definido
 
 Son muchas las aplicaciones de las redes hidráulica de flujos a presión. Entre los más importantes se pueden destacar los siguientes:
 
-- Sistemas de riego: Corresponde a los sistemas de tuberías que permite el transporte y riego de las zonas de cultivo. El trazado y disposición de esta red generalmente se debe adaptar a la distribución de los cultivos en las parcelas, fincas y predios. La red permite el transporte del flujo de manera controlada, tanto en tiempo como en cantidad, pemitiendo una riego adecuado para el crecimiento óptimo de las plantas. 
+<b>- Sistemas de riego:</b> Corresponde a los sistemas de tuberías que permite el transporte y riego de las zonas de cultivo. El trazado y disposición de esta red generalmente se debe adaptar a la distribución de los cultivos en las parcelas, fincas y predios. La red permite el transporte del flujo de manera controlada, tanto en tiempo como en cantidad, pemitiendo una riego adecuado para el crecimiento óptimo de las plantas. 
 
-En la siguiente imagen se presenta un ejemplo de estas redes..
+En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.4.PNG" width="400px">
 </div>
 
-- Acueductos: Corresponde a la red que permite el transporte de agua potable desde una fuente hasta la población. En general, las fuentes de abastecimiento de los acueductos corresponde a embalses, ríos o pozos. 
+<b>- Acueductos:</b> Corresponde a la red que permite el transporte de agua potable desde una fuente hasta la población. En general, las fuentes de abastecimiento de los acueductos corresponde a embalses, ríos o pozos. 
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
@@ -161,7 +161,7 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 
 
 
-- Redes hidrosanitarias y contraincendios:
+<b> - Redes hidrosanitarias y contraincendios </b>:
 Las redes hidrosanitarias de acueducto corresponden a las redes internas de las edificaciones, viviendas familiares, fábricas, estructuras comerciales, etc, que transportan el agua potable desde la red principal o secundaria del acueducto a los accesorios hidrosanitarios tales como grifos, cisternas, lavamanos, etc.
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
@@ -172,9 +172,15 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 
 ### Tipos de redes. Descripción.
 
-- Concepto muy básico de redes abiertas (este tema se manejará en el módulo 3,agregar gráfico).
-- Concepto muy básico de redes cerradas (este tema se manejará en el módulo 3,agregar gráfico).
+Los sistemas y redes que utilizan flujo a presiones pueden clasificarse según la distribución especial de los elementos que componen una red hidráulica (nodos, accesorias y tuberías). Es común clasificar las redes como: redes abiertas y redes cerradas.
 
+</br><b> Red cerrada: </b> Una red cerrada corresponde un sistema hidráulico compuesto por tuberías las cuales crean una matriz cerrada, donde el flujo podría recircular desde su punto de inicio hasta su punto final. 
+
+En la siguiente imagen se presenta un ejemplo de un sistema de una red cerrada.
+
+</br><b> Red abierta: </b> Una red abierta, como su nombre lo indica corresponden a las redes en los cuales los caudales pueden salir del sistema en un nodo. En una red abierta no existen lo bluces o mallas cerradas. El caudal del punto de inicio nunca llegará completo al nodo final. 
+
+En la siguiente imagen se presenta un ejemplo de un sistema de una red abierta.
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión.
 [^2]: Frank M. White. Mecanica De Fluidos (2020)
