@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Generado por Microsoft Visio, SVG Export DiagramasCursoA.svg Page-1 -->
+<!-- Generado por Microsoft Visio, SVG Export DiagramasCursob.svg Page-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.24803in" height="10.5in"
-		viewBox="0 0 521.858 756" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.4828in" height="7.77592in"
+		viewBox="0 0 466.761 559.866" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
 	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
 			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
@@ -41,7 +41,7 @@
 				v:shadowOffsetY="-8.50394"/>
 		<v:layer v:name="Connector" v:index="0"/>
 		<v:layer v:name="Flowchart" v:index="1"/>
-		<g id="shape236-1" v:mID="236" v:groupContext="shape" transform="translate(211.868,-629.291)">
+		<g id="shape236-1" v:mID="236" v:groupContext="shape" transform="translate(182.896,-517.689)">
 			<title>Rounded Rectangle.236</title>
 			<desc>CURSO DE EPANET. USO Y APLICACIONES.</desc>
 			<v:userDefs>
@@ -59,12 +59,12 @@
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="744.661" width="95.84" height="22.6772"/>
-			<path d="M11.34 756 L84.5 756 A11.3384 11.3384 -180 0 0 95.84 744.66 A11.3384 11.3384 -180 0 0 84.5 733.32 L11.34 733.32
-						 A11.3384 11.3384 -180 0 0 0 744.66 A11.3384 11.3384 -180 0 0 11.34 756 Z" class="st1"/>
-			<text x="4.34" y="742.26" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>CURSO DE EPANET. USO <tspan
+			<v:textRect cx="47.9196" cy="548.528" width="95.84" height="22.6772"/>
+			<path d="M11.34 559.87 L84.5 559.87 A11.3384 11.3384 -180 0 0 95.84 548.53 A11.3384 11.3384 -180 0 0 84.5 537.19 L11.34
+						 537.19 A11.3384 11.3384 -180 0 0 0 548.53 A11.3384 11.3384 -180 0 0 11.34 559.87 Z" class="st1"/>
+			<text x="4.34" y="546.13" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>CURSO DE EPANET. USO <tspan
 						x="17.22" dy="1.2em" class="st3">Y APLICACIONES. </tspan> </text>		</g>
-		<g id="shape278-5" v:mID="278" v:groupContext="shape" transform="translate(48.4724,-556.299)">
+		<g id="shape278-5" v:mID="278" v:groupContext="shape" transform="translate(19.4997,-444.697)">
 			<title>Rounded Rectangle.278</title>
 			<desc>MODULO - 1 CONCEPTOS DE HIDRÁULICA A PRESIÓN</desc>
 			<v:userDefs>
@@ -86,21 +86,21 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="24.01" y="724.16" class="st4" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>MODULO - 1 <v:newlineChar/><tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="24.01" y="528.02" class="st4" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>MODULO - 1 <v:newlineChar/><tspan
 						x="18.35" dy="1.2em" class="st3">CONCEPTOS DE </tspan><tspan x="19.78" dy="1.2em" class="st3">HIDRÁULICA A </tspan><tspan
 						x="31.02" dy="1.2em" class="st3">PRESIÓN</tspan></text>		</g>
-		<g id="shape279-11" v:mID="279" v:groupContext="shape" v:layerMember="0" transform="translate(211.868,-640.63)">
+		<g id="shape279-11" v:mID="279" v:groupContext="shape" v:layerMember="0" transform="translate(182.896,-529.028)">
 			<title>Dynamic connector</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 756 L-93.15 756 A22.3228 22.3228 -180 0 0 -115.48 778.32 L-115.48 796.28" class="st5"/>
+			<path d="M0 559.87 L-93.15 559.87 A22.3228 22.3228 -180 0 0 -115.48 582.19 L-115.48 600.15" class="st5"/>
 		</g>
-		<g id="shape281-17" v:mID="281" v:groupContext="shape" transform="translate(211.868,-556.299)">
+		<g id="shape281-17" v:mID="281" v:groupContext="shape" transform="translate(182.896,-444.697)">
 			<title>Rounded Rectangle.281</title>
 			<desc>MODULO - 2 USO Y APLICACIÓN DE EPANET BÁSICO</desc>
 			<v:userDefs>
@@ -122,13 +122,13 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 -0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="24.01" y="728.96" class="st4" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>MODULO - 2<v:newlineChar/><tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 -0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="24.01" y="532.82" class="st4" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>MODULO - 2<v:newlineChar/><tspan
 						x="5.09" dy="1.2em" class="st3">USO Y APLICACIÓN DE </tspan><tspan x="17.37" dy="1.2em" class="st3">EPANET BÁSICO</tspan></text>		</g>
-		<g id="shape282-22" v:mID="282" v:groupContext="shape" transform="translate(380.395,-556.299)">
+		<g id="shape282-22" v:mID="282" v:groupContext="shape" transform="translate(351.423,-444.697)">
 			<title>Rounded Rectangle.282</title>
 			<desc>MODULO - 3 USO Y APLICACIÓN DE EPANET INTERMEDIO</desc>
 			<v:userDefs>
@@ -150,27 +150,27 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 -0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="24.01" y="728.96" class="st4" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>MODULO - 3<v:newlineChar/><tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 -0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="24.01" y="532.82" class="st4" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>MODULO - 3<v:newlineChar/><tspan
 						x="5.09" dy="1.2em" class="st3">USO Y APLICACIÓN DE </tspan><tspan x="7.07" dy="1.2em" class="st3">EPANET INTERMEDIO</tspan></text>		</g>
-		<g id="shape283-27" v:mID="283" v:groupContext="shape" v:layerMember="0" transform="translate(252.701,-629.291)">
+		<g id="shape283-27" v:mID="283" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-517.689)">
 			<title>Dynamic connector.283</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 784.94" class="st5"/>
+			<path d="M7.09 559.87 L7.09 588.81" class="st5"/>
 		</g>
-		<g id="shape284-32" v:mID="284" v:groupContext="shape" v:layerMember="0" transform="translate(307.708,-640.63)">
+		<g id="shape284-32" v:mID="284" v:groupContext="shape" v:layerMember="0" transform="translate(278.735,-529.028)">
 			<title>Dynamic connector.284</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 756 L98.28 756 A22.3228 22.3228 0 0 1 120.61 778.32 L120.61 796.28" class="st5"/>
+			<path d="M0 559.87 L98.28 559.87 A22.3228 22.3228 0 0 1 120.61 582.19 L120.61 600.15" class="st5"/>
 		</g>
-		<g id="shape286-37" v:mID="286" v:groupContext="shape" transform="translate(48.4724,-485.433)">
+		<g id="shape286-37" v:mID="286" v:groupContext="shape" transform="translate(19.4997,-373.831)">
 			<title>Rounded Rectangle.286</title>
 			<desc>Conceptos generales de flujo a presión</desc>
 			<v:userDefs>
@@ -192,13 +192,13 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="5.52" y="733.76" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conceptos generales de <tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="5.52" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conceptos generales de <tspan
 						x="22.79" dy="1.2em" class="st3">flujo a presión</tspan></text>		</g>
-		<g id="shape287-41" v:mID="287" v:groupContext="shape" transform="translate(48.4724,-414.567)">
+		<g id="shape287-41" v:mID="287" v:groupContext="shape" transform="translate(19.4997,-302.965)">
 			<title>Rounded Rectangle.287</title>
 			<desc>Conservación de la energía</desc>
 			<v:userDefs>
@@ -220,13 +220,13 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="14.64" y="733.76" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conservación de la <tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="14.64" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conservación de la <tspan
 						x="34.72" dy="1.2em" class="st3">energía</tspan></text>		</g>
-		<g id="shape288-45" v:mID="288" v:groupContext="shape" transform="translate(48.4724,-343.701)">
+		<g id="shape288-45" v:mID="288" v:groupContext="shape" transform="translate(19.4997,-232.098)">
 			<title>Rounded Rectangle.288</title>
 			<desc>Pérdidas de energía. Pérdidas localizadas y pérdidas por fric...</desc>
 			<v:userDefs>
@@ -248,13 +248,13 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="12.08" y="728.96" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Pérdidas de energía. <tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="12.08" y="532.82" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Pérdidas de energía. <tspan
 						x="9.59" dy="1.2em" class="st3">Pérdidas localizadas y </tspan><tspan x="11.51" dy="1.2em" class="st3">pérdidas por fricción</tspan></text>		</g>
-		<g id="shape289-50" v:mID="289" v:groupContext="shape" transform="translate(48.4724,-272.835)">
+		<g id="shape289-50" v:mID="289" v:groupContext="shape" transform="translate(19.4997,-161.232)">
 			<title>Rounded Rectangle.289</title>
 			<desc>Conceptos de redes abiertas</desc>
 			<v:userDefs>
@@ -276,13 +276,13 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="12.88" y="733.76" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conceptos de redes <tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="12.88" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conceptos de redes <tspan
 						x="33.99" dy="1.2em" class="st3">abiertas</tspan></text>		</g>
-		<g id="shape291-54" v:mID="291" v:groupContext="shape" transform="translate(48.4724,-201.968)">
+		<g id="shape291-54" v:mID="291" v:groupContext="shape" transform="translate(19.4997,-90.3661)">
 			<title>Rounded Rectangle.291</title>
 			<desc>Conceptos de redes cerradas</desc>
 			<v:userDefs>
@@ -304,13 +304,13 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="12.88" y="733.76" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conceptos de redes <tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="12.88" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conceptos de redes <tspan
 						x="33.08" dy="1.2em" class="st3">cerradas</tspan></text>		</g>
-		<g id="shape292-58" v:mID="292" v:groupContext="shape" transform="translate(48.4724,-131.102)">
+		<g id="shape292-58" v:mID="292" v:groupContext="shape" transform="translate(19.4997,-19.5)">
 			<title>Rounded Rectangle.292</title>
 			<desc>Taller de aplicación de las unidades anteriores</desc>
 			<v:userDefs>
@@ -332,55 +332,55 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="2.76" y="733.76" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Taller de aplicación de las <tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="2.76" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Taller de aplicación de las <tspan
 						x="13.16" dy="1.2em" class="st3">unidades anteriores</tspan></text>		</g>
-		<g id="shape293-62" v:mID="293" v:groupContext="shape" v:layerMember="0" transform="translate(89.3053,-556.299)">
+		<g id="shape293-62" v:mID="293" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-444.697)">
 			<title>Dynamic connector.293</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 782.82" class="st5"/>
+			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape295-67" v:mID="295" v:groupContext="shape" v:layerMember="0" transform="translate(89.3053,-485.433)">
+		<g id="shape295-67" v:mID="295" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-373.831)">
 			<title>Dynamic connector.295</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 782.82" class="st5"/>
+			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape296-72" v:mID="296" v:groupContext="shape" v:layerMember="0" transform="translate(89.3053,-414.567)">
+		<g id="shape296-72" v:mID="296" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-302.965)">
 			<title>Dynamic connector.296</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 782.82" class="st5"/>
+			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape297-77" v:mID="297" v:groupContext="shape" v:layerMember="0" transform="translate(89.3053,-343.701)">
+		<g id="shape297-77" v:mID="297" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-232.098)">
 			<title>Dynamic connector.297</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 782.82" class="st5"/>
+			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape298-82" v:mID="298" v:groupContext="shape" v:layerMember="0" transform="translate(89.3053,-272.835)">
+		<g id="shape298-82" v:mID="298" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-161.232)">
 			<title>Dynamic connector.298</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 782.82" class="st5"/>
+			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape299-87" v:mID="299" v:groupContext="shape" v:layerMember="0" transform="translate(89.3053,-201.968)">
+		<g id="shape299-87" v:mID="299" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-90.3661)">
 			<title>Dynamic connector.299</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 782.82" class="st5"/>
+			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape301-92" v:mID="301" v:groupContext="shape" transform="translate(211.868,-486.85)">
+		<g id="shape301-92" v:mID="301" v:groupContext="shape" transform="translate(182.896,-375.248)">
 			<title>Rounded Rectangle.301</title>
 			<desc>Generalidades de Epanet</desc>
 			<v:userDefs>
@@ -402,12 +402,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="4.07" y="738.56" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Generalidades de Epanet</text>		</g>
-		<g id="shape302-95" v:mID="302" v:groupContext="shape" transform="translate(211.868,-364.252)">
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="4.07" y="542.42" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Generalidades de Epanet</text>		</g>
+		<g id="shape302-95" v:mID="302" v:groupContext="shape" transform="translate(182.896,-252.65)">
 			<title>Rounded Rectangle.302</title>
 			<desc>Elaboración y trazado de una red hidráulica. Construcción del...</desc>
 			<v:userDefs>
@@ -429,14 +429,14 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="719.858" width="95.84" height="72.2835"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 702.88 A19.1675 19.1675 -180 0 0 76.67 683.72
-						 L19.17 683.72 A19.1675 19.1675 -180 0 0 -0 702.88 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="4.35" y="703.06" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Elaboración y trazado de <tspan
+			<v:textRect cx="47.9196" cy="523.724" width="95.84" height="72.2835"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 506.75 A19.1675 19.1675 -180 0 0 76.67
+						 487.58 L19.17 487.58 A19.1675 19.1675 -180 0 0 -0 506.75 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="4.35" y="506.92" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Elaboración y trazado de <tspan
 						x="15.36" dy="1.2em" class="st3">una red hidráulica. </tspan><tspan x="18.35" dy="1.2em" class="st3">Construcción del </tspan><tspan
 						x="9.5" dy="1.2em" class="st3">esqueleto del modelo </tspan><tspan x="30.51" dy="1.2em" class="st3">hidráulico</tspan></text>		</g>
-		<g id="shape303-102" v:mID="303" v:groupContext="shape" transform="translate(211.868,-272.835)">
+		<g id="shape303-102" v:mID="303" v:groupContext="shape" transform="translate(182.896,-161.232)">
 			<title>Rounded Rectangle.303</title>
 			<desc>Alimentación del modelo Epanet. Elementos de la red</desc>
 			<v:userDefs>
@@ -458,13 +458,13 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="729.071" width="95.84" height="53.8583"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 721.31 A19.1675 19.1675 -180 0 0 76.67 702.14
-						 L19.17 702.14 A19.1675 19.1675 -180 0 0 0 721.31 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="3.63" y="721.87" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Alimentación del modelo <tspan
+			<v:textRect cx="47.9196" cy="532.937" width="95.84" height="53.8583"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 525.18 A19.1675 19.1675 -180 0 0 76.67
+						 506.01 L19.17 506.01 A19.1675 19.1675 -180 0 0 0 525.18 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="3.63" y="525.74" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Alimentación del modelo <tspan
 						x="5.91" dy="1.2em" class="st3">Epanet. Elementos de la </tspan><tspan x="42.08" dy="1.2em" class="st3">red</tspan></text>		</g>
-		<g id="shape304-107" v:mID="304" v:groupContext="shape" transform="translate(211.868,-201.968)">
+		<g id="shape304-107" v:mID="304" v:groupContext="shape" transform="translate(182.896,-90.3661)">
 			<title>Rounded Rectangle.304</title>
 			<desc>Resultados. Análisis y revisión</desc>
 			<v:userDefs>
@@ -486,13 +486,13 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="10.54" y="733.76" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Resultados. Análisis y <tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="10.54" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Resultados. Análisis y <tspan
 						x="34.28" dy="1.2em" class="st3">revisión</tspan></text>		</g>
-		<g id="shape305-111" v:mID="305" v:groupContext="shape" transform="translate(211.868,-131.102)">
+		<g id="shape305-111" v:mID="305" v:groupContext="shape" transform="translate(182.896,-19.5)">
 			<title>Rounded Rectangle.305</title>
 			<desc>Taller de aplicación de las unidades anteriores</desc>
 			<v:userDefs>
@@ -514,48 +514,48 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="2.76" y="733.76" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Taller de aplicación de las <tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="2.76" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Taller de aplicación de las <tspan
 						x="13.16" dy="1.2em" class="st3">unidades anteriores</tspan></text>		</g>
-		<g id="shape307-115" v:mID="307" v:groupContext="shape" v:layerMember="0" transform="translate(252.701,-486.85)">
+		<g id="shape307-115" v:mID="307" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-375.248)">
 			<title>Dynamic connector.307</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 801.95" class="st5"/>
+			<path d="M7.09 559.87 L7.09 605.82" class="st5"/>
 		</g>
-		<g id="shape308-120" v:mID="308" v:groupContext="shape" v:layerMember="0" transform="translate(252.701,-364.252)">
+		<g id="shape308-120" v:mID="308" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-252.65)">
 			<title>Dynamic connector.308</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 789.19" class="st5"/>
+			<path d="M7.09 559.87 L7.09 593.06" class="st5"/>
 		</g>
-		<g id="shape309-125" v:mID="309" v:groupContext="shape" v:layerMember="0" transform="translate(252.701,-272.835)">
+		<g id="shape309-125" v:mID="309" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-161.232)">
 			<title>Dynamic connector.309</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 782.82" class="st5"/>
+			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape310-130" v:mID="310" v:groupContext="shape" v:layerMember="0" transform="translate(252.701,-201.968)">
+		<g id="shape310-130" v:mID="310" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-90.3661)">
 			<title>Dynamic connector.310</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 782.82" class="st5"/>
+			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape313-135" v:mID="313" v:groupContext="shape" v:layerMember="0" transform="translate(252.701,-556.299)">
+		<g id="shape313-135" v:mID="313" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-444.697)">
 			<title>Dynamic connector.313</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 781.4" class="st5"/>
+			<path d="M7.09 559.87 L7.09 585.26" class="st5"/>
 		</g>
-		<g id="shape315-140" v:mID="315" v:groupContext="shape" transform="translate(380.395,-495.354)">
+		<g id="shape315-140" v:mID="315" v:groupContext="shape" transform="translate(351.423,-383.752)">
 			<title>Rounded Rectangle.315</title>
 			<desc>Inclusión de demanda variable en los nodos</desc>
 			<v:userDefs>
@@ -577,13 +577,13 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="9.02" y="733.76" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Inclusión de demanda <tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="9.02" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Inclusión de demanda <tspan
 						x="10.51" dy="1.2em" class="st3">variable en los nodos</tspan></text>		</g>
-		<g id="shape316-144" v:mID="316" v:groupContext="shape" transform="translate(380.395,-403.228)">
+		<g id="shape316-144" v:mID="316" v:groupContext="shape" transform="translate(351.423,-291.626)">
 			<title>Rounded Rectangle.316</title>
 			<desc>Ecuaciones para el cálculo de las pérdidas por fricción. Anál...</desc>
 			<v:userDefs>
@@ -605,14 +605,14 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="720.567" width="95.84" height="70.8661"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 704.3 A19.1675 19.1675 -180 0 0 76.67 685.13
-						 L19.17 685.13 A19.1675 19.1675 -180 0 0 -0 704.3 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
+			<v:textRect cx="47.9196" cy="524.433" width="95.84" height="70.8661"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 508.17 A19.1675 19.1675 -180 0 0 76.67
+						 489 L19.17 489 A19.1675 19.1675 -180 0 0 -0 508.17 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87 Z"
 					class="st1"/>
-			<text x="2.1" y="703.77" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Ecuaciones para el cálculo <tspan
+			<text x="2.1" y="507.63" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Ecuaciones para el cálculo <tspan
 						x="14.15" dy="1.2em" class="st3">de las pérdidas por </tspan><tspan x="10.25" dy="1.2em" class="st3">fricción. Análisis de la </tspan><tspan
 						x="20.5" dy="1.2em" class="st3">variación de los </tspan><tspan x="29.72" dy="1.2em" class="st3">resultados</tspan></text>		</g>
-		<g id="shape318-151" v:mID="318" v:groupContext="shape" transform="translate(380.395,-342.283)">
+		<g id="shape318-151" v:mID="318" v:groupContext="shape" transform="translate(351.423,-230.681)">
 			<title>Rounded Rectangle.318</title>
 			<desc>Inclusión de rociadores</desc>
 			<v:userDefs>
@@ -634,12 +634,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="7.13" y="738.56" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Inclusión de rociadores</text>		</g>
-		<g id="shape319-154" v:mID="319" v:groupContext="shape" transform="translate(380.395,-272.835)">
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="7.13" y="542.42" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Inclusión de rociadores</text>		</g>
+		<g id="shape319-154" v:mID="319" v:groupContext="shape" transform="translate(351.423,-161.232)">
 			<title>Rounded Rectangle.319</title>
 			<desc>Curvas de rendimiento</desc>
 			<v:userDefs>
@@ -661,12 +661,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="7.96" y="738.56" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Curvas de rendimiento</text>		</g>
-		<g id="shape320-157" v:mID="320" v:groupContext="shape" transform="translate(380.395,-201.968)">
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="7.96" y="542.42" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Curvas de rendimiento</text>		</g>
+		<g id="shape320-157" v:mID="320" v:groupContext="shape" transform="translate(351.423,-90.3661)">
 			<title>Rounded Rectangle.320</title>
 			<desc>Programación en Epanet.</desc>
 			<v:userDefs>
@@ -688,47 +688,47 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="3.72" y="738.56" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Programación en Epanet.</text>		</g>
-		<g id="shape322-160" v:mID="322" v:groupContext="shape" v:layerMember="0" transform="translate(421.228,-495.354)">
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="3.72" y="542.42" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Programación en Epanet.</text>		</g>
+		<g id="shape322-160" v:mID="322" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-383.752)">
 			<title>Dynamic connector.322</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 772.89" class="st5"/>
+			<path d="M7.09 559.87 L7.09 576.76" class="st5"/>
 		</g>
-		<g id="shape323-165" v:mID="323" v:groupContext="shape" v:layerMember="0" transform="translate(421.228,-403.228)">
+		<g id="shape323-165" v:mID="323" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-291.626)">
 			<title>Dynamic connector.323</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 772.89" class="st5"/>
+			<path d="M7.09 559.87 L7.09 576.76" class="st5"/>
 		</g>
-		<g id="shape325-170" v:mID="325" v:groupContext="shape" v:layerMember="0" transform="translate(421.228,-342.283)">
+		<g id="shape325-170" v:mID="325" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-230.681)">
 			<title>Dynamic connector.325</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 781.4" class="st5"/>
+			<path d="M7.09 559.87 L7.09 585.26" class="st5"/>
 		</g>
-		<g id="shape326-175" v:mID="326" v:groupContext="shape" v:layerMember="0" transform="translate(421.228,-272.835)">
+		<g id="shape326-175" v:mID="326" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-161.232)">
 			<title>Dynamic connector.326</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 782.82" class="st5"/>
+			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape327-180" v:mID="327" v:groupContext="shape" v:layerMember="0" transform="translate(421.228,-556.299)">
+		<g id="shape327-180" v:mID="327" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-444.697)">
 			<title>Dynamic connector.327</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 772.89" class="st5"/>
+			<path d="M7.09 559.87 L7.09 576.76" class="st5"/>
 		</g>
-		<g id="shape329-185" v:mID="329" v:groupContext="shape" transform="translate(380.395,-131.102)">
+		<g id="shape329-185" v:mID="329" v:groupContext="shape" transform="translate(351.423,-19.5)">
 			<title>Rounded Rectangle.329</title>
 			<desc>Taller de aplicación de las unidades anteriores</desc>
 			<v:userDefs>
@@ -750,18 +750,18 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="47.9196" cy="736.157" width="95.84" height="39.685"/>
-			<path d="M19.17 756 L76.67 756 A19.1675 19.1675 -180 0 0 95.84 736.83 L95.84 735.48 A19.1675 19.1675 -180 0 0 76.67 716.31
-						 L19.17 716.31 A19.1675 19.1675 -180 0 0 0 735.48 L0 736.83 A19.1675 19.1675 -180 0 0 19.17 756 Z"
-					class="st1"/>
-			<text x="2.76" y="733.76" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Taller de aplicación de las <tspan
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="2.76" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Taller de aplicación de las <tspan
 						x="13.16" dy="1.2em" class="st3">unidades anteriores</tspan></text>		</g>
-		<g id="shape331-189" v:mID="331" v:groupContext="shape" v:layerMember="0" transform="translate(421.228,-201.968)">
+		<g id="shape331-189" v:mID="331" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-90.3661)">
 			<title>Dynamic connector.331</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 756 L7.09 782.82" class="st5"/>
+			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
 	</g>
 </svg>
