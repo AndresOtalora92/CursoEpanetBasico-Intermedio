@@ -44,7 +44,7 @@ Si se asume que la velocidad del flujo en toda la sección transveral es la mism
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/afab8848680381d32398accb9c7a3e528da39c4e/ecuaciones/Ecuacion6.PNG" width="200px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/afab8848680381d32398accb9c7a3e528da39c4e/ecuaciones/Ecuacion6.PNG" width="150px">
 
 </div>
 
