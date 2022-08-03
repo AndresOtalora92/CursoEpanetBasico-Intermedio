@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Concepto generales de flujo a presión. 
+# Curso de Epanet - Módulo 1 - Conceptos generales de flujo a presión. 
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/5e4e6f45e715bf4b5054fa289e045ede8dc073c9/.jpg/IconoEpanetV3.png" width="600px">
@@ -195,6 +195,10 @@ En la siguiente imagen se presenta un ejemplo de un sistema de una red abierta.
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d3e14012243523316c9bb5c3d7932bda146077f9/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.8.jpg" width="400px">
 
 </div>
+
+| [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki)| [:house:]((https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki)) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/be22d58a4322199c62bd8b9341fdd5a6a01f2e17/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20energ%C3%ADa.md) |
+|-----------|-------------|---------------------|
+
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión.
 [^2]: Frank M. White. Mecanica De Fluidos (2020)
