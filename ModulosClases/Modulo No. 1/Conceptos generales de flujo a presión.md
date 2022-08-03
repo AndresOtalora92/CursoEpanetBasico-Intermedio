@@ -158,7 +158,7 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.5.PNG" width="300px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.5.PNG" width="350px">
 </div>
 
 
@@ -182,7 +182,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema de una red cerrada.
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d3e14012243523316c9bb5c3d7932bda146077f9/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.7.PNG" width="300px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d3e14012243523316c9bb5c3d7932bda146077f9/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.7.PNG" width="450px">
 
 </div>
 
@@ -192,7 +192,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema de una red abierta.
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d3e14012243523316c9bb5c3d7932bda146077f9/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.8.jpg" width="200px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d3e14012243523316c9bb5c3d7932bda146077f9/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.8.jpg" width="400px">
 
 </div>
 
