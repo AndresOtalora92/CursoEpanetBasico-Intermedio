@@ -1,13 +1,19 @@
-# Curso de Epanet - Módulo 1 - Conservación de la energía. 
-![Imagen 1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b30a070763c8fdd0debdf2836196f1bbc795673b/.jpg/IconoEpanetV3.png)
+# Curso de Epanet - Módulo 1 - Conservación de la energía 
 
-*Universidad Escuela Colombiana de Ingeniería Julio Garavito*
+<div align="center">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/5e4e6f45e715bf4b5054fa289e045ede8dc073c9/.jpg/IconoEpanetV3.png" width="600px">
+</div>
 
-***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
+</div>
 
-## **Conservación de la energía**
-Análisis y aplicación de la ecuación de conservación de energía y de la ecuación de Bernoulli para sistemas
-con flujos a presión. Descripción de las partes que componen las ecuaciones.
+## Conservación de la energía. 
+ 
+Keywords: `Energía` `Bernoulli` `Flujo`
+
+En este módulo se presenta de manera general los conceptos básicos de la conservación de la energía 
 
 ### Conservación de la energía total. Ecuación de Bernoulli
 
