@@ -158,7 +158,7 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.5.PNG" width="400px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.5.PNG" width="300px">
 </div>
 
 
@@ -169,7 +169,7 @@ Las redes hidrosanitarias de acueducto corresponden a las redes internas de las 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
-    <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.6.PNG" width="300px">
+    <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.6.PNG" width="400px">
 </div>
 
 ### Tipos de redes. Descripción.
@@ -182,7 +182,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema de una red cerrada.
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/4847e332f2955fb10e068b43afe10eb44e628e18/ecuaciones/Ecuacion1.PNG" width="300px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d3e14012243523316c9bb5c3d7932bda146077f9/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.7.PNG" width="300px">
 
 </div>
 
@@ -192,7 +192,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema de una red abierta.
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/4847e332f2955fb10e068b43afe10eb44e628e18/ecuaciones/Ecuacion1.PNG" width="300px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d3e14012243523316c9bb5c3d7932bda146077f9/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.8.jpg" width="200px">
 
 </div>
 
