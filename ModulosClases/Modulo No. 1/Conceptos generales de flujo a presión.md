@@ -169,7 +169,7 @@ Las redes hidrosanitarias de acueducto corresponden a las redes internas de las 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
-    <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.6.PNG" width="400px">
+    <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.6.PNG" width="300px">
 </div>
 
 ### Tipos de redes. Descripción.
@@ -180,9 +180,21 @@ Los sistemas y redes que utilizan flujo a presiones pueden clasificarse según l
 
 En la siguiente imagen se presenta un ejemplo de un sistema de una red cerrada.
 
+<div align="center">
+
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/4847e332f2955fb10e068b43afe10eb44e628e18/ecuaciones/Ecuacion1.PNG" width="300px">
+
+</div>
+
 </br><b> Red abierta: </b> Una red abierta, como su nombre lo indica corresponden a las redes en los cuales los caudales pueden salir del sistema en un nodo. En una red abierta no existen lo bluces o mallas cerradas. El caudal del punto de inicio nunca llegará completo al nodo final. 
 
 En la siguiente imagen se presenta un ejemplo de un sistema de una red abierta.
+
+<div align="center">
+
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/4847e332f2955fb10e068b43afe10eb44e628e18/ecuaciones/Ecuacion1.PNG" width="300px">
+
+</div>
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión.
 [^2]: Frank M. White. Mecanica De Fluidos (2020)
