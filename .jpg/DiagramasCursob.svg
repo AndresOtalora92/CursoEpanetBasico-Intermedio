@@ -198,9 +198,9 @@
 						 Z" class="st1"/>
 			<text x="5.52" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conceptos generales de <tspan
 						x="22.79" dy="1.2em" class="st3">flujo a presión</tspan></text>		</g>
-		<g id="shape287-41" v:mID="287" v:groupContext="shape" transform="translate(19.4997,-302.965)">
+		<g id="shape287-41" v:mID="287" v:groupContext="shape" transform="translate(19.4997,-313.24)">
 			<title>Rounded Rectangle.287</title>
-			<desc>Conservación de la energía</desc>
+			<desc>Conservación de la masa. Caudal en flujos a presión</desc>
 			<v:userDefs>
 				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
@@ -224,9 +224,10 @@
 			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
 						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
 						 Z" class="st1"/>
-			<text x="14.64" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conservación de la <tspan
-						x="34.72" dy="1.2em" class="st3">energía</tspan></text>		</g>
-		<g id="shape288-45" v:mID="288" v:groupContext="shape" transform="translate(19.4997,-232.098)">
+			<text x="3.46" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conservación de<tspan
+						class="st3" v:langID="1033"> </tspan><tspan class="st3" v:langID="1033">la masa. </tspan><tspan x="2.41"
+						dy="1.2em" class="st3">Caudal en flujos a presión</tspan></text>		</g>
+		<g id="shape288-47" v:mID="288" v:groupContext="shape" transform="translate(19.4997,-192.059)">
 			<title>Rounded Rectangle.288</title>
 			<desc>Pérdidas de energía. Pérdidas localizadas y pérdidas por fric...</desc>
 			<v:userDefs>
@@ -254,9 +255,9 @@
 						 Z" class="st1"/>
 			<text x="12.08" y="532.82" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Pérdidas de energía. <tspan
 						x="9.59" dy="1.2em" class="st3">Pérdidas localizadas y </tspan><tspan x="11.51" dy="1.2em" class="st3">pérdidas por fricción</tspan></text>		</g>
-		<g id="shape289-50" v:mID="289" v:groupContext="shape" transform="translate(19.4997,-161.232)">
+		<g id="shape289-52" v:mID="289" v:groupContext="shape" transform="translate(19.4997,-131.468)">
 			<title>Rounded Rectangle.289</title>
-			<desc>Conceptos de redes abiertas</desc>
+			<desc>Bombas. Conceptos y aplicaciones. Bombas en serie y en paralelo</desc>
 			<v:userDefs>
 				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
@@ -280,11 +281,12 @@
 			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
 						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
 						 Z" class="st1"/>
-			<text x="12.88" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conceptos de redes <tspan
-						x="33.99" dy="1.2em" class="st3">abiertas</tspan></text>		</g>
-		<g id="shape291-54" v:mID="291" v:groupContext="shape" transform="translate(19.4997,-90.3661)">
+			<text x="9.99" y="532.82" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Bombas<tspan
+						class="st3" v:langID="9226">. Conceptos y </tspan><tspan x="4.92" dy="1.2em" class="st3" v:langID="9226">aplicaciones. Bombas en </tspan><tspan
+						x="15.92" dy="1.2em" class="st3" v:langID="9226">serie y en paralelo</tspan></text>		</g>
+		<g id="shape291-58" v:mID="291" v:groupContext="shape" transform="translate(19.4997,-70.8661)">
 			<title>Rounded Rectangle.291</title>
-			<desc>Conceptos de redes cerradas</desc>
+			<desc>Conceptos de redes abiertas. Conceptos de redes cerradas</desc>
 			<v:userDefs>
 				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
 				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
@@ -308,9 +310,10 @@
 			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
 						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
 						 Z" class="st1"/>
-			<text x="12.88" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conceptos de redes <tspan
-						x="33.08" dy="1.2em" class="st3">cerradas</tspan></text>		</g>
-		<g id="shape292-58" v:mID="292" v:groupContext="shape" transform="translate(19.4997,-19.5)">
+			<text x="12.88" y="532.82" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conceptos de redes <tspan
+						x="7.72" dy="1.2em" class="st3">abiertas</tspan><tspan class="st3" v:langID="1033">. </tspan>Conceptos de <tspan
+						x="22.35" dy="1.2em" class="st3">redes cerradas</tspan></text>		</g>
+		<g id="shape292-64" v:mID="292" v:groupContext="shape" transform="translate(19.4997,-19.5)">
 			<title>Rounded Rectangle.292</title>
 			<desc>Taller de aplicación de las unidades anteriores</desc>
 			<v:userDefs>
@@ -338,49 +341,42 @@
 						 Z" class="st1"/>
 			<text x="2.76" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Taller de aplicación de las <tspan
 						x="13.16" dy="1.2em" class="st3">unidades anteriores</tspan></text>		</g>
-		<g id="shape293-62" v:mID="293" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-444.697)">
+		<g id="shape293-68" v:mID="293" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-444.697)">
 			<title>Dynamic connector.293</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape295-67" v:mID="295" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-373.831)">
+		<g id="shape295-73" v:mID="295" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-373.831)">
 			<title>Dynamic connector.295</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
+			<path d="M7.09 559.87 L7.09 576.41" class="st5"/>
 		</g>
-		<g id="shape296-72" v:mID="296" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-302.965)">
-			<title>Dynamic connector.296</title>
-			<v:userDefs>
-				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
-			</v:userDefs>
-			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
-		</g>
-		<g id="shape297-77" v:mID="297" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-232.098)">
+		<g id="shape297-78" v:mID="297" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-192.059)">
 			<title>Dynamic connector.297</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
+			<path d="M7.09 559.87 L7.09 576.41" class="st5"/>
 		</g>
-		<g id="shape298-82" v:mID="298" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-161.232)">
+		<g id="shape298-83" v:mID="298" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-131.468)">
 			<title>Dynamic connector.298</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
+			<path d="M7.09 559.87 L7.09 576.42" class="st5"/>
 		</g>
-		<g id="shape299-87" v:mID="299" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-90.3661)">
+		<g id="shape299-88" v:mID="299" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-72.1122)">
 			<title>Dynamic connector.299</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
+			<path d="M7.09 561.11 L7.09 568.43" class="st5"/>
 		</g>
-		<g id="shape301-92" v:mID="301" v:groupContext="shape" transform="translate(182.896,-375.248)">
+		<g id="shape301-93" v:mID="301" v:groupContext="shape" transform="translate(182.896,-375.248)">
 			<title>Rounded Rectangle.301</title>
 			<desc>Generalidades de Epanet</desc>
 			<v:userDefs>
@@ -407,7 +403,7 @@
 						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
 						 Z" class="st1"/>
 			<text x="4.07" y="542.42" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Generalidades de Epanet</text>		</g>
-		<g id="shape302-95" v:mID="302" v:groupContext="shape" transform="translate(182.896,-252.65)">
+		<g id="shape302-96" v:mID="302" v:groupContext="shape" transform="translate(182.896,-252.65)">
 			<title>Rounded Rectangle.302</title>
 			<desc>Elaboración y trazado de una red hidráulica. Construcción del...</desc>
 			<v:userDefs>
@@ -436,7 +432,7 @@
 			<text x="4.35" y="506.92" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Elaboración y trazado de <tspan
 						x="15.36" dy="1.2em" class="st3">una red hidráulica. </tspan><tspan x="18.35" dy="1.2em" class="st3">Construcción del </tspan><tspan
 						x="9.5" dy="1.2em" class="st3">esqueleto del modelo </tspan><tspan x="30.51" dy="1.2em" class="st3">hidráulico</tspan></text>		</g>
-		<g id="shape303-102" v:mID="303" v:groupContext="shape" transform="translate(182.896,-161.232)">
+		<g id="shape303-103" v:mID="303" v:groupContext="shape" transform="translate(182.896,-161.232)">
 			<title>Rounded Rectangle.303</title>
 			<desc>Alimentación del modelo Epanet. Elementos de la red</desc>
 			<v:userDefs>
@@ -464,7 +460,7 @@
 						 Z" class="st1"/>
 			<text x="3.63" y="525.74" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Alimentación del modelo <tspan
 						x="5.91" dy="1.2em" class="st3">Epanet. Elementos de la </tspan><tspan x="42.08" dy="1.2em" class="st3">red</tspan></text>		</g>
-		<g id="shape304-107" v:mID="304" v:groupContext="shape" transform="translate(182.896,-90.3661)">
+		<g id="shape304-108" v:mID="304" v:groupContext="shape" transform="translate(182.896,-90.3661)">
 			<title>Rounded Rectangle.304</title>
 			<desc>Resultados. Análisis y revisión</desc>
 			<v:userDefs>
@@ -492,7 +488,7 @@
 						 Z" class="st1"/>
 			<text x="10.54" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Resultados. Análisis y <tspan
 						x="34.28" dy="1.2em" class="st3">revisión</tspan></text>		</g>
-		<g id="shape305-111" v:mID="305" v:groupContext="shape" transform="translate(182.896,-19.5)">
+		<g id="shape305-112" v:mID="305" v:groupContext="shape" transform="translate(182.896,-19.5)">
 			<title>Rounded Rectangle.305</title>
 			<desc>Taller de aplicación de las unidades anteriores</desc>
 			<v:userDefs>
@@ -520,42 +516,42 @@
 						 Z" class="st1"/>
 			<text x="2.76" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Taller de aplicación de las <tspan
 						x="13.16" dy="1.2em" class="st3">unidades anteriores</tspan></text>		</g>
-		<g id="shape307-115" v:mID="307" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-375.248)">
+		<g id="shape307-116" v:mID="307" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-375.248)">
 			<title>Dynamic connector.307</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 605.82" class="st5"/>
 		</g>
-		<g id="shape308-120" v:mID="308" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-252.65)">
+		<g id="shape308-121" v:mID="308" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-252.65)">
 			<title>Dynamic connector.308</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 593.06" class="st5"/>
 		</g>
-		<g id="shape309-125" v:mID="309" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-161.232)">
+		<g id="shape309-126" v:mID="309" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-161.232)">
 			<title>Dynamic connector.309</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape310-130" v:mID="310" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-90.3661)">
+		<g id="shape310-131" v:mID="310" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-90.3661)">
 			<title>Dynamic connector.310</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape313-135" v:mID="313" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-444.697)">
+		<g id="shape313-136" v:mID="313" v:groupContext="shape" v:layerMember="0" transform="translate(223.729,-444.697)">
 			<title>Dynamic connector.313</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 585.26" class="st5"/>
 		</g>
-		<g id="shape315-140" v:mID="315" v:groupContext="shape" transform="translate(351.423,-383.752)">
+		<g id="shape315-141" v:mID="315" v:groupContext="shape" transform="translate(351.423,-383.752)">
 			<title>Rounded Rectangle.315</title>
 			<desc>Inclusión de demanda variable en los nodos</desc>
 			<v:userDefs>
@@ -583,7 +579,7 @@
 						 Z" class="st1"/>
 			<text x="9.02" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Inclusión de demanda <tspan
 						x="10.51" dy="1.2em" class="st3">variable en los nodos</tspan></text>		</g>
-		<g id="shape316-144" v:mID="316" v:groupContext="shape" transform="translate(351.423,-291.626)">
+		<g id="shape316-145" v:mID="316" v:groupContext="shape" transform="translate(351.423,-291.626)">
 			<title>Rounded Rectangle.316</title>
 			<desc>Ecuaciones para el cálculo de las pérdidas por fricción. Anál...</desc>
 			<v:userDefs>
@@ -612,7 +608,7 @@
 			<text x="2.1" y="507.63" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Ecuaciones para el cálculo <tspan
 						x="14.15" dy="1.2em" class="st3">de las pérdidas por </tspan><tspan x="10.25" dy="1.2em" class="st3">fricción. Análisis de la </tspan><tspan
 						x="20.5" dy="1.2em" class="st3">variación de los </tspan><tspan x="29.72" dy="1.2em" class="st3">resultados</tspan></text>		</g>
-		<g id="shape318-151" v:mID="318" v:groupContext="shape" transform="translate(351.423,-230.681)">
+		<g id="shape318-152" v:mID="318" v:groupContext="shape" transform="translate(351.423,-230.681)">
 			<title>Rounded Rectangle.318</title>
 			<desc>Inclusión de rociadores</desc>
 			<v:userDefs>
@@ -639,7 +635,7 @@
 						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
 						 Z" class="st1"/>
 			<text x="7.13" y="542.42" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Inclusión de rociadores</text>		</g>
-		<g id="shape319-154" v:mID="319" v:groupContext="shape" transform="translate(351.423,-161.232)">
+		<g id="shape319-155" v:mID="319" v:groupContext="shape" transform="translate(351.423,-161.232)">
 			<title>Rounded Rectangle.319</title>
 			<desc>Curvas de rendimiento</desc>
 			<v:userDefs>
@@ -666,7 +662,7 @@
 						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
 						 Z" class="st1"/>
 			<text x="7.96" y="542.42" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Curvas de rendimiento</text>		</g>
-		<g id="shape320-157" v:mID="320" v:groupContext="shape" transform="translate(351.423,-90.3661)">
+		<g id="shape320-158" v:mID="320" v:groupContext="shape" transform="translate(351.423,-90.3661)">
 			<title>Rounded Rectangle.320</title>
 			<desc>Programación en Epanet.</desc>
 			<v:userDefs>
@@ -693,42 +689,42 @@
 						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
 						 Z" class="st1"/>
 			<text x="3.72" y="542.42" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Programación en Epanet.</text>		</g>
-		<g id="shape322-160" v:mID="322" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-383.752)">
+		<g id="shape322-161" v:mID="322" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-383.752)">
 			<title>Dynamic connector.322</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 576.76" class="st5"/>
 		</g>
-		<g id="shape323-165" v:mID="323" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-291.626)">
+		<g id="shape323-166" v:mID="323" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-291.626)">
 			<title>Dynamic connector.323</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 576.76" class="st5"/>
 		</g>
-		<g id="shape325-170" v:mID="325" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-230.681)">
+		<g id="shape325-171" v:mID="325" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-230.681)">
 			<title>Dynamic connector.325</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 585.26" class="st5"/>
 		</g>
-		<g id="shape326-175" v:mID="326" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-161.232)">
+		<g id="shape326-176" v:mID="326" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-161.232)">
 			<title>Dynamic connector.326</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
 		</g>
-		<g id="shape327-180" v:mID="327" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-444.697)">
+		<g id="shape327-181" v:mID="327" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-444.697)">
 			<title>Dynamic connector.327</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 576.76" class="st5"/>
 		</g>
-		<g id="shape329-185" v:mID="329" v:groupContext="shape" transform="translate(351.423,-19.5)">
+		<g id="shape329-186" v:mID="329" v:groupContext="shape" transform="translate(351.423,-19.5)">
 			<title>Rounded Rectangle.329</title>
 			<desc>Taller de aplicación de las unidades anteriores</desc>
 			<v:userDefs>
@@ -756,12 +752,54 @@
 						 Z" class="st1"/>
 			<text x="2.76" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Taller de aplicación de las <tspan
 						x="13.16" dy="1.2em" class="st3">unidades anteriores</tspan></text>		</g>
-		<g id="shape331-189" v:mID="331" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-90.3661)">
+		<g id="shape331-190" v:mID="331" v:groupContext="shape" v:layerMember="0" transform="translate(392.256,-90.3661)">
 			<title>Dynamic connector.331</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M7.09 559.87 L7.09 586.68" class="st5"/>
+		</g>
+		<g id="shape332-195" v:mID="332" v:groupContext="shape" transform="translate(19.4997,-252.65)">
+			<title>Rounded Rectangle.332</title>
+			<desc>Conservación de la energía</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.26622):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.26622):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.26622):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="47.9196" cy="540.024" width="95.84" height="39.685"/>
+			<path d="M19.17 559.87 L76.67 559.87 A19.1675 19.1675 -180 0 0 95.84 540.7 L95.84 539.35 A19.1675 19.1675 -180 0 0 76.67
+						 520.18 L19.17 520.18 A19.1675 19.1675 -180 0 0 0 539.35 L0 540.7 A19.1675 19.1675 -180 0 0 19.17 559.87
+						 Z" class="st1"/>
+			<text x="14.64" y="537.62" class="st2" v:langID="9226"><v:paragraph v:horizAlign="1"/><v:tabList/>Conservación de la <tspan
+						x="34.72" dy="1.2em" class="st3">energía</tspan></text>		</g>
+		<g id="shape333-199" v:mID="333" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-313.24)">
+			<title>Dynamic connector.333</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M7.09 559.87 L7.09 576.41" class="st5"/>
+		</g>
+		<g id="shape334-204" v:mID="334" v:groupContext="shape" v:layerMember="0" transform="translate(60.3327,-252.65)">
+			<title>Dynamic connector.334</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M7.09 559.87 L7.09 576.41" class="st5"/>
 		</g>
 	</g>
 </svg>
