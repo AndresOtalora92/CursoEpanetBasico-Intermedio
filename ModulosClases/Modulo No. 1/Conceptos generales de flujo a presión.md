@@ -199,6 +199,5 @@ En la siguiente imagen se presenta un ejemplo de un sistema de una red abierta.
 | [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/be22d58a4322199c62bd8b9341fdd5a6a01f2e17/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20energ%C3%ADa.md) |
 |-----------|-------------|---------------------|
 
-.
 [^1]: Saldarriaga, Juan. Hidráulica a Presión (2019).
 [^2]: Frank M. White. Mecanica De Fluidos (2020).
