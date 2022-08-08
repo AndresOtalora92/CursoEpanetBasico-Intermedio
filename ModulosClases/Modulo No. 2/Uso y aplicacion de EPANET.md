@@ -36,13 +36,3 @@ varias instituciones. En España y Latinoamérica una de las de mayor difusión 
 Universidad Politécnica de Valencia.
 
 ### Link de descarga del software. 
-# Contenido Programático
-
-Con base en el alcance del curso y los objetivos de aprendizaje definidos en el apartado anterior se ha 
-dividio el curso en tres módulo. El contenido de estos módulos permite que el estudiante aprenda de manera
-gradual y escalonada el uso y aplicación de las herramientas del software. El estudiante no solo podrá
-aplicar el sofwtare, sino también estará en la capacidad de analizar el orden de magnitud de los resultantes
-y podrá tomar decisiones en futuros diseños o planes de gestión. 
-
-A continuación se presentan el contenido programático, con una pequeña descripción de su temática y de las
-actividades que el estudiante deberá realizar para completarlas.
