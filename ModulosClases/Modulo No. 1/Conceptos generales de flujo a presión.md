@@ -77,9 +77,9 @@ En la siguiente tabla se resumen los valores de densidad y viscosidad del agua p
 
 
 
-| T°c | $ \rho $, Kg/m³ | $ \mu $, N*s/m² | $ \nu $, m²/s |
-|-----|-----------------|-----------------|---------------|
-| 0   | 1000            | 1.788*10^-3     | 1.788*10^-6   |
+| T°c | $\rho$, Kg/m³ | $ \mu $, N*s/m² | $ \nu $, m²/s |
+|-----|----------------|-----------------|---------------|
+| 0   | 1000           | 1.788*10^-3     | 1.788*10^-6   |
 
 
 <div align="center">
