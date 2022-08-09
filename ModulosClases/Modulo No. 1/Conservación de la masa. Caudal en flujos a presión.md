@@ -27,11 +27,11 @@ En la siguiente expresión se presenta la ecuación de continuidad para un flujo
 
 Para sistemas donde no existe acumulación temporal de fluido o para flujos permanentes, la ecuación de continuidad se transforma así:
 
-Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los nodos que componen una red de tuberías. 
-
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/6c5c415b1b1f0f8562f6611d9e029a07d363bc34/ecuaciones/Ecuacion8.PNG" width="300px">
 </div>
+
+Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los nodos que componen una red de tuberías. 
 
 ### Conservación de la energía total. Ecuación de Bernoulli
 
