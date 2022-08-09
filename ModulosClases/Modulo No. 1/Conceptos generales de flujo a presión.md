@@ -216,7 +216,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema de una red abierta.
 
 </div>
 
-| [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b9117c5b1e24975edf98934aaaa7ea80ca750b54/ModulosClases/Modulo%20No.%201/Conceptos%20generales%20de%20flujo%20a%20presi%C3%B3n.md) |
+| [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/60ed37c4b1911ff3969df3cbf4fb1d0dacb43220/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20masa.%20Caudal%20en%20flujos%20a%20presi%C3%B3n.md) |
 |-----------|-------------|---------------------|
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión (2019).
