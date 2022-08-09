@@ -28,7 +28,7 @@ En la siguiente expresión se presenta la ecuación de continuidad para un flujo
 Para sistemas donde no existe acumulación temporal de fluido o para flujos permanentes, la ecuación de continuidad se transforma así:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/6c5c415b1b1f0f8562f6611d9e029a07d363bc34/ecuaciones/Ecuacion8.PNG" width="300px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/7adbd7306d46c6691be5d78d4677b544672284fe/ecuaciones/Ecuacion9.PNG" width="300px">
 </div>
 
 Donde,
