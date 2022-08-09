@@ -40,7 +40,7 @@ Donde,
 Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los nodos que componen una red de tuberías. Para el uso de los signos, en general se utiliza el sistema nemotécnica en el que se asume que los caudales que ingresan al volumen de control son negativos y los caudales que salen del volumen de control son negativos. En la siguiente figura se muestra una representación del volumen de control en una tubería a presión en el que se detallan las fronteras en las cuales se definen los caudales de entrada y los caudales de salida.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/21c6dfa9c6ec4a19b5417773f9f65212f2912332/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.9.PNG" width="250px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/21c6dfa9c6ec4a19b5417773f9f65212f2912332/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.9.PNG" width="400px">
 </div>
 
 ### Conservación de la energía total. Ecuación de Bernoulli
