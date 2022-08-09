@@ -159,19 +159,19 @@ En la siguiente figura se muestra un ejemplo de como se ve el filamento de tinta
 </div>
 
 
-### Redes hidráulicas. Definición, usos y aplicaciones de los sistemas a presión.
+## Redes hidráulicas. Definición, usos y aplicaciones de los sistemas a presión.
 
 
-#### Red hidráulica.
+### Red hidráulica.
 Una red hidráulica corresponde a la disposición de tuberías y accesorios cuyo objetivo principal el transporte y disposición de un fluido, desde un punto inicial hasta un punto final. cumpliendo las demandas de caudal del sistema.
 
-#### Consideraciones generales y límites de diseño de una red.
+### Consideraciones generales y límites de diseño de una red.
 
 Como se analizará más adelante en los siguientes módulos, el diseño hidráulico de un sistema de tuberías a presión (trazado y dimensionamiento) depende del caudal demandado, las diferencias topográficas y de las condiciones particulares del proyecto. El diseño de las redes hidráulicas, está limitado generalmente por las velocidades máximas y mínimas en las tuberías, las presiones de trabajo en los nodos y los esfuerzos cortantes máximos y mínimos en el sistema.
 
 Los límites de estas variables generalmente se definen a partir del criterio y la experiencia del diseñador y del cumplimiento de normas o recomendaciones presentadas en la literatura. El diseñador también debe tener en cuenta los límites definidos por la resistencia de los materiales que conforman las tuberías y accesorios. 
 
-#### Usos y aplicaciones.
+### Usos y aplicaciones.
 
 Son muchas las aplicaciones de las redes que trabajan con flujos a presión. Entre los usos más importantes se pueden destacar los siguientes:
 
