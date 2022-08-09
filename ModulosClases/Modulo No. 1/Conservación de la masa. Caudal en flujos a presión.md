@@ -37,7 +37,7 @@ Donde,
 <br>W= Trabajo [J]</b>
 <br>E= Energía total en el sistema [J]</b>
 
-Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los nodos que componen una red de tuberías. 
+Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los nodos que componen una red de tuberías. Para el uso de los signos, en general se utiliza el sistema nemotécnica en el que se asume que los caudales que ingresan al volumen de control son negativos y los caudales que salen del volumen de control son negativos. En la siguiente figura se muestra una representación del volumen de control en una tubería a presión en el que se detallan las fronteras en las cuales se definen los caudales de entrada y los caudales de salida.
 
 ### Conservación de la energía total. Ecuación de Bernoulli
 
