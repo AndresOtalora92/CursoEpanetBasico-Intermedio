@@ -22,3 +22,7 @@ $Q= V*A$
 $\sum Qentrada-\sum Qsalida = \frac{dV}{dt}$
 </div>
 
+<div align="center"> 
+$\sum Qentrada-\sum Qsalida = 0$
+</div>
+
