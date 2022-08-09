@@ -35,4 +35,4 @@ La versión original del programa fue desarrollada en inglés por la EPA y ha si
 varias instituciones. En España y Latinoamérica una de las de mayor difusión es la desarrollada por la 
 Universidad Politécnica de Valencia.
 
-### Link de descarga del software. 
+### Link de descarga del software: https://epanet.es/descargas/epanet2-es/ 

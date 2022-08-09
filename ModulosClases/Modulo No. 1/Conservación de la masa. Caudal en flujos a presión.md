@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Conservación de la energía 
+# Curso de Epanet - Módulo 1 - Conservación de la masa y conservación de la energía 
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/5e4e6f45e715bf4b5054fa289e045ede8dc073c9/.jpg/IconoEpanetV3.png" width="600px">
@@ -11,9 +11,13 @@
 
 ## Conservación de la energía. 
  
-Keywords: `Energía` `Bernoulli` `Flujo`
+Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
 
-En este módulo se presenta de manera general los conceptos básicos de la conservación de la energía 
+En este módulo se presenta de manera general los conceptos básicos y ecuación que definen la conservación de la masa y la conservación de la energía.
+
+### Conservación de la masa.
+
+
 
 ### Conservación de la energía total. Ecuación de Bernoulli
 
