@@ -21,8 +21,6 @@ El objetivo principal de esta actividad es permitir que el estudiante aprenda, r
 
 ### Flujo a presión. Definiciones y características.
 
-#### Flujo a presión. Definición.
-
 El flujo corresponde al movimiento de un fluido en una superficie sólida, tomando como referencia un sistema inercial. Un flujo a presión corresponde a un flujo en el cual el fluido ocupa la totalidad del área del conducto que conduce que lo conduce. Por definición, un flujo a presión presenta presiones distintas a la presión atmosférica. 
 
 En la Figura 1.1 se presenta gráficamente este concepto.
@@ -72,13 +70,13 @@ Si se tiene en cuenta el perfil de velocidades o lo que es lo mismo, la variaci�
 
 #### Densidad y Viscosidad.
 
-<b> Densidad de los fluidos: </b> corresponde a una propiedad intrínseca de la material, que en términos simples, corresponde al peso del elemento, en este caso del fluido, por unidad de volumen. En los fluidos líquidos, la densidad aumenta a medida que la temperatura disminuye. En los fluidos gasesos, la variación de la densidad es función del tipo gas y de la presión. En los gases ideales la densidad del fluidos gasesos es inversamente proporcional a la temperatura.
+<b> - Densidad de los fluidos: </b> corresponde a una propiedad intrínseca de la material, que en términos simples, corresponde al peso del elemento, en este caso del fluido, por unidad de volumen. En los fluidos líquidos, la densidad aumenta a medida que la temperatura disminuye. En los fluidos gasesos, la variación de la densidad es función del tipo gas y de la presión. En los gases ideales la densidad del fluidos gasesos es inversamente proporcional a la temperatura.
 
 <br>
 
 </br>
 
-<b> Viscosidad: </b> corresponde al efecto generado por las fuerzas intermoleculares de las partículas que conforman el fluido. Estas interacciones entre las moléculas crean resistencia en contra del movimiento. La viscosidad permitir la adherencia de los fluidos en las fronteras de las superficies que lo contiene. En los fluidos líquidos, la viscosidad aumenta a medida que disminuye la temperatura. 
+<b> - Viscosidad: </b> corresponde al efecto generado por las fuerzas intermoleculares de las partículas que conforman el fluido. Estas interacciones entre las moléculas crean resistencia en contra del movimiento. La viscosidad permitir la adherencia de los fluidos en las fronteras de las superficies que lo contiene. En los fluidos líquidos, la viscosidad aumenta a medida que disminuye la temperatura. 
 
 
 En la siguiente tabla se resumen los valores de densidad y viscosidad del agua líquida para diferentes temperaturas en unidades del Sistema Internacional y del Sistema Inglés.
@@ -107,11 +105,7 @@ En la siguiente tabla se resumen los valores de densidad y viscosidad del agua l
 
 #### Esfuerzo cortante.
 
-<br>
-
-</br>
-
-<b> Esfuerzo cortante: </b> corresponde a la fuerza por unidad de área ejercicida por un flujo (fluido en movimiento) en las paredes de la superficie que lo contiene. El esfuerzo cortante es proporcional a la viscosidad del fluido, por tanto, a mayor viscosidad, mayor es el esfuerzo cortante.
+Corresponde a la fuerza por unidad de área ejercicida por un flujo (fluido en movimiento) en las paredes de la superficie que lo contiene. El esfuerzo cortante es proporcional a la viscosidad del fluido, por tanto, a mayor viscosidad, mayor es el esfuerzo cortante.
 
 A continuación se presenta una de las expresiones más usada para la estimación del esfuerzo cortante en una tubería a presión. Esta expresión es función del gradiente hidráulico:
 
@@ -124,6 +118,7 @@ Donde,
 <br> R: Radio hidráulico. A/P
 <br> P: Perímetro hidráulico.
 <br> Sf: gradiente hidráulico.
+
 
 ###  Número de Reynolds. 
 
