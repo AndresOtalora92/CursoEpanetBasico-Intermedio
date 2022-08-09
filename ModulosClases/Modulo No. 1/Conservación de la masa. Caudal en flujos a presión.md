@@ -33,9 +33,9 @@ Para sistemas donde no existe acumulación temporal de fluido o para flujos perm
 
 Donde,
 
-Q= Calor [J]
-W= Trabajo [J]
-E= Energía total en el sistema [J]
+<b>Q= Calor [J]
+<b>W= Trabajo [J]
+<b>E= Energía total en el sistema [J]
 
 Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los nodos que componen una red de tuberías. 
 
