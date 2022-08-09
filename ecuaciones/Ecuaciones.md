@@ -28,9 +28,5 @@ $\sum Qentrada-\sum Qsalida = 0$
 
 <div align="center"> 
 $\frac{dQ}{dt}-\frac{dW}{dt}=\frac{dE}{dt}$
-$Donde,$
-$Q= Calor [J]$
-$W= Trabajo [J]$
-$E= Energía total en el sistema [J]$
 
 </div>
