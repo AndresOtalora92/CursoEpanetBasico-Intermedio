@@ -73,6 +73,15 @@ La viscosidad a un efecto de la resistencia molecular de las partículas a imped
 
 En la siguiente tabla se resumen los valores de densidad y viscosidad del agua para diferentes temperatura en Sistema Internacional y Sistema Inglés.
 
+
+
+
+
+| T°c | $ \rho $, Kg/m³ | $ \mu $, N*s/m² | $ \nu $, m²/s |
+|-----|-----------------|-----------------|---------------|
+| 0   | 1000            | 1.788*10^-3     | 1.788*10^-6   |
+
+
 <div align="center">
 
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b324f792a527b5eab104f9e9c7fa067ebc0e6fe2/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.2.PNG" width="600px">
