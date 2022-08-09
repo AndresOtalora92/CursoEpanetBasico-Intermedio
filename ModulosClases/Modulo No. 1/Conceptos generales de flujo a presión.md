@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Conceptos generales de flujo a presión. 
+# Curso de Epanet - Módulo 1 - Conceptos generales de los flujos a presión. 
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/5e4e6f45e715bf4b5054fa289e045ede8dc073c9/.jpg/IconoEpanetV3.png" width="600px">
