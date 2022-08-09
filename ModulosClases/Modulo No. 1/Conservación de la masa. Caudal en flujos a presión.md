@@ -22,7 +22,7 @@ La ley de conservación de la masa o ley de continuidad versa que en un sistema 
 En la siguiente expresión se presenta la ecuación de continuidad para un flujo laminar e incompresible.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2ad700e5b95147e71f368987679b58846523e445/ecuaciones/Ecuacion7.PNG" width="600px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2ad700e5b95147e71f368987679b58846523e445/ecuaciones/Ecuacion7.PNG" width="300px">
 </div>
 
 ### Conservación de la energía total. Ecuación de Bernoulli
