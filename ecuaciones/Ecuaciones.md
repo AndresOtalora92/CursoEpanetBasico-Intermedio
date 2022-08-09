@@ -18,4 +18,7 @@ $R_e=\frac{\rho *\bar{V}*D}{\mu}$
 $Q= V*A$
 </div>
 
+<div align="center"> 
+$\sum Qentrada-\sum Qsalida = \frac{dV}{dt}$
+</div>
 

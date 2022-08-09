@@ -17,6 +17,10 @@ En este módulo se presenta de manera general los conceptos básicos y ecuación
 
 ### Conservación de la masa.
 
+La ley de conservación de la masa o ley de continuidad versa que en un sistema definido, la diferencia entre todas las entradas y todas las salidas son iguales al cambio del volumen (almacenamiento) con respecto al tiempo.
+
+En la siguiente expresión se presenta la ecuación de continuidad para un flujo laminar e incompresible.
+
 
 
 ### Conservación de la energía total. Ecuación de Bernoulli
