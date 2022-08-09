@@ -9,9 +9,9 @@
 <br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
 </div>
 
-## Conceptos generales de flujo a presión. 
- 
 Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
+
+### Introducción.
 
 En la presenta actividad se describen algunos conceptos generales relacionados con el flujo a presión. Se detallan fundamentos que el lector debe conocer o recordar antes de continuar con las siguientes actividades. Es importante que el estudiante tenga bases conceptuales con el propósito de que pueda entender las diferentes herramientas del sofwtare y pueda entender y analizar cualitativa y cuantitativamente los resultados.
 

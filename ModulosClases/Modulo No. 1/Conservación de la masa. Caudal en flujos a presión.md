@@ -9,9 +9,9 @@
 <br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
 </div>
 
-## Conservación de la energía. 
- 
 Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
+
+### Introducción.
 
 En este módulo se presentan de manera general los conceptos básicos y las ecuaciones que definen la conservación de la masa y la conservación de la energía en un sistema hidráulica a presión.
 
