@@ -21,7 +21,7 @@ El objetivo principal de esta actividad es permitir que el estudiante aprenda, r
 
 ### Flujo a presión. Definiciones y características.
 
-- Definición de flujo. Flujo a presión.
+#### Flujo a presión. Definición.
 
 El flujo corresponde al movimiento de un fluido en una superficie sólida, tomando como referencia un sistema inercial. Un flujo a presión corresponde a un flujo en el cual el fluido ocupa la totalidad del área del conducto que conduce que lo conduce. Por definición, un flujo a presión presenta presiones distintas a la presión atmosférica. 
 
@@ -45,7 +45,7 @@ Por definición, el gradiente hidráulico se puede expresar como:
 </div>
 
 
-- Definición de caudal.
+#### Caudal
 
 En términos generales, el caudal corresponde a la cantidad de fluido que atraviesa una sección transversal definida en un tiempo determinado. Las unidades del caudal usualmente utilizadas en la ingeniería aplicada corresponden a m³/s, L/s y ft³/s.
 
@@ -70,7 +70,7 @@ Si se tiene en cuenta el perfil de velocidades o lo que es lo mismo, la variaci�
 
 </div>
 
-- Definición de densidad y Viscosidad.
+#### Densidad y Viscosidad.
 
 <b> Densidad de los fluidos: </b> corresponde a una propiedad intrínseca de la material, que en términos simples, corresponde al peso del elemento, en este caso del fluido, por unidad de volumen. En los fluidos líquidos, la densidad aumenta a medida que la temperatura disminuye. En los fluidos gasesos, la variación de la densidad es función del tipo gas y de la presión. En los gases ideales la densidad del fluidos gasesos es inversamente proporcional a la temperatura.
 
@@ -105,7 +105,7 @@ En la siguiente tabla se resumen los valores de densidad y viscosidad del agua l
 
 >Figura 1.2 Densidad y viscosidad del agua[^2].
 
-- Definición de esfuerzo cortante.
+#### Esfuerzo cortante.
 
 <br>
 
