@@ -28,14 +28,8 @@ En la siguiente expresión se presenta la ecuación de continuidad para un flujo
 Para sistemas donde no existe acumulación temporal de fluido o para flujos permanentes, la ecuación de continuidad se transforma así:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/7adbd7306d46c6691be5d78d4677b544672284fe/ecuaciones/Ecuacion9.PNG" width="200px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2ad700e5b95147e71f368987679b58846523e445/ecuaciones/Ecuacion7.PNG" width="300px">
 </div>
-
-Donde,
-
-<br>Q= Calor [J]</b>
-<br>W= Trabajo [J]</b>
-<br>E= Energía total en el sistema [J]</b>
 
 Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los nodos que componen una red de tuberías. Para el uso de los signos, en general se utiliza el sistema nemotécnica en el que se asume que los caudales que ingresan al volumen de control son negativos y los caudales que salen del volumen de control son negativos. En la siguiente figura se muestra una representación del volumen de control en una tubería a presión en el que se detallan las fronteras en las cuales se definen los caudales de entrada y los caudales de salida.
 
@@ -46,6 +40,17 @@ Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los
 ### Conservación de la energía total. Ecuación de Bernoulli
 
 - Conceptos y ecuación, explicando los términos.
+
+<div align="center">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/7adbd7306d46c6691be5d78d4677b544672284fe/ecuaciones/Ecuacion9.PNG" width="200px">
+</div>
+
+Donde,
+
+<br>Q= Calor [J]</b>
+<br>W= Trabajo [J]</b>
+<br>E= Energía total en el sistema [J]</b>
+
 - Energía de bombas (general ya que en el módulo 1.4 se ampliará este  tema)
 - Pérdida de Energía (general ya que en el módulo 1.3 se ampliará este  tema)
 - Línea de energía (concepto y aplicación. Agregar dibujo)
