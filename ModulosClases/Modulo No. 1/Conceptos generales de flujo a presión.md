@@ -13,17 +13,19 @@
  
 Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 
-En el presente capítulo se describen algunos conceptos generales relacionados con el flujo en los sistemas a presión. Se definen algunos conceptos fundamentales de la hidráulica a presión que el lector debe conocer o recordar antes de iniciar los siguientes capítulos. Es importante que el estudiante tenga bases conceptuales con el propósito de que pueda entender las diferentes variables de entrada del modelo hidráulico y que tenga la capacidad de analizar cualitativa y cuantitativamente los resultados.
+En la presenta actividad se describen algunos conceptos generales relacionados con el flujo a presión. Se detallan fundamentos que el lector debe conocer o recordar antes de continuar con las siguientes actividades. Es importante que el estudiante tenga bases conceptuales con el propósito de que pueda entender las diferentes herramientas del sofwtare y pueda entender y analizar cualitativa y cuantitativamente los resultados.
 
 ## Objetivos. 
 
-Permitir que el estudiante aprender y/o recuerde los conceptos básicos de los flujo a presión, su aplicación y algunas características.
+El objetivo principal de esta actividad es permitir que el estudiante aprenda, recuerde y practique los conceptos básicos de los flujos a presión.
 
 ### Flujo a presión. Definiciones y características.
 
 - Definición de flujo. Flujo a presión.
 
-El flujo corresponde al movimiento de un fluido con respecto a un sistema inercial dentro de una  superficie sólida definida. Un flujo a presión corresponde a un flujo en el cual el fluido ocupa la totalidad de las paredes o fronteras de la superficie que contiene el fluido. Por definición un flujo a presión presenta presiones distintas a la presión atmosférica. En la Figura 1.1 se presenta gráficamente este concepto.
+El flujo corresponde al movimiento de un fluido en una superficie sólida, tomando como referencia un sistema inercial. Un flujo a presión corresponde a un flujo en el cual el fluido ocupa la totalidad del área del conducto que conduce que lo conduce. Por definición, un flujo a presión presenta presiones distintas a la presión atmosférica. 
+
+En la Figura 1.1 se presenta gráficamente este concepto.
 
 <div align="center">
 
@@ -32,7 +34,9 @@ El flujo corresponde al movimiento de un fluido con respecto a un sistema inerci
 
 >Figura 1.1 Gradiente de presiones en una tubería con flujo a presión[^1].
 
-<br>El flujo en un sistema se genera por la diferencia de presiones entre dos puntos en una longitud definida. La diferencia de presión genera un gradiente hidráulico.Por definición, el gradiente hidráulico se define por la expresión:
+<br> Para sistemas a presión, el flujo se genera debido a la diferencia de presiones entre dos puntos a lo largo de una tubería o un sistemas de tuberías. A partir de la diferencia de presiones entre dos puntos y la distancia longitudinal que los separa, es posible la estimación de su gradiente hidráulico.
+
+Por definición, el gradiente hidráulico se puede expresar como:
 
 <div align="center">
 
@@ -43,9 +47,9 @@ El flujo corresponde al movimiento de un fluido con respecto a un sistema inerci
 
 - Definición de caudal.
 
-El caudal corresponde a la cantidad de fluido, en unidades de volumen, que atraviesa por una sección transversal en una unidad de tiempo. En general la unidades del caudal se expresan en m³/s, L/s o ft³/s.
+En términos generales, el caudal corresponde a la cantidad de fluido que atraviesa una sección transversal definida en un tiempo determinado. Las unidades del caudal usualmente utilizadas en la ingeniería aplicada corresponden a m³/s, L/s y ft³/s.
 
-Si se asume que la velocidad del flujo en toda la sección transveral es la misma y que corresponde a una velocidad media, el caudal se define así:
+Si se asume que los vectores de velocidad del flujo a lo largo de la vertical de la sección transveral que contiene es flujo es uniforme, posible definir el caudal a partir de la siguiente expresión:
 
 <div align="center">
 
@@ -58,7 +62,7 @@ Donde,
 <br>V: Velocidad Media
 <br>A: Área hidráulica de la sección transversal
 
-Si se tiene en cuenta el perfil de velocidades real en una sección transversal el caudal se define aplicando el concepto de integral, así:
+Si se tiene en cuenta el perfil de velocidades o lo que es lo mismo, la variación de los vectores de velocidad a lo largo de la vertical en una sección transversal, es posible calcular el caudal que fluye por el sistema a partir del concepto de integral, utilizando la siguiente expresión:
 
 <div align="center">
 
@@ -67,11 +71,17 @@ Si se tiene en cuenta el perfil de velocidades real en una sección transversal 
 </div>
 
 - Definición de densidad y Viscosidad.
-La densidad corresponde al peso, en unidades de masa, por unidad de volumen. En los fluidos líquidos, la densidad de los fluidos aumenta a medida que disminuye la temperatura. 
 
-La viscosidad a un efecto de la resistencia molecular de las partículas a impedir su movimiento adhiriendose a las paredes de la supeficie. La viscosidad en términos  a impedir el movimiento o su "fluidez". En los fluidos líquidos, la viscosdidad de los fluidos aumenta al reducirse la temperatura. 
+<b> Densidad de los fluidos: </b> corresponde a una propiedad intrínseca de la material, que en términos simples, corresponde al peso del elemento, en este caso del fluido, por unidad de volumen. En los fluidos líquidos, la densidad aumenta a medida que la temperatura disminuye. En los fluidos gasesos, la variación de la densidad es función del tipo gas y de la presión. En los gases ideales la densidad del fluidos gasesos es inversamente proporcional a la temperatura.
 
-En la siguiente tabla se resumen los valores de densidad y viscosidad del agua para diferentes temperatura en Sistema Internacional y Sistema Inglés.
+<br>
+
+</br>
+
+<b> Viscosidad: </b> corresponde al efecto generado por las fuerzas intermoleculares de las partículas que conforman el fluido. Estas interacciones entre las moléculas crean resistencia en contra del movimiento. La viscosidad permitir la adherencia de los fluidos en las fronteras de las superficies que lo contiene. En los fluidos líquidos, la viscosidad aumenta a medida que disminuye la temperatura. 
+
+
+En la siguiente tabla se resumen los valores de densidad y viscosidad del agua líquida para diferentes temperaturas en unidades del Sistema Internacional y del Sistema Inglés.
 
 
 <div align="center">
@@ -97,9 +107,13 @@ En la siguiente tabla se resumen los valores de densidad y viscosidad del agua p
 
 - Definición de esfuerzo cortante.
 
-El esfuerzo cortante corresponde a la fuerza por unidad de área ejercicida por un flujo (fluido en movimiento) en las paredes de la superficie que lo contiene. El esfuerzo cortante es proporcional a la magnitud de la viscosidad del fluido.
+<br>
 
-En la siguiente ecuación se presenta una de las formas más comunes para estimar el esfuerzo cortante en función del gradiente hidráulico en un flujo a presión.
+</br>
+
+<b> Esfuerzo cortante: </b> corresponde a la fuerza por unidad de área ejercicida por un flujo (fluido en movimiento) en las paredes de la superficie que lo contiene. El esfuerzo cortante es proporcional a la viscosidad del fluido, por tanto, a mayor viscosidad, mayor es el esfuerzo cortante.
+
+A continuación se presenta una de las expresiones más usada para la estimación del esfuerzo cortante en una tubería a presión. Esta expresión es función del gradiente hidráulico:
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion4.PNG" width="150px">
@@ -113,9 +127,11 @@ Donde,
 
 ###  Número de Reynolds. 
 
-El número de Reynolds corresponde a un número adimensiones (conjunto organizado de variables con dimensiones que generan un resultado adimensional) que permite establecer la relación entre las fuerza generadas por las fuerzas de fricción y las fuerzas inerciales.
+El número de Reynolds corresponde a un número adimensional que permite establecer la relación entre las fuerzas generadas por las fuerzas de fricción y las fuerzas inerciales. Un número adimensional corresponde al conjunto organizado de variables dimensionales que generan un resultado adimensional. 
 
-Este número permite clasificar el flujo en función de su régimen; clasificación que depende mayormente de la velocidad media del flujo. En la siguiente ecuación se presenta este número adimensional.
+Este número adimensional desarrollado por Osborne Reynolds, permite clasificar los flujos a presión en flujos laminares, flujos en transición y flujos turbulentos.
+
+En la siguiente ecuación se presenta el número de Reynolds.
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/cb4d3c1ade36c790faa5e87fa5f849da3e4e51de/ecuaciones/Ecuacion5.PNG" width="200px">
@@ -127,21 +143,20 @@ Donde,
 <br> P: Perímetro hidráulico.
 <br> Sf: gradiente hidráulico.
 
-Este número adimensional desarrollado por Osborne Reynolds, tal como se verá más adelante permite clasificar los flujos a presión en flujos laminares, en flujos en transición y en flujos turbulentos.
 
-Reynolds desarrollo un ensayo simple utilizando un sistema hidráulico compuesto por un tanque de nivel constante, una tubería lisa y una válvula en la salida del sistema. A partir de la inyección de tinta en la tubería y realizando una revisión visual del cambio en el comportamiento filamente de la tinta en el agua, Reynolds determinó diferentes intervalos que clasifican el régimen de fluo en laminar, en transición y turbulento. 
+Para la definición de los tres régimenes de flujo, Reynolds desarrollo un ensayo de laboratorio muy simple, utilizando un sistema hidráulico compuesto por un tanque de nivel constante, una tubería lisa transparente y una válvula en la salida del sistema. A partir de la inyección de tinta en la tubería y de la revisión visual del cambio de la forma del filamento de la tinta en el agua, Reynolds clasificó empíricamente los flujos. En el siguiente apartado se explica en detalle las tres régimenes de flujo en tuberías a presión.
 
 ### Régimen de flujo. Flujo laminar, en transición y turbulento.
  
 A partir de los rangos definidos por Reynolds, se tiene que:
 
-<b> 1. Flujo Laminar (Re<2200):</b> El flujo se mueve en capas sin intercambio de cantidad de movimiento entre las partículas y sin componentes perpendiculares de la velocidad. 
+<b> 1. Flujo Laminar (Re<2200):</b> El flujo se mueve en capas sin intercambio de cantidad de movimiento entre las partículas. No existen componentes de la velocidad perpendicular a la dirección del flujo. 
 
-</br><b>2. Flujo en transición (2200<Re<4000): </b> Condición intermedia, en el cual el flujo se desarrolla, pasando entre el flujo laminar y el flujo en transición o viceversa. Existen zona donde el flujo es organizado y zona donde el flujo es errático.
+</br><b>2. Flujo en transición (2200<Re<4000): </b> Condición intermedia, en el cual el flujo se desarrolla, pasando entre el flujo laminar y el flujo turbulento. Existen zonas donde el flujo es organizado y zonas donde el flujo es errático.
 
 </br><b>3. Flujo turbulento (Re>4000): </b> El flujo se mueve de manera errática, con intercambio de cantidad de movimiento entre las partículas y con presencia de componentes de velocidad en todas las direcciones.
 
-En la siguiente figura se presenta una representación esquemática del experimento de Reynolds para cada uno de los tres régimen de flujo.
+En la siguiente figura se muestra un ejemplo de como se ve el filamento de tinta en el experimento de Reynolds para cada uno de los tres régimen de flujo.
 
 
 <div align="center">
@@ -152,20 +167,20 @@ En la siguiente figura se presenta una representación esquemática del experime
 ### Redes hidráulicas. Definición, usos y aplicaciones de los sistemas a presión.
 
 
-#### Definición de red de drenaje.
-Una red de drenaje corresponde a la disposición de tuberías y accesorios hidráulicos cuyo objetivo corresponde al transporte y disposición un fluido para cumplir las demandas en puntos particulares.
+#### Red hidráulica.
+Una red hidráulica corresponde a la disposición de tuberías y accesorios cuyo objetivo principal el transporte y disposición de un fluido, desde un punto inicial hasta un punto final. cumpliendo las demandas de caudal del sistema.
 
-#### Consideraciones y limites de un diseño hidráulico una red de drenaje en función del caudal, la velocidad, las presiones y el esfuerzo cortante.
+#### Consideraciones generales y límites de diseño de una red.
 
-Como se analizará más adelante en los siguientes módulos, el diseño hidráulico de sistemas de tuberías a presión (trazado y dimensionamiento) depende del caudal que se requiera con el objetivo de cumplir un caudal mínimo demandado en los nodos o puntos de consumo. El diseño de los sistemas hidráulicos se limitan en función de la magnitud de la velocidad, las presiones y el esfuerzo cortante tanto en los tramos de tuberías como en lo nodos. 
+Como se analizará más adelante en los siguientes módulos, el diseño hidráulico de un sistema de tuberías a presión (trazado y dimensionamiento) depende del caudal demandado, las diferencias topográficas y de las condiciones particulares del proyecto. El diseño de las redes hidráulicas, está limitado generalmente por las velocidades máximas y mínimas en las tuberías, las presiones de trabajo en los nodos y los esfuerzos cortantes máximos y mínimos en el sistema.
 
-Los límites mínimos y máximos de estas variables generalmente están definidos por el criterio y la experiencia del diseñador, el cumplimiento de normas o recomendaciones de referencia bibliográficas y el límite definido por la resistencia de los materiales que conforman las tuberías y accesorios. 
+Los límites de estas variables generalmente se definen a partir del criterio y la experiencia del diseñador y del cumplimiento de normas o recomendaciones presentadas en la literatura. El diseñador también debe tener en cuenta los límites definidos por la resistencia de los materiales que conforman las tuberías y accesorios. 
 
 #### Usos y aplicaciones.
 
-Son muchas las aplicaciones de las redes hidráulica de flujos a presión. Entre los más importantes se pueden destacar los siguientes:
+Son muchas las aplicaciones de las redes que trabajan con flujos a presión. Entre los usos más importantes se pueden destacar los siguientes:
 
-<b>- Sistemas de riego:</b> Corresponde a los sistemas de tuberías que permite el transporte y riego de las zonas de cultivo. El trazado y disposición de esta red generalmente se debe adaptar a la distribución de los cultivos en las parcelas, fincas y predios. La red permite el transporte del flujo de manera controlada, tanto en tiempo como en cantidad, pemitiendo una riego adecuado para el crecimiento óptimo de las plantas. 
+<b>- Sistemas de riego:</b> Corresponden a los sistemas de tuberías que permite el transporte y riego de las plantas en zonas de cultivo. El trazado y disposición de estas redes es función de la distribución espacial de los cultivos en las parcelas, fincas y predios. Este tipo de redes permite el transporte del flujo de manera controlada, tanto en tiempo como en cantidad, permitiendo una riego adecuado para el crecimiento óptimo de las plantas. 
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
@@ -173,7 +188,7 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.4.PNG" width="400px">
 </div>
 
-<b>- Acueductos:</b> Corresponde a la red que permite el transporte de agua potable desde una fuente hasta la población. En general, las fuentes de abastecimiento de los acueductos corresponde a embalses, ríos o pozos. 
+<b>- Acueductos:</b> Corresponden a las redes que permite el transporte de agua potable desde una fuente hasta una población. En general, las fuentes de abastecimiento de los acueductos corresponde a embalses, ríos o pozos. 
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
@@ -183,8 +198,8 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 
 
 
-<b> - Redes hidrosanitarias y contraincendios </b>:
-Las redes hidrosanitarias de acueducto corresponden a las redes internas de las edificaciones, viviendas familiares, fábricas, estructuras comerciales, etc, que transportan el agua potable desde la red principal o secundaria del acueducto a los accesorios hidrosanitarios tales como grifos, cisternas, lavamanos, etc.
+<b> - Redes hidrosanitarias </b>:
+Las redes hidrosanitarias corresponden a las redes internas en las edificaciones, viviendas familiares, fábricas, bodegas y estructuras comerciales que permiten el transporte del agua potable desde la red del acueducto hasta los accesorios hidrosanitarios. Entre los accesorios hidrosanitarios más comunes se destacan los grifos, las cisternas, los lavamanos y las duchas.
 
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
@@ -194,11 +209,11 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 
 ### Tipos de redes. Descripción.
 
-Los sistemas y redes que utilizan flujo a presiones pueden clasificarse según la distribución especial de los elementos que componen una red hidráulica (nodos, accesorias y tuberías). Es común clasificar las redes como: redes abiertas y redes cerradas.
+Los sistemas y redes que trabajan con flujos a presiones pueden clasificarse según la distribución espacial de los elementos que componen la red. Es común clasificar las redes em: redes abiertas y redes cerradas.
 
-</br><b> Red cerrada: </b> Una red cerrada corresponde un sistema hidráulico compuesto por tuberías las cuales crean una matriz cerrada, donde el flujo podría recircular desde su punto de inicio hasta su punto final. 
+</br><b> Red cerrada: </b> Una red cerrada corresponde a un sistema hidráulico compuesto por tuberías y accesorios cuya disposición permite crear una malla cerrada, donde el flujo puede recircular desde su punto de inicio hasta su punto final. 
 
-En la siguiente imagen se presenta un ejemplo de un sistema de una red cerrada.
+En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuesto por una red cerrada.
 
 <div align="center">
 
@@ -206,9 +221,9 @@ En la siguiente imagen se presenta un ejemplo de un sistema de una red cerrada.
 
 </div>
 
-</br><b> Red abierta: </b> Una red abierta, como su nombre lo indica corresponden a las redes en los cuales los caudales pueden salir del sistema en un nodo. En una red abierta no existen lo bluces o mallas cerradas. El caudal del punto de inicio nunca llegará completo al nodo final. 
+</br><b> Red abierta: </b> Una red abierta, como su nombre lo indica, corresponde a una red cuya disposición final no permite la existencia bluces o mallas cerradas. El caudal del punto de inicio nunca llegará completo al nodo final, ya que los caudales pueden salir del sistema.
 
-En la siguiente imagen se presenta un ejemplo de un sistema de una red abierta.
+En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuesto por una red abierta.
 
 <div align="center">
 
