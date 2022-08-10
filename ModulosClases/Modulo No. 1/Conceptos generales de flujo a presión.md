@@ -226,7 +226,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuest
 
 </div>
 
-| [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c2689699823e8d32697feb8396f11678b54861d5/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20masa.%20Caudal%20en%20flujos%20a%20presi%C3%B3n.md) |
+| [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/37b0750e42a0387f5f44e59d4946421feffa5385/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20masa.%20Caudal%20en%20flujos%20a%20presi%C3%B3n.md) |
 |-----------|-------------|---------------------|
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión (2019).
