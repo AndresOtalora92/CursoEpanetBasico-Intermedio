@@ -15,7 +15,10 @@ Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
 
 En este módulo se presentan de manera general los conceptos básicos y las ecuaciones que definen la conservación de la masa y la conservación de la energía en un sistema hidráulica a presión.
 
-### Conservación de la masa.
+## Objetivos.
+
+
+## Conservación de la masa. Definiciones.
 
 La ley de conservación de la masa o ley de continuidad dice que en un sistema cerrado, la diferencia entre todas las entradas y todas las salidas son iguales al cambio del volumen con respecto al tiempo.
 
@@ -39,31 +42,12 @@ En la siguiente figura se muestra una representación del volumen de control de 
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/21c6dfa9c6ec4a19b5417773f9f65212f2912332/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.9.PNG" width="300px">
 </div>
 
-### Conservación de la energía total. Ecuación de Bernoulli
 
-- <b>Conservación de la energía: </b> En un volumen de control, la energía total en un sistema es igual a la diferencia entre el calor interno y el cambio del trabajo. La primera ley de la termodinámica indica que el trabajo y el calor transferido o intercambiado en un sistema, no se crea ni se destruye, sólo se transforma. 
+FALTA:
 
-En la siguiente expresión se presenta la ecuación que define de manera simplificada la primera ley de la termodinámica.
+FLUJO MÁSICO
+ECUACIÓN DE PONSE..
+EJERCICIOS
 
-<div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/7adbd7306d46c6691be5d78d4677b544672284fe/ecuaciones/Ecuacion9.PNG" width="200px">
-</div>
-
-Donde,
-
-<br>Q= Calor [J]</b>
-<br>W= Trabajo [J]</b>
-<br>E= Energía total en el sistema [J]</b>
-
-- <b> Ecuación de Bernoulli: </b> Daniel Bernoulli en 1738 en su obra "Hidrodinámica" determinó, a partir de un análisis diferencial en un volumen de control, una ecuación que permite determinar la transformación de la energía en un fluido en movimiento equivalente a la ecuación que define el cambio de la energía en un sistema termodinámico. 
-
-Esta ecuación, coloquialmente denominada "Ecuación de Bernoulli", es la base de la hidráulica moderna y el pilar de los software de modelación de sistemas a presión. Esta ecuación utilizada en todo el mundo permite la estimación de las diferentes variables hidráulicas que definen un sistema de un fluido en movimiento.
-
-La ecuación de bernoulli, sin considerar pérdidas de energía en un fluido en movimiento, se puede escribir como:
-
-- Energía de bombas (general ya que en el módulo 1.4 se ampliará este  tema)
-- Pérdida de Energía (general ya que en el módulo 1.3 se ampliará este  tema)
-- Línea de energía (concepto y aplicación. Agregar dibujo)
-- Linea piezométrica (concepto y aplicación. Agregar dibujo)
-
-
+| [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/1a82bdf77ecf33746dd6f0104d22f442e454a049/ModulosClases/Modulo%20No.%201/Conceptos%20generales%20de%20flujo%20a%20presi%C3%B3n.md)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/1a82bdf77ecf33746dd6f0104d22f442e454a049/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20energ%C3%ADa.md) |
+|-----------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
