@@ -13,11 +13,14 @@ Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 
 ## Introducción.
 
-En la presenta actividad se describen algunos conceptos generales relacionados con el flujo a presión. Se detallan fundamentos que el lector debe conocer o recordar antes de continuar con las siguientes actividades. Es importante que el estudiante tenga bases conceptuales con el propósito de que pueda entender las diferentes herramientas del sofwtare y pueda entender y analizar cualitativa y cuantitativamente los resultados.
+En el presente capítulo se describen algunos conceptos generales relacionados con los flujos a presión. Se definen fundamentos de la hidráulica que el lector debe conocer o recordar antes de trabajar las siguientes actividades. También se describen los principales usos y aplicaciones de los flujos a presión y se mencionan algunas clasificaciones de los flujos a presión y de las redes que componen los sistemas hidráulicos.
+
+Es importante que el estudiante tenga presente que unas adecuadas bases conceptuales son necesarias si su propósito es entender las diferentes variables que definen los modelos hidráulicos, en especial los modelos hidráulicos para la simulación de los sistemas a presión. Antes de iniciar el proceso de cargue y ejecución del modelo EPANET, el usuario debe conocer los conceptos detrás de las variables entrada del modelo para que pueda comprender y posteriormente analizar cualitativa y cuantitativamente los resultados.
+
 
 ## Objetivos. 
 
-El objetivo principal de esta actividad es permitir que el estudiante aprenda, recuerde y practique los conceptos básicos de los flujos a presión.
+El objetivo principal de esta actividad es permitir que el estudiante aprenda, recuerde y practique los conceptos básicos de los flujos a presión con el propósito de adquirir habilidades para el uso, cargue y ejecución del modelo EPANET. 
 
 ## Flujo a presión. Definiciones y características.
 
