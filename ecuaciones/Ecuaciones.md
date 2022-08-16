@@ -30,3 +30,11 @@ $\sum Qentrada-\sum Qsalida = 0$
 $\frac{dQ}{dt}-\frac{dW}{dt}=\frac{dE}{dt}$
 
 </div>
+
+<div align="center"> 
+$m\dot{}=Q*\rho$
+</div>
+
+<div align="center"> 
+$\sum_{}Q*\rho_{entrada}-\sum_{}Q*\rho_{salida}=0$
+</div>
