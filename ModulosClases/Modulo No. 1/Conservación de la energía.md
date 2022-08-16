@@ -57,6 +57,18 @@ Donde,
 
 Tal como en cualquier sistema físico, en los sistemas hidráulicos existen pérdidas de energía. En el caso particular de sistemas con flujo a presión, se pueden identificar dos tipos de pérdidas de energía: Las pérdidas de energía generadas por accesorios y las pérdidas de energía por la fricción o el rozamiento del fluidos en las paredes de la tubería.
 
+Con estas consideraciones, la ecuación de Bernoulli se puede escribir como:
+
+<div align="center">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c03dd60f8a2b2e6748c6aa8a048a9a8fe45dc588/ecuaciones/Ecuacion14.PNG" width="350px">
+</div>
+
+Donde, 
+
+ 
+<br> $\sum_{}^{}\Delta h_f $: Pérdidas de energía debido a la fricción.
+<br> $\sum_{}^{}\Delta h_k$: Pérdidas de energía debido a los accesorios.
+
 Nota: El detalle de las pérdidas de energía por accesorios y por fricción se describe en la actividad "Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción"
  
 
