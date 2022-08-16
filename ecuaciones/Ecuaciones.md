@@ -46,3 +46,7 @@ $Q = \frac{\pi*g*D^4*\Delta(P/\gamma)}{128*\vartheta*L}$
 <div align="center"> 
 $Q=0.849*C*R^{0.63}*Sf^{0.54}*A$
 </div>
+
+<div align="center"> 
+$\frac{V^{2}_1}{2g}+Z_1+\frac{P_1}{\gamma}=\frac{V^{2}_2}{2g}+Z_2+\frac{P_2}{\gamma}$
+</div>
