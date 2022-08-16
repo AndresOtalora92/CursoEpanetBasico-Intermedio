@@ -42,6 +42,10 @@ Esta ecuación, coloquialmente denominada "Ecuación de Bernoulli", es la base d
 
 La ecuación de bernoulli, sin considerar pérdidas de energía en un fluido en movimiento, se puede escribir como:
 
+<div align="center">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c03dd60f8a2b2e6748c6aa8a048a9a8fe45dc588/ecuaciones/Ecuacion14.PNG" width="200px">
+</div>
+
 
 
 - Conceptos y ecuación, explicando los términos.
