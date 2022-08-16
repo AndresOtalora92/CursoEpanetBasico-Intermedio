@@ -50,3 +50,7 @@ $Q=0.849*C*R^{0.63}*Sf^{0.54}*A$
 <div align="center"> 
 $\frac{V^{2}_1}{2g}+Z_1+\frac{P_1}{\gamma}=\frac{V^{2}_2}{2g}+Z_2+\frac{P_2}{\gamma}$
 </div>
+
+<div align="center"> 
+$\frac{V^{2}_1}{2g}+Z_1+\frac{P_1}{\gamma}-\Delta h_f -\Delta h_k=\frac{V^{2}_2}{2g}+Z_2+\frac{P_2}{\gamma}$
+</div>

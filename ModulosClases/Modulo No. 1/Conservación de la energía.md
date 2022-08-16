@@ -40,17 +40,31 @@ Donde,
 
 Esta ecuación, coloquialmente denominada "Ecuación de Bernoulli", es la base de la hidráulica moderna y el pilar de los software de modelación de sistemas a presión. Esta ecuación utilizada en todo el mundo permite la estimación de las diferentes variables hidráulicas que definen un sistema de un fluido en movimiento.
 
-La ecuación de bernoulli, sin considerar pérdidas de energía en un fluido en movimiento, se puede escribir como:
+Esta ecuación permite estimar, en unidades de metros columna de agua (m.c.a) la energía en un punto en un sistema hidráulico a presión. Es posible aplicar esta ecuación para dos puntos distintos del sistema, a lo largo de una misma línea de corriente. 
+
+Definiendo el punto 1, como el punto de inicio del volumen de control y el punto 2 como el punto al final del volumen de control, es posible escribir la ecuación de bernoulli, sin considerar pérdidas de energía así:
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c03dd60f8a2b2e6748c6aa8a048a9a8fe45dc588/ecuaciones/Ecuacion14.PNG" width="350px">
 </div>
 
+Donde, 
+
+ 
+<br> $\frac{V^{2}}{2g}$: corresponde a la columna de energía cinética.
+<br> $\frac{P}{\gamma}$: corresponde a la columna de energía de presión.
+<br> $Z$: corresponde a la columna de energía de posición o potencial.
+
+Tal como en cualquier sistema físico, en los sistemas hidráulicos existen pérdidas de energía. En el caso particular de sistemas con flujo a presión, se pueden identificar dos tipos de pérdidas de energía: Las pérdidas de energía generadas por accesorios y las pérdidas de energía por la fricción o el rozamiento del fluidos en las paredes de la tubería.
+
+Nota: El detalle de las pérdidas de energía por accesorios y por fricción se describe en la actividad "Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción"
+ 
 
 
-- Conceptos y ecuación, explicando los términos.
 - Energía de bombas (general ya que en el módulo 1.4 se ampliará este  tema)
-- Pérdida de Energía (general ya que en el módulo 1.3 se ampliará este  tema)
+
+Nota: El detalle de los sistemas de bombeo y de la ecuación que define la energía generada por la potencia de una bomba en m.c.a se presenta en la actividad "Conceptos de bombas hidráulicas"
+
 - Línea de energía (concepto y aplicación. Agregar dibujo)
 - Linea piezométrica (concepto y aplicación. Agregar dibujo)
 
