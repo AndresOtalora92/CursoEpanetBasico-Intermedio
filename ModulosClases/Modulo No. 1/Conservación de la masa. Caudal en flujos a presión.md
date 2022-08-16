@@ -72,6 +72,11 @@ Para la estimación de un flujo laminar incompresible en una tubería a presión
 
 Para nuestro curso, estas ecuaciones pueden ser utilizadas para comparar y analizar los resultados en tramos de tuberías una vez se ejecute el programa. También pueden ser utilizadas para el predimensionamiento de las tuberías que componen el sistema antes de cargar la geometría definitiva al programa. 
 
+<div align="center">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d533ca3d1ab70564657225da5b6563beb035ddbb/ecuaciones/Ecuacion11.PNG" width="300px">
+</div>
+
+
 Donde,
 
 <br> Q= Caudal de la tubería (m³/s)
