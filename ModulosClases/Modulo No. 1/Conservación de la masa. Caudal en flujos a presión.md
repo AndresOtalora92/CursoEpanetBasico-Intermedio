@@ -73,7 +73,7 @@ Para la estimación de un flujo laminar incompresible en una tubería a presión
 Para nuestro curso, estas ecuaciones pueden ser utilizadas para comparar y analizar los resultados en tramos de tuberías una vez se ejecute el programa. También pueden ser utilizadas para el predimensionamiento de las tuberías que componen el sistema antes de cargar la geometría definitiva al programa. 
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/ead0db5e3ae843a3bc497c937de37da2dc845938/ecuaciones/Ecuacion12.PNG" width="300px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/ead0db5e3ae843a3bc497c937de37da2dc845938/ecuaciones/Ecuacion12.PNG" width="250px">
 </div>
 
 
@@ -82,7 +82,7 @@ Donde,
 <br> Q= Caudal de la tubería (m³/s)
 <br> g = aceleración de la gravedad (m/s²)
 <br> D = Diámetro (m)
-<br> $Delta(P/\gamma)$: Pendiente de la línea piezométrica
+<br> $\Delta(P/\gamma)$: Pendiente de la línea piezométrica
 <br> $\vartheta$: Viscosidad cinemática del fluido (m²/s)
 
 
