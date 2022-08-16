@@ -77,8 +77,8 @@ Donde,
 <br> Q= Caudal de la tubería (m³/s)
 <br> g = aceleración de la gravedad (m/s²)
 <br> D = Diámetro (m)
-<br> $Delta(P/\gamma): Pendiente de la línea piezométrica$
-<br> $\vartheta: Viscosidad cinemática del fluido (m²/s)$
+<br> $Delta(P/\gamma)$: Pendiente de la línea piezométrica
+<br> $\vartheta$: Viscosidad cinemática del fluido (m²/s)
 
 
 | [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/1a82bdf77ecf33746dd6f0104d22f442e454a049/ModulosClases/Modulo%20No.%201/Conceptos%20generales%20de%20flujo%20a%20presi%C3%B3n.md)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/1a82bdf77ecf33746dd6f0104d22f442e454a049/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20energ%C3%ADa.md) |
