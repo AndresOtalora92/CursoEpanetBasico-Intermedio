@@ -60,7 +60,7 @@ Tal como en cualquier sistema físico, en los sistemas hidráulicos existen pér
 Con estas consideraciones, la ecuación de Bernoulli se puede escribir como:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c03dd60f8a2b2e6748c6aa8a048a9a8fe45dc588/ecuaciones/Ecuacion14.PNG" width="350px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/645a15ebde1a4955ea2ad23902c4d6ea8e7cd4a5/ecuaciones/Ecuacion15.PNG" width="350px">
 </div>
 
 Donde, 
