@@ -8,13 +8,16 @@
 <br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
 </div>
 
-Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
+Keywords: `Energía` `Bernoulli` `Línea de Corriente`
 
 ## Introducción.
 
+En este módulo se presentan de manera general los conceptos básicos y las ecuaciones que definen la conservación de la energía en sistemas hidráulicos a presión. Se definirá de manera general los conceptos básicos de la energía cinética, energía potencial y energía de presión. Se describirá de manera general las pérdidas de energía en un sistema a presión y se conceptualizará el uso de la ecuación de Bernoulli para la solución de problemas aplicados. 
 
+## Objetivos.
 
-### Conservación de la masa.
+El objetivo principal de esta actividad es introducir al estudiante en los conceptos relacionados con la conservación de la energía y su aplicación en la cinemática de los fluidos utilizando la ecuación de Bernoulli.
+
 
 
 ### Conservación de la energía total. Ecuación de Bernoulli

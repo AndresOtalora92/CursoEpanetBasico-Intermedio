@@ -13,14 +13,15 @@ Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
 
 ## Introducción.
 
-En este módulo se presentan de manera general los conceptos básicos y las ecuaciones que definen la conservación de la masa y la conservación de la energía en un sistema hidráulica a presión.
+En este módulo se presenta de manera general los conceptos básicos y las ecuaciones que definen la conservación de la masa en un sistema hidráulico a presión. También se definirán las ecuaciones empíricas más utilizadas para la determinación del caudal en una tubería circular con flujo a presión a partir de las propiedades hidráulicas del sistemas, las caracteríticas del fluido y a parti del gradiente de energía.
 
 ## Objetivos.
 
+El objetivo principal de esta actividad es introducir al estudiante en los conceptos relacionados con la conservación de la masa y el repaso de algunas ecuaciones para la estimación de los caudales en un sistema a presión. 
 
 ## Conservación de la masa. Definiciones.
 
-La ley de conservación de la masa o ley de continuidad dice que en un sistema cerrado, la diferencia entre todas las entradas y todas las salidas son iguales al cambio del volumen con respecto al tiempo.
+La ley de conservación de la masa o ley de continuidad versa que en un sistema cerrado, la diferencia entre todas las entradas y todas las salidas son iguales al cambio del volumen con respecto al tiempo.
 
 En la siguiente expresión se presenta la ecuación de continuidad para un flujo laminar e incompresible.
 
@@ -106,5 +107,5 @@ Donde,
 
 Para nuestro curso, estas ecuaciones pueden ser utilizadas para comparar y analizar los resultados en tramos de tuberías una vez se ejecute el programa. También pueden ser utilizadas para el predimensionamiento de las tuberías (definición de un primer diámetro) que componen el sistema antes de cargar la geometría definitiva al programa. 
 
-| [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/1a82bdf77ecf33746dd6f0104d22f442e454a049/ModulosClases/Modulo%20No.%201/Conceptos%20generales%20de%20flujo%20a%20presi%C3%B3n.md)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/1a82bdf77ecf33746dd6f0104d22f442e454a049/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20energ%C3%ADa.md) |
+| [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/1a82bdf77ecf33746dd6f0104d22f442e454a049/ModulosClases/Modulo%20No.%201/Conceptos%20generales%20de%20flujo%20a%20presi%C3%B3n.md)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/959964c2f9aa2103d471bfcd0241f97062203296/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20energ%C3%ADa.md) |
 |-----------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
