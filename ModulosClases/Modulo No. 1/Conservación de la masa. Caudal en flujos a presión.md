@@ -49,7 +49,7 @@ El flujo másico corresponde a la cantidad de masa que atraviesa una sección tr
 El flujo másico se puede expresar como:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d533ca3d1ab70564657225da5b6563beb035ddbb/ecuaciones/Ecuacion10.PNG" width="200px">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d533ca3d1ab70564657225da5b6563beb035ddbb/ecuaciones/Ecuacion10.PNG" width="150px">
 </div>
 
 Con base en lo anterior, la ecuación de continuidad para un sistema permanente y sin acumulación corresponde a:
