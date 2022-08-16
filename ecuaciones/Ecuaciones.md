@@ -38,3 +38,5 @@ $m\dot{}=Q*\rho$
 <div align="center"> 
 $\sum_{}Q*\rho_{entrada}-\sum_{}Q*\rho_{salida}=0$
 </div>
+
+Q = \frac{\pi*g*D^4*\Delta(P/\gamma)}{128*\vartheta*L}

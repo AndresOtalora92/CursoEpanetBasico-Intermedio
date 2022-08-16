@@ -60,10 +60,26 @@ Con base en lo anterior, la ecuación de continuidad para un sistema permanente 
 
 Está última ecuación es utilizada por EPANET para la aplicación de su módulo de "simulación de calidad del agua".
 
+## Ecuaciones experimentales para la estimación de los caudales en tuberías a presión. 
 
-ECUACIÓN DE PONSE..
-ECUACIONES PARA ESTIMAR EL CAUDAL EN FUNCION DEL GRADIENTE HIDRÁULICO
-EJERCICIOS
+Existen diferentes ecuaciones empíricas para la estimación del caudal en una tubería a presión. Estas ecuaciones en general depende de las propiedades del fluido transportado y del gradiente hidráulico. 
+
+A continuación se presentan dos de las ecuaciones más utilizadas para la estimación del caudal en un sistema a presión.
+
+###  Ecuación de Hagen-Poiseuille
+
+Para la estimación de un flujo laminar incompresible en una tubería a presión de sección circular y en condiciones de régimen permanente para flujos con números de Reynolds menores a 2000, es posible utilizar la ecuación Hagen - Poiseuille.
+
+Para nuestro curso, estas ecuaciones pueden ser utilizadas para comparar y analizar los resultados en tramos de tuberías una vez se ejecute el programa. También pueden ser utilizadas para el predimensionamiento de las tuberías que componen el sistema antes de cargar la geometría definitiva al programa. 
+
+Donde,
+
+<br> Q= Caudal de la tubería (m³/s)
+<br> g = aceleración de la gravedad (m/s²)
+<br> D = Diámetro (m)
+<br> $Delta(P/\gamma): Pendiente de la línea piezométrica$
+<br> $\vartheta: Viscosidad cinemática del fluido (m²/s)$
+
 
 | [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/1a82bdf77ecf33746dd6f0104d22f442e454a049/ModulosClases/Modulo%20No.%201/Conceptos%20generales%20de%20flujo%20a%20presi%C3%B3n.md)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/1a82bdf77ecf33746dd6f0104d22f442e454a049/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20energ%C3%ADa.md) |
 |-----------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
