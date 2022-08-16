@@ -42,19 +42,25 @@ En la siguiente figura se muestra una representación del volumen de control de 
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/21c6dfa9c6ec4a19b5417773f9f65212f2912332/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.9.PNG" width="300px">
 </div>
 
-En algunos  casos particulares, cuando la densidad del fluido que ingresa a un volumen de control es diferentes a la densidad del fluido que sale, la ecuación de continuidad debe expresarse en función del flujo másico. El flujo másico corresponde a la cantidad de masa que atraviesa una sección transversal. 
+En algunos  casos particulares, cuando la densidad del fluido que ingresa a un volumen de control es diferente a la densidad del fluido que sale, la ecuación de continuidad debe expresarse en función del flujo másico. 
+
+El flujo másico corresponde a la cantidad de masa que atraviesa una sección transversal. 
 
 El flujo másico se puede expresar como:
 
+<div align="center">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d533ca3d1ab70564657225da5b6563beb035ddbb/ecuaciones/Ecuacion10.PNG" width="300px">
+</div>
 
-Con base en lo anterior la ecuación de continuidad para un sistema permanente y sin acumulación corresponde a:
+Con base en lo anterior, la ecuación de continuidad para un sistema permanente y sin acumulación corresponde a:
+
+<div align="center">
+  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d533ca3d1ab70564657225da5b6563beb035ddbb/ecuaciones/Ecuacion11.PNG" width="300px">
+</div>
+
+Está última ecuación es utilizada por EPANET para la aplicación de su módulo de "simulación de calidad del agua".
 
 
-
-
-FALTA:
-
-FLUJO MÁSICO
 ECUACIÓN DE PONSE..
 ECUACIONES PARA ESTIMAR EL CAUDAL EN FUNCION DEL GRADIENTE HIDRÁULICO
 EJERCICIOS
