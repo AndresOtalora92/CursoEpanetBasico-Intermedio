@@ -43,3 +43,6 @@ $\sum_{}Q*\rho_{entrada}-\sum_{}Q*\rho_{salida}=0$
 $Q = \frac{\pi*g*D^4*\Delta(P/\gamma)}{128*\vartheta*L}$
 </div>
 
+<div align="center"> 
+$Q=0.849*C*R^{0.63}*Sf^{0.54}*A$
+</div>

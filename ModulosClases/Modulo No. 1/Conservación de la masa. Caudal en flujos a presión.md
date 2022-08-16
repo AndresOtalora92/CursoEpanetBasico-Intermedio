@@ -98,6 +98,7 @@ La ecuación en unidades del sistema internacional se expresa de la siguiente ma
 Donde,
 
 <br> Q= Caudal de la tubería (m³/s)
+<br> A= Área Hidráulica (m²)
 <br> R = Radio Hidráulico (m). Para tuberías circular D/4
 <br> D = Diámetro (m)
 <br> C = Coeficiente de rugosidad de Hazen - William
