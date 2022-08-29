@@ -73,7 +73,7 @@ Si se tiene en cuenta el perfil de velocidades o lo que es lo mismo, la variaci�
 
 ### Densidad y Viscosidad.
 
-<b> - Densidad de los fluidos: </b> corresponde a una propiedad intrínseca de la material, que en términos simples, corresponde al peso del elemento, en este caso del fluido, por unidad de volumen. En los fluidos líquidos, la densidad aumenta a medida que la temperatura disminuye. En los fluidos gasesos, la variación de la densidad es función del tipo gas y de la presión. En los gases ideales la densidad del fluidos gasesos es inversamente proporcional a la temperatura.
+<b> - Densidad de los fluidos: </b> corresponde a una propiedad intrínseca de la material, que en términos simples, corresponde al peso del elemento, en este caso del fluido, por unidad de volumen. En los fluidos líquidos, la densidad aumenta a medida que la temperatura disminuye. En los fluidos gasesos, la variación de la densidad es función del tipo gas y de la presión. En los gases ideales la densidad del fluido gaseoso es inversamente proporcional a la temperatura.
 
 <br>
 

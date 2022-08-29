@@ -63,7 +63,7 @@ Con estas consideraciones, la ecuación de Bernoulli se puede escribir como:
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/645a15ebde1a4955ea2ad23902c4d6ea8e7cd4a5/ecuaciones/Ecuacion15.PNG" width="350px">
 </div>
 
-Donde, 
+Donde, .
 
  
 <br> $\sum_{}^{}\Delta h_f $: Pérdidas de energía debido a la fricción.
