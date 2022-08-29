@@ -87,7 +87,7 @@ Donde,
 
 ###  Ecuación de Hazen - William 
 
-Otra ecuación muy utilizada para la estimación del caudal en tuberías con flujos a presión es la ecuación de Hazen - William. Esta ecuación es ampliamente aplicada para el diseño de redes de acueductos.
+Otra ecuación muy utilizada para la estimación del caudal en tuberías con flujos a presión es la ecuación de Hazen - William. Esta ecuación es ampliamente aplicada para el diseño de redes de acueductos.,
 
 La ecuación en unidades del sistema internacional se expresa de la siguiente manera.:
 
