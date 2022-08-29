@@ -11,7 +11,7 @@
 
 Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
 
-## Introducción..
+## Introducción.
 
 En este módulo se presenta de manera general los conceptos básicos y las ecuaciones que definen la conservación de la masa en un sistema hidráulico a presión. También se definirán las ecuaciones empíricas más utilizadas para la determinación del caudal en una tubería circular con flujo a presión a partir de las propiedades hidráulicas del sistemas, las caracteríticas del fluido y a parti del gradiente de energía.
 
