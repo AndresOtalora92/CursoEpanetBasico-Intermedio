@@ -89,7 +89,7 @@ Donde,
 
 Otra ecuación muy utilizada para la estimación del caudal en tuberías con flujos a presión es la ecuación de Hazen - William. Esta ecuación es ampliamente aplicada para el diseño de redes de acueductos.
 
-La ecuación en unidades del sistema internacional se expresa de la siguiente manera:
+La ecuación en unidades del sistema internacional se expresa de la siguiente manera.:
 
 <div align="center">
   <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/34b7e818dc9abed372127be13ed99ea4ee1e20f1/ecuaciones/Ecuacion13.PNG" width="350px">
