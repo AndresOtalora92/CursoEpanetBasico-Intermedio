@@ -85,7 +85,7 @@ Nota: El detalle de los sistemas de bombeo y de la ecuación que define la energ
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.08.30 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   6   |
+| 2022.08.30 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   8   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
