@@ -54,3 +54,8 @@ $\frac{V^{2}_1}{2g}+Z_1+\frac{P_1}{\gamma}=\frac{V^{2}_2}{2g}+Z_2+\frac{P_2}{\ga
 <div align="center"> 
 $\frac{V^{2}_1}{2g}+Z_1+\frac{P_1}{\gamma}-\sum_{}^{}\Delta h_f-\sum_{}^{}\Delta h_k=\frac{V^{2}_2}{2g}+Z_2+\frac{P_2}{\gamma}$
 </div>
+
+<div align="center"> 
+$\frac{P_w}{Q*\gamma}$
+</div>
+
