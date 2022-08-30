@@ -157,7 +157,7 @@ En la siguiente figura se muestra un ejemplo de como se ve el filamento de tinta
 
 
 <div align="center">
-  <img src="Imagenes/FiguraNo1.3.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.1.3.PNG" width="400px">
 </div>
 
 
@@ -182,7 +182,7 @@ Son muchas las aplicaciones de las redes que trabajan con flujos a presión. Ent
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
-  <img src="Imagenes/Figuras%20No.%201.4.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.1.4.PNG" width="400px">
 </div>
 
 <b>- Acueductos:</b> Corresponden a las redes que permite el transporte de agua potable desde una fuente hasta una población. En general, las fuentes de abastecimiento de los acueductos corresponde a embalses, ríos o pozos. 
@@ -190,7 +190,7 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
-  <img src="Imagenes/Figuras%20No.%201.5.PNG" width="350px">
+  <img src="Imagenes/FiguraNo.1.5.PNG" width="350px">
 </div>
 
 
@@ -201,7 +201,7 @@ Las redes hidrosanitarias corresponden a las redes internas en las edificaciones
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
-    <img src="Imagenes/Figuras%20No.%201.6.PNG" width="400px">
+    <img src="Imagenes/FiguraNo.1.6.PNG" width="400px">
 </div>
 
 ### Tipos de redes. Descripción.
@@ -214,7 +214,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuest
 
 <div align="center">
 
-  <img src="Imagenes/Figuras%20No.%201.7.PNG" width="450px">
+  <img src="Imagenes/FiguraNo.1.7.PNG" width="450px">
 
 </div>
 
@@ -224,7 +224,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuest
 
 <div align="center">
 
-  <img src="Imagenes/Figuras%20No.%201.8.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.1.8.PNG" width="400px">
 
 </div>
 
