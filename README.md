@@ -1,7 +1,7 @@
 # Bienvenido al curso de Epanet. Uso y aplicaciones. 
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/5e4e6f45e715bf4b5054fa289e045ede8dc073c9/.jpg/IconoEpanetV3.png" width="600px">
+  <img src=".icons/IconoEpanetV3.png" width="600px">
 </div>
 
 <div align="center">
@@ -50,7 +50,7 @@ A continuación, se presenta el contenido programático de los tres módulos que
 
 | Actividad                                                                                                                                                                                                                                                                                                                       | Alcance                                             | 
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| [Conceptos generales de los flujos a presión](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/147f4ac0a562ef11b5f461d27d56e3ecbfc08a82/ModulosClases/Modulo%20No.%201/Conceptos%20generales%20de%20flujo%20a%20presi%C3%B3n.md)                                                                            | Descripción de los conceptos generales de los flujos a presión. Definiciones conceptuales de los fundamentos de la hidráulica. Descripción y detalle de las ecuaciones básicas que rigen los sistemas presurizados.                                          | 
+| [Conceptos generales de los flujos a presión](ModulosClases/Modulo%20No.%201/Conceptos%20generales%20de%20flujo%20a%20presión.md)                                                                            | Descripción de los conceptos generales de los flujos a presión. Definiciones conceptuales de los fundamentos de la hidráulica. Descripción y detalle de las ecuaciones básicas que rigen los sistemas presurizados.                                          | 
 | [Conservación de la masa. Caudal en flujos a presión](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/main/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20masa.%20Caudal%20en%20flujos%20a%20presi%C3%B3n.md)                                            | Análisis y aplicación de la ecuación de conservación de energía. Aplicación de la ecuación de Bernoulli para sistemas con flujos a presión. Descripción de las partes que componen las ecuaciones.| 
 | [Conservación de la energía](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/959964c2f9aa2103d471bfcd0241f97062203296/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20energ%C3%ADa.md)                                                                                                        | Análisis y aplicación de la ecuación de conservación de energía. Aplicación de la ecuación de Bernoulli para sistemas con flujos a presión. Descripción de las partes que componen las ecuaciones.|  
 | [Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción] | Descripción de las pérdidas de energía localizadas utilizando la ecuación de Darcy - Weisbach.Revisión de los coeficientes de rugosidad de las tuberías. Análisis de las ecuación de pérdidas localizadas. Revisión de coeficientes de pérdidas localizadas. |  
