@@ -26,10 +26,10 @@ El objetivo principal de esta actividad es permitir que el estudiante aprenda, r
 
 El flujo corresponde al movimiento de un fluido en una superficie sólida, tomando como referencia un sistema inercial. Un flujo a presión corresponde a un flujo en el cual el fluido ocupa la totalidad del área del conducto que conduce que lo conduce. Por definición, un flujo a presión presenta presiones distintas a la presión atmosférica. 
 
-En la Figura 1.1 se presenta gráficamente este concepto.
+En la siguiente figura se presenta gráficamente este concepto.
 
 <div align="center">
-  <img src="Imagenes/Figuras%20No.%201.1a.PNG" width="400px">
+  <img src="Imagenes/Figuras20No.%201.1a.PNG" width="400px">
 </div>
 
 >Figura 1.1 Gradiente de presiones en una tubería con flujo a presión[^1].
