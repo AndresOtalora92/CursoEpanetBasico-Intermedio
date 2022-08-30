@@ -224,7 +224,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuest
 
 <div align="center">
 
-  <img src="Imagenes/FiguraNo.1.8.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.1.7a" width="400px">
 
 </div>
 
