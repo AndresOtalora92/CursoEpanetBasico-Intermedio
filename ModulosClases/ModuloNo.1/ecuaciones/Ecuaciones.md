@@ -56,6 +56,6 @@ $\frac{V^{2}_1}{2g}+Z_1+\frac{P_1}{\gamma}-\sum_{}^{}\Delta h_f-\sum_{}^{}\Delta
 </div>
 
 <div align="center"> 
-$\frac{P_w}{Q*\gamma}$
+$H_p=\frac{P_w}{Q*\gamma}$
 </div>
 

@@ -80,7 +80,15 @@ Nota: El detalle de las pérdidas de energía por accesorios y por fricción se 
  
 - Energía de bombas
 
-Tal como se describirá con más detalle en el apartado "Bombas hidráulicas" una bomba hidráulica corresponde a una máquina hidráulica que proporciona energía al sistema a partir de una diferencia de presión y un aumento de la velocidad.
+Tal como se describirá con más detalle en el apartado "Bombas hidráulicas" una bomba hidráulica corresponde a una máquina hidráulica que proporciona energía al sistema a partir de una diferencia de presión y un aumento de la velocidad. 
+
+En general la energía como columna de agua es función de la potencia hidráulica de la bomba (potencia mécanica por la eficiencia de la bomba), el caudal y el peso específico del fluido. A continuación se presenta la potencial de una bomba como metros columna de agua (m.c.a.)
+
+OJO!!!
+<div align="center">
+  <img src="ecuaciones/Ecuacion14.PNG" width="350px">
+</div>
+
 
 Nota: El detalle de los sistemas de bombeo y de la ecuación que define la energía generada por la potencia de una bomba en m.c.a se presenta en la actividad "Conceptos de bombas hidráulicas"
 
