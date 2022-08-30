@@ -1,7 +1,7 @@
 # Curso de Epanet - Módulo 1 - Conceptos generales de los flujos a presión. 
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/5e4e6f45e715bf4b5054fa289e045ede8dc073c9/.jpg/IconoEpanetV3.png" width="600px">
+  <img src="../../.icons/IconoEpanetV3.png" width="600px">
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@ En la Figura 1.1 se presenta gráficamente este concepto.
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/2e2c3acbd34f6d67e573b2b9f52194832d4b6a83/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.1a.PNG" width="400px">
+  <img src="/Imagenes/Figuras%20No.%201.1a.PNG" width="400px">
 </div>
 
 >Figura 1.1 Gradiente de presiones en una tubería con flujo a presión[^1].
