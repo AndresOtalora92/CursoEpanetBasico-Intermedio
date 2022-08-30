@@ -1,12 +1,13 @@
 # Curso de Epanet - Módulo 1 - Conservación de la energía
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/5e4e6f45e715bf4b5054fa289e045ede8dc073c9/.jpg/IconoEpanetV3.png" width="600px">
+  <img src="../../.icons/IconoEpanetV3.png" width="600px">
 </div>
 
 <div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
 <br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
 </div>
+
 
 Keywords: `Energía` `Bernoulli` `Línea de Corriente`
 
@@ -27,7 +28,7 @@ El objetivo principal de esta actividad es introducir al estudiante en los conce
 En la siguiente expresión se presenta la ecuación que define de manera simplificada la primera ley de la termodinámica.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/7adbd7306d46c6691be5d78d4677b544672284fe/ecuaciones/Ecuacion9.PNG" width="200px">
+  <img src="ecuaciones/Ecuacion9.PNG" width="200px">
 </div>
 
 Donde,
@@ -45,7 +46,7 @@ Esta ecuación permite estimar, en unidades de metros columna de agua (m.c.a) la
 Definiendo el punto 1, como el punto de inicio del volumen de control y el punto 2 como el punto al final del volumen de control, es posible escribir la ecuación de bernoulli, sin considerar pérdidas de energía así:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c03dd60f8a2b2e6748c6aa8a048a9a8fe45dc588/ecuaciones/Ecuacion14.PNG" width="350px">
+  <img src="ecuaciones/Ecuacion14.PNG" width="350px">
 </div>
 
 Donde, 
@@ -60,7 +61,7 @@ Tal como en cualquier sistema físico, en los sistemas hidráulicos existen pér
 Con estas consideraciones, la ecuación de Bernoulli se puede escribir como:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/645a15ebde1a4955ea2ad23902c4d6ea8e7cd4a5/ecuaciones/Ecuacion15.PNG" width="350px">
+  <img src="ecuaciones/Ecuacion15.PNG" width="350px">
 </div>
 
 Donde, .
@@ -80,4 +81,15 @@ Nota: El detalle de los sistemas de bombeo y de la ecuación que define la energ
 - Línea de energía (concepto y aplicación. Agregar dibujo)
 - Linea piezométrica (concepto y aplicación. Agregar dibujo)
 
+### Control de versiones
 
+| Versión    | Descripción   | Autor                                      | Horas |
+|------------|:--------------|--------------------------------------------|:-----:|
+| 2022.08.30 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   6   |
+
+_CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
+
+_¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
+
+| [Anterior](Conservacion_masa.Caudal_flujos_presion) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora] | [Siguiente] |
+|----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------|
