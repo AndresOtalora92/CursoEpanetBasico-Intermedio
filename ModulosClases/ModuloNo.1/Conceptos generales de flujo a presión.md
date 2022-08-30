@@ -40,7 +40,7 @@ Por definición, el gradiente hidráulico se puede expresar como:
 
 <div align="center">
 
-  <img src="ModulosClases/Modulo%20No.%201/ecuaciones/Ecuacion1.PNG" width="200px">
+  <img src="ecuaciones/Ecuacion1.PNG" width="200px">
 
 </div>
 
@@ -53,7 +53,7 @@ Si se asume que los vectores de velocidad del flujo a lo largo de la vertical de
 
 <div align="center">
 
-  <img src="ModulosClases/Modulo%20No.%201/ecuaciones/Ecuacion6.PNG" width="150px">
+  <img src="ecuaciones/Ecuacion6.PNG" width="150px">
 
 </div>
 
@@ -66,7 +66,7 @@ Si se tiene en cuenta el perfil de velocidades o lo que es lo mismo, la variaci�
 
 <div align="center">
 
-  <img src="ModulosClases/Modulo%20No.%201/ecuaciones/Ecuacion3.PNG" width="200px">
+  <img src="ecuaciones/Ecuacion3.PNG" width="200px">
 
 </div>
 
@@ -112,7 +112,7 @@ Corresponde a la fuerza por unidad de área ejercicida por un flujo (fluido en m
 A continuación se presenta una de las expresiones más usada para la estimación del esfuerzo cortante en una tubería a presión. Esta expresión es función del gradiente hidráulico:
 
 <div align="center">
-  <img src="ModulosClases/Modulo%20No.%201/ecuaciones/Ecuacion4.PNG" width="150px">
+  <img src="ecuaciones/Ecuacion4.PNG" width="150px">
 </div>
 
 Donde, 
@@ -131,7 +131,7 @@ Este número adimensional desarrollado por Osborne Reynolds, permite clasificar 
 En la siguiente ecuación se presenta el número de Reynolds.
 
 <div align="center">
-  <img src="ModulosClases/Modulo%20No.%201/ecuaciones/Ecuacion5.PNG" width="200px">
+  <img src="ecuaciones/Ecuacion5.PNG" width="200px">
 </div>
 
 Donde, 
@@ -157,7 +157,7 @@ En la siguiente figura se muestra un ejemplo de como se ve el filamento de tinta
 
 
 <div align="center">
-  <img src="Imagenes/Figuras%20No.%201.3.PNG" width="400px">
+  <img src="Imagenes/FiguraNo1.3.PNG" width="400px">
 </div>
 
 
