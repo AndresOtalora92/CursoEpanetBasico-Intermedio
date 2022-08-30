@@ -232,4 +232,4 @@ En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuest
 |-----------|-------------|----------------------------------------------------------------------------------------------------------|
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión (2019).
-[^2]: Frank M. White. Mecanica De Fluidos (2020).
+[^2]: Frank M. White. Mecanica De Fluidos (2020)..
