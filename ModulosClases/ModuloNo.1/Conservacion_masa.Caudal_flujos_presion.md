@@ -26,13 +26,13 @@ La ley de conservación de la masa o ley de continuidad versa que en un sistema 
 En la siguiente expresión se presenta la ecuación de continuidad para un flujo laminar e incompresible.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b911cf646e86e32832b69d3ec579c52bee55861f/ecuaciones/Ecuacion7.PNG" width="300px">
+  <img src="ecuaciones/Ecuacion7.PNG" width="300px">
 </div>
 
 Para sistemas hidráulicos donde no existe acumulación temporal del fluido y también cuando el flujo está en codniciones permanentes, la ecuación de continuidad se puede presentar así:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b911cf646e86e32832b69d3ec579c52bee55861f/ecuaciones/Ecuacion8.PNG" width="300px">
+  <img src="ecuaciones/Ecuacion8.PNG" width="300px">
 </div>
 
 Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los nodos que componen una red. Para el uso de los signos de estas ecuaciones, se utiliza un sistema nemotécnico el asume que los caudales que ingresan al volumen de control son negativos y los caudales que salen del volumen de control son negativos. 
@@ -40,7 +40,7 @@ Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los
 En la siguiente figura se muestra una representación del volumen de control de una tubería que trabaja con flujo a presión. En esta figura se detallan las fronteras en las cuales se definen los caudales de entrada y los caudales de salida.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/21c6dfa9c6ec4a19b5417773f9f65212f2912332/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.9.PNG" width="300px">
+  <img src="Imagenes/FiguraNo.1.9.PNG" width="300px">
 </div>
 
 En algunos  casos particulares, cuando la densidad del fluido que ingresa a un volumen de control es diferente a la densidad del fluido que sale, la ecuación de continuidad debe expresarse en función del flujo másico. 
@@ -50,13 +50,13 @@ El flujo másico corresponde a la cantidad de masa que atraviesa una sección tr
 El flujo másico se puede expresar como:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d533ca3d1ab70564657225da5b6563beb035ddbb/ecuaciones/Ecuacion10.PNG" width="150px">
+  <img src="ecuaciones/Ecuacion10.PNG" width="150px">
 </div>
 
 Con base en lo anterior, la ecuación de continuidad para un sistema permanente y sin acumulación corresponde a:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d533ca3d1ab70564657225da5b6563beb035ddbb/ecuaciones/Ecuacion11.PNG" width="300px">
+  <img src="ecuaciones/Ecuacion11.PNG" width="300px">
 </div>
 
 Está última ecuación es utilizada por EPANET para la aplicación de su módulo de "simulación de calidad del agua".
@@ -72,7 +72,7 @@ A continuación se presentan dos de las ecuaciones más utilizadas para la estim
 Para la estimación de un flujo laminar incompresible en una tubería a presión de sección circular y en condiciones de régimen permanente para flujos con números de Reynolds menores a 2000, es posible utilizar la ecuación Hagen - Poiseuille.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/ead0db5e3ae843a3bc497c937de37da2dc845938/ecuaciones/Ecuacion12.PNG" width="250px">
+  <img src="ecuaciones/Ecuacion12.PNG" width="250px">
 </div>
 
 
@@ -92,7 +92,7 @@ Otra ecuación muy utilizada para la estimación del caudal en tuberías con flu
 La ecuación en unidades del sistema internacional se expresa de la siguiente manera.:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/34b7e818dc9abed372127be13ed99ea4ee1e20f1/ecuaciones/Ecuacion13.PNG" width="350px">
+  <img src="ecuaciones/Ecuacion13.PNG" width="350px">
 </div>
 
 
@@ -117,5 +117,5 @@ _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
-| [Anterior](../../Readme.md) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora] | [Siguiente](Conservacion_masa.Caudal_flujos_presion.md) |
-|-----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------|
+| [Anterior](Conceptos_generales_flujo_a_presion.md) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora] | [Siguiente](Conservacion_de_energia.md) |
+|----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
