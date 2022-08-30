@@ -37,6 +37,12 @@ Donde,
 <br>W= Trabajo [J]</b>
 <br>E= Energía total en el sistema [J]</b>
 
+En la siguiente figura se aprecia de manera simplificada este concepto.
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.10.PNG" width="200px">
+</div>
+
 - <b> Ecuación de Bernoulli: </b> Daniel Bernoulli en 1738 en su obra "Hidrodinámica" determinó, a partir de un análisis diferencial en un volumen de control, una ecuación que permite determinar la transformación de la energía en un fluido en movimiento equivalente a la ecuación que define el cambio de la energía en un sistema termodinámico. 
 
 Esta ecuación, coloquialmente denominada "Ecuación de Bernoulli", es la base de la hidráulica moderna y el pilar de los software de modelación de sistemas a presión. Esta ecuación utilizada en todo el mundo permite la estimación de las diferentes variables hidráulicas que definen un sistema de un fluido en movimiento.
