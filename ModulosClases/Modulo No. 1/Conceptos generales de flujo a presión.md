@@ -29,8 +29,7 @@ El flujo corresponde al movimiento de un fluido en una superficie sólida, toman
 En la Figura 1.1 se presenta gráficamente este concepto.
 
 <div align="center">
-
-  <img src="/Imagenes/Figuras%20No.%201.1a.PNG" width="400px">
+  <img src="Imagenes/Figuras%20No.%201.1a.PNG" width="400px">
 </div>
 
 >Figura 1.1 Gradiente de presiones en una tubería con flujo a presión[^1].
