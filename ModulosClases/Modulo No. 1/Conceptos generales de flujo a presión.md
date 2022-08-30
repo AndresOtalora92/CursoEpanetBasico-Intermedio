@@ -40,7 +40,7 @@ Por definición, el gradiente hidráulico se puede expresar como:
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/4847e332f2955fb10e068b43afe10eb44e628e18/ecuaciones/Ecuacion1.PNG" width="200px">
+  <img src="ModulosClases/Modulo%20No.%201/ecuaciones/Ecuacion1.PNG" width="200px">
 
 </div>
 
@@ -49,11 +49,11 @@ Por definición, el gradiente hidráulico se puede expresar como:
 
 En términos generales, el caudal corresponde a la cantidad de fluido que atraviesa una sección transversal definida en un tiempo determinado. Las unidades del caudal usualmente utilizadas en la ingeniería aplicada corresponden a m³/s, L/s y ft³/s.
 
-Si se asume que los vectores de velocidad del flujo a lo largo de la vertical de la sección transveral que contiene es flujo es uniforme, posible definir el caudal a partir de la siguiente expresión:
+Si se asume que los vectores de velocidad del flujo a lo largo de la vertical de la sección transversal que contiene es flujo es uniforme, posible definir el caudal a partir de la siguiente expresión:
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/afab8848680381d32398accb9c7a3e528da39c4e/ecuaciones/Ecuacion6.PNG" width="150px">
+  <img src="ModulosClases/Modulo%20No.%201/ecuaciones/Ecuacion6.PNG" width="150px">
 
 </div>
 
@@ -66,7 +66,7 @@ Si se tiene en cuenta el perfil de velocidades o lo que es lo mismo, la variaci�
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion3.PNG" width="200px">
+  <img src="ModulosClases/Modulo%20No.%201/ecuaciones/Ecuacion3.PNG" width="200px">
 
 </div>
 
@@ -112,7 +112,7 @@ Corresponde a la fuerza por unidad de área ejercicida por un flujo (fluido en m
 A continuación se presenta una de las expresiones más usada para la estimación del esfuerzo cortante en una tubería a presión. Esta expresión es función del gradiente hidráulico:
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/64cf7b22fee77e0c9b79e395d9e6c3347a3bf65b/ecuaciones/Ecuacion4.PNG" width="150px">
+  <img src="ModulosClases/Modulo%20No.%201/ecuaciones/Ecuacion4.PNG" width="150px">
 </div>
 
 Donde, 
@@ -131,7 +131,7 @@ Este número adimensional desarrollado por Osborne Reynolds, permite clasificar 
 En la siguiente ecuación se presenta el número de Reynolds.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/cb4d3c1ade36c790faa5e87fa5f849da3e4e51de/ecuaciones/Ecuacion5.PNG" width="200px">
+  <img src="ModulosClases/Modulo%20No.%201/ecuaciones/Ecuacion5.PNG" width="200px">
 </div>
 
 Donde, 
@@ -157,7 +157,7 @@ En la siguiente figura se muestra un ejemplo de como se ve el filamento de tinta
 
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/a034c28cfd68cf4cca1b0e7565e40ac925cf0a76/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.3.PNG" width="400px">
+  <img src="Imagenes/Figuras%20No.%201.3.PNG" width="400px">
 </div>
 
 
@@ -182,7 +182,7 @@ Son muchas las aplicaciones de las redes que trabajan con flujos a presión. Ent
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.4.PNG" width="400px">
+  <img src="Imagenes/Figuras%20No.%201.4.PNG" width="400px">
 </div>
 
 <b>- Acueductos:</b> Corresponden a las redes que permite el transporte de agua potable desde una fuente hasta una población. En general, las fuentes de abastecimiento de los acueductos corresponde a embalses, ríos o pozos. 
@@ -190,7 +190,7 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.5.PNG" width="350px">
+  <img src="Imagenes/Figuras%20No.%201.5.PNG" width="350px">
 </div>
 
 
@@ -201,7 +201,7 @@ Las redes hidrosanitarias corresponden a las redes internas en las edificaciones
 En la siguiente imagen se presenta un ejemplo de estas redes.
 
 <div align="center">
-    <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/c20a650d6356260a96d940e3a1c2df40c4e1191e/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.6.PNG" width="400px">
+    <img src="Imagenes/Figuras%20No.%201.6.PNG" width="400px">
 </div>
 
 ### Tipos de redes. Descripción.
@@ -214,7 +214,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuest
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d3e14012243523316c9bb5c3d7932bda146077f9/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.7.PNG" width="450px">
+  <img src="Imagenes/Figuras%20No.%201.7.PNG" width="450px">
 
 </div>
 
@@ -224,7 +224,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuest
 
 <div align="center">
 
-  <img src="https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/d3e14012243523316c9bb5c3d7932bda146077f9/ModulosClases/Modulo%20No.%201/Imagenes/Figuras%20No.%201.8.jpg" width="400px">
+  <img src="Imagenes/Figuras%20No.%201.8.PNG" width="400px">
 
 </div>
 
