@@ -224,12 +224,23 @@ En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuest
 
 <div align="center">
 
-  <img src="Imagenes/FiguraNo.1.7a" width="400px">
+  <img src="Imagenes/FiguraNo.1.7a.jpg" width="400px">
 
 </div>
 
-| [:arrow_backward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki)| [:house:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/wiki) | [:arrow_forward:](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/main/ModulosClases/Modulo%20No.%201/Conservaci%C3%B3n%20de%20la%20masa.%20Caudal%20en%20flujos%20a%20presi%C3%B3n.md) |
-|-----------|-------------|----------------------------------------------------------------------------------------------------------|
+### Control de versiones
+
+| Versión    | Descripción   | Autor                                      | Horas |
+|------------|:--------------|--------------------------------------------|:-----:|
+| 2022.08.30 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   6   |
+
+_CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
+
+_¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
+
+| [Anterior](../../Readme.md) | [:house: Inicio](../../Readme.md) | [:beginner: Ayuda / Colabora] | [Siguiente](../CollabTools) |
+|-----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------|
+
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión (2019).
 [^2]: Frank M. White. Mecanica De Fluidos (2020)..
