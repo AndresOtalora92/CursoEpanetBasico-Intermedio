@@ -109,7 +109,7 @@ En la siguiente figura se presenta un esquema general de la línea de energía y
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.08.30 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   8   |
+| 2022.08.30 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   5   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 

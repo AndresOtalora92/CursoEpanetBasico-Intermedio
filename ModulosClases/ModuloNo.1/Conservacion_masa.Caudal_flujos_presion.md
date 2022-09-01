@@ -110,7 +110,7 @@ Para nuestro curso, estas ecuaciones pueden ser utilizadas para comparar y anali
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.08.30 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   6   |
+| 2022.08.30 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   5   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
