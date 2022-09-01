@@ -78,7 +78,7 @@ Donde, .
 
 Nota: El detalle de las pérdidas de energía por accesorios y por fricción se describe en la actividad "Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción"
  
-- Energía de bombas
+- Máquinas hidráulica. Bombas Hidráulicas.
 
 Tal como se describirá con más detalle en el apartado "Bombas hidráulicas" una bomba hidráulica corresponde a una máquina hidráulica que proporciona energía al sistema a partir de una diferencia de presión y un aumento de la velocidad. 
 
@@ -115,5 +115,5 @@ _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
-| [Anterior](Conservacion_masa.Caudal_flujos_presion.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente] |
+| [Anterior](Conservacion_masa.Caudal_flujos_presion.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](Perdidas_energia.%20Perdida_localizadas_perdidas_friccion.md) |
 |-------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------|
