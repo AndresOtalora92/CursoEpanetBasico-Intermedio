@@ -77,7 +77,6 @@ Para la estimación de un flujo laminar incompresible en una tubería a presión
 
 
 Donde,
-
 <br> Q= Caudal de la tubería (m³/s)
 <br> g = aceleración de la gravedad (m/s²)
 <br> D = Diámetro (m)
