@@ -13,7 +13,7 @@ Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
 
 ## Introducción.
 
-En este módulo se presenta de manera general los conceptos básicos y las ecuaciones que definen la conservación de la masa en un sistema hidráulico a presión. También se definirán las ecuaciones empíricas más utilizadas para la determinación del caudal en una tubería circular con flujo a presión a partir de las propiedades hidráulicas del sistemas, las caracteríticas del fluido y a parti del gradiente de energía.
+En este módulo se presenta de manera general los conceptos básicos y las ecuaciones que definen la conservación de la masa en un sistema hidráulico a presión. También se definirán las ecuaciones empíricas más utilizadas para la determinación del caudal en una tubería circular con flujo a presión a partir de las propiedades hidráulicas del sistema, las características del fluido y a parti del gradiente de energía.
 
 ## Objetivos.
 
@@ -29,13 +29,13 @@ En la siguiente expresión se presenta la ecuación de continuidad para un flujo
   <img src="ecuaciones/Ecuacion7.PNG" width="300px">
 </div>
 
-Para sistemas hidráulicos donde no existe acumulación temporal del fluido y también cuando el flujo está en codniciones permanentes, la ecuación de continuidad se puede presentar así:
+Para sistemas hidráulicos donde no existe acumulación temporal del fluido y también cuando el flujo está en condiciones permanentes, la ecuación de continuidad se puede presentar así:
 
 <div align="center">
   <img src="ecuaciones/Ecuacion8.PNG" width="300px">
 </div>
 
-Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los nodos que componen una red. Para el uso de los signos de estas ecuaciones, se utiliza un sistema nemotécnico el asume que los caudales que ingresan al volumen de control son negativos y los caudales que salen del volumen de control son negativos. 
+Esta es una de las ecuaciones que el software EPANET resuelve en cada uno de los nodos que componen una red. Para el uso de los signos de estas ecuaciones, se utiliza un sistema nemotécnico en el cual se asume que los caudales que ingresan al volumen de control son negativos y los caudales que salen del volumen de control son negativos. 
 
 En la siguiente figura se muestra una representación del volumen de control de una tubería que trabaja con flujo a presión. En esta figura se detallan las fronteras en las cuales se definen los caudales de entrada y los caudales de salida.
 
@@ -43,7 +43,7 @@ En la siguiente figura se muestra una representación del volumen de control de 
   <img src="Imagenes/FiguraNo.1.9.PNG" width="300px">
 </div>
 
-En algunos  casos particulares, cuando la densidad del fluido que ingresa a un volumen de control es diferente a la densidad del fluido que sale, la ecuación de continuidad debe expresarse en función del flujo másico. 
+En algunos casos particulares, cuando la densidad del fluido que ingresa a un volumen de control es diferente a la densidad del fluido que sale, la ecuación de continuidad debe expresarse en función del flujo másico. 
 
 El flujo másico corresponde a la cantidad de masa que atraviesa una sección transversal. 
 
@@ -59,7 +59,7 @@ Con base en lo anterior, la ecuación de continuidad para un sistema permanente 
   <img src="ecuaciones/Ecuacion11.PNG" width="300px">
 </div>
 
-Está última ecuación es utilizada por EPANET para la aplicación de su módulo de "simulación de calidad del agua".
+Esta última ecuación es utilizada por EPANET para la aplicación de su módulo de "simulación de calidad del agua".
 
 ## Ecuaciones experimentales para la estimación de los caudales en tuberías a presión. 
 
@@ -104,7 +104,7 @@ Donde,
 <br> C = Coeficiente de rugosidad de Hazen - William
 <br> Sf = Pendiente de la línea de energía (m/m)
 
-Para nuestro curso, estas ecuaciones pueden ser utilizadas para comparar y analizar los resultados en tramos de tuberías una vez se ejecute el programa. También pueden ser utilizadas para el predimensionamiento de las tuberías (definición de un primer diámetro) que componen el sistema antes de cargar la geometría definitiva al programa. 
+Para nuestro curso, estas ecuaciones pueden ser utilizadas para comparar y analizar los resultados en tramos de tuberías una vez se ejecute el programa. También pueden ser aplicadas en el proceso de pre-dimensionamiento de las tuberías (definición de un primer diámetro) que componen el sistema antes de cargar la geometría definitiva al programa. 
 
 ### Control de versiones
 

@@ -34,7 +34,7 @@ En la siguiente figura se presenta gráficamente este concepto.
 
 >Figura 1.1 Gradiente de presiones en una tubería con flujo a presión[^1].
 
-<br> Para sistemas a presión, el flujo se genera debido a la diferencia de presiones entre dos puntos a lo largo de una tubería o un sistemas de tuberías. A partir de la diferencia de presiones entre dos puntos y la distancia longitudinal que los separa, es posible la estimación de su gradiente hidráulico.
+<br> Para sistemas a presión, el flujo se genera debido a la diferencia de presiones entre dos puntos a lo largo de una tubería o un sistema de tuberías. A partir de la diferencia de presiones entre dos puntos y la distancia longitudinal que los separa, es posible la estimación de su gradiente hidráulico.
 
 Por definición, el gradiente hidráulico se puede expresar como:
 
@@ -74,9 +74,6 @@ Si se tiene en cuenta el perfil de velocidades o lo que es lo mismo, la variaci�
 
 <b> - Densidad de los fluidos: </b> corresponde a una propiedad intrínseca de la material, que en términos simples, corresponde al peso del elemento, en este caso del fluido, por unidad de volumen. En los fluidos líquidos, la densidad aumenta a medida que la temperatura disminuye. En los fluidos gasesos, la variación de la densidad es función del tipo gas y de la presión. En los gases ideales la densidad del fluido gaseoso es inversamente proporcional a la temperatura.
 
-<br>
-
-</br>
 
 <b> - Viscosidad: </b> corresponde al efecto generado por las fuerzas intermoleculares de las partículas que conforman el fluido. Estas interacciones entre las moléculas crean resistencia en contra del movimiento. La viscosidad permitir la adherencia de los fluidos en las fronteras de las superficies que lo contiene. En los fluidos líquidos, la viscosidad aumenta a medida que disminuye la temperatura. 
 
@@ -243,4 +240,4 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión (2019).
-[^2]: Frank M. White. Mecanica De Fluidos (2020).
+[^2]: Frank M. White. Mecánica De Fluidos (2020).

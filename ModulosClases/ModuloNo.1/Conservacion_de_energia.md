@@ -23,7 +23,7 @@ El objetivo principal de esta actividad es introducir al estudiante en los conce
 
 ### Conservación de la energía total. Ecuación de Bernoulli
 
-- <b>Conservación de la energía: </b> En un volumen de control, la energía total en un sistema es igual a la diferencia entre el calor interno y el cambio del trabajo. La primera ley de la termodinámica indica que el trabajo y el calor transferido o intercambiado en un sistema, no se crea ni se destruye, sólo se transforma. 
+- <b>Conservación de la energía: </b> En un volumen de control, la energía total en un sistema es igual a la diferencia entre el calor interno y el cambio del trabajo. La primera ley de la termodinámica indica que el trabajo y el calor transferido o intercambiado en un sistema, no se crea ni se destruye, solo se transforma. 
 
 En la siguiente expresión se presenta la ecuación que define de manera simplificada la primera ley de la termodinámica.
 
@@ -82,7 +82,7 @@ Nota: El detalle de las pérdidas de energía por accesorios y por fricción se 
 
 Tal como se describirá con más detalle en el apartado "Bombas hidráulicas" una bomba hidráulica corresponde a una máquina hidráulica que proporciona energía al sistema a partir de una diferencia de presión y un aumento de la velocidad. 
 
-En general la energía como columna de agua es función de la potencia hidráulica de la bomba (potencia mécanica por la eficiencia de la bomba), el caudal y el peso específico del fluido. A continuación se presenta la potencial de una bomba como metros columna de agua (m.c.a.)
+En general la energía como columna de agua es función de la potencia hidráulica de la bomba (potencia mecánica por la eficiencia de la bomba), el caudal y el peso específico del fluido. A continuación se presenta la potencial de una bomba como metros columna de agua (m.c.a.)
 
 <div align="center">
   <img src="ecuaciones/Ecuacion14.PNG" width="350px">
@@ -99,7 +99,7 @@ La línea de energía corresponde a la línea que une la energía total en un si
 
 La línea piezométrica corresponde a la línea que une la suma de la columna de posición y la columna de presión. Es posible la visualización de esta línea en un sistema a presión si se instalan tubos piezométricos (piezómetros) a lo largo de la tubería. La altura a la cual se eleva el fluido por el tubo corresponderá a la altura piezométrica. La unión de estos puntos corresponde a la línea piezométrica.
 
-En la siguiente figura se presenta una represetación de la línea de energía y la línea piezométrica en un sistema a presión en el cual se han considerado las pérdidas de eenrgía debido a la fricción y debido a los accesorios.
+En la siguiente figura se presenta un esquema general de la línea de energía y la línea piezométrica en un sistema a presión en el cual se han considerado las pérdidas de energía debido a la fricción y debido a los accesorios.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.11.PNG" width="400px">
