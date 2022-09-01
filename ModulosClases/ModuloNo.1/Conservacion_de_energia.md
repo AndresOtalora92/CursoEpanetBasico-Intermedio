@@ -101,7 +101,9 @@ La línea piezométrica corresponde a la línea que une la suma de la columna de
 
 En la siguiente figura se presenta una represetación de la línea de energía y la línea piezométrica en un sistema a presión en el cual se han considerado las pérdidas de eenrgía debido a la fricción y debido a los accesorios.
 
-
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.11.PNG" width="400px">
+</div>
 
 ### Control de versiones
 
