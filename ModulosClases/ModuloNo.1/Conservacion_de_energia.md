@@ -40,7 +40,7 @@ Donde,
 En la siguiente figura se aprecia de manera simplificada este concepto.
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.10.PNG" width="200px">
+  <img src="Imagenes/FiguraNo.1.10.PNG" width="300px">
 </div>
 
 - <b> Ecuación de Bernoulli: </b> Daniel Bernoulli en 1738 en su obra "Hidrodinámica" determinó, a partir de un análisis diferencial en un volumen de control, una ecuación que permite determinar la transformación de la energía en un fluido en movimiento equivalente a la ecuación que define el cambio de la energía en un sistema termodinámico. 
@@ -84,7 +84,6 @@ Tal como se describirá con más detalle en el apartado "Bombas hidráulicas" un
 
 En general la energía como columna de agua es función de la potencia hidráulica de la bomba (potencia mécanica por la eficiencia de la bomba), el caudal y el peso específico del fluido. A continuación se presenta la potencial de una bomba como metros columna de agua (m.c.a.)
 
-OJO!!!
 <div align="center">
   <img src="ecuaciones/Ecuacion14.PNG" width="350px">
 </div>
@@ -92,8 +91,17 @@ OJO!!!
 
 Nota: El detalle de los sistemas de bombeo y de la ecuación que define la energía generada por la potencia de una bomba en m.c.a se presenta en la actividad "Conceptos de bombas hidráulicas"
 
-- Línea de energía (concepto y aplicación. Agregar dibujo)
-- Linea piezométrica (concepto y aplicación. Agregar dibujo).
+### - Línea de energía: 
+
+La línea de energía corresponde a la línea que une la energía total en un sistema. Para un sistema hidráulico a presión, la línea de energía une suma de la columna de velocidad, la columna de posición y la columna de presión.
+
+### - Linea piezométrica:
+
+La línea piezométrica corresponde a la línea que une la suma de la columna de posición y la columna de presión. Es posible la visualización de esta línea en un sistema a presión si se instalan tubos piezométricos (piezómetros) a lo largo de la tubería. La altura a la cual se eleva el fluido por el tubo corresponderá a la altura piezométrica. La unión de estos puntos corresponde a la línea piezométrica.
+
+En la siguiente figura se presenta una represetación de la línea de energía y la línea piezométrica en un sistema a presión en el cual se han considerado las pérdidas de eenrgía debido a la fricción y debido a los accesorios.
+
+
 
 ### Control de versiones
 
