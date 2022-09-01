@@ -93,7 +93,7 @@ OJO!!!
 Nota: El detalle de los sistemas de bombeo y de la ecuación que define la energía generada por la potencia de una bomba en m.c.a se presenta en la actividad "Conceptos de bombas hidráulicas"
 
 - Línea de energía (concepto y aplicación. Agregar dibujo)
-- Linea piezométrica (concepto y aplicación. Agregar dibujo)
+- Linea piezométrica (concepto y aplicación. Agregar dibujo).
 
 ### Control de versiones
 
