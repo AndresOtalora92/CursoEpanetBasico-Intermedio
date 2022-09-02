@@ -1,9 +1,15 @@
-# Curso de Epanet - Módulo 1 - Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción. 
-![Imagen 1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b30a070763c8fdd0debdf2836196f1bbc795673b/.jpg/IconoEpanetV3.png)
+# Curso de Epanet - Módulo 1 - Conservación de la masa y conservación de la energía 
 
-*Universidad Escuela Colombiana de Ingeniería Julio Garavito*
+<div align="center">
+  <img src="../../.icons/IconoEpanetV3.png" width="600px">
+</div>
 
-***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
+</div>
+
+Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
 
 ## **Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción**
 Descripción de las pérdidas de energía localizadas utilizando la ecuación de Darcy - Weisbach. Revisión de
@@ -19,12 +25,15 @@ de coeficientes de pérdidas localizadas.
 - Describir el concepto, la ecuación general y agregar fórmulas y tablas para la estimación de f.
 
 
-### Ejercicio de aplicación.
+### Control de versiones
 
-- Ejercicio sencillo "a mano" de un sistema hidráulico para la estimación del caudal, la línea de energía y la
-  línea piezométrica, teniendo en cuenta las pérdidas de energía.
+| Versión    | Descripción   | Autor                                      | Horas |
+|------------|:--------------|--------------------------------------------|:-----:|
+| 2022.08.30 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   4   |
 
-Nota: Este ejercicio hace partes de los ejemplo solucionados que se desarrollarán en EPANET en el módulo 2.
+_CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
-Keywords: `Hola`
+_¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
+| [Anterior](Conservacion_de_energia.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](Conceptos_bombas_hidraulicas.md) |
+|----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
