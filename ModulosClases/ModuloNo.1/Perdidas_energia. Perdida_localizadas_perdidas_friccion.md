@@ -28,7 +28,7 @@ Existen diferentes ecuaciones que permiten determinar el factor de fricción, la
 Para flujos con régimen laminar, la ecuación más utilizada corresponde a:
 
 <div align="center">
-  <img src="ecuaciones/Ecuacion18.PNG" width="60px">
+  <img src="ecuaciones/Ecuacion18.PNG" width="100px">
 </div>
 
 
