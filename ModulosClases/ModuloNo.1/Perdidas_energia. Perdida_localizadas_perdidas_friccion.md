@@ -81,6 +81,9 @@ Por lo general, las pérdidas localizadas se pueden estimar en función de la co
 
 La ecuación de pérdidas localizadas se puede escribir como:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion20.PNG" width="150px">
+</div>
 
 
 ### Control de versiones
