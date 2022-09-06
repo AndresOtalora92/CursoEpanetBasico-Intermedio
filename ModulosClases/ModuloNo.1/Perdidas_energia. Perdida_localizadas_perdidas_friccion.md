@@ -77,11 +77,6 @@ En la siguiente tabla se presentan los principales valores de la rugosidad absol
 
 - Describir el concepto, la ecuación general y agregar tablas para la estimación de K.
 
-### Pérdidas por fricción
-
-- Describir el concepto, la ecuación general y agregar fórmulas y tablas para la estimación de f.
-
-
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
