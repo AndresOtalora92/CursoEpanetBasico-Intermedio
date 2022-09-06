@@ -44,10 +44,30 @@ Debido a la dificultad en la estimación del factor de fricción (f) al aplicar 
   <img src="Imagenes/FiguraNo.1.12.PNG" width="600px">
 </div>
 
-La rugosidad relativa (<div> $\epsilon$ </div>) corresponde al promedio de la altura de las rugosidades en una sección transversal. La rugosidad depende, principalmente, del material que conforma las paredes de la tubería. 
+La rugosidad relativa corresponde al promedio de la altura de las rugosidades en una sección transversal. La rugosidad depende, principalmente, del material que conforma las paredes de la tubería. 
 
-En la siguiente figura se presenta una tabla con los principales valores de la rugosidad absoluta para diferentes materiales.
+En la siguiente tabla se presentan los principales valores de la rugosidad absoluta para diferentes materiales.
 
+| Material                                                          | Rugosidad (mm) | 
+|-------------------------------------------------------------------|:---------------|
+| De vidrio, cobre, latón, madera, acero nuevo<br/> plástico y hule | 0.0015         |
+| Tubos industriales de latón                                       | 0.025          |
+| Tubos de madera                                                   | 0.2 a 1.0      |
+| Hierro forjado                                                    | 0.05           |
+| Fierro fundido nuevo                                              | 0.25           |
+| Fierro fundido oxidado                                            | 1 a 1.5        |
+| Fierro galvanizado                                                | 0.15           |
+| Acero rolado, nuevo                                               | 0.05           |
+| Acero laminado, nuevo                                             | 0.04 a 1.0     |
+| Asbesto-cemento nuevo                                             | 0.025          |
+| Asbesto-cemento con protección interior de asfalto                | 0.0015         |
+| Concreto centrijugado nuevo                                       | 0.16           |
+| Concreto con acabo liso                                           | 0.025          |
+| Concreto alisado interiormente con cemento                        | 0.25           |
+| Concreto con acabo normal                                         | 1 a 3          |
+| Concreto con acabo rugoso                                         | 10             |
+| Cemento liso                                                      | 0.3 a 0.8      |
+| Cemento no pulido                                                 | 1 a 2          |
 
 
 ### Pérdidas localizadas
