@@ -64,5 +64,5 @@ $h_{f}=\frac{f*L}{D}*\frac{V^{2}}{2g}$
 </div>
 
 <div align="center"> 
-\frac{64}{Re}
+$\frac{64}{Re}$
 </div>
