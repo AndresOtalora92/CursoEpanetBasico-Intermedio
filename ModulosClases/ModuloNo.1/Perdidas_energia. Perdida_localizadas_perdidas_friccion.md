@@ -88,7 +88,7 @@ La ecuación de pérdidas localizadas se puede escribir como:
 A continuación, se presenta una tabla con los coeficientes de pérdidas localizadas para diferentes accesorios.
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.13.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.1.13.PNG" width="600px">
 </div>
 
 <br>
@@ -97,7 +97,7 @@ A continuación, se presenta una tabla con los coeficientes de pérdidas localiz
 </br>
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.14.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.1.14.PNG" width="600px">
 </div>
 
 
