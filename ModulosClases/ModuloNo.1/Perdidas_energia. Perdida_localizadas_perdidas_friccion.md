@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Conservación de la masa y conservación de la energía 
+# Curso de Epanet - Módulo 1 - Pérdidas de energía por fricción y pérdidas de energía localizadas.
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">
@@ -75,7 +75,13 @@ En la siguiente tabla se presentan los principales valores de la rugosidad absol
 
 ### Pérdidas localizadas
 
-- Describir el concepto, la ecuación general y agregar tablas para la estimación de K.
+En un sistema hidráulico a presión, la presencia de accesorios es casi inevitable. Un accesorio modifica parcialmente las líneas de flujo, lo cual genera perturbaciones y turbulencias que a su vez generan pérdidas de energía. 
+
+Por lo general, las pérdidas localizadas se pueden estimar en función de la columna de velocidad y de un coeficiente de proporcionalidad (K). Este coeficiente de proporcionalidad depende del tipo de accesorio, su disposición y su forma de uso. El factor de proporcionalidad comunmente es denominado coeficiente de pérdidas localizadas.
+
+La ecuación de pérdidas localizadas se puede escribir como:
+
+
 
 ### Control de versiones
 
