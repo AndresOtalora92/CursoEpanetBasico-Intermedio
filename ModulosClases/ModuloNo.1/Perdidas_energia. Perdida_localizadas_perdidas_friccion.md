@@ -44,7 +44,7 @@ Debido a la dificultad en la estimación del factor de fricción (f) al aplicar 
   <img src="Imagenes/FiguraNo.1.12.PNG" width="600px">
 </div>
 
-La rugosidad relativa ($ \epsilon $) corresponde al promedio de la altura de las rugosidades en una sección transversal. La rugosidad depende, principalmente, del material que conforma las paredes de la tubería. 
+La rugosidad relativa ($\epsilon$) corresponde al promedio de la altura de las rugosidades en una sección transversal. La rugosidad depende, principalmente, del material que conforma las paredes de la tubería. 
 
 En la siguiente figura se presenta una tabla con los principales valores de la rugosidad absoluta para diferentes materiales.
 
