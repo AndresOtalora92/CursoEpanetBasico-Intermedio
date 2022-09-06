@@ -19,6 +19,22 @@ Una de las ecuaciones más aplicadas para la estimación de las pérdidas por fr
 
 La ecuación de Darcy Weisbach se presenta a continuación:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion17.PNG" width="150px">
+</div>
+
+Existen diferentes ecuaciones que permiten determinar el factor de fricción, las cuales, en su mayoría, depende del Número de Reynolds (Re) y del régimen de flujo (Laminar o turbulento). 
+
+Para flujos con régimen laminar, la ecuación más utilizada corresponde a:
+
+Para flujos en transición y turbulentos, por lo general, se utiliza la ecuación de Colebrook and White, la cual se puede escribir como:
+
+Debido a la dificultad en la estimación del factor de fricción (f) al aplicar la ecuación de Colebrook (debido a que es una ecuación implícita), se acostumbra a trabajar con el diagrama de Moody. Este diagrama permite determinar el factor de fricción (f) a partir del número de Reynolds (abscisas) y la rugosidad relativa (cociente entre la rugosidad absoluta y el diámetro). El diagrama de Moody se presenta a continuación.
+
+La rugosidad relativa ($ \epsilon $) corresponde al promedio de la altura de las rugosidades en una sección transversal. La rugosidad depende, principalmente, del material que conforma las paredes de la tubería. 
+
+En la siguiente figura se presenta una tabla con los principales valores de la rugosidad absoluta para diferentes materiales.
+
 
 
 ### Pérdidas localizadas
