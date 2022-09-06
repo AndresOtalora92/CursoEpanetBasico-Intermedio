@@ -48,6 +48,8 @@ La rugosidad relativa corresponde al promedio de la altura de las rugosidades en
 
 En la siguiente tabla se presentan los principales valores de la rugosidad absoluta para diferentes materiales.
 
+<div align="center">
+
 | Material                                                          | Rugosidad (mm) | 
 |-------------------------------------------------------------------|:---------------|
 | De vidrio, cobre, latón, madera, acero nuevo<br/> plástico y hule | 0.0015         |
@@ -69,6 +71,7 @@ En la siguiente tabla se presentan los principales valores de la rugosidad absol
 | Cemento liso                                                      | 0.3 a 0.8      |
 | Cemento no pulido                                                 | 1 a 2          |
 
+</div>
 
 ### Pérdidas localizadas
 
