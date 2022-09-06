@@ -73,4 +73,4 @@ $\frac{1}{\sqrt{f}}=-2*Log (\frac{\frac{\epsilon}{D}}{3.7}+\frac{2.51}{Re\sqrt{f
 
 <div align="center"> 
 h_k=K*\frac{V^{2}_2}{2g}
-<div align="center"> 
+</div> 
