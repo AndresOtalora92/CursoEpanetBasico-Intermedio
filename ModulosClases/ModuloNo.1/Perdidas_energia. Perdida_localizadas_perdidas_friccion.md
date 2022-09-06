@@ -11,16 +11,15 @@
 
 Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
 
-## **Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción**
+## **Pérdidas de energía. Pérdidas localizadas**
 
 Debido a la fricción generada por el material de la superficie de la tubería, el flujo pierde energía a medida que se mueve a lo largo del sistema. Las pérdidas de energía, por lo general, se representan en función de la columna de velocidad y de un factor de proporcionada, el cual depende de la viscosidad del fluido.
 
-Una de las ecuaciones más aplicadas para la estimación de las pérdidas por fricción es la ecuación de Darcy Weisbach. Esta ecuación depende del factor de fricción (f) es cual a su vez depende de la rugosidad relativa del material, de la viscosidad del fluido y del régimen de flujo. 
+Una de las ecuaciones más aplicadas para la estimación de las pérdidas por fricción es la ecuación de Darcy Weisbach. Esta ecuación depende del factor de fricción (f) el cual a su vez depende de la rugosidad relativa del material, de la viscosidad del fluido y del régimen de flujo. 
+
+La ecuación de Darcy Weisbach se presenta a continuación:
 
 
-Descripción de las pérdidas de energía localizadas utilizando la ecuación de Darcy - Weisbach. Revisión de
-los coeficientes de rugosidad de las tuberías. Análisis de las ecuación de pérdidas localizadas. Revisión
-de coeficientes de pérdidas localizadas.
 
 ### Pérdidas localizadas
 

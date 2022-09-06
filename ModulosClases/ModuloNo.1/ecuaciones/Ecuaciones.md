@@ -59,3 +59,7 @@ $\frac{V^{2}_1}{2g}+Z_1+\frac{P_1}{\gamma}-\sum_{}^{}\Delta h_f-\sum_{}^{}\Delta
 $H_p=\frac{P_w}{Q*\gamma}$
 </div>
 
+<div align="center"> 
+$h_{f}=\frac{f*L}{D}*\frac{V^{2}}{2g}$
+</div>
+
