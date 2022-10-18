@@ -100,16 +100,6 @@ A continuación, se presentan algunas figuras donde se definen los coeficientes 
   <img src="Imagenes/FiguraNo.1.13.PNG" width="600px">
 </div>
 
-<br>
-
-
-</br>
-
-<div align="center">
-  <img src="Imagenes/FiguraNo.1.14.PNG" width="600px">
-</div>
-
-
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
