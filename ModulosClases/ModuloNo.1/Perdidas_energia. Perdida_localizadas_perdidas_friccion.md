@@ -85,9 +85,16 @@ La ecuación de pérdidas localizadas se puede escribir como:
   <img src="ecuaciones/Ecuacion20.PNG" width="150px">
 </div>
 
-#### Pérdidas por entrada
+A continuación se presentan los principales accesorios que modifican las líneas de corriente en un flujo a presión y por tanto generan pérdidas de energía localizadas. 
 
-A continuación, se presenta una tabla con los coeficientes de pérdidas localizadas para diferentes accesorios.
+Se detallan además algunas metodologías para la estimación de los coeficientes de pérdidas localizadas (K):
+
+
+#### 1. Pérdidas localizada por entrada
+
+Una entrada se define como el paso del agua a una tubería o un tanque con nivel constante. Las pérdidas se presentan por el efecto de la contracción que sufre la vena líquida y la formación de zona de separación.
+
+A continuación, se presentan algunas figuras donde se definen los coeficientes de pérdidas localizadas por entrada para diferentes configuraciones.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.13.PNG" width="600px">
