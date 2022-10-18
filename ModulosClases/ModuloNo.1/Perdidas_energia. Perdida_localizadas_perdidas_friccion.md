@@ -85,6 +85,8 @@ La ecuación de pérdidas localizadas se puede escribir como:
   <img src="ecuaciones/Ecuacion20.PNG" width="150px">
 </div>
 
+#### Pérdidas por entrada
+
 A continuación, se presenta una tabla con los coeficientes de pérdidas localizadas para diferentes accesorios.
 
 <div align="center">
