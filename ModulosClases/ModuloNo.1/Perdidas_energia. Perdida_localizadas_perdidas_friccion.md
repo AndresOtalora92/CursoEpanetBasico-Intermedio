@@ -130,7 +130,7 @@ Las pérdidas por ampliación se presentan por la reducción del diámetro de la
 Corresponde a la reducción que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente gráfica corresponde a valores experimentales determinados por Kisieliev y Weisbach que presentan el coeficiente (K) en funcíón de los diámetros:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.14.PNG" width="200px">
+  <img src="Imagenes/FiguraNo.1.16.PNG" width="500px">
 </div>
 
 ##### 3.2 Reducción gradual
@@ -138,7 +138,7 @@ Corresponde a la reducción que genera mayor pérdida debido al cambio súbito d
 Experimentalmente Kisieliev ha determinado experimentalmente los coeficientes (k) en función del ángulo de la reducción gradual:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.15.PNG" width="200px">
+  <img src="Imagenes/FiguraNo.1.17.PNG" width="700px">
 </div>
 
 ### Control de versiones
