@@ -100,6 +100,16 @@ A continuación, se presentan algunas figuras donde se definen los coeficientes 
   <img src="Imagenes/FiguraNo.1.13.PNG" width="600px">
 </div>
 
+
+#### 2. Pérdidas localizada por entrada
+
+Una entrada se define como el paso del agua a una tubería o un tanque con nivel constante. Las pérdidas se presentan por el efecto de la contracción que sufre la vena líquida y la formación de zona de separación.
+
+A continuación, se presentan algunas figuras donde se definen los coeficientes de pérdidas localizadas generadas por "entradas" para diferentes configuraciones.
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.13.PNG" width="600px">
+</div>
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
