@@ -109,17 +109,38 @@ Las pérdidas por ampliación se presentan por un ensanchamiento del diámetro d
 
 Corresponde a la ampliación que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente ecuación corresponde a la ecuación de Borda - Carnot que presente el coeficiente K en funcíón del área de la ampliación (A2) y el área original (A1):
 
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.14.PNG" width="200px">
+</div>
+
 ##### 2.2 Ampliación gradual
 
 Utilizando la ecuación de Borja - Carnot, es posible la estimación del coeficiente de pérdidas cuando se conoce el ángulo de transición de la ampliación utilizando la siguiente ecuación:
 
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.15.PNG" width="200px">
+</div>
 
+#### 3. Pérdidas por ampliación
 
+Las pérdidas por ampliación se presentan por la reducción del diámetro de la tubería que transporte el flujo. El coeficiente de pérdidas localizadas (K) depende, al igual que la ampliación, tanto de la relación de sus áreas (área inicial - área de la reducción) como del ángulo de transición de la reducción.
 
+##### 3.1 Reducción brusca
+
+Corresponde a la reducción que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente gráfica corresponde a valores experimentales determinados por Kisieliev y Weisbach que presentan el coeficiente (K) en funcíón de los diámetros:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.13.PNG" width="600px">
+  <img src="Imagenes/FiguraNo.1.14.PNG" width="200px">
 </div>
+
+##### 3.2 Reducción gradual
+
+Experimentalmente Kisieliev ha determinado experimentalmente los coeficientes (k) en función del ángulo de la reducción gradual:
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.15.PNG" width="200px">
+</div>
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
