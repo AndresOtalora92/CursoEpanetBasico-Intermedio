@@ -74,3 +74,11 @@ $\frac{1}{\sqrt{f}}=-2*Log (\frac{\frac{\epsilon}{D}}{3.7}+\frac{2.51}{Re\sqrt{f
 <div align="center"> 
 $h_k=K*\frac{V^2}{2g}$
 </div> 
+
+<div align="center"> 
+$K = C_a *(\frac{A_2}{A_1}-1)^2$
+</div>
+
+<div align="center"> 
+$K = (\frac{A_2}{A_1}-1)^2$
+</div>

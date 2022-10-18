@@ -94,18 +94,28 @@ Se detallan además algunas metodologías para la estimación de los coeficiente
 
 Una entrada se define como el paso del agua a una tubería o un tanque con nivel constante. Las pérdidas se presentan por el efecto de la contracción que sufre la vena líquida y la formación de zona de separación.
 
-A continuación, se presentan algunas figuras donde se definen los coeficientes de pérdidas localizadas por entrada para diferentes configuraciones.
+A continuación, se presentan algunas figuras donde se definen los coeficientes de pérdidas localizadas generadas por "entradas" para diferentes configuraciones.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.13.PNG" width="600px">
 </div>
 
 
-#### 2. Pérdidas localizada por entrada
+#### 2. Pérdidas por ampliación
 
-Una entrada se define como el paso del agua a una tubería o un tanque con nivel constante. Las pérdidas se presentan por el efecto de la contracción que sufre la vena líquida y la formación de zona de separación.
+Las pérdidas por ampliación se presentan por un ensanchamiento del diámetro de la tubería que transporte el flujo. El coeficiente de pérdidas localizadas (K) depende tanto de la relación de sus áreas (área inicial - área ampliada) como del ángulo de transición de la ampliación.
 
-A continuación, se presentan algunas figuras donde se definen los coeficientes de pérdidas localizadas generadas por "entradas" para diferentes configuraciones.
+##### 2.1 Ampliación brusca
+
+Corresponde a la ampliación que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente ecuación corresponde a la ecuación de Borda - Carnot que presente el coeficiente K en funcíón del área de la ampliación (A2) y el área original (A1):
+
+##### 2.2 Ampliación gradual
+
+Utilizando la ecuación de Borja - Carnot, es posible la estimación del coeficiente de pérdidas cuando se conoce el ángulo de transición de la ampliación utilizando la siguiente ecuación:
+
+
+
+
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.13.PNG" width="600px">
