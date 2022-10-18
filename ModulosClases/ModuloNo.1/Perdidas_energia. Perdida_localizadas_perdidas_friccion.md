@@ -110,7 +110,7 @@ Las pérdidas por ampliación se presentan por un ensanchamiento del diámetro d
 Corresponde a la ampliación que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente ecuación corresponde a la ecuación de Borda - Carnot que presente el coeficiente K en funcíón del área de la ampliación (A2) y el área original (A1):
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.14.PNG" width="200px">
+  <img src="Imagenes/FiguraNo.1.14.PNG" width="250px">
 </div>
 
 ##### 2.2 Ampliación gradual
