@@ -85,57 +85,99 @@ La ecuación de pérdidas localizadas se puede escribir como:
   <img src="ecuaciones/Ecuacion20.PNG" width="150px">
 </div>
 
-A continuación se presentan los principales accesorios que modifican las líneas de corriente en un flujo a presión y, por tanto, generan pérdidas de energía localizadas. 
-
-Se detallan además algunas metodologías para la estimación de los coeficientes de pérdidas localizadas (K):
+A continuación se presentan los principales accesorios que modifican las líneas de corriente en un flujo a presión y por tanto, generan pérdidas de energía localizadas Y algunas metodologías para la estimación de sus coeficientes de pérdidas localizadas (K):
 
 
-#### 1. Pérdidas localizada por entrada
+#### 1. Pérdidas por entrada
 
-Una entrada se define como el paso del agua a una tubería o un tanque con nivel constante. Las pérdidas se presentan por el efecto de la contracción que sufre la vena líquida y la formación de zona de separación.
+Una entrada se define como el paso del agua a una tubería desde un tanque. Las pérdidas se presentan por el efecto de la contracción que sufre la vena líquida y la formación de zonas de separación del fluido con la superficie de la tubería.
 
-A continuación, se presentan algunas figuras donde se definen algunos valores del coeficiente de pérdidas localizadas generadas por "entradas" para diferentes configuraciones.
+A continuación, se presentan algunas configuraciones de entradas con sus respectivos valores de coeficientes de pérdidas localizadas (K).
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.13.PNG" width="500px">
+
+Figura tomada de Sotelo Ávila G. (1959)
+
 </div>
+
+
+a: K=0.5 
+
+b: $K=0.5+0.3*Cos[\theta]+0.2*Cos^2[\theta]$
+
+c: K=0.15 a 0.25
+
+d: Se toma los valores de la siguiente tabla
+
+<div align="center">
+
+| r/d  | K    | 
+|------|:-----|
+| 0    | 0    |
+| 0.04 | 0.26 |
+| 0.08 | 0.15 |
+| 0.12 | 0.09 |
+| 0.16 | 0.06 |
+
+</div>
+
+e: K=0.06 a 0.10 
+
+f: K=0.5 
 
 
 #### 2. Pérdidas por ampliación
 
-Las pérdidas por ampliación se presentan por un ensanchamiento del diámetro de la tubería que transporte el flujo. El coeficiente de pérdidas localizadas (K) depende tanto de la relación de sus áreas (área inicial - área ampliada) como del ángulo de transición de la ampliación.
+Las pérdidas por ampliación se presentan por un ensanchamiento del diámetro de la tubería que transporta el flujo. El coeficiente de pérdidas localizadas (K) depende tanto de la relación de sus áreas (área inicial - área ampliada) como del ángulo de la transición de la ampliación.
 
 ##### 2.1 Ampliación brusca
 
-Corresponde a la ampliación que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente ecuación corresponde a la ecuación de Borda - Carnot que presente el coeficiente K en función del área de la ampliación (A2) y el área original (A1):
+Como su nombre lo indica, corresponde al cambio súbito o instantáneo del diámetro de una tubería debido a un accesorio. Corresponde a la ampliación que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. 
+
+Es posible determinar el coeficiente de pérdidas localizadas utilizando la ecuación de Borda - Carnot la cual depende de la relación del área de la tubería (A1) y del área de la ampliación (A2), tal como se presenta a continuación:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.14.PNG" width="200px">
+ <img src="ecuaciones/Ecuacion21.PNG" width="150px">
 </div>
 
 ##### 2.2 Ampliación gradual
 
-Utilizando la ecuación de Borda - Carnot, es posible la estimación del coeficiente de pérdidas cuando se conoce el ángulo de la transición de la ampliación utilizando la siguiente ecuación:
+Utilizando la ecuación de Borda - Carnot, también es posible la estimación del coeficiente de pérdidas en una ampliación gradual si se conoce el ángulo de la transición de la ampliación. La ecuación final dependerá de Ca:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.15.PNG" width="200px">
+
+<img src="ecuaciones/Ecuacion22.PNG" width="150px">
+
+</div>
+
+Ca, corresponde a un coeficiente el cual puede ser determinado utilizando la siguiente figura:
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.16.PNG" width="600px">
+Figura tomada de Sotelo Ávila G. (1959)
+
 </div>
 
 #### 3. Pérdidas por reducción
 
-Las pérdidas por ampliación se presentan por la reducción del diámetro de la tubería que transporta el flujo. El coeficiente de pérdidas localizadas (K) depende, al igual que la ampliación, tanto de la relación de sus áreas (área inicial - área de la reducción) como del ángulo de la transición de la reducción.
+Las pérdidas por ampliación se presentan por la reducción del diámetro de la tubería que transporta el fluido. El coeficiente de pérdidas localizadas (K) depende, al igual que la ampliación, tanto de la relación de sus áreas (área inicial - área de la reducción) como del ángulo de la transición de la reducción.
 
 ##### 3.1 Reducción brusca
 
-Corresponde a la reducción que genera la mayor pérdida cuando de reducción se habla, debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente gráfica presentan algunos valores experimentales del coeficiente (k) determinados por Kisieliev y Weisbach en función de la relación de sus diámetros:
+Como su nombre lo indica, corresponde al cambio súbito o instantáneo del diámetro de una tubería debido a un accesorio. Corresponde a la reducción que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. 
+
+Es posible determinar el coeficiente de pérdidas localizadas utilizando las gráficas determinadas por Kisieliev y Weisbach, las cuales depende de la relación de los diámetros de la reducción brusca:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.16.PNG" width="450px">
+  <img src="Imagenes/FiguraNo.1.17a.PNG" width="400px">
+Figura tomada de Sotelo Ávila G. (1959)
 </div>
+
 
 ##### 3.2 Reducción gradual
 
-Kisieliev también determinó experimentalmente algunos valores del coeficiente (k) en función del ángulo de la reducción gradual:
+Para la determinación del coeficiente de pérdidas localizadas para una reducción gradual es posible utilizar los resultados experiementales determinación por Kisieliev. En la siguiente tabla se presentan valores de (K) para diferentes ángulos de la reducción gradual:
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.17.PNG" width="700px">
@@ -200,7 +242,7 @@ Para otro tipo de válvulas para tuberías completamente abiertas con diámetros
 Las pérdidas por salida corresponde a que el sistema de la tubería a un recipiente, al exterior o a un tanque con nivel constante o variable. En general la ecuación para la estimación de las pérdidas por salida se pueden estimar con la siguiente ecuación:
 
 <div align="center">
-  <img src="ecuaciones/Ecuacion21.PNG" width="200px">
+  <img src="ecuaciones/Ecuacion23.PNG" width="200px">
 </div>
 
 Donde el coeficiente de pérdidas localizadas depende de la relación de las áreas. 
