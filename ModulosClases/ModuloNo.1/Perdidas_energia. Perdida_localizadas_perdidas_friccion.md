@@ -110,7 +110,7 @@ Las pérdidas por ampliación se presentan por un ensanchamiento del diámetro d
 Corresponde a la ampliación que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente ecuación corresponde a la ecuación de Borda - Carnot que presente el coeficiente K en función del área de la ampliación (A2) y el área original (A1):
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.14.PNG" width="250px">
+  <img src="Imagenes/FiguraNo.1.14.PNG" width="200px">
 </div>
 
 ##### 2.2 Ampliación gradual
@@ -200,7 +200,7 @@ Para otro tipo de válvulas para tuberías completamente abiertas con diámetros
 Las pérdidas por salida corresponde a que el sistema de la tubería a un recipiente, al exterior o a un tanque con nivel constante o variable. En general la ecuación para la estimación de las pérdidas por salida se pueden estimar con la siguiente ecuación:
 
 <div align="center">
-  <img src="ecuaciones/Ecuacion21.PNG" width="150px">
+  <img src="ecuaciones/Ecuacion21.PNG" width="200px">
 </div>
 
 Donde el coeficiente de pérdidas localizadas depende de la relación de las áreas. 
