@@ -82,3 +82,7 @@ $K = C_a *(\frac{A_2}{A_1}-1)^2$
 <div align="center"> 
 $K = (\frac{A_2}{A_1}-1)^2$
 </div>
+
+<div align="center"> 
+$h_s=K*\frac{(V_s-V_2)^2}{2*g}$
+</div>
