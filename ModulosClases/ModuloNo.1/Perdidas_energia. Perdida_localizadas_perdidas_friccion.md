@@ -77,7 +77,7 @@ En la siguiente tabla se presentan los principales valores de la rugosidad absol
 
 En un sistema hidráulico a presión, la presencia de accesorios es casi inevitable. Un accesorio modifica parcialmente las líneas de flujo, lo cual genera perturbaciones y turbulencias que a su vez generan pérdidas de energía. 
 
-Por lo general, las pérdidas localizadas se pueden estimar en función de la columna de velocidad y de un coeficiente de proporcionalidad (K). Este coeficiente de proporcionalidad depende del tipo de accesorio, su disposición y su forma de uso. El factor de proporcionalidad comunmente es denominado coeficiente de pérdidas localizadas.
+Por lo general, las pérdidas localizadas se pueden estimar en función de la columna de velocidad y de un coeficiente de proporcionalidad (K). Este coeficiente de proporcionalidad depende del tipo de accesorio, su disposición y su forma de uso. El factor de proporcionalidad comúnmente es denominado coeficiente de pérdidas localizadas.
 
 La ecuación de pérdidas localizadas se puede escribir como:
 
@@ -85,7 +85,7 @@ La ecuación de pérdidas localizadas se puede escribir como:
   <img src="ecuaciones/Ecuacion20.PNG" width="150px">
 </div>
 
-A continuación se presentan los principales accesorios que modifican las líneas de corriente en un flujo a presión y por tanto generan pérdidas de energía localizadas. 
+A continuación se presentan los principales accesorios que modifican las líneas de corriente en un flujo a presión y, por tanto, generan pérdidas de energía localizadas. 
 
 Se detallan además algunas metodologías para la estimación de los coeficientes de pérdidas localizadas (K):
 
@@ -94,7 +94,7 @@ Se detallan además algunas metodologías para la estimación de los coeficiente
 
 Una entrada se define como el paso del agua a una tubería o un tanque con nivel constante. Las pérdidas se presentan por el efecto de la contracción que sufre la vena líquida y la formación de zona de separación.
 
-A continuación, se presentan algunas figuras donde se definen los coeficientes de pérdidas localizadas generadas por "entradas" para diferentes configuraciones.
+A continuación, se presentan algunas figuras donde se definen algunos valores del coeficiente de pérdidas localizadas generadas por "entradas" para diferentes configuraciones.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.13.PNG" width="600px">
@@ -107,7 +107,7 @@ Las pérdidas por ampliación se presentan por un ensanchamiento del diámetro d
 
 ##### 2.1 Ampliación brusca
 
-Corresponde a la ampliación que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente ecuación corresponde a la ecuación de Borda - Carnot que presente el coeficiente K en funcíón del área de la ampliación (A2) y el área original (A1):
+Corresponde a la ampliación que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente ecuación corresponde a la ecuación de Borda - Carnot que presente el coeficiente K en función del área de la ampliación (A2) y el área original (A1):
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.14.PNG" width="250px">
@@ -115,7 +115,7 @@ Corresponde a la ampliación que genera mayor pérdida debido al cambio súbito 
 
 ##### 2.2 Ampliación gradual
 
-Utilizando la ecuación de Borja - Carnot, es posible la estimación del coeficiente de pérdidas cuando se conoce el ángulo de transición de la ampliación utilizando la siguiente ecuación:
+Utilizando la ecuación de Borda - Carnot, es posible la estimación del coeficiente de pérdidas cuando se conoce el ángulo de la transición de la ampliación utilizando la siguiente ecuación:
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.15.PNG" width="200px">
@@ -123,23 +123,73 @@ Utilizando la ecuación de Borja - Carnot, es posible la estimación del coefici
 
 #### 3. Pérdidas por reducción
 
-Las pérdidas por ampliación se presentan por la reducción del diámetro de la tubería que transporte el flujo. El coeficiente de pérdidas localizadas (K) depende, al igual que la ampliación, tanto de la relación de sus áreas (área inicial - área de la reducción) como del ángulo de transición de la reducción.
+Las pérdidas por ampliación se presentan por la reducción del diámetro de la tubería que transporta el flujo. El coeficiente de pérdidas localizadas (K) depende, al igual que la ampliación, tanto de la relación de sus áreas (área inicial - área de la reducción) como del ángulo de la transición de la reducción.
 
 ##### 3.1 Reducción brusca
 
-Corresponde a la reducción que genera mayor pérdida debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente gráfica corresponde a valores experimentales determinados por Kisieliev y Weisbach que presentan el coeficiente (K) en funcíón de los diámetros:
+Corresponde a la reducción que genera la mayor pérdida cuando de reducción se habla, debido al cambio súbito de las velocidades y de las líneas de corriente. La siguiente gráfica presentan algunos valores experimentales del coeficiente (k) determinados por Kisieliev y Weisbach en función de la relación de sus diámetros:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.16.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.1.16.PNG" width="450px">
 </div>
 
 ##### 3.2 Reducción gradual
 
-Experimentalmente Kisieliev ha determinado experimentalmente algunos valores del coeficiente (k) en función del ángulo de la reducción gradual:
+Kisieliev también determinó experimentalmente algunos valores del coeficiente (k) en función del ángulo de la reducción gradual:
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.17.PNG" width="700px">
 </div>
+
+#### 3. Pérdidas por válvulas
+
+Una válvula corresponde a un accesorio que permite la reducción del área transversal de la tubería para el control del flujo de manera puntual, lo que permite limitar el caudal que circula por un tramo del sistema hidráulico. Estas válvulas permiten el paso de una fracción del flujo y/o impiden completamente su circulación. La modificación del área transversal de la tubería necesariamente implica la modificación de las velocidades, las presiones y las líneas de corriente del flujo que a su modifican la energía disponible en el sistema.
+
+En los sistemas hidráulicos a presión, como los que se verán a lo largo de este curso, las válvulas son instaladas antes y después de tanques, antes y después de bombas o para la limitación de ciertas áreas o zonas del sistema de drenaje, dividiendo la red en subredes.
+
+En general, el fabricante debe proporcionar los valores de K, pero a continuación se presentan algunos coeficientes de pérdidas localizadas para algunos tipos de válvulas:
+
+##### 3.1 Válvulas de compuerta
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.18.PNG" width="400px">
+</div>
+
+Donde "c" corresponde a la relación de apertura. c=0 completamente abierto y c=1 completamente cerrado.
+
+##### 3.2 Válvulas esféricas
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.19.PNG" width="400px">
+</div>
+
+Donde $\theta$ corresponde al ángulo de abertura de la compuerta.
+
+##### 3.3 Válvulas de pie con rejilla
+
+Válvulas utilizadas en las tuberías de succión en bombas hidraulicas.
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.20.PNG" width="400px">
+</div>
+
+##### 3.4 Válvulas de cheque
+
+Válvulas utilizadas en las tuberías de descarga en bombas hidraulicas.
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.21.PNG" width="400px">
+</div>
+
+Donde $\delta$ corresponde al ángulo con respecto a la vertical que genera la tapa que sella la válvula. En la siguiente figura se puede observar un diagrama de una válvula de cheque convencional.
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.22.PNG" width="200px">
+</div>
+
+##### 3.5 Válvulas para tuberías pequeñas completamente abiertas
+
+Para otro tipo de válvulas para tuberías completamente abiertas con diámetros pequeños es posible utilizar los coeficientes presentados en la siguiente figura.
 
 ### Control de versiones
 
