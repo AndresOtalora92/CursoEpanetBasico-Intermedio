@@ -97,7 +97,7 @@ Una entrada se define como el paso del agua a una tubería o un tanque con nivel
 A continuación, se presentan algunas figuras donde se definen algunos valores del coeficiente de pérdidas localizadas generadas por "entradas" para diferentes configuraciones.
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.13.PNG" width="600px">
+  <img src="Imagenes/FiguraNo.1.13.PNG" width="500px">
 </div>
 
 
@@ -215,6 +215,16 @@ En la siguiente figura se presenta un esquema general que representa la salida d
   <img src="Imagenes/FiguraNo.1.24.PNG" width="300px">
 </div>
 
+
+#### 5. Pérdidas por codos
+
+Los codos corresponden a accesorios que permiten el cambio de dirección de una tubería sin tener que doblarla.
+
+En la siguiente figura se presentan los codos más comunes utilizandos en sistemas a presión y sus respectivos coeficientes de pérdidas localizadas en función del diámetro del codo.
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.25.PNG" width="500px">
+</div>
 
 ### Control de versiones
 
