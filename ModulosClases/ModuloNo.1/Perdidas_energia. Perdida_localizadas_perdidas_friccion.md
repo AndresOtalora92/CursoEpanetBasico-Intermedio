@@ -121,7 +121,7 @@ Utilizando la ecuación de Borja - Carnot, es posible la estimación del coefici
   <img src="Imagenes/FiguraNo.1.15.PNG" width="200px">
 </div>
 
-#### 3. Pérdidas por ampliación
+#### 3. Pérdidas por reducción
 
 Las pérdidas por ampliación se presentan por la reducción del diámetro de la tubería que transporte el flujo. El coeficiente de pérdidas localizadas (K) depende, al igual que la ampliación, tanto de la relación de sus áreas (área inicial - área de la reducción) como del ángulo de transición de la reducción.
 
@@ -135,7 +135,7 @@ Corresponde a la reducción que genera mayor pérdida debido al cambio súbito d
 
 ##### 3.2 Reducción gradual
 
-Experimentalmente Kisieliev ha determinado experimentalmente los coeficientes (k) en función del ángulo de la reducción gradual:
+Experimentalmente Kisieliev ha determinado experimentalmente algunos valores del coeficiente (k) en función del ángulo de la reducción gradual:
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.17.PNG" width="700px">
