@@ -200,9 +200,8 @@ Para otro tipo de válvulas para tuberías completamente abiertas con diámetros
 Las pérdidas por salida corresponde a que el sistema de la tubería a un recipiente, al exterior o a un tanque con nivel constante o variable. En general la ecuación para la estimación de las pérdidas por salida se pueden estimar con la siguiente ecuación:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.23.PNG" width="500px">
+  <img src="ecuaciones/Ecuacion21.PNG" width="150px">
 </div>
-
 
 Donde el coeficiente de pérdidas localizadas depende de la relación de las áreas. 
 
@@ -213,7 +212,7 @@ A1: Área de la tubería antes de la salida.
 En la siguiente figura se presenta un esquema general que representa la salida de un sistema a presión a un tanque de nivel constante
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.23.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.1.24.PNG" width="300px">
 </div>
 
 
