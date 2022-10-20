@@ -172,7 +172,7 @@ Como su nombre lo indica, corresponde al cambio súbito o instantáneo del diám
 Es posible determinar el coeficiente de pérdidas localizadas utilizando las gráficas determinadas por Kisieliev y Weisbach, las cuales depende de la relación de los diámetros de la reducción brusca:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.17.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.1.17.PNG" width="600px">
 
 Figura tomada de Sotelo Ávila G. (1959)
 
