@@ -170,17 +170,32 @@ Como su nombre lo indica, corresponde al cambio súbito o instantáneo del diám
 Es posible determinar el coeficiente de pérdidas localizadas utilizando las gráficas determinadas por Kisieliev y Weisbach, las cuales depende de la relación de los diámetros de la reducción brusca:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.17a.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.1.17.PNG" width="400px">
 Figura tomada de Sotelo Ávila G. (1959)
 </div>
 
 
 ##### 3.2 Reducción gradual
 
-Para la determinación del coeficiente de pérdidas localizadas para una reducción gradual es posible utilizar los resultados experiementales determinación por Kisieliev. En la siguiente tabla se presentan valores de (K) para diferentes ángulos de la reducción gradual:
+Para la determinación del coeficiente de pérdidas localizadas para una reducción gradual es posible utilizar los resultados experimentales determinados por Kisieliev. En la siguiente tabla se presentan valores de (K) para diferentes ángulos de la reducción gradual:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.17.PNG" width="700px">
+
+| $/tetha$ | K            | 
+|----------|:-------------|
+| 4 a 5°   | 0.06 a 0.005 |
+| 7°       | 0.16         |
+| 10°      | 0.16         |
+| 15°      | 0.18         |
+| 20°      | 0.20         |
+| 25°      | 0.22         |
+| 30°      | 0.24         |
+| 35°      | 0.26         |
+| 40°      | 0.28         |
+| 45°      | 0.30         |
+| 60°      | 0.32         |
+| 75°      | 0.34         |
+| 80°      | 0.35         |
 </div>
 
 #### 3. Pérdidas por válvulas
@@ -189,7 +204,7 @@ Una válvula corresponde a un accesorio que permite la reducción del área tran
 
 En los sistemas hidráulicos a presión, como los que se verán a lo largo de este curso, las válvulas son instaladas antes y después de tanques, antes y después de bombas o para la limitación de ciertas áreas o zonas del sistema de drenaje, dividiendo la red en subredes.
 
-En general, el fabricante debe proporcionar los valores de K, pero a continuación se presentan algunos coeficientes de pérdidas localizadas para algunos tipos de válvulas:
+En general, el fabricante debe proporcionar los valores de K. Cuando esto no sea posible,  pero a continuación se presentan algunos coeficientes de pérdidas localizadas para algunos tipos de válvulas:
 
 ##### 3.1 Válvulas de compuerta
 
