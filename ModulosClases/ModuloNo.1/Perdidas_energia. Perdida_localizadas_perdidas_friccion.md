@@ -155,7 +155,7 @@ Ca, corresponde a un coeficiente el cual puede ser determinado utilizando la sig
 
 <div align="center">
 
-  <img src="Imagenes/FiguraNo.1.16.PNG" width="600px">
+  <img src="Imagenes/FiguraNo.1.16.PNG" width="500px">
 
 Figura tomada de Sotelo Ávila G. (1959)
 
@@ -172,7 +172,7 @@ Como su nombre lo indica, corresponde al cambio súbito o instantáneo del diám
 Es posible determinar el coeficiente de pérdidas localizadas utilizando las gráficas determinadas por Kisieliev y Weisbach, las cuales depende de la relación de los diámetros de la reducción brusca:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.17.PNG" width="600px">
+  <img src="Imagenes/FiguraNo.1.17.PNG" width="500px">
 
 Figura tomada de Sotelo Ávila G. (1959)
 
