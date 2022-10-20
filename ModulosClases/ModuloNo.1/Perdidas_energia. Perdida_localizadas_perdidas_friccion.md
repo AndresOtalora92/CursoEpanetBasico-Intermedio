@@ -200,19 +200,34 @@ Para la determinación del coeficiente de pérdidas localizadas para una reducci
 
 #### 3. Pérdidas por válvulas
 
-Una válvula corresponde a un accesorio que permite la reducción del área transversal de la tubería para el control del flujo de manera puntual, lo que permite limitar el caudal que circula por un tramo del sistema hidráulico. Estas válvulas permiten el paso de una fracción del flujo y/o impiden completamente su circulación. La modificación del área transversal de la tubería necesariamente implica la modificación de las velocidades, las presiones y las líneas de corriente del flujo que a su modifican la energía disponible en el sistema.
+Una válvula corresponde a un accesorio que permite la reducción del área transversal de la tubería para el control del flujo de manera puntual, lo que permite limitar el caudal que circula por un tramo del sistema hidráulico. Estas válvulas permiten el paso de una fracción del flujo y/o impiden completamente su circulación. La modificación del área transversal de la tubería necesariamente implica la modificación de las velocidades, las presiones y de las líneas de corriente del flujo que a su modifican la energía disponible en el sistema.
 
-En los sistemas hidráulicos a presión, como los que se verán a lo largo de este curso, las válvulas son instaladas antes y después de tanques, antes y después de bombas o para la limitación de ciertas áreas o zonas del sistema de drenaje, dividiendo la red en subredes.
+En los sistemas hidráulicos a presión, como los que se verán a lo largo de este curso, las válvulas son instaladas antes y después de tanques, antes y después de bombas o para la limitación de ciertas áreas o zonas del sistema, dividiendo la red en subredes.
 
-En general, el fabricante debe proporcionar los valores de K. Cuando esto no sea posible,  pero a continuación se presentan algunos coeficientes de pérdidas localizadas para algunos tipos de válvulas:
+En general, el fabricante debe proporcionar los valores de K. Cuando esto no sea posible, se deben determinar experimentalmente o a partir de los valores dados en la literatura. A continuación se presentan algunos coeficientes de pérdidas localizadas para algunos tipos de válvulas:
 
 ##### 3.1 Válvulas de compuerta
 
-<div align="center">
-  <img src="Imagenes/FiguraNo.1.18.PNG" width="400px">
+Corresponden a aquellas válvulas que su cierre está controlado por un sistema que sube y baja una placa vertical que cierra parcial o completamente la sección de la tubería. En la siguiente tabla se presentan algunos valores de K para diferentes diámetros:
+
+| D (mm)          | 25 | 100    | 150  | 300  | 900 |
+|-----------------|:---|--------|------|------|-----|
+| Valores de C  0.95 | -  | -   | 850  | 680  | -   |
+| 0.90            | -  | -      | 215  | 165  | -   |
+| 0.80            | -  | -      | 47   | 35   | 28  |
+| 0.75            | 32 | 16     | -    | -    | -   |
+| 0.70            | -  | -      | 16   | 12   | 9   |
+| 0.60            | -  | -      | 7    | 5.5  | 4   |
+| 0.50            | 4.1 | 2.6   | 3.3  | 2.7  | 1.8 |
+| 0.40            | -  | -      | 1.7  | 1.3  | -   |
+| 0.30            | -  | -      | 1.05 | 0.65 | -   |
+| 0.25            | 0.23 | 0.14 | -    | -    | -   |
+| 0.20            | -  | -      | 0.68 | 0.29 | -   |
+| 0               | 0.23 | 0.14 | -    | -    | -   |
+
+
 </div>
 
-Donde "c" corresponde a la relación de apertura. c=0 completamente abierto y c=1 completamente cerrado.
 
 ##### 3.2 Válvulas esféricas
 
