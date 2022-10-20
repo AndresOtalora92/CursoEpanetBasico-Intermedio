@@ -210,6 +210,8 @@ En general, el fabricante debe proporcionar los valores de K. Cuando esto no sea
 
 Corresponden a aquellas válvulas que su cierre está controlado por un sistema que sube y baja una placa vertical que cierra parcial o completamente la sección de la tubería. En la siguiente tabla se presentan algunos valores de K para diferentes diámetros:
 
+<div align="center">
+
 | D (mm)          | 25 | 100    | 150  | 300  | 900 |
 |-----------------|:---|--------|------|------|-----|
 | Valores de C  0.95 | -  | -   | 850  | 680  | -   |
@@ -225,9 +227,7 @@ Corresponden a aquellas válvulas que su cierre está controlado por un sistema 
 | 0.20            | -  | -      | 0.68 | 0.29 | -   |
 | 0               | 0.23 | 0.14 | -    | -    | -   |
 
-
 </div>
-
 
 ##### 3.2 Válvulas esféricas
 
