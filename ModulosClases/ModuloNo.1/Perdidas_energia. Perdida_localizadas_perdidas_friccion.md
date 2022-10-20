@@ -147,14 +147,16 @@ Utilizando la ecuación de Borda - Carnot, también es posible la estimación de
 
 <div align="center">
 
-<img src="ecuaciones/Ecuacion22.PNG" width="150px">
+<img src="ecuaciones/Ecuacion22.PNG" width="180px">
 
 </div>
 
 Ca, corresponde a un coeficiente el cual puede ser determinado utilizando la siguiente figura:
 
 <div align="center">
+
   <img src="Imagenes/FiguraNo.1.16.PNG" width="600px">
+
 Figura tomada de Sotelo Ávila G. (1959)
 
 </div>
@@ -171,7 +173,9 @@ Es posible determinar el coeficiente de pérdidas localizadas utilizando las gr�
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.17.PNG" width="400px">
+
 Figura tomada de Sotelo Ávila G. (1959)
+
 </div>
 
 
