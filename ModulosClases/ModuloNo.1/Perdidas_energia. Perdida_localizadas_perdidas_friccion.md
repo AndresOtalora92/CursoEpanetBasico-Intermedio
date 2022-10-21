@@ -200,6 +200,7 @@ Para la determinación del coeficiente de pérdidas localizadas para una reducci
 | 60°      | 0.32         |
 | 75°      | 0.34         |
 | 80°      | 0.35         |
+
 </div>
 
 #### 3. Pérdidas por válvulas
