@@ -232,6 +232,8 @@ Corresponden a aquellas válvulas que su cierre está controlado por un sistema 
 | 0.20                  | -  | -      | 0.68 | 0.29 | -   |
 | 0                     | 0.23 | 0.14 | -    | -    | -   |
 
+Donde C corresponde la relación de apertura. C cercano a 1.0 corresponde a válvulas casi cerrada.
+
 </div>
 
 ##### 3.2 Válvulas esféricas

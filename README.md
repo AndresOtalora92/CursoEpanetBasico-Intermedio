@@ -13,17 +13,17 @@
 
 # Introducción. 
 
-Un modelo númerico corresponde a la representación matemática de los procesos físicos que domina el comportamiento de un sistema. En el caso particular de la hidráulica y especialmente para los problemas dominados por los flujos a presión, existen muchos programas, elaborados con diferentes lenguajes de programación, que buscan lo mismo: la determinación de los parámetros hidráulicos de una red a partir de la solución numérica de las ecuaciones de conservación de la energía y de la conservación de la masa. 
+Un modelo numérico corresponde a la representación matemática de los procesos físicos que domina el comportamiento de un sistema. En el caso particular de la hidráulica y especialmente para los problemas dominados por los flujos a presión, existen muchos programas, elaborados con diferentes lenguajes de programación, que buscan lo mismo: la determinación de los parámetros hidráulicos de una red a partir de la solución numérica de las ecuaciones de conservación de la energía y de la conservación de la masa. 
 
 Uno de los software más utilizados para la modelación de redes hidráulicas a presión en condiciones de flujo permanente, es el software EPANET, software que corresponde al objeto principal del presente curso. 
 
-Este curso se ha elaborado con el objetivo de proporcionarle al estudiante herramientas para la solución de problemas prácticos de la ingeniería hidráulica utilizando el sofwtare EPANET a partir de tres Módulos o secciones. 
+Este curso se ha elaborado con el objetivo de proporcionarle al estudiante herramientas para la solución de problemas prácticos de la ingeniería hidráulica utilizando el software EPANET a partir de tres Módulos o secciones. 
 
-El primer módulo corresponde a un repaso básico de algunos conceptos de la hidráulica a presión. El segundo módulo busca que el estudiante comprenda el uso del programa, sus ventanas y herramientas y aprenda como ingresar la información de los diferentes elementos que comprenden un proyecto en EPANET. El tercer módulo busca que el estudiante profundice en las herramientas más complejas integradas en el programa. En este último módulo se analizará con detalle las ecuaciones utilizadas por el software y el uso de elementos particulares de una red de drenaje tales como rociadores y tanques de alimentación asimetricos. También se explicarán las metodologías para la integración del lenguaje de programación PYTHON en los proyectos elaborados en EPANET.
+El primer módulo corresponde a un repaso básico de algunos conceptos de la hidráulica a presión. El segundo módulo busca que el estudiante comprenda el uso del programa, sus ventanas y herramientas y aprenda como ingresar la información de los diferentes elementos que comprenden un proyecto en EPANET. El tercer módulo busca que el estudiante profundice en las herramientas más complejas integradas en el programa. En este último módulo se analizará con detalle las ecuaciones utilizadas por el software y el uso de elementos particulares de una red de drenaje tales como rociadores y tanques de alimentación asimétricos. También se explicarán las metodologías para la integración del lenguaje de programación PYTHON en los proyectos elaborados en EPANET.
 
 
 # Objetivo principal del curso. 
-El objetivo general de este curso corresponde al estudio y aplicación del software de simulación hidráulica EPANET en su versión 2.2 en español. El curso se desarrolla a partir de la solución de diferentes ejercicios aplicados tomando como punto de partida los fundamentos básicos de la hidráulica a presión, los conceptos de  conservación de la energía y la conservación de la masa y los conceptos que definen el comportamiento hidráulico de las redes abiertas y de las redes cerradas en un sistema presurizado.
+El objetivo general de este curso corresponde al estudio y aplicación del software de simulación hidráulica EPANET en su versión 2.2 en español. El curso se desarrolla a partir de la solución de diferentes ejercicios aplicados tomando como punto de partida los fundamentos básicos de la hidráulica a presión, los conceptos de conservación de la energía y la conservación de la masa y los conceptos que definen el comportamiento hidráulico de las redes abiertas y de las redes cerradas en un sistema presurizado.
 
 # Objetivos secundarios del curso. 
 **1.** Conceptualización de los fundamentos de la hidráulica a presión.
@@ -32,7 +32,7 @@ El objetivo general de este curso corresponde al estudio y aplicación del softw
 
 **3.** Aplicación del software de EPANET en problemas prácticos de flujo a presión.
 
-**4.** Análisis de de las herramientas avanzadas del software de EPANET.
+**4.** Análisis de las herramientas avanzadas del software de EPANET.
 
 **5.** Análisis de los resultados para la toma de decisiones, utilizando EPANET.
 
@@ -42,7 +42,7 @@ El objetivo general de este curso corresponde al estudio y aplicación del softw
 
 El contenido del curso, el cual, como ya se mencionó, se ha dividido en tres módulos, permite que el estudiante aprenda de manera gradual y secuencia el uso y aplicación del software EPANET. 
 
-Una vez finalizado este curso el estudiante estará en la capacidad de aplicar el sofwtare EPANET y evaluar los resultados a partir del análisis del orden de magnitud los resultados a partir de la aplicación de los conceptos fundamentales tratados en las primeras actividades.
+Una vez finalizado este curso el estudiante estará en la capacidad de aplicar el software EPANET y evaluar los resultados a partir del análisis del orden de magnitud los resultados a partir de la aplicación de los conceptos fundamentales tratados en las primeras actividades.
 
 A continuación, se presenta el contenido programático de los tres módulos que componen el curso. Cada uno de estos módulos está conformado por actividades, distribuidas de tal manera que el estudiante comprenda el contenido. 
 
@@ -90,7 +90,7 @@ A continuación, se presenta el contenido programático de los tres módulos que
 
 </div>
 
-# Material del curso por módulos. Notas aclararorias
+# Material del curso por módulos. Notas aclaratorias
 
 Tal como se describió anteriormente, se recomienda que el estudiante revise, estudie y analice la información contenida en cada actividad, siguiendo el orden definido en el contenido programático. En el 
-caso que el estudiante requiera la certificación del curso,este deberá realizar las actividades y presentarlas al tutor siguiendo las instrucciones del caso, en los tiempos establecidos.
+caso que el estudiante requiera la certificación del curso, este deberá realizar las actividades y presentarlas al tutor siguiendo las instrucciones del caso, en los tiempos establecidos.
