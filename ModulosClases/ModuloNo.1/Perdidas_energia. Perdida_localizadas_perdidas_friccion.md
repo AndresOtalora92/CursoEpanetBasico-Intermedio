@@ -287,7 +287,7 @@ Una válvula de pie corresponde a una válvula que generalmente es conectada en 
 
 ##### 3.4 Válvulas de cheque
 
-Válvulas utilizadas en las tuberías de descarga en bombas hidraulicas.
+Válvulas utilizadas en las tuberías de descarga en bombas hidráulicas.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.21.PNG" width="400px">
