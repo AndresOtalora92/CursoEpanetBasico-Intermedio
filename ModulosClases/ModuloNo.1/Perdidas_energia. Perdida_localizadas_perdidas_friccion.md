@@ -63,7 +63,7 @@ En la siguiente tabla se presentan los principales valores de la rugosidad absol
 | Acero laminado, nuevo                                             | 0.04 a 1.0     |
 | Asbesto-cemento nuevo                                             | 0.025          |
 | Asbesto-cemento con protección interior de asfalto                | 0.0015         |
-| Concreto centrijugado nuevo                                       | 0.16           |
+| Concreto centrifugado nuevo                                       | 0.16           |
 | Concreto con acabo liso                                           | 0.025          |
 | Concreto alisado interiormente con cemento                        | 0.25           |
 | Concreto con acabo normal                                         | 1 a 3          |
@@ -232,21 +232,54 @@ Corresponden a aquellas válvulas que su cierre está controlado por un sistema 
 | 0.20                  | -  | -      | 0.68 | 0.29 | -   |
 | 0                     | 0.23 | 0.14 | -    | -    | -   |
 
-Donde C corresponde la relación de apertura. C cercano a 1.0 corresponde a válvulas casi cerrada.
+Donde C corresponde la relación de apertura. C cercano a 1.0 corresponde a válvulas casi cerradas.
 
 </div>
 
 ##### 3.2 Válvulas esféricas
 
-<div align="center">
-  <img src="Imagenes/FiguraNo.1.19.PNG" width="400px">
-</div>
+Corresponden a aquellas válvulas que su cierre está controlado por un sistema que hace rotar una pequeña en una cavidad cerrando parcial o completamente la sección de la tubería. En la siguiente tabla se presentan algunos valores de K para diferentes diámetros:
+
+| $/tetha$ | K        | A/Ao  |
+|----------|:---------|-------|
+| 5°       | 0.05     | 0.926 |
+| 10°      | 0.29     | 0.85  |
+| 15°      | 0.75     | 0.772 |
+| 20°      | 1.56     | 0.692 |
+| 25°      | 3.10     | 0.613 |
+| 30°      | 5.17     | 0.535 |
+| 35°      | 9.68     | 0.458 |
+| 40°      | 17.23    | 0.385 |
+| 45°      | 31.2     | 0.315 |
+| 50°      | 52.6     | 0.25  |
+| 55°      | 106      | 0.19  |
+| 60°      | 206      | 0.137 |
+| 65°      | 486      | 0.091 |
+| 82°      | infinito | 0     |
 
 Donde $\theta$ corresponde al ángulo de abertura de la compuerta.
 
 ##### 3.3 Válvulas de pie con rejilla
 
-Válvulas utilizadas en las tuberías de succión en bombas hidraulicas.
+Una válvula de pie corresponde a una válvula que generalmente es conectada en la tubería de succión que alimenta un sistema de bombeo. Estas válvulas permiten el paso del agua cuando la bomba está encendida y restringen el flujo cuando la bomba está apagada, reduciendo el número de veces que es necesario cebar la bomba. En la siguiente tabla se presentan los coeficientes de pérdidas localizadas para diferentes diámetros:
+
+
+| $/tetha$ | K        | A/Ao  |
+|----------|:---------|-------|
+| 5°       | 0.05     | 0.926 |
+| 10°      | 0.29     | 0.85  |
+| 15°      | 0.75     | 0.772 |
+| 20°      | 1.56     | 0.692 |
+| 25°      | 3.10     | 0.613 |
+| 30°      | 5.17     | 0.535 |
+| 35°      | 9.68     | 0.458 |
+| 40°      | 17.23    | 0.385 |
+| 45°      | 31.2     | 0.315 |
+| 50°      | 52.6     | 0.25  |
+| 55°      | 106      | 0.19  |
+| 60°      | 206      | 0.137 |
+| 65°      | 486      | 0.091 |
+| 82°      | infinito | 0     |
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.20.PNG" width="400px">
@@ -299,7 +332,7 @@ En la siguiente figura se presenta un esquema general que representa la salida d
 
 Los codos corresponden a accesorios que permiten el cambio de dirección de una tubería sin tener que doblarla.
 
-En la siguiente figura se presentan los codos más comunes utilizandos en sistemas a presión y sus respectivos coeficientes de pérdidas localizadas en función del diámetro del codo.
+En la siguiente figura se presentan los codos más comunes utilizados en los sistemas a presión y sus respectivos coeficientes de pérdidas localizadas en función del diámetro del codo.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.25.PNG" width="500px">
