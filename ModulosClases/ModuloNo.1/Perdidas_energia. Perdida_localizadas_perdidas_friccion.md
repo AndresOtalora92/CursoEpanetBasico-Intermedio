@@ -185,7 +185,7 @@ Para la determinación del coeficiente de pérdidas localizadas para una reducci
 
 <div align="center">
 
-| $/tetha$ | K            | 
+| $/theta$ | K            | 
 |----------|:-------------|
 | 4 a 5°   | 0.06 a 0.005 |
 | 7°       | 0.16         |
@@ -240,7 +240,9 @@ Donde C corresponde la relación de apertura. C cercano a 1.0 corresponde a vál
 
 Corresponden a aquellas válvulas que su cierre está controlado por un sistema que hace rotar una pequeña en una cavidad cerrando parcial o completamente la sección de la tubería. En la siguiente tabla se presentan algunos valores de K para diferentes diámetros:
 
-| $/tetha$ | K        | A/Ao  |
+<div align="center">
+
+| $/theta$ | K        | A/Ao  |
 |----------|:---------|-------|
 | 5°       | 0.05     | 0.926 |
 | 10°      | 0.29     | 0.85  |
@@ -259,38 +261,56 @@ Corresponden a aquellas válvulas que su cierre está controlado por un sistema 
 
 Donde $\theta$ corresponde al ángulo de abertura de la compuerta.
 
+</div>
+
 ##### 3.3 Válvulas de pie con rejilla
 
-Una válvula de pie corresponde a una válvula que generalmente es conectada en la tubería de succión que alimenta un sistema de bombeo. Estas válvulas permiten el paso del agua cuando la bomba está encendida y restringen el flujo cuando la bomba está apagada, reduciendo el número de veces que es necesario cebar la bomba. En la siguiente tabla se presentan los coeficientes de pérdidas localizadas para diferentes diámetros:
-
-
-| $/tetha$ | K        | A/Ao  |
-|----------|:---------|-------|
-| 5°       | 0.05     | 0.926 |
-| 10°      | 0.29     | 0.85  |
-| 15°      | 0.75     | 0.772 |
-| 20°      | 1.56     | 0.692 |
-| 25°      | 3.10     | 0.613 |
-| 30°      | 5.17     | 0.535 |
-| 35°      | 9.68     | 0.458 |
-| 40°      | 17.23    | 0.385 |
-| 45°      | 31.2     | 0.315 |
-| 50°      | 52.6     | 0.25  |
-| 55°      | 106      | 0.19  |
-| 60°      | 206      | 0.137 |
-| 65°      | 486      | 0.091 |
-| 82°      | infinito | 0     |
+Una válvula de pie corresponde a una válvula que generalmente es conectada en la tubería de succión que alimenta un sistema de bombeo. Estas válvulas permiten el paso del agua cuando la bomba está encendida y restringen el flujo cuando la bomba está apagada, reduciendo el número de veces que es necesario cebar la bomba. En la siguiente tabla se presentan los coeficientes de pérdidas localizadas para diferentes diámetros de válvulas de pie con rejillas:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.20.PNG" width="400px">
+
+| D (mm) | K    | 
+|--------|:-----|
+| 0.040  | 12.9 |
+| 0.050  | 10.0 |
+| 0.065  | 8.8  |
+| 0.080  | 8.0  |
+| 0.100  | 7.0  |
+| 0.125  | 6.5  |
+| 0.150  | 6.0  |
+| 0.20   | 5.2  |
+| 0.25   | 4.4  |
+| 0.30   | 3.7  |
+| 0.35   | 3.4  |
+| 0.40   | 3.1  |
+| 0.45   | 2.8  |
+| 0.50   | 2.5  |
 </div>
+
 
 ##### 3.4 Válvulas de cheque
 
-Válvulas utilizadas en las tuberías de descarga en bombas hidráulicas.
+Una válvula de cheque corresponde a una válvula que permite el paso del flujo en una tubería en una dirección al empujar un diafragma con bisagra que se levanta debido a la presión del flujo. Cuando el flujo intenta retornar o devolverse. Etas válvulas son muy usadas en las tuberías verticales instaladas en las descargas de los sistemas de bombeo. El diafragma cae y cierra bruscamente el área transversal de la tubería evitando el paso del flujo.
+
+En la siguiente tabla se resumen valores del coeficiente de pérdidas localizadas (k) para diferentes diámetros:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.21.PNG" width="400px">
+
+| $\delta$ | K | 
+|--------|:-----|
+| 15      | 90 |
+| 20      | 62 |
+| 25      | 42 |
+| 30      | 30 |
+| 35      | 20 |
+| 40      | 14 |
+| 45      | 9.5 |
+| 50      | 6.6 |
+| 55      | 4.6 |
+| 60      | 3.2 |
+| 65      | 2.3 |
+| 70      | 1.7 |
+
 </div>
 
 Donde $\delta$ corresponde al ángulo con respecto a la vertical que genera la tapa que sella la válvula. En la siguiente figura se puede observar un diagrama de una válvula de cheque convencional.
