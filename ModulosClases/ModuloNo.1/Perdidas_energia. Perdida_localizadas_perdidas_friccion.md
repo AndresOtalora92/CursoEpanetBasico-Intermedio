@@ -311,12 +311,12 @@ En la siguiente tabla se resumen valores del coeficiente de pérdidas localizada
 | 65      | 2.3 |
 | 70      | 1.7 |
 
+Donde $\delta$ corresponde al ángulo con respecto a la vertical que genera la tapa que sella la válvula.
+
 </div>
 
-Donde $\delta$ corresponde al ángulo con respecto a la vertical que genera la tapa que sella la válvula. En la siguiente figura se puede observar un diagrama de una válvula de cheque convencional.
-
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.22.PNG" width="200px">
+  <img src="Imagenes/FiguraNo.1.18.PNG" width="200px">
 </div>
 
 ##### 3.5 Válvulas para tuberías pequeñas completamente abiertas
@@ -324,12 +324,12 @@ Donde $\delta$ corresponde al ángulo con respecto a la vertical que genera la t
 Para otro tipo de válvulas para tuberías completamente abiertas con diámetros pequeños es posible utilizar los coeficientes presentados en la siguiente figura.
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.23.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.1.19.PNG" width="500px">
 </div>
 
 #### 4. Pérdidas por salida
 
-Las pérdidas por salida corresponde a que el sistema de la tubería a un recipiente, al exterior o a un tanque con nivel constante o variable. En general la ecuación para la estimación de las pérdidas por salida se pueden estimar con la siguiente ecuación:
+Las pérdidas por salida corresponde a las pérdidas generadas por la salida del flujo de una tubería a un tanque o a la atmosférica (descarga libre). En general, la ecuación para la estimación de las pérdidas por salida se pueden estimar con la siguiente ecuación:
 
 <div align="center">
   <img src="ecuaciones/Ecuacion23.PNG" width="200px">
@@ -341,28 +341,40 @@ As: Área de la tubería de salida
 A1: Área de la tubería antes de la salida.
 
 
-En la siguiente figura se presenta un esquema general que representa la salida de un sistema a presión a un tanque de nivel constante
+El coeficiente de pérdidas K de la anterior ecuación puede ser estimada utilizando la siguiente tabla:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.24.PNG" width="300px">
-</div>
 
+| Ao/A1 | K     | 
+|-------|:------|
+| 0.1   | 0.83  |
+| 0.2   | 0.84  |
+| 0.3   | 0.85  |
+| 0.4   | 0.87  |
+| 0.5   | 0.88  |
+| 0.6   | 0.90  |
+| 0.7   | 0.92  |
+| 0.8   | 0.94  |
+| 0.9   | 0.965 |
+| 1.0   | 1.0   |
+
+</div>
 
 #### 5. Pérdidas por codos
 
-Los codos corresponden a accesorios que permiten el cambio de dirección de una tubería sin tener que doblarla.
+Los codos corresponden a accesorios que permiten el cambio de dirección de una tubería sin tener que modificar estructurarmente la tubería.
 
 En la siguiente figura se presentan los codos más comunes utilizados en los sistemas a presión y sus respectivos coeficientes de pérdidas localizadas en función del diámetro del codo.
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.25.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.1.20.PNG" width="500px">
 </div>
 
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.10.19 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   6   |
+| 2022.11.01 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   9   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
