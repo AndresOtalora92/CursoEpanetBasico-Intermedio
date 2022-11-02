@@ -78,9 +78,8 @@ $H_p$,    corresponde a la energía suministrada por la bomba
 Como toda máquina, una bomba hidráulica consume energía, la cual siempre es superior a la que puede agregar al sistema. La potencia mecánica, en términos generales, puede escribirse como:
 
 Donde,
-
 <div align="center">
-  $P_m=T*/gamma$
+  <img src="ecuaciones/Ecuacion28.PNG" width="110px">
 </div>
 
 T,        corresponde al torque del eje que mueve el rodete.
@@ -88,14 +87,14 @@ $/omega$, corresponde a la velocidad angular de rotación del eje.
 
 ## Potencial eléctrica de una máquina hidráulica
 
-Actualmente casi todos los sistemas mecánicos son alimentados por energía eléctrica, la cual, debido al cableado, los accesorios y los isntrumentos, pierde energía antes de convertirse en energía mecánica. 
+Actualmente, casi todos los sistemas mecánicos son alimentados por energía eléctrica, la cual, debido al cableado, los accesorios y los isntrumentos, pierde energía antes de convertirse en energía mecánica. 
 
 La potencia eléctrica, en términos generales, puede escribir como:
 
 Donde,
 
 <div align="center">
-  $P_m=V*I$
+  <img src="ecuaciones/Ecuacion29.PNG" width="100px">
 </div>
 
 I, corresponde a la intensidad de la corriente 
