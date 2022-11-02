@@ -56,7 +56,6 @@ A continuación, se presenta el contenido programático de los tres módulos que
 | [Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción](ModulosClases/ModuloNo.1/Perdidas_energia.%20Perdida_localizadas_perdidas_friccion.md) | Descripción de las pérdidas de energía localizadas utilizando la ecuación de Darcy - Weisbach.Revisión de los coeficientes de rugosidad de las tuberías. Análisis de las ecuación de pérdidas localizadas. Revisión de coeficientes de pérdidas localizadas. |  
 | [Bombas. Conceptos y aplicaciones. Bombas en serie y en paralelo](Conceptos_bombas_hidraulicas.md)                                                         | Descripción de los tipos de bombas hidráulicas. Bombas en serie y en paralelo. Curvas de eficiencia de las bombas. Concepto de NPSH de las bombas. Revisión de sumergencia|  
 | [Conceptos de redes abiertas y redes cerradas]| Conceptos y aplicaciones de redes abiertas y de redes cerradas. | 
-| [Conceptos de redes cerradas] | Conceptos y aplicaciones de redes de tuberías cerradas.|
 | [Taller de aplicación de las unidades anteriores]| Planteamiento de ejercicios resueltos de los numerales anteriores. Planteamiento de ejercicios para que el estudiante pueda practicar lo aprendido.| 
 
 ## Módulo No. 2 - Uso y aplicación básica de EPANET. Ventanas y herramientas
