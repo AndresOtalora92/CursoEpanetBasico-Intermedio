@@ -32,11 +32,15 @@ Las bombas, como ya se mencionó, agregan energía al sistema, por tanto, al apl
 
 Para entender el concepto de columna de energía generada por una bomba (hp) es necesario plantear el concepto de conservación de energía antes y después de la bomba, así:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion24.PNG" width="200px">
+</div>
 
 Por tanto, al despejar la energía disponible, para un caudal dado, la ecuación que define la potencia necesaria de una bomba se puede expresar como:
 
-ecuacion despejada
-ecuación con caudal
+<div align="center">
+  <img src="ecuaciones/Ecuacion25.PNG" width="250px">
+</div>
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.21.PNG" width="500px">
