@@ -28,7 +28,40 @@ Las máquinas de fluidos, bombas hidráulicas o máquinas hidráulicas, pertenec
 
 En un sistema hidráulico convencional, el sistema de bombeo está compuesto por una máquina hidráulica que toma el agua desde otra tubería o desde un tanque ubicado a la entrada de la bomba (succión) aumentando la energía disponible en el sistema, a la salida (descarga) de la bomba.
 
-Las bombas, como ya se mencionó, agregan energía al sistema, por tanto, al aplicar los conceptos de conservación de energía (ver la actividad [Conservación de la energía](ModulosClases/ModuloNo.1/Conservacion_de_energia.md)) es necesario modificar la ecuación general de Bernoulli agregando el término que relaciona la potencia de la bomba en metros columna de agua (m.c.a.)
+Las bombas, como ya se mencionó, agregan energía al sistema, por tanto, al aplicar los conceptos de conservación de energía (ver la actividad [Conservación de la energía](ModulosClases/ModuloNo.1/Conservacion_de_energia.md)) es necesario modificar la ecuación general de Bernoulli agregando el término que relaciona la potencia de la bomba (Pw) en metros columna de agua (m.c.a.).
+
+Para entender el concepto de columna de energía generada por una bomba (hp) es necesario plantear el concepto de conservación de energía antes y después de la bomba, así:
+
+
+Por tanto, al despejar la energía disponible, para un caudal dado, la ecuación que define la potencia necesaria de una bomba se puede expresar como:
+
+ecuacion despejada
+ecuación con caudal
+
+## Potencial útil de una máquina hidráulica.
+
+## Potencial mecánica de una máquina hidráulica
+
+## Potencial eléctrica de una máquina hidráulica
+
+## Eficiencia de una máquina hidráulica
+
+## Curva caractarística teórica de una máquina hidráulica
+
+### Teoría de álabes. Conceptualización.
+
+### Curva característica real de una máquina hidráulica
+
+## Condición de succión. NPHS.
+
+Gráfica de presión de vapor.
+
+## Sistema de bombeo compuestos.
+
+### Bombas en serie.
+
+### Bombas en paralelo.
+
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.21.PNG" width="500px">
