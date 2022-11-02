@@ -116,5 +116,5 @@ $\eta= \frac{P_h}{P_m}$
 </div>
 
 <div align="center">
-$\eta= \frac{P_m}{P_e}$
+$\eta_e= \frac{P_m}{P_e}$
 </div>
