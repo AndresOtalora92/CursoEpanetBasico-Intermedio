@@ -102,3 +102,11 @@ $h_p=\frac{(\frac{Q}{A_2})^{2}-(\frac{Q}{A_1})^{2}}{2g}-\frac{P_2-P_1}{\gamma}$
 <div align="center"> 
 $P_h=\gamma*Q*H_p$
 </div>
+
+<div align="center"> 
+$P_m=T*\omega$
+</div>
+
+<div align="center"> 
+$P_E=I*V$
+</div>
