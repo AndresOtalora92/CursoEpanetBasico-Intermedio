@@ -38,6 +38,13 @@ Por tanto, al despejar la energía disponible, para un caudal dado, la ecuación
 ecuacion despejada
 ecuación con caudal
 
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.21.PNG" width="500px">
+
+Figura tomada de Mataix,Claudio. Mecánica de Fluidos y Máquinas hidráulicas. (1986)
+
+</div>
+
 ## Potencial útil de una máquina hidráulica.
 
 ## Potencial mecánica de una máquina hidráulica
