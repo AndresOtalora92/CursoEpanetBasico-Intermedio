@@ -83,15 +83,6 @@ Gráfica de presión de vapor.
 
 ### Bombas en paralelo.
 
-
-<div align="center">
-  <img src="Imagenes/FiguraNo.1.21.PNG" width="500px">
-
-Figura tomada de Mataix, Claudio. Mecánica de Fluidos y Máquinas Hidráulicas (1993)
-
-</div>
-
-
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
