@@ -10,6 +10,34 @@
 
 Keywords: `Turbomáquinas` `Bombas` `Eficiencia` `NPSH`
 
+## Introducción.
+
+En este módulo se describe el concepto general de una turbomáquina. Se detallan las principales características de las bombas hidráulicas, su clasificación, sus usos y aplicaciones y el desarrollo numérico y conceptual de las bombas en los problemas de flujos a presión en redes cerradas y redes abiertas.
+
+## Objetivos.
+
+El objetivo principal de esta actividad es permitir que el estudiante entienda los conceptos de las bombas hidráulicas y que tenga los conceptos para la toma de decisiones a la hora de implantar una bomba hidráulica en una red con flujo a presión. 
+
+## Turbomáquinas. Máquinas hidráulicas.
+
+Una máquina corresponde a un sistema que permite transformar, generalmente energía eléctrica en energía mecánica. Particularmente una máquina que agregar energía a un sistema hidráulico es denominada máquinas de fluidos o bombas hidráulicas. 
+
+Las máquinas de fluidos, bombas hidráulicas o máquinas hidráulicas, pertenecen a un grupo especial de máquinas que permite transformar energía eléctrica y mecánica en energía hidráulica, transmitiendo la energía al fluido, modificando las características hidráulicas del flujo su velocidad y su presión.
+
+## Energía en un sistema hidráulico.
+
+En un sistema hidráulico convencional, el sistema de bombeo está compuesto por una máquina hidráulica que toma el agua desde otra tubería o desde un tanque ubicado a la entrada de la bomba (succión) aumentando la energía disponible en el sistema, a la salida (descarga) de la bomba.
+
+Las bombas, como ya se mencionó, agregan energía al sistema, por tanto, al aplicar los conceptos de conservación de energía (ver la actividad [Conservación de la energía](ModulosClases/ModuloNo.1/Conservacion_de_energia.md)) es necesario modificar la ecuación general de Bernoulli agregando el término que relaciona la potencia de la bomba en metros columna de agua (m.c.a.)
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.21.PNG" width="500px">
+
+Figura tomada de Mataix, Claudio. Mecánica de Fluidos y Máquinas Hidráulicas (1993)
+
+</div>
+
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
