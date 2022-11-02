@@ -42,6 +42,8 @@ Por tanto, al despejar la energía disponible, para un caudal dado, la ecuación
   <img src="ecuaciones/Ecuacion25.PNG" width="250px">
 </div>
 
+
+
 <div align="center">
   <img src="Imagenes/FiguraNo.1.21.PNG" width="500px">
 
