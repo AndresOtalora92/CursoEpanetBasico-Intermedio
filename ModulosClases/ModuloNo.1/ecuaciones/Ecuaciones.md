@@ -90,3 +90,7 @@ $h_s=K*\frac{(V_s-V_2)^2}{2*g}$
 <div align="center"> 
 $h_p=\frac{V^{2}_2-V^{2}_1}{2g}-\frac{P_2-P_1}{\gamma}$
 </div>
+
+<div align="center"> 
+$h_p=\frac{(frac{Q}{A_1})^{2}_2-(frac{Q}{A_2})^{2}_1}{2g}-\frac{P_2-P_1}{\gamma}$
+</div>
