@@ -63,11 +63,43 @@ Figura tomada de Mataix, Claudio. Mecánica de Fluidos y Máquinas hidráulicas.
 
 La potencia útil o potencia real de la bomba corresponde a la energía suministrada en una unidad de tiempo. Si Q se define como el caudal transportado por el sistema, incluyendo la bomba, es posible expresar la potencia útil o potencia hidráulica de la bomba utilizando la siguiente expresión:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion27.PNG" width="140px">
+</div>
 
+Donde,
+
+$/gamma$, corresponde al peso específico del agua
+Q,        corresponde al caudal que circula por la tubería
+$H_p$,    corresponde a la energía suministrada por la bomba
 
 ## Potencial mecánica de una máquina hidráulica
 
+Como toda máquina, una bomba hidráulica consume energía, la cual siempre es superior a la que puede agregar al sistema. La potencia mecánica, en términos generales, puede escribirse como:
+
+Donde,
+
+<div align="center">
+  $P_m=T*/gamma$
+</div>
+
+T,        corresponde al torque del eje que mueve el rodete.
+$/omega$, corresponde a la velocidad angular de rotación del eje.
+
 ## Potencial eléctrica de una máquina hidráulica
+
+Actualmente casi todos los sistemas mecánicos son alimentados por energía eléctrica, la cual, debido al cableado, los accesorios y los isntrumentos, pierde energía antes de convertirse en energía mecánica. 
+
+La potencia eléctrica, en términos generales, puede escribir como:
+
+Donde,
+
+<div align="center">
+  $P_m=V*I$
+</div>
+
+I, corresponde a la intensidad de la corriente 
+V, corresponde al voltaje de la corriente
 
 ## Eficiencia de una máquina hidráulica
 
