@@ -108,24 +108,50 @@ La transformación de la energía y por tanto la transformación de la potencia 
 
 Es posible estimar la eficiencia eléctrica, al relacionar la potencia mecánica con la potencia eléctrica. La relación se denota como:
 
-También es posible estimar la eficiencia mecánica como la relación entre la potencia mecánica y la potencia hidráulica.La relación se denota como:
+<div align="center">
+  <img src="ecuaciones/Ecuacion30.PNG" width="90px">
+</div>
+
+También es posible estimar la eficiencia mecánica como la relación entre la potencia mecánica y la potencia hidráulica. La relación se denota como:
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion31.PNG" width="95px">
+</div>
+
+La eficiencia de una bomba depende de muchos factores, entre ellas las conexiones eléctricas, el tipo de bomba, su construcción, el estado de la bomba, su instalación y su ubicación.  
+
+## Tipos de bombas. Clasificación
+
+En la mayoría de la literatura las bombas pueden clasificarse de acuerdo con su principio de funcionamiento: 
+
+**1. Bombas de álabes:** Son aquellas bombas que, con ayuda de álabes o aspas agregan energía al sistema hidráulica a partir del aumento de la velocidad. 
+<br>
+
+**2. Bombas de volumétricas:** Son aquellas bombas que, transmiten o cede energía al fluido en forma de variación de la presión debido al cambio del volumen. 
+<br>
+
+**3. Bombas de gravimétricas** Son aquellas bombas que, transmiten o cede energía a partir de la transformación de la energía potencial. El mejor ejemplo de esto es el tornillo de Arquímedes. 
+<br>
+
+Debido a su gran aplicabilidad, existen distintos tipos y modelos de bombas que a su vez pueden ser clasificados utilizando diferentes criterios. Rodríguez, Alfonso (2019) sugiere la siguiente clasificación:
+
 
 
 ## Curva característica teórica de una máquina hidráulica
 
-### Teoría de álabes. Conceptualización.
+### Teoría de álabes. Conceptualización
 
 ### Curva característica real de una máquina hidráulica
 
-## Condición de succión. NPSH.
+## Condición de succión. NPSH
 
 Gráfica de presión de vapor.
 
-## Sistema de bombeo compuestos.
+## Sistema de bombeo compuestos
 
-### Bombas en serie.
+### Bombas en serie
 
-### Bombas en paralelo.
+### Bombas en paralelo
 
 ### Control de versiones
 
