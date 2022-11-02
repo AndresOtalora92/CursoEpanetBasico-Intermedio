@@ -36,13 +36,21 @@ Para entender el concepto de columna de energía generada por una bomba (hp) es 
   <img src="ecuaciones/Ecuacion24.PNG" width="200px">
 </div>
 
+Para planter la ecuación anterior se asume que las alturas $Z_i$, tanto para la succión como para la descarga, son las mismas. Además se asume que las pérdidas de energía en el tramo evaluado (tubería - bomba - tubería) son despreciables. 
+
 Por tanto, al despejar la energía disponible, para un caudal dado, la ecuación que define la potencia necesaria de una bomba se puede expresar como:
 
 <div align="center">
   <img src="ecuaciones/Ecuacion25.PNG" width="250px">
 </div>
 
+Escribiendo la expresión en función del caudal se tiene que:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion26.PNG" width="250px">
+</div>
+
+Un esquema general de un montaje de una bomba en un sistema de tuberías con flujo a presión se presenta en la siguiente figura:
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.21.PNG" width="500px">
