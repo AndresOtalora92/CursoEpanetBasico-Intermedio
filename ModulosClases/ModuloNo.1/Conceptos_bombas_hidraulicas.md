@@ -46,13 +46,13 @@ ecuación con caudal
 
 ## Eficiencia de una máquina hidráulica
 
-## Curva caractarística teórica de una máquina hidráulica
+## Curva característica teórica de una máquina hidráulica
 
 ### Teoría de álabes. Conceptualización.
 
 ### Curva característica real de una máquina hidráulica
 
-## Condición de succión. NPHS.
+## Condición de succión. NPSH.
 
 Gráfica de presión de vapor.
 
