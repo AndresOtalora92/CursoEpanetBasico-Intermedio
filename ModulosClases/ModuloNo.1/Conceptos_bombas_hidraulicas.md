@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Bombas Hidráulicas. Conceptos y aplicaciones. 
+# Curso de Epanet - Módulo 1 - Bombas. Conceptos y aplicaciones. Bombas en serie y en paralelo. 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">
 </div>
