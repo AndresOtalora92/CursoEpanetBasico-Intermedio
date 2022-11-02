@@ -110,3 +110,11 @@ $P_m=T*\omega$
 <div align="center"> 
 $P_E=I*V$
 </div>
+
+<div align="center">
+$\eta= \frac{P_h}{P_m}$
+</div>
+
+<div align="center">
+$\eta= \frac{P_m}{P_e}$
+</div>
