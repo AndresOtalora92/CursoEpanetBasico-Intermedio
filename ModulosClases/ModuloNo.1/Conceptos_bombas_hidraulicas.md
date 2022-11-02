@@ -41,7 +41,7 @@ ecuación con caudal
 <div align="center">
   <img src="Imagenes/FiguraNo.1.21.PNG" width="500px">
 
-Figura tomada de Mataix,Claudio. Mecánica de Fluidos y Máquinas hidráulicas. (1986)
+Figura tomada de Mataix, Claudio. Mecánica de Fluidos y Máquinas hidráulicas. (1986)
 
 </div>
 
