@@ -33,10 +33,10 @@ Las bombas, como ya se mencionó, agregan energía al sistema, por tanto, al apl
 Para entender el concepto de columna de energía generada por una bomba (hp) es necesario plantear el concepto de conservación de energía antes y después de la bomba, así:
 
 <div align="center">
-  <img src="ecuaciones/Ecuacion24.PNG" width="200px">
+  <img src="ecuaciones/Ecuacion24.PNG" width="250px">
 </div>
 
-Para planter la ecuación anterior se asume que las alturas $Z_i$, tanto para la succión como para la descarga, son las mismas. Además se asume que las pérdidas de energía en el tramo evaluado (tubería - bomba - tubería) son despreciables. 
+Para planter la ecuación anterior se asume que las alturas $Z_i$, tanto para la succión como para la descarga, son las mismas. Además, se asume que las pérdidas de energía en el tramo evaluado (tubería - bomba - tubería) son despreciables. 
 
 Por tanto, al despejar la energía disponible, para un caudal dado, la ecuación que define la potencia necesaria de una bomba se puede expresar como:
 
@@ -60,6 +60,10 @@ Figura tomada de Mataix, Claudio. Mecánica de Fluidos y Máquinas hidráulicas.
 </div>
 
 ## Potencial útil de una máquina hidráulica.
+
+La potencia útil o potencia real de la bomba corresponde a la energía suministrada en una unidad de tiempo. Si Q se define como el caudal transportado por el sistema, incluyendo la bomba, es posible expresar la potencia útil o potencia hidráulica de la bomba utilizando la siguiente expresión:
+
+
 
 ## Potencial mecánica de una máquina hidráulica
 

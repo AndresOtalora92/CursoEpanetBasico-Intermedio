@@ -98,3 +98,7 @@ $h_p=\frac{V^{2}_2-V^{2}_1}{2g}-\frac{P_2-P_1}{\gamma}$
 <div align="center"> 
 $h_p=\frac{(\frac{Q}{A_2})^{2}-(\frac{Q}{A_1})^{2}}{2g}-\frac{P_2-P_1}{\gamma}$
 </div>
+
+<div align="center"> 
+$P_h=\gamma*Q*H_p$
+</div>
