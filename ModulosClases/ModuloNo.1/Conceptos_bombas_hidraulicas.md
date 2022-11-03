@@ -136,7 +136,7 @@ En la mayoría de la literatura las bombas pueden clasificarse de acuerdo con su
 Debido a su gran aplicabilidad, existen distintos tipos y modelos de bombas que a su vez pueden ser clasificados utilizando diferentes criterios. Rodríguez, Alfonso (2019) sugiere la siguiente clasificación:
 
 <div align="center">
-    <img src="Imagenes/FiguraNo.1.22.PNG" width="500px">
+    <img src="Imagenes/FiguraNo.1.22.SVG" width="500px">
 </div>
 
 ## Curva característica teórica de una máquina hidráulica
