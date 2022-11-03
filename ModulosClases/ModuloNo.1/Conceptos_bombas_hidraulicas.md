@@ -145,11 +145,49 @@ Debido a la gran aplicación de las bombas centrífugas y teniendo en cuenta que
     <img src="Imagenes/FiguraNo.1.23.svg" width="600px">
 </div>
 
-## Curva característica teórica de una máquina hidráulica
+IMAGENES
 
-### Teoría de álabes. Conceptualización
+## Teoría de álabes. Conceptualización
+
+La teoría de álabes corresponde a un análisis matemático que permite simplificar las condiciones físicas que el sistema de bombeo realiza para convertir la energía mecánica en energía hidráulica. Estos análisis, como su nombre lo indica, tienen en cuenta las características geométricas de los álabes (radio y ángulo), la velocidad de salida del flujo, la velocidad de rotación y el caudal transitado por el sistema. 
+
+Con estos análisis es posible la estimación de funciones teóricas que relacionan el torque, la energía de la bomba y el caudal con las características geométricas de los álabes. 
+
+El aporte más importante en la teoría de álabes es la curva característica o curva de eficiencia de la bomba, la cual relaciona el caudal transitado con la potencía de la bomba en columna de agua. 
+
+Debido a la simplificación que debe hacerse en la teoría de álabes, los valores obtenidos de la curva característica tienen diferencias con la curva característica real. El detalle y las demostraciones de la teoría de álabes está fuera del alcance de este curso, se recomienda, si lo considera necesario el lector, buscar referencias bibliográficas que refuercen estos conceptos.
+
+A continuación se explica con detalle el concepto de curva característica de una bomba centrífuga y se detalla, conceptualmente, la curva característica teórica y la curva característica real.
+
+### Curva característica teórica de una máquina hidráulica
+
+La curva característica o curva eficiencia de una bomba corresponde a la gráfica que relaciona el caudal descargado por el sistema hidráulico (Q) vs la columna de energía que puede generar la bomba (Ht).
+
+En palabras más sencillas, una bomba con una potencia dada (Pw), puede impulsar un caudal dado (Q) a una altura única H (teniendo en cuenta las pérdidas de energía). La curva característica real de una bomba (no teórica) define que, a mayor sea el caudal transitado, menor será la altura a la cual es posible bombear el fluido.
+
+### Curva característica teórica de una máquina hidráulica
+
+A partir de los conceptos de la teoría de álabes es posible demostrar una relación lineal y teórica entre el caudal transportado por un sistema de bombeo y la energía en metros columna de agua (m.c.a):
+
+Donde,
+
+$u_2$, corresponde a la velocidad de salida del fluido en el rodete.
+$b_2$, corresponde al ancho de salida del álabe.
+$\beta$, corresponde al ángulo de salida del fluido con respecto a la cara del álabe en su salida.
+
+Con esta función, es posible trazar una curva característica teórica de una bomba centrífuga. A continuación se presenta una representación gráfica de estas curvas características teóricas:
 
 ### Curva característica real de una máquina hidráulica
+
+Si bien las curvas características de una bomba teórica es lineal, al considerar los efectos que no se tuvieron en cuenta en los análisis teóricos, la curva presenta una tendencia parabólica que decrece después de alcanzar un punto máximo. En general, los efectos de las pérdidas por fricción en los álabes, la turbulencia del flujo en el rodete y el número finito de álabes, hacen que en la vida real disminuya la columna de energía (Ht) a medida que aumenta el caudal.
+
+En la siguiente figura se presenta un esquema general de una curva característica real.
+
+xxxxxxxxxx
+
+A continuación y a manera de ejemplo se presentan algunas curvas características tomadas de diferentes proveedores de bombas centrífugas:
+
+xxxxxxxxxxx
 
 ## Condición de succión. NPSH
 
