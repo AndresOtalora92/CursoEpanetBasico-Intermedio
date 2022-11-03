@@ -136,7 +136,13 @@ En la mayoría de la literatura las bombas pueden clasificarse de acuerdo con su
 Debido a su gran aplicabilidad, existen distintos tipos y modelos de bombas que a su vez pueden ser clasificados utilizando diferentes criterios. Rodríguez, Alfonso (2019) sugiere la siguiente clasificación:
 
 <div align="center">
-    <img src="Imagenes/FiguraNo.1.22.SVG" width="500px">
+    <img src="Imagenes/FiguraNo.1.22.svg" width="600px">
+</div>
+
+Debido a la gran aplicación de las bombas centrífugas y teniendo en cuenta que son las que se usarán en el presente curso, a continuación se presentan los principales tipos de bombas centrífugas.
+
+<div align="center">
+    <img src="Imagenes/FiguraNo.1.23.svg" width="600px">
 </div>
 
 ## Curva característica teórica de una máquina hidráulica
