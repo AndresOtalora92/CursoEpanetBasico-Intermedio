@@ -207,11 +207,17 @@ Si bien las curvas características de una bomba teórica es lineal, al consider
 
 En la siguiente figura se presenta un esquema general de una curva característica real.
 
-xxxxxxxxxx
+<div align="center">
+    <img src="Imagenes/FiguraNo.1.28.jpg" width="350px">
+</div>
+
 
 A continuación y a manera de ejemplo se presentan algunas curvas características tomadas de diferentes proveedores de bombas centrífugas:
 
-xxxxxxxxxxx
+<div align="center">
+    <img src="Imagenes/FiguraNo.1.29.jpg" width="350px">
+</div>
+
 
 ## Condición de succión. NPSH
 
