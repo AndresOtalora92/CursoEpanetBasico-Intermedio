@@ -122,3 +122,7 @@ $\eta_e= \frac{P_m}{P_e}$
 <div align="center">
 $EAS=\frac{P_atm}{\gamma}\pm h_s - h_f$
 </div>
+
+<div align="center">
+$(EAS)_D=EAS-PV$
+</div>

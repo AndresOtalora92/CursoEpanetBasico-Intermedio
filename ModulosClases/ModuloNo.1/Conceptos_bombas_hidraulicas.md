@@ -1,4 +1,5 @@
-# Curso de Epanet - Módulo 1 - Bombas. Conceptos y aplicaciones. Bombas en serie y en paralelo. 
+# Curso de Epanet - Módulo 1 - Bombas. Conceptos y aplicaciones.
+
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">
 </div>
@@ -228,6 +229,9 @@ Con base en lo anterior las bombas centrífugas requieren de una altura neta pos
 
 En términos generales, la altura neta de positiva disponible o de trabajo corresponde a: 
 
+<div align="center">
+    <img src="ecuaciones/Ecuacion32.PNG" width="180px">
+</div>
 
 
 Donde,
@@ -235,9 +239,7 @@ Donde,
 EAS: Energía absoluta disponible en la succión (m):
 
 <div align="center">
-
-<img src="ecuaciones/Ecuacion22.PNG" width="180px">
-
+    <img src="ecuaciones/Ecuacion33.PNG" width="180px">
 </div>
 
 con,
