@@ -249,21 +249,39 @@ $h_s$, corresponde a la altura estática de succión.
 $h_f$, corresponden a la sumatoria de las pérdidas por fricción y pérdidas por accesorios (m)
 
 
-## Selección de la bomba.
+## Selección de la bomba. Punto de operación óptimo.
 
-Para la selección de la bomba es necesario revisar, no solo la potencia del sistema de bombeo en metro columna de agua (ht) sino el caudal (Q) que puede transportar dicho sistema. Como se mencionó anteriormente, a mayor caudal requerido, menor será la energía total a la cual es posible transporta un caudal bombeado.
+Para la selección de la bomba es necesario revisar, no solo la potencia del sistema de bombeo en metro columna de agua (ht en m.c.a) sino el caudal (Q) que puede ser transportado en el sistema teniendo en cuenta las pérdidas totales (pérdidas por fricción y pérdidas localizadas). Como se mencionó anteriormente, a mayor caudal requerido, menor será la energía total a la cual es posible transporta un caudal bombeado.
 
-Para tener en cuenta estos factores, es necesario identificar el punto óptimo de operación del sistema o de la red. El punto de óptimo de operación corresponde al punto de intersección de la función que define la curva característica de la bomba y la curva característica del sistema. Este punto de corte debe cumplir tanto el caudal demandado por el sistema como la energía total (ht) en el nodo seleccionado.
+Para tener en cuenta estos factores, es necesario identificar el punto óptimo de operación del sistema o de la red. El punto de óptimo de operación corresponde al punto de intersección de la función que define la curva característica de la bomba y la función que define la curva característica del sistema. El punto de corte (punto de operación) debe cumplir debe permitir el caudal demandado por el sistema como la energía total (ht) en el nodo seleccionado.
 
 
-### Curva del sistema. Punto de operación óptimo.
+### Curva del sistema. 
 
+Para la estimación de la curva del sistema es necesario resolver la ecuación de conservación de la energía o Bernoulli entre el punto de inicio del sistema y su punto de descarga o nodo intermedio de evaluación. En un sistema simple, es posible determinar Ht así:
+
+<div align="center">
+    <img src="ecuaciones/Ecuacion34.PNG" width="180px">
+</div>
+
+
+Para este caso, es necesario estimar tantos valores de Ht (altura de energía de la bomba) como valores de caudales (Q) se seleccionen. Los valores de caudales definidos deben oscilar en el mismo rango de operación de la bomba (valores definidos por el fabricante en la curva característica de la bomba). La curva del sistema corresponde al gráfico entre los valores de Q y los valores de Ht. 
+
+Al superponer estas dos funciones (curva característica de la bomba y curva característica del sistema) es posible estimar, si se cortan las funciones, el punto óptimo de operación. Debe seleccionarse una bomba tal que el punto óptimo de operación permita general el caudal demandado por el sistema venciendo las pérdidas de energía.
+
+A continuación se presenta una figura que de manera esquemática representa lo mencionado:
+
+<div align="center">
+    <img src="Imagenes/FiguraNo.1.30.PNG" width="500px">
+</div>
+
+En sistemas complejos la curva característica del sistema se obtiene a partir de la solución de múltiples ecuaciones (sistemas de ecuaciones de conservación de la masa y conservación de la energía), determinando el valor Ht para diferentes valores de caudal (Q). Es posible realizar esto utilizando metodología que están fuera del alcance de este curso o utilizando software que permite la solución de los sistemas, tales como EPANET.
 
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.11.01 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   8   |
+| 2022.11.04 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  10   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 

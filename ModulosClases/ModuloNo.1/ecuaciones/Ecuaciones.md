@@ -126,3 +126,7 @@ $EAS=\frac{P_atm}{\gamma}\pm h_s - h_f$
 <div align="center">
 $(EAS)_D=EAS-PV$
 </div>
+
+<div align="center"> 
+$h_t=\frac{V^{2}_2-V^{2}_1}{2g}-\frac{P_2-P_1}{\gamma}+\sum_{i=1}^{n}h_k+\sum_{i=1}^{n}h_f$
+</div>
