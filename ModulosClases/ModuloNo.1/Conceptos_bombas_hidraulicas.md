@@ -212,10 +212,10 @@ En la siguiente figura se presenta un esquema general de una curva característi
 </div>
 
 
-A continuación y a manera de ejemplo se presentan algunas curvas características tomadas de diferentes proveedores de bombas centrífugas:
+A continuación y a manera de ejemplo se presentan una curva característica real tomada de un proveedor de bombas centrífugas:
 
 <div align="center">
-    <img src="Imagenes/FiguraNo.1.29.jpg" width="500px">
+    <img src="Imagenes/FiguraNo.1.29.PNG" width="500px">
 </div>
 
 
