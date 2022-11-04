@@ -148,10 +148,25 @@ Debido a la gran aplicación de las bombas centrífugas y teniendo en cuenta que
 A continuación, se presentan imágenes de alguna las principales clasificaciones de las bombas centrífugas:
 
 <div align="center">
-    **Bombas Centríguas**
-    <img src="Imagenes/FiguraNo.1.24.svg" width="600px">
+    <img src="Imagenes/FiguraNo.1.24.jpg" width="600px">
+Bombas Centrífuga. Figura tomada de internet.
 </div>
 
+<div align="center">
+    <img src="Imagenes/FiguraNo.1.25.jpg" width="450px">
+Bombas Rotativas. Figura tomada de internet.
+</div>
+
+<div align="center">
+    <img src="Imagenes/FiguraNo.1.26.png" width="450px">
+Bombas de Émbolo. Figura tomada de internet.
+</div>
+
+<div align="center">
+    <img src="Imagenes/FiguraNo.1.27.png" width="250px">
+
+Bombas de Pozo Profundo. Figura tomada de internet.
+</div>
 
 ## Teoría de álabes. Conceptualización
 
