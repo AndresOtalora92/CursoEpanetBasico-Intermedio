@@ -160,13 +160,13 @@ Bombas Rotativas. Figura tomada de internet.
 </div>
 
 <div align="center">
-    <img src="Imagenes/FiguraNo.1.26.png" width="450px">
+    <img src="Imagenes/FiguraNo.1.26.PNG" width="450px">
 
 Bombas de Émbolo. Figura tomada de internet.
 </div>
 
 <div align="center">
-    <img src="Imagenes/FiguraNo.1.27.png" width="250px">
+    <img src="Imagenes/FiguraNo.1.27.PNG" width="250px">
 
 Bombas de Pozo Profundo. Figura tomada de internet.
 </div>
