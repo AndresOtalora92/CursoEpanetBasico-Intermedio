@@ -229,9 +229,16 @@ Con base en lo anterior las bombas centrífugas requieren de una altura neta pos
 En términos generales, la altura neta de positiva disponible o de trabajo corresponde a: 
 
 
+
 Donde,
 
 EAS: Energía absoluta disponible en la succión (m):
+
+<div align="center">
+
+<img src="ecuaciones/Ecuacion22.PNG" width="180px">
+
+</div>
 
 con,
 
