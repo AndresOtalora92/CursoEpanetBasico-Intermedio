@@ -118,3 +118,7 @@ $\eta= \frac{P_h}{P_m}$
 <div align="center">
 $\eta_e= \frac{P_m}{P_e}$
 </div>
+
+<div align="center">
+\frac{P_atm}{\gamma}\pm h_s - h_f
+</div>

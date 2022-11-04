@@ -220,8 +220,25 @@ A continuación y a manera de ejemplo se presentan una curva característica rea
 
 
 ## Condición de succión. NPSH
+La energía Neta Positiva o ENPS en sus siglas es español, o NPSH en sus siglas en inglés, corresponde a la altura absoluta disponible de una bomba en su entrada para que esta trabaje adecuadamente.
 
-Gráfica de presión de vapor.
+Todas las bombas centrífugas funcionan normalmente cuando la presión absoluta a la entrada tiene un valor superior al valor mínimo correspondiente a la presión de vapor. El valor que define la presión absoluta de trabajo de la bomba en su entrada considerando las pérdidas de energía y la presión atmosférica corresponde al NPSH.
+
+Con base en lo anterior las bombas centrífugas requieren de una altura neta positiva de trabajo (NPSG_disponible) superior a la altura neta positiva recomendada por el fabricante (NPSH_requerida).
+
+En términos generales, la altura neta de positiva disponible o de trabajo corresponde a: 
+
+
+Donde,
+
+EAS: Energía absoluta disponible en la succión (m):
+
+con,
+
+$\frac{P_atm}{\gamma}$, corresponde a la presión atmosférica local en (m) 
+$h_s$, corresponde a la altura estática de succión.
+$h_f$, corresponden a la sumatoría de las pérddias por fricción y pérdidas por accesorios (m)
+
 
 ## Sistema de bombeo compuestos
 
