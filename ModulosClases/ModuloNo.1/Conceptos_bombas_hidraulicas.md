@@ -145,7 +145,13 @@ Debido a la gran aplicación de las bombas centrífugas y teniendo en cuenta que
     <img src="Imagenes/FiguraNo.1.23.svg" width="600px">
 </div>
 
-IMAGENES
+A continuación, se presentan imágenes de alguna las principales clasificaciones de las bombas centrífugas:
+
+<div align="center">
+    **Bombas Centríguas**
+    <img src="Imagenes/FiguraNo.1.24.svg" width="600px">
+</div>
+
 
 ## Teoría de álabes. Conceptualización
 
