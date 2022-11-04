@@ -184,7 +184,7 @@ Debido a la simplificación que debe hacerse en la teoría de álabes, los valor
 
 A continuación se explica con detalle el concepto de curva característica de una bomba centrífuga y se detalla, conceptualmente, la curva característica teórica y la curva característica real.
 
-### Curva característica teórica de una máquina hidráulica
+## Curva característica teórica de una máquina hidráulica
 
 La curva característica o curva eficiencia de una bomba corresponde a la gráfica que relaciona el caudal descargado por el sistema hidráulico (Q) vs la columna de energía que puede generar la bomba (Ht).
 
@@ -202,7 +202,7 @@ $\beta$, corresponde al ángulo de salida del fluido con respecto a la cara del 
 
 Con esta función, es posible trazar una curva característica teórica de una bomba centrífuga. A continuación se presenta una representación gráfica de estas curvas características teóricas:
 
-### Curva característica real de una máquina hidráulica
+## Curva característica real de una máquina hidráulica
 
 Si bien las curvas características de una bomba teórica es lineal, al considerar los efectos que no se tuvieron en cuenta en los análisis teóricos, la curva presenta una tendencia parabólica que decrece después de alcanzar un punto máximo. En general, los efectos de las pérdidas por fricción en los álabes, la turbulencia del flujo en el rodete y el número finito de álabes, hacen que en la vida real disminuya la columna de energía (Ht) a medida que aumenta el caudal.
 
@@ -246,14 +246,18 @@ con,
 
 $\frac{P_atm}{\gamma}$, corresponde a la presión atmosférica local en (m) 
 $h_s$, corresponde a la altura estática de succión.
-$h_f$, corresponden a la sumatoría de las pérddias por fricción y pérdidas por accesorios (m)
+$h_f$, corresponden a la sumatoria de las pérdidas por fricción y pérdidas por accesorios (m)
 
 
-## Sistema de bombeo compuestos
+## Selección de la bomba.
 
-### Bombas en serie
+Para la selección de la bomba es necesario revisar, no solo la potencia del sistema de bombeo en metro columna de agua (ht) sino el caudal (Q) que puede transportar dicho sistema. Como se mencionó anteriormente, a mayor caudal requerido, menor será la energía total a la cual es posible transporta un caudal bombeado.
 
-### Bombas en paralelo
+Para tener en cuenta estos factores, es necesario identificar el punto óptimo de operación del sistema o de la red. El punto de óptimo de operación corresponde al punto de intersección de la función que define la curva característica de la bomba y la curva característica del sistema. Este punto de corte debe cumplir tanto el caudal demandado por el sistema como la energía total (ht) en el nodo seleccionado.
+
+
+### Curva del sistema. Punto de operación óptimo.
+
 
 ### Control de versiones
 
