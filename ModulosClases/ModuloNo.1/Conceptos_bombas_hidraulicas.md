@@ -261,7 +261,7 @@ Para tener en cuenta estos factores, es necesario identificar el punto óptimo d
 Para la estimación de la curva del sistema es necesario resolver la ecuación de conservación de la energía o Bernoulli entre el punto de inicio del sistema y su punto de descarga o nodo intermedio de evaluación. En un sistema simple, es posible determinar Ht así:
 
 <div align="center">
-    <img src="ecuaciones/Ecuacion34.PNG" width="180px">
+    <img src="ecuaciones/Ecuacion34.PNG" width="350px">
 </div>
 
 
