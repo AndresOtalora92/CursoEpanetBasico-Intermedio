@@ -149,16 +149,19 @@ A continuación, se presentan imágenes de alguna las principales clasificacione
 
 <div align="center">
     <img src="Imagenes/FiguraNo.1.24.jpg" width="600px">
+
 Bombas Centrífuga. Figura tomada de internet.
 </div>
 
 <div align="center">
     <img src="Imagenes/FiguraNo.1.25.jpg" width="450px">
+
 Bombas Rotativas. Figura tomada de internet.
 </div>
 
 <div align="center">
     <img src="Imagenes/FiguraNo.1.26.png" width="450px">
+
 Bombas de Émbolo. Figura tomada de internet.
 </div>
 
