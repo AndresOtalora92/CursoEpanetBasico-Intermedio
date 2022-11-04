@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Conservación de la masa y conservación de la energía 
+# Curso de Epanet - Módulo 1 - Conservación de la masa. Caudal en flujos a presión. 
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">

@@ -11,6 +11,14 @@
 
 Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
 
+## Introducción.
+
+En este módulo se describen los conceptos relacionados con las pérdidas de energía en un sistema hidráulico con flujos a presión. Se detallan las metodologías más usadas para la estimación de las pérdidas de energía debido a la fricción o rozamiento del fluido y las pérdidas de energía debido a accesorios.
+
+## Objetivos.
+
+El objetivo principal de esta actividad es permitir que el estudiante comprenda las ecuaciones y las metodologías para la estimación de las pérdidas de energía y de esta manera pueda comprender, a la hora de utilizar el software EPANET, las implicaciones de las pérdidas de energía en los valores estimados de caudal y presión en un sistema hidráulico a presión.
+
 ## **Pérdidas de energía. Pérdidas localizadas**
 
 Debido a la fricción generada por el material de la superficie de la tubería, el flujo pierde energía a medida que se mueve a lo largo del sistema. Las pérdidas de energía, por lo general, se representan en función de la columna de velocidad y de un factor de proporcionada, el cual depende de la viscosidad del fluido.
