@@ -1,27 +1,33 @@
-# Curso de Epanet - Módulo 1 - Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción. 
-![Imagen 1](https://github.com/AndresOtalora92/CursoEpanetBasico-Intermedio/blob/b30a070763c8fdd0debdf2836196f1bbc795673b/.jpg/IconoEpanetV3.png)
+# Curso de Epanet - Módulo 1 - Bombas. Conceptos y aplicaciones.
 
-*Universidad Escuela Colombiana de Ingeniería Julio Garavito*
+<div align="center">
+  <img src="../../.icons/IconoEpanetV3.png" width="600px">
+</div>
 
-***Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co***
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
+</div>
 
-## **Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción**
-Descripción de las pérdidas de energía localizadas utilizando la ecuación de Darcy - Weisbach. Revisión de
-los coeficientes de rugosidad de las tuberías. Análisis de las ecuación de pérdidas localizadas. Revisión
-de coeficientes de pérdidas localizadas.
+Keywords: `Turbomáquinas` `Bombas` `Eficiencia` `NPSH`
 
-### Pérdidas localizadas
+## Introducción.
 
-- Describir el concepto, la ecuación general y agregar tablas para la estimación de K.
+En este módulo se describe el concepto general de una turbomáquina. Se detallan las principales características de las bombas hidráulicas, su clasificación, sus usos y aplicaciones y el desarrollo numérico y conceptual de las bombas en los problemas de flujos a presión en redes cerradas y redes abiertas.
 
-### Pérdidas por fricción
+## Objetivos.
 
-- Describir el concepto, la ecuación general y agregar fórmulas y tablas para la estimación de f.
+El objetivo principal de esta actividad es permitir que el estudiante entienda los conceptos de las bombas hidráulicas y que tenga los conceptos para la toma de decisiones a la hora de implantar una bomba hidráulica en una red con flujo a presión. 
 
+### Control de versiones
 
-### Ejercicio de aplicación.
+| Versión    | Descripción   | Autor                                      | Horas |
+|------------|:--------------|--------------------------------------------|:-----:|
+| 2022.11.07 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  10   |
 
-- Ejercicio sencillo "a mano" de un sistema hidráulico para la estimación del caudal, la línea de energía y la
-  línea piezométrica, teniendo en cuenta las pérdidas de energía.
+_CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
-Nota: Este ejercicio hace partes de los ejemplo solucionados que se desarrollarán en EPANET en el módulo 2.
+_¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
+
+| [Anterior](Perdidas_energia.%20Perdida_localizadas_perdidas_friccion.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](Conceptos_redes_abiertas.md) |
+|----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
