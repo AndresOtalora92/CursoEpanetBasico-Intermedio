@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Concepto de redes abiertas y redes cerradas
+# Curso de Epanet - Módulo 1 - Conceptos generales de redes abiertas y redes cerradas
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">
@@ -8,6 +8,7 @@
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
 <br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
 </div>
+
 
 Keywords: `Redes cerradas` `Redes abiertas` `Solución de sistemas` `Nodos`
 
