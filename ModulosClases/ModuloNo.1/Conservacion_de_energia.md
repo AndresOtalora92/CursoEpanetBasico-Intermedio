@@ -17,7 +17,7 @@ En este módulo se presentan de manera general los conceptos básicos y las ecua
 
 ## Objetivos.
 
-El objetivo principal de esta actividad es introducir al estudiante en los conceptos relacionados con la conservación de la energía y su aplicación en la cinemática de los fluidos utilizando la ecuación de Bernoulli.
+El objetivo principal de esta actividad es introducir al estudiante en los conceptos relacionados con la conservación de la energía y su aplicación en la cinemática de los fluidos utilizando la ecuación de Bernoulli. Se espera que el estudiante tenga la capacidad de comprender las definiciones y pueda aplicarlas en la solución de problemas relacionados con los flujos a presión. Estos conceptos le permitirán al estudiante comprender la forma que el software EPANET y otros software, determinan las diferentes variables hidráulicas en los sistemas planteados.
 
 
 
