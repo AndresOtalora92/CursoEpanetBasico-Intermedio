@@ -104,7 +104,7 @@ En la siguiente tabla se resumen los valores de densidad y viscosidad del agua l
 
 ### Esfuerzo cortante.
 
-Corresponde a la fuerza por unidad de área ejercicida por un flujo (fluido en movimiento) en las paredes de la superficie que lo contiene. El esfuerzo cortante es proporcional a la viscosidad del fluido, por tanto, a mayor viscosidad, mayor es el esfuerzo cortante.
+Corresponde a la fuerza por unidad de área ejercida por un flujo (fluido en movimiento) en las paredes de la superficie que lo contiene. El esfuerzo cortante es proporcional a la viscosidad del fluido, por tanto, a mayor viscosidad, mayor es el esfuerzo cortante.
 
 A continuación se presenta una de las expresiones más usada para la estimación del esfuerzo cortante en una tubería a presión. Esta expresión es función del gradiente hidráulico:
 
@@ -215,7 +215,7 @@ En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuest
 
 </div>
 
-</br><b> Red abierta: </b> Una red abierta, como su nombre lo indica, corresponde a una red cuya disposición final no permite la existencia bluces o mallas cerradas. El caudal del punto de inicio nunca llegará completo al nodo final, ya que los caudales pueden salir del sistema.
+</br><b> Red abierta: </b> Una red abierta, como su nombre lo indica, corresponde a una red cuya disposición final no permite la existencia bucles o mallas cerradas. El caudal del punto de inicio nunca llegará completo al nodo final, ya que los caudales pueden salir del sistema.
 
 En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuesto por una red abierta.
 
