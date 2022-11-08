@@ -20,6 +20,15 @@ En esta actividad se describen los conceptos generales y las principales caracte
 
 El objetivo principal de esta actividad es crear al usuario las nociones fundamentales que gobiernan la hidráulica de una red cerrada y de una red abierta y sus posibles métodos de estimación del caudal circulante por cada tubería o circuito, con el propósito de que se tengan los conceptos generales a la hora de trazar y posteriormente solucionar el sistema utilizando el software de modelación EPANET y sus complementos de trazado tales como EPA-CAD y el mismo AutoCAD.
 
+## Redes abiertas. Conceptos
+
+<div align="center">
+
+  <img src="Imagenes/FiguraNo.1.31.jpg" width="400px">
+
+</div>
+
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
