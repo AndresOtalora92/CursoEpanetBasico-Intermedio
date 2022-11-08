@@ -225,6 +225,10 @@ En la siguiente imagen se presenta un ejemplo de un sistema hidráulico compuest
 
 </div>
 
+### Ejercicio de aplicación solucionado
+
+Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice el ejercicio solucionado 1A.
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |

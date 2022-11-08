@@ -54,6 +54,32 @@ El usuario debe generar tantas ecuaciones como incógnitas tenga la red y soluci
 
 Con el propósito de reforzar el concepto definido anteriormente se plantearán las ecuaciones necesarias para la determinación de los caudales (Qi) de las presiones(Pi) en la red abierta presentada anteriormente y que a continuación se amplía.
 
+IMAGEN
+
+Siguiendo las recomendaciones mencionadas, inicialmente se deben identificar las particularidades del sistema. En este caso se observan que el sistema está compuesto por tres tanques, que alimentan una cuarto tanque. Las tres primeras tuberías se unen al nodo A y desde el nodo A el agua fluye hasta el cuarto tanque.
+
+Se reconocen 4 tuberías, en los cuales deben fluir cuatro (4) caudales distintos. En el nodo A debe existir conservación de la masa (sumatoria de caudales) y una columna de presión, diferente a la presión atmosférica.
+
+Posteriormente, se deben identificar las incógnitas. En este caso se identificaron 5 incógnitas: Los cuatro caudales que fluyen por los cuatro tramos de tubería y la presión en el nodo A. 
+
+Finalmente se deben crear tantas ecuaciones como incógnitas definan la red. Para este caso particular se plantearán las siguientes cinco (5) ecuaciones:
+
+1. Para el nodo A, se plantea la ecuación de conservación de la masa así:
+
+2. Entre el tanque 1 y el nodo A se plantea la ecuación de conservación de energía considerando las pérdidas en el sistema 1-a.
+
+3. Entre el tanque 2 y el nodo A se plantea la ecuación de conservación de energía considerando las pérdidas en el sistema 2-a. 
+
+4. Entre el tanque 3 y el nodo A se plantea la ecuación de conservación de energía considerando las pérdidas en el sistema 3-a.
+
+5. Entre el nodo A y el tanque 4 se plantea la ecuación de conservación de energía considerando las pérdidas en el sistema a-4.
+
+El usuario debe solucionar este sistema de 5x5 tal como lo considere adecuado.
+
+
+### Ejercicio de aplicación solucionado
+
+Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice los ejercicios solucionados 1F y 1G.
 
 
 

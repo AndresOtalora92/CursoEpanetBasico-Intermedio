@@ -106,6 +106,10 @@ Donde,
 
 Para nuestro curso, estas ecuaciones pueden ser utilizadas para comparar y analizar los resultados en tramos de tuberías una vez se ejecute el programa. También pueden ser aplicadas en el proceso de pre-dimensionamiento de las tuberías (definición de un primer diámetro) que componen el sistema antes de cargar la geometría definitiva al programa. 
 
+### Ejercicio de aplicación solucionado
+
+Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice los ejercicios solucionados 1B y 1C.
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |

@@ -277,6 +277,12 @@ A continuación se presenta una figura que de manera esquemática representa lo 
 
 En sistemas complejos la curva característica del sistema se obtiene a partir de la solución de múltiples ecuaciones (sistemas de ecuaciones de conservación de la masa y conservación de la energía), determinando el valor Ht para diferentes valores de caudal (Q). Es posible realizar esto utilizando metodología que están fuera del alcance de este curso o utilizando software que permite la solución de los sistemas, tales como EPANET.
 
+### Ejercicio de aplicación solucionado
+
+Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice el ejercicio solucionado 1D.
+
+
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |

@@ -378,6 +378,10 @@ En la siguiente figura se presentan los codos más comunes utilizados en los sis
   <img src="Imagenes/FiguraNo.1.20.PNG" width="500px">
 </div>
 
+### Ejercicio de aplicación solucionado
+
+Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice el ejercicio solucionado 1E.
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
