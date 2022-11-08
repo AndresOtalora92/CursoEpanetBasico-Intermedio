@@ -24,7 +24,7 @@ El objetivo principal de esta actividad es crear al usuario las nociones fundame
 
 <div align="center">
 
-  <img src="Imagenes/FiguraNo.1.31.jpg" width="400px">
+  <img src="Imagenes/FiguraNo.1.31.PNG" width="400px">
 
 </div>
 
