@@ -11,18 +11,18 @@
 
 Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 
-## Introducción.
+## Introducción
 
 En el presente capítulo se describen algunos conceptos generales relacionados con los flujos a presión. Se definen fundamentos de la hidráulica que el lector debe conocer o recordar antes de trabajar las siguientes actividades. También se describen los principales usos y aplicaciones de los flujos a presión y se mencionan algunas clasificaciones de los flujos a presión y de las redes que componen los sistemas hidráulicos.
 
 Es importante que el estudiante tenga presente que unas adecuadas bases conceptuales son necesarias si su propósito es entender las diferentes variables que definen los modelos hidráulicos, en especial los modelos hidráulicos para la simulación de los sistemas a presión. Antes de iniciar el proceso de cargue y ejecución del modelo EPANET, el usuario debe conocer los conceptos detrás de las variables entrada del modelo para que pueda comprender y posteriormente analizar cualitativa y cuantitativamente los resultados.
 
 
-## Objetivos. 
+## Objetivos 
 
 El objetivo principal de esta actividad es permitir que el estudiante aprenda, recuerde y practique los conceptos básicos de los flujos a presión con el propósito de adquirir habilidades para el uso, cargue y ejecución del modelo EPANET. 
 
-## Flujo a presión. Definiciones y características.
+## Flujo a presión. Definiciones y características
 
 El flujo corresponde al movimiento de un fluido en una superficie sólida, tomando como referencia un sistema inercial. Un flujo a presión corresponde a un flujo en el cual el fluido ocupa la totalidad del área del conducto que conduce que lo conduce. Por definición, un flujo a presión presenta presiones distintas a la presión atmosférica. 
 
@@ -70,9 +70,9 @@ Si se tiene en cuenta el perfil de velocidades o lo que es lo mismo, la variaci�
 
 </div>
 
-### Densidad y Viscosidad.
+### Densidad y Viscosidad
 
-<b> - Densidad de los fluidos: </b> corresponde a una propiedad intrínseca de la material, que en términos simples, corresponde al peso del elemento, en este caso del fluido, por unidad de volumen. En los fluidos líquidos, la densidad aumenta a medida que la temperatura disminuye. En los fluidos gasesos, la variación de la densidad es función del tipo gas y de la presión. En los gases ideales la densidad del fluido gaseoso es inversamente proporcional a la temperatura.
+<b> - Densidad de los fluidos: </b> corresponde a una propiedad intrínseca de la material, que en términos simples, corresponde al peso del elemento, en este caso del fluido, por unidad de volumen. En los fluidos líquidos, la densidad aumenta a medida que la temperatura disminuye. En los fluidos gaseosos, la variación de la densidad es función del tipo gas y de la presión. En los gases ideales la densidad del fluido gaseoso es inversamente proporcional a la temperatura.
 
 
 <b> - Viscosidad: </b> corresponde al efecto generado por las fuerzas intermoleculares de las partículas que conforman el fluido. Estas interacciones entre las moléculas crean resistencia en contra del movimiento. La viscosidad permitir la adherencia de los fluidos en las fronteras de las superficies que lo contiene. En los fluidos líquidos, la viscosidad aumenta a medida que disminuye la temperatura. 
@@ -102,7 +102,7 @@ En la siguiente tabla se resumen los valores de densidad y viscosidad del agua l
 
 >Figura 1.2 Densidad y viscosidad del agua[^2].
 
-### Esfuerzo cortante.
+### Esfuerzo cortante
 
 Corresponde a la fuerza por unidad de área ejercida por un flujo (fluido en movimiento) en las paredes de la superficie que lo contiene. El esfuerzo cortante es proporcional a la viscosidad del fluido, por tanto, a mayor viscosidad, mayor es el esfuerzo cortante.
 
@@ -119,7 +119,7 @@ Donde,
 <br> Sf: gradiente hidráulico.
 
 
-###  Número de Reynolds. 
+###  Número de Reynolds
 
 El número de Reynolds corresponde a un número adimensional que permite establecer la relación entre las fuerzas generadas por las fuerzas de fricción y las fuerzas inerciales. Un número adimensional corresponde al conjunto organizado de variables dimensionales que generan un resultado adimensional. 
 
@@ -138,9 +138,9 @@ Donde,
 <br> Sf: gradiente hidráulico.
 
 
-Para la definición de los tres régimenes de flujo, Reynolds desarrollo un ensayo de laboratorio muy simple, utilizando un sistema hidráulico compuesto por un tanque de nivel constante, una tubería lisa transparente y una válvula en la salida del sistema. A partir de la inyección de tinta en la tubería y de la revisión visual del cambio de la forma del filamento de la tinta en el agua, Reynolds clasificó empíricamente los flujos. En el siguiente apartado se explica en detalle las tres régimenes de flujo en tuberías a presión.
+Para la definición de los tres regimes de flujo, Reynolds desarrollo un ensayo de laboratorio muy simple, utilizando un sistema hidráulico compuesto por un tanque de nivel constante, una tubería lisa transparente y una válvula en la salida del sistema. A partir de la inyección de tinta en la tubería y de la revisión visual del cambio de la forma del filamento de la tinta en el agua, Reynolds clasificó empíricamente los flujos. En el siguiente apartado se explica en detalle las tres regimes de flujo en tuberías a presión.
 
-### Régimen de flujo. Flujo laminar, en transición y turbulento.
+### Régimen de flujo. Flujo laminar, en transición y turbulento
  
 A partir de los rangos definidos por Reynolds, se tiene que:
 
@@ -150,7 +150,7 @@ A partir de los rangos definidos por Reynolds, se tiene que:
 
 </br><b>3. Flujo turbulento (Re>4000): </b> El flujo se mueve de manera errática, con intercambio de cantidad de movimiento entre las partículas y con presencia de componentes de velocidad en todas las direcciones.
 
-En la siguiente figura se muestra un ejemplo de como se ve el filamento de tinta en el experimento de Reynolds para cada uno de los tres régimen de flujo.
+En la siguiente figura se muestra un ejemplo de como se ve el filamento de tinta en el experimento de Reynolds para cada uno de los tres regimes de flujo.
 
 
 <div align="center">
@@ -158,19 +158,19 @@ En la siguiente figura se muestra un ejemplo de como se ve el filamento de tinta
 </div>
 
 
-## Redes hidráulicas. Definición, usos y aplicaciones de los sistemas a presión.
+## Redes hidráulicas. Definición, usos y aplicaciones de los sistemas a presión
 
 
-### Red hidráulica.
-Una red hidráulica corresponde a la disposición de tuberías y accesorios cuyo objetivo principal el transporte y disposición de un fluido, desde un punto inicial hasta un punto final. cumpliendo las demandas de caudal del sistema.
+### Red hidráulica
+Una red hidráulica corresponde a la disposición de tuberías y accesorios cuyo objetivo principal el transporte y disposición de un fluido, desde un punto inicial hasta un punto final, cumpliendo las demandas de caudal del sistema.
 
-### Consideraciones generales y límites de diseño de una red.
+### Consideraciones generales y límites de diseño de una red
 
 Como se analizará más adelante en los siguientes módulos, el diseño hidráulico de un sistema de tuberías a presión (trazado y dimensionamiento) depende del caudal demandado, las diferencias topográficas y de las condiciones particulares del proyecto. El diseño de las redes hidráulicas, está limitado generalmente por las velocidades máximas y mínimas en las tuberías, las presiones de trabajo en los nodos y los esfuerzos cortantes máximos y mínimos en el sistema.
 
 Los límites de estas variables generalmente se definen a partir del criterio y la experiencia del diseñador y del cumplimiento de normas o recomendaciones presentadas en la literatura. El diseñador también debe tener en cuenta los límites definidos por la resistencia de los materiales que conforman las tuberías y accesorios. 
 
-### Usos y aplicaciones.
+### Usos y aplicaciones
 
 Son muchas las aplicaciones de las redes que trabajan con flujos a presión. Entre los usos más importantes se pueden destacar los siguientes:
 
@@ -201,7 +201,7 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
     <img src="Imagenes/FiguraNo.1.6.PNG" width="400px">
 </div>
 
-### Tipos de redes. Descripción.
+### Tipos de redes. Descripción
 
 Los sistemas y redes que trabajan con flujos a presiones pueden clasificarse según la distribución espacial de los elementos que componen la red. Es común clasificar las redes em: redes abiertas y redes cerradas.
 

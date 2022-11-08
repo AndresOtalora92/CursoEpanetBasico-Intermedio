@@ -11,15 +11,15 @@
 
 Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
 
-## Introducción.
+## Introducción
 
 En este módulo se presenta de manera general los conceptos básicos y las ecuaciones que definen la conservación de la masa en un sistema hidráulico a presión. También se definirán las ecuaciones empíricas más utilizadas para la determinación del caudal en una tubería circular con flujo a presión a partir de las propiedades hidráulicas del sistema, las características del fluido y a parti del gradiente de energía.
 
-## Objetivos.
+## Objetivos
 
 El objetivo principal de esta actividad es introducir al estudiante en los conceptos relacionados con la conservación de la masa y el repaso de algunas ecuaciones para la estimación de los caudales en un sistema a presión. 
 
-## Conservación de la masa. Definiciones.
+## Conservación de la masa. Definiciones
 
 La ley de conservación de la masa o ley de continuidad versa que en un sistema cerrado, la diferencia entre todas las entradas y todas las salidas son iguales al cambio del volumen con respecto al tiempo.
 
@@ -61,7 +61,7 @@ Con base en lo anterior, la ecuación de continuidad para un sistema permanente 
 
 Esta última ecuación es utilizada por EPANET para la aplicación de su módulo de "simulación de calidad del agua".
 
-## Ecuaciones experimentales para la estimación de los caudales en tuberías a presión. 
+## Ecuaciones experimentales para la estimación de los caudales en tuberías a presión 
 
 Existen diferentes ecuaciones empíricas para la estimación del caudal en una tubería a presión. Estas ecuaciones en general depende de las propiedades del fluido transportado y del gradiente hidráulico. 
 

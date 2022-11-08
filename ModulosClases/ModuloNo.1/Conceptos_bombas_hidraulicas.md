@@ -11,21 +11,21 @@
 
 Keywords: `Turbomáquinas` `Bombas` `Eficiencia` `NPSH`
 
-## Introducción.
+## Introducción
 
 En este módulo se describe el concepto general de una turbomáquina. Se detallan las principales características de las bombas hidráulicas, su clasificación, sus usos y aplicaciones y el desarrollo numérico y conceptual de las bombas en los problemas de flujos a presión en redes cerradas y redes abiertas.
 
-## Objetivos.
+## Objetivos
 
 El objetivo principal de esta actividad es permitir que el estudiante entienda los conceptos de las bombas hidráulicas y que tenga los conceptos para la toma de decisiones a la hora de implantar una bomba hidráulica en una red con flujo a presión. 
 
-## Turbomáquinas. Máquinas hidráulicas.
+## Turbomáquinas. Máquinas hidráulicas
 
 Una máquina corresponde a un sistema que permite transformar, generalmente energía eléctrica en energía mecánica. Particularmente una máquina que agregar energía a un sistema hidráulico es denominada máquinas de fluidos o bombas hidráulicas. 
 
 Las máquinas de fluidos, bombas hidráulicas o máquinas hidráulicas, pertenecen a un grupo especial de máquinas que permite transformar energía eléctrica y mecánica en energía hidráulica, transmitiendo la energía al fluido, modificando las características hidráulicas del flujo su velocidad y su presión.
 
-## Energía en un sistema hidráulico.
+## Energía en un sistema hidráulico
 
 En un sistema hidráulico convencional, el sistema de bombeo está compuesto por una máquina hidráulica que toma el agua desde otra tubería o desde un tanque ubicado a la entrada de la bomba (succión) aumentando la energía disponible en el sistema, a la salida (descarga) de la bomba.
 
@@ -60,7 +60,7 @@ Figura tomada de Mataix, Claudio. Mecánica de Fluidos y Máquinas hidráulicas.
 
 </div>
 
-## Potencial útil de una máquina hidráulica.
+## Potencial útil de una máquina hidráulica
 
 La potencia útil o potencia real de la bomba corresponde a la energía suministrada en una unidad de tiempo. Si Q se define como el caudal transportado por el sistema, incluyendo la bomba, es posible expresar la potencia útil o potencia hidráulica de la bomba utilizando la siguiente expresión:
 
@@ -178,7 +178,7 @@ La teoría de álabes corresponde a un análisis matemático que permite simplif
 
 Con estos análisis es posible la estimación de funciones teóricas que relacionan el torque, la energía de la bomba y el caudal con las características geométricas de los álabes. 
 
-El aporte más importante en la teoría de álabes es la curva característica o curva de eficiencia de la bomba, la cual relaciona el caudal transitado con la potencía de la bomba en columna de agua. 
+El aporte más importante en la teoría de álabes es la curva característica o curva de eficiencia de la bomba, la cual relaciona el caudal transitado con la potencia de la bomba en columna de agua. 
 
 Debido a la simplificación que debe hacerse en la teoría de álabes, los valores obtenidos de la curva característica tienen diferencias con la curva característica real. El detalle y las demostraciones de la teoría de álabes está fuera del alcance de este curso, se recomienda, si lo considera necesario el lector, buscar referencias bibliográficas que refuercen estos conceptos.
 
@@ -249,7 +249,7 @@ $h_s$, corresponde a la altura estática de succión.
 $h_f$, corresponden a la sumatoria de las pérdidas por fricción y pérdidas por accesorios (m)
 
 
-## Selección de la bomba. Punto de operación óptimo.
+## Selección de la bomba. Punto de operación óptimo
 
 Para la selección de la bomba es necesario revisar, no solo la potencia del sistema de bombeo en metro columna de agua (ht en m.c.a) sino el caudal (Q) que puede ser transportado en el sistema teniendo en cuenta las pérdidas totales (pérdidas por fricción y pérdidas localizadas). Como se mencionó anteriormente, a mayor caudal requerido, menor será la energía total a la cual es posible transporta un caudal bombeado.
 

@@ -11,11 +11,11 @@
 
 Keywords: `Energía` `Bernoulli` `Línea de Corriente` `Conservación de la energía`
 
-## Introducción.
+## Introducción
 
 En este módulo se presentan de manera general los conceptos básicos y las ecuaciones que definen la conservación de la energía en sistemas hidráulicos a presión. Se definirá de manera general los conceptos básicos de la energía cinética, energía potencial y energía de presión. Se describirá de manera general las pérdidas de energía en un sistema a presión y se conceptualizará el uso de la ecuación de Bernoulli para la solución de problemas aplicados. 
 
-## Objetivos.
+## Objetivos
 
 El objetivo principal de esta actividad es introducir al estudiante en los conceptos relacionados con la conservación de la energía y su aplicación en la cinemática de los fluidos utilizando la ecuación de Bernoulli. Se espera que el estudiante tenga la capacidad de comprender las definiciones y pueda aplicarlas en la solución de problemas relacionados con los flujos a presión. Estos conceptos le permitirán al estudiante comprender la forma que el software EPANET y otros software, determinan las diferentes variables hidráulicas en los sistemas planteados.
 
@@ -62,7 +62,7 @@ Donde,
 <br> $\frac{P}{\gamma}$: corresponde a la columna de energía de presión.
 <br> $Z$: corresponde a la columna de energía de posición o potencial.
 
-Tal como en cualquier sistema físico, en los sistemas hidráulicos existen pérdidas de energía. En el caso particular de sistemas con flujo a presión, se pueden identificar dos tipos de pérdidas de energía: Las pérdidas de energía generadas por accesorios y las pérdidas de energía por la fricción o el rozamiento del fluidos en las paredes de la tubería.
+Tal como en cualquier sistema físico, en los sistemas hidráulicos existen pérdidas de energía. En el caso particular de sistemas con flujo a presión, se pueden identificar dos tipos de pérdidas de energía: Las pérdidas de energía generadas por accesorios y las pérdidas de energía por la fricción o el rozamiento del fluido en las paredes de la tubería.
 
 Con estas consideraciones, la ecuación de Bernoulli se puede escribir como:
 
@@ -78,7 +78,7 @@ Donde, .
 
 Nota: El detalle de las pérdidas de energía por accesorios y por fricción se describe en la actividad "Pérdidas de energía. Pérdidas localizadas y pérdidas por fricción"
  
-- Máquinas hidráulica. Bombas Hidráulicas.
+- Máquinas hidráulicas. Bombas Hidráulicas
 
 Tal como se describirá con más detalle en el apartado "Bombas hidráulicas" una bomba hidráulica corresponde a una máquina hidráulica que proporciona energía al sistema a partir de una diferencia de presión y un aumento de la velocidad. 
 
@@ -91,11 +91,11 @@ En general la energía como columna de agua es función de la potencia hidráuli
 
 Nota: El detalle de los sistemas de bombeo y de la ecuación que define la energía generada por la potencia de una bomba en m.c.a se presenta en la actividad "Conceptos de bombas hidráulicas"
 
-### - Línea de energía: 
+### - Línea de energía 
 
 La línea de energía corresponde a la línea que une la energía total en un sistema. Para un sistema hidráulico a presión, la línea de energía une suma de la columna de velocidad, la columna de posición y la columna de presión.
 
-### - Linea piezométrica:
+### - Linea piezométrica
 
 La línea piezométrica corresponde a la línea que une la suma de la columna de posición y la columna de presión. Es posible la visualización de esta línea en un sistema a presión si se instalan tubos piezométricos (piezómetros) a lo largo de la tubería. La altura a la cual se eleva el fluido por el tubo corresponderá a la altura piezométrica. La unión de estos puntos corresponde a la línea piezométrica.
 

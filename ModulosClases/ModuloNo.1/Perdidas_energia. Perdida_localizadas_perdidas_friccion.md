@@ -11,11 +11,11 @@
 
 Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
 
-## Introducción.
+## Introducción
 
 En este módulo se describen los conceptos relacionados con las pérdidas de energía en un sistema hidráulico con flujos a presión. Se detallan las metodologías más usadas para la estimación de las pérdidas de energía debido a la fricción o rozamiento del fluido y las pérdidas de energía debido a accesorios.
 
-## Objetivos.
+## Objetivos
 
 El objetivo principal de esta actividad es permitir que el estudiante comprenda las ecuaciones y las metodologías para la estimación de las pérdidas de energía y de esta manera pueda comprender, a la hora de utilizar el software EPANET, las implicaciones de las pérdidas de energía en los valores estimados de caudal y presión en un sistema hidráulico a presión.
 
@@ -93,7 +93,7 @@ La ecuación de pérdidas localizadas se puede escribir como:
   <img src="ecuaciones/Ecuacion20.PNG" width="150px">
 </div>
 
-A continuación se presentan los principales accesorios que modifican las líneas de corriente en un flujo a presión y por tanto, generan pérdidas de energía localizadas Y algunas metodologías para la estimación de sus coeficientes de pérdidas localizadas (K):
+A continuación se presentan los principales accesorios que modifican las líneas de corriente en un flujo a presión y, por tanto, generan pérdidas de energía localizadas Y algunas metodologías para la estimación de sus coeficientes de pérdidas localizadas (K):
 
 
 #### 1. Pérdidas por entrada
