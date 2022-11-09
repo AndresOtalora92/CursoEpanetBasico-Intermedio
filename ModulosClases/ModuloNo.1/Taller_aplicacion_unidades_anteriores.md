@@ -47,7 +47,7 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 </div>
 
 <div align="center">
-  <br> V =0.10 m/s </br> 
+  <b> V =0.10 m/s </b> 
 </div>
 
 
@@ -59,7 +59,7 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 </div>
 
 <div align="center">
-  <br> Q = 0.00031 m³/s </br> 
+  <b> Q = 0.00031 m³/s </b> 
 </div>
 
 #### c) Conocida la longitud y la diferencia de presión entre los puntos extremos se tiene que:
@@ -71,7 +71,6 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 <div align="center">
   <b> Gradiente = 100 Pa/m </b>
 </div>
-
 
 
 #### d) A partir del gradiente hidráulico y asumiendo que es igual a la pendiente de la línea de energía (Sf) es posible estimar el esfuerzo cortante así:
@@ -90,6 +89,10 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 
 <div align="center">
   $\tau=998*9.81*0.0314/0.628*100=48951.9 Pa$
+</div>
+
+<div align="center">
+  <b> $\tau=48951.9 Pa$ <\b>
 </div>
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1A.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EaT58Xbtpd9Og6eR72h8eBMBTGkl9Qn3bXSop4VVugQi5w?e=LkGyPO)
