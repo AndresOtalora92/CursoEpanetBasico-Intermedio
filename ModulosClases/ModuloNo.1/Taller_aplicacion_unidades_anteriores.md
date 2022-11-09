@@ -92,7 +92,7 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 </div>
 
 <div align="center">
-  <b> $\tau=48951.9 Pa$ <\b>
+  $\tau=48951.9 Pa$
 </div>
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1A.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EaT58Xbtpd9Og6eR72h8eBMBTGkl9Qn3bXSop4VVugQi5w?e=LkGyPO)
