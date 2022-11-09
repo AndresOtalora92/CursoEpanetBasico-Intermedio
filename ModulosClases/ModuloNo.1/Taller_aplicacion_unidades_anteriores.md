@@ -54,7 +54,7 @@ $\tau=\rho*g*R*S_f$
 $\tau=\rho*g*A/P*S_f$
 $\tau=998*9.81*0.0314/0.628*100=48951.9 Pa$
 
-Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, el cual puede ser descargado en el [link de descarga]()
+Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1A.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EaT58Xbtpd9Og6eR72h8eBMBTGkl9Qn3bXSop4VVugQi5w?e=LkGyPO)
 
 ### Control de versiones
 
