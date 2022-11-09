@@ -100,6 +100,12 @@ Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica,
 
 ## Problema 1B - Conceptos generales de los flujos a presión.
 
+Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 20°C. Si la tubería tiene una longitud total de 100 m y la diferencia de presión entre el punto inicial y el punto final de la tubería es de 10 kPa, determine:
+
+**a)** La velocidad máxima a la que debe fluir el agua para que el flujo sea laminar.
+
+**b)** El caudal máximo a la que debe fluir el agua para que el flujo sea laminar.
+
 
 
 ### Control de versiones
