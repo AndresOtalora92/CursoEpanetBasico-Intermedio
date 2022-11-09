@@ -80,12 +80,6 @@ Finalmente, se deben crear tantas ecuaciones como incógnitas tenga la red. Para
 
 El usuario debe solucionar este sistema de 5x5 tal como lo considere adecuado.
 
-
-### Ejercicio de aplicación solucionado
-
-Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice los ejercicios solucionados 1F y 1G.
-
-
 ## Redes cerradas. Conceptos
 
 Una red cerrada corresponde a aquella red cuyo elementos (tuberías y accesorios) generan o conforman un ciclo, circuito o malla. 
@@ -131,6 +125,10 @@ Entre los métodos más utilizados se destacan el método de Hardy Cross y el m�
 El método de Cross se basa en reducir la diferencia de caudales ($/Delta Q$) a tal punto que entre cada proceso de iteración el valor de ($/Delta Q$) sea cero. La ecuación que define el error del caudal que circula entre los tramos de tuberías en una red cerrada corresponde a:
 
 En el caso del método de Cornish lo que se busca es minimizar la diferencia de las pérdidas ($/Delta H_t$). Al igual que con el método de Cross a partir de la suposición de datos iniciales y mediante un proceso de iteración o de tanteo debe minimizarse esta diferencia hasta encontrar la convergencia. La ecuación que define el error de las pérdidas de energía totales entre tramos de una red cerrada corresponde a:
+
+### Ejercicio de aplicación solucionado
+
+Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice los ejercicios solucionados 1F y 1G.
 
 ### Control de versiones
 
