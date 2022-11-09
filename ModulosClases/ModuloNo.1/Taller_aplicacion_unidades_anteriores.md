@@ -36,7 +36,7 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
   $\mu=1.003*10^{-3}\frac{kg}{m*s}$
 </div>
 
-Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a lo sumo sea 2000 (para condición máximo de flujo laminar), es posible despejar la velocidad media del flujo así:
+Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a lo sumo sea 2000 (condición máxima de flujo laminar), es posible despejar la velocidad media del flujo así:
 
 <div align="center">
   $Re=\frac{\rho*V*D}{\mu}$
@@ -123,7 +123,7 @@ Con estos valores y conocida la ecuación de Hagen-Poiseuille se tiene que:
 </div>
 
 <div align="center"> 
-    $Q=\frac{\pi*9.81*0.2^4*\Delta(800/(9.81*998))}{128*(1.003*10^{-3}/998)*998}$
+    $Q=\frac{\pi*9.81*0.2^4*(800/(9.81*998))}{128*(1.003*10^{-3}/998)*998}$
 </div>
 
 <div align="center">
@@ -186,7 +186,7 @@ Teniendo en cuenta que se asume que no existen pérdidas en el sistema, se proce
 </div>
 
 <div align="center"> 
-    $P1=1.35 Mpa$
+    $P1=1.35 MPa$
 </div>
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1C.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EV6AIZMgDxROuYosxaUgyv8Bu1wQoQOsl8StBfuDYA_dqw?e=bbz8g2)
@@ -195,7 +195,7 @@ Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica,
 
 ## Problema 1D - Pérdidas de energía.
 
-Desarrolle el problema 1C considerando las pérdidas localizadas (ver los valores de K en la figura anterior) y las pérdidas por fricción, sabiendo que el coeficiente "F" de fricción se asume como constante y corresponde a 0.015. Compare la variación de la presión con respecto al problema 1C.
+Desarrolle el problema 1C considerando las pérdidas localizadas (ver los valores de K en la figura) y las pérdidas por fricción, sabiendo que el coeficiente "F" de fricción se asume como constante y corresponde a 0.015. Compare la presión estimada en este punto con respecto a la presión estimada en el problema 1C.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.33.PNG" width="400px">
@@ -242,19 +242,19 @@ Se plantea la ecuación de energía a la entrada del sistema, dejando como incó
 Con los datos iniciales se estiman las pérdidas localizadas en el sistema:
 
 <div align="center"> 
-    $h_f=\frac{0.015*(325+160+260)}{D}*\frac{5.65^2}{2g}=121.59 m$
-</div>
-
-<div align="center"> 
     $h_k=(0.4+0.9+1)*\frac{5.65^2}{2g}=3.75 m$
 </div>
 
 Con los datos iniciales se estiman las pérdidas por fricción en el sistema:
 
+<div align="center"> 
+    $h_f=\frac{0.015*(325+160+260)}{D}*\frac{5.65^2}{2g}=121.59 m$
+</div>
+
 Teniendo en cuenta que existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial menos todas las pérdidas de energía con la energía en la descarga. Se despeja el valor de P1:
 
 <div align="center"> 
-    $P1=2.58 Mpa$
+    $P1=2.58 MPa$
 </div>
 
 Como se puede observar cuando se tienen en cuenta todas las pérdidas de energía es necesario una mayor presión para lograr el mismo caudal. 
