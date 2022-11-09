@@ -98,13 +98,87 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1A.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EaT58Xbtpd9Og6eR72h8eBMBTGkl9Qn3bXSop4VVugQi5w?e=LkGyPO)
 
 
-## Problema 1B - Conceptos generales de los flujos a presión.
+## Problema 1B - Conservación de la masa.
 
-Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 20°C. Si la tubería tiene una longitud total de 100 m y la diferencia de presión entre el punto inicial y el punto final de la tubería es de 10 kPa, determine:
+Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 20°C. Si la tubería tiene una longitud total de 100 m y la diferencia de presión entre el punto inicial y el punto final de la tubería es de 800 Pa, determine:
 
-**a)** La velocidad máxima a la que debe fluir el agua para que el flujo sea laminar.
+**a)** El caudal y la velocidad media del flujo en la tubería utilizando la ecuación de Hagen-Poiseuille.
 
-**b)** El caudal máximo a la que debe fluir el agua para que el flujo sea laminar.
+### Solución Problema 1B
+
+#### a) Tal como se realizó en el numeral anterior los valores de la densidad y la viscosidad del fluido a 20°C:
+
+<div align="center">
+  $\rho=998.0 \frac{Kg}{m^3}$
+</div>
+
+<div align="center">
+  $\mu=1.003*10^{-3}\frac{kg}{m*s}$
+</div>
+
+Con estos valores y conocida la ecuación de Hagen-Poiseuille se tiene que:
+
+<div align="center"> 
+    $Q = \frac{\pi*g*D^4*\Delta(P/\gamma)}{128*\vartheta*L}$
+</div>
+
+<div align="center"> 
+    $Q=\frac{\pi*9.81*0.2^4*\Delta(800/(9.81*998))}{128*(1.003*10^{-3}/998)*998}$
+</div>
+
+<div align="center">
+  $Q=0.313 m³/s$
+</div>
+
+Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1B.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/Efjvnstj7zRHjOoCda73zpsBtqWUZoA0dWBB_7rXbeu_3A?e=8yewk7)
+
+
+## Problema 1C - Conservación de la energía.
+
+Ejercicio 9.35 Mecánica de Fluidos. Un sistema hidráulico compuesto por dos tanques y tres tramos de tuberías de 150 mm, transporta un caudal de 100 L/s, si la presión P2 es igual a 40 kPa determine la presión en el tanque P1. Asuma que no existen pérdidas de energía en el sistema y que el agua se encuentra a una temperatura de 20°C.
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.33.PNG" width="400px">
+</div>
+
+### Solución Problema 1C
+
+Con base en el caudal, se determina la velocidad media del flujo, velocidad que es constante en todos los tramos de tuberías:
+
+Con los datos iniciales se estima la energía en la descarga o salida:
+
+Se plantea la ecuación de energía a la entrada del sistema, dejando como incógnita la presión P1:
+
+Teniendo en cuenta que se asume que no existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial y la descarga:
+
+Se despeja el valor de P1:
+
+Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1C.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EV6AIZMgDxROuYosxaUgyv8Bu1wQoQOsl8StBfuDYA_dqw?e=bbz8g2)
+
+
+
+## Problema 1D - Pérdidas de energía.
+
+Desarrolle el problema 1C considerando las pérdidas localizadas (ver los valores de K en la figura anterior) y las pérdidas por fricción, sabiendo que el coeficiente "F" de fricción se asume como constante y corresponde a 0.015. Compare la variación de la presión con respecto al problema 1C.
+
+
+### Solución Problema 1C
+
+Con base en el caudal, se determina la velocidad media del flujo, velocidad que es constante en todos los tramos de tuberías:
+
+Con los datos iniciales se estima la energía en la descarga o salida:
+
+Con los datos iniciales se estima la energía todas las pérdidas localizadas en el sistema:
+
+Con los datos iniciales se estima la energía todas las pérdidas pro fricción en el sistema:
+
+Se plantea la ecuación de energía a la entrada del sistema, dejando como incógnita la presión P1:
+
+Teniendo en cuenta que existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial menos todas las pérdidas de energía con la energía en la descarga:
+
+Se despeja el valor de P1:
+
+Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1D.nb) o directamente el archivo en el siguiente [link de descarga]https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EY3i9C5-I9VKgfo9dQvtjsgBn3AWGnIUFz6uBOTSC6pypQ?e=ARvvDi)
 
 
 

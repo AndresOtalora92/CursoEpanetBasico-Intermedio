@@ -1,0 +1,136 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      4510,        128]
+NotebookOptionsPosition[      3452,        100]
+NotebookOutlinePosition[      3869,        116]
+CellTagsIndexPosition[      3826,        113]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Soluci\[OAcute]n Problema 1 B", "Title",
+ CellChangeTimes->{{3.876999010178986*^9, 3.8769990272457533`*^9}, 
+   3.87701221281318*^9},ExpressionUUID->"1ec1c3a8-d217-4ef3-8f41-\
+1037a64f396e"],
+
+Cell["\<\
+Una tuber\[IAcute]a circular de 10 cm de radio con flujo a presi\[OAcute]n \
+transporta agua a 20\[Degree]C. Si la tuber\[IAcute]a tiene una longitud \
+total de 100 m y la diferencia de presi\[OAcute]n entre el punto inicial y el \
+punto final de la tuber\[IAcute]a es de 10 kPa, determine:
+
+a) El caudal y la velocidad media del flujo en la tuber\[IAcute]a utilizando \
+la ecuaci\[OAcute]n de Hagen-Poiseuille.\
+\>", "Subtitle",
+ CellChangeTimes->{{3.876999028468283*^9, 3.8769990603924265`*^9}, {
+  3.877012217184823*^9, 
+  3.8770122238761406`*^9}},ExpressionUUID->"24221f28-2c6f-43a1-80ac-\
+d58e9196f5c5"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Datos de entrada", "Title",
+ CellChangeTimes->{{3.876999010178986*^9, 3.8769990272457533`*^9}, {
+  3.8769990915291433`*^9, 
+  3.8769990932775335`*^9}},ExpressionUUID->"1f0e35ac-2858-4a51-ab65-\
+4472a76eac0b"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"D0", "=", 
+   RowBox[{"2", 
+    FractionBox["10", "100"]}]}], ";", 
+  RowBox[{"\[Rho]", "=", "998"}], ";", 
+  RowBox[{"\[Mu]", "=", 
+   RowBox[{"1.003", "*", 
+    SuperscriptBox["10", 
+     RowBox[{"-", "3"}]]}]}], ";", 
+  RowBox[{"Re1", "=", "2000"}], ";", 
+  RowBox[{"L", "=", "100"}], ";", 
+  RowBox[{"\[CapitalDelta]p", "=", "800"}], ";"}]], "Input",
+ CellChangeTimes->{{3.8769991188363714`*^9, 3.876999180639504*^9}, {
+  3.876999252698161*^9, 3.8769992917908573`*^9}, {3.8770122796774797`*^9, 
+  3.87701228061083*^9}, {3.8770141794983163`*^9, 3.877014179767846*^9}},
+ CellLabel->"In[3]:=",ExpressionUUID->"e79a5527-592a-4597-8649-32171571ac35"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Soluci\[OAcute]n Punto a) ", "Title",
+ CellChangeTimes->{{3.876999010178986*^9, 3.8769990272457533`*^9}, {
+  3.8769990915291433`*^9, 3.8769990932775335`*^9}, {3.8769991884152184`*^9, 
+  3.876999197966714*^9}},ExpressionUUID->"4f762b74-fce6-45f7-a477-\
+c8d9e3245c4c"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Q", "=", 
+  FractionBox[
+   RowBox[{"\[Pi]", "*", "9.81", "*", 
+    SuperscriptBox["D0", "4"], "*", 
+    FractionBox["\[CapitalDelta]p", 
+     RowBox[{"\[Rho]", "*", "9.81"}]]}], 
+   RowBox[{"128", "*", 
+    RowBox[{"(", 
+     RowBox[{"\[Mu]", "/", "\[Rho]"}], ")"}], "*", "L"}]]}]], "Input",
+ CellChangeTimes->{{3.876999202188478*^9, 3.8769992366140738`*^9}, {
+  3.877012241530371*^9, 3.87701230127069*^9}},
+ CellLabel->"In[4]:=",ExpressionUUID->"8081a55c-8fcd-459b-b3b3-c430de18cf4d"],
+
+Cell[BoxData["0.3132196065393612`"], "Output",
+ CellChangeTimes->{{3.876999217715554*^9, 3.8769992951302323`*^9}, 
+   3.8770123129505453`*^9, 3.877014181986821*^9},
+ CellLabel->"Out[4]=",ExpressionUUID->"b853ff3b-862b-4a53-8d59-5f53779df2c7"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1141.2, 580.1999999999999},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"12.2 for Microsoft Windows (64-bit) (December 12, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"f0073723-a6fa-4307-b4ef-137d334198bf"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 196, 3, 97, "Title",ExpressionUUID->"1ec1c3a8-d217-4ef3-8f41-1037a64f396e"],
+Cell[779, 27, 618, 12, 181, "Subtitle",ExpressionUUID->"24221f28-2c6f-43a1-80ac-d58e9196f5c5"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1434, 44, 214, 4, 97, "Title",ExpressionUUID->"1f0e35ac-2858-4a51-ab65-4472a76eac0b"],
+Cell[1651, 50, 684, 16, 46, "Input",ExpressionUUID->"e79a5527-592a-4597-8649-32171571ac35"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2372, 71, 272, 4, 97, "Title",ExpressionUUID->"4f762b74-fce6-45f7-a477-c8d9e3245c4c"],
+Cell[CellGroupData[{
+Cell[2669, 79, 510, 12, 58, "Input",ExpressionUUID->"8081a55c-8fcd-459b-b3b3-c430de18cf4d"],
+Cell[3182, 93, 242, 3, 55, "Output",ExpressionUUID->"b853ff3b-862b-4a53-8d59-5f53779df2c7"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
