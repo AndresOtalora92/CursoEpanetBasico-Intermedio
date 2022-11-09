@@ -105,11 +105,11 @@ El usuario debe solucionar este sistema de 5x5 tal como lo considere adecuado.
 
 ## Redes cerradas. Conceptos
 
-Una red cerrada corresponde a aquella red cuyo elementos (tuberías y accesorios) generan o conforman un ciclo, circuito o malla. 
+Una red cerrada corresponde a aquella red cuyos elementos (tuberías y accesorios) generen o conformen un ciclo, circuito o malla. 
 
-Este tipo de redes en su mayoría son usadas para la distribución del agua potable en las ciudades y en algunos casos para la distribución del agua de riego en distritos o cultivos de mediada y gran escala. Estas redes se caracterizan por presentar demandas intermedias en los nodos.
+Este tipo de redes en su mayoría son usadas para la distribución de agua potable en ciudades, pueblo o corregimientos y en algunos casos para la distribución del agua de riego en distritos o cultivos de mediana y gran escala. Estas redes se caracterizan por presentar demandas de caudales en los nodos principales o en nodos secundarios.
 
-En la siguiente imagen se presenta un ejemplo de una típica red cerrada. En este caso dos tanques de nivel constante alimentan la red, la cual presenta algunos nodos con demandas y otros no. 
+En la siguiente imagen se presenta un ejemplo de una típica red cerrada. En este caso, dos tanques de nivel constante alimentan la red, la cual presenta algunos nodos con demandas permanentes y otros sin demandas. 
 
 IMAGEN
 
