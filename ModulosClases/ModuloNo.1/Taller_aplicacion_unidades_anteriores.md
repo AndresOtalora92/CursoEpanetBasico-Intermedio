@@ -36,8 +36,6 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
   $\mu=1.003*10^{-3}\frac{kg}{m*s}$
 </div>
 
-
-
 Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a lo sumo sea 2000 (para condición máximo de flujo laminar), es posible despejar la velocidad media del flujo así:
 
 <div align="center">
@@ -48,7 +46,11 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
   $2000=\frac{998*V*(2*0.10)}{1.003*10^{-3}}$
 </div>
 
-V =0.10 m/s
+<div align="center">
+  <br> V =0.10 m/s </br> 
+</div>
+
+
 
 **b)** A partir de la velocidad media y utilizando el concepto de caudal se tiene que:
 
@@ -56,7 +58,9 @@ V =0.10 m/s
   $Q = V*(\frac{\pi}{4}*D^2)$
 </div>
 
-Q = 0.00031 m³/s
+<div align="center">
+  <br> Q = 0.00031 m³/s </br> 
+</div>
 
 **c)** Conocida la longitud y la diferencia de presión entre los puntos extremos se tiene que:
 
