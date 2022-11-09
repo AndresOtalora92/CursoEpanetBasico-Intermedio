@@ -143,6 +143,7 @@ Ejercicio 9.35 Mecánica de Fluidos. Un sistema hidráulico compuesto por dos ta
 
 <div align="center">
   Imagen tomada del libro Mecánica de Fluidos de Irving Shames (1995)
+<div> </div>
 <b>Problema sin considerar pérdidas de energía</b>
 </div>
 
@@ -202,6 +203,7 @@ Desarrolle el problema 1C considerando las pérdidas localizadas (ver los valore
 
 <div align="center">
   Imagen tomada del libro Mecánica de Fluidos de Irving Shames (1995)
+<div> </div>
 <b>Problema considerando pérdidas de energía por fricción y pérdidas por accesorios</b>
 </div>
 
