@@ -88,18 +88,55 @@ Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sec
 
 ## Redes cerradas. Conceptos
 
+Una red cerrada corresponde a aquella red cuyo elementos (tuberías y accesorios) generan o conforman un ciclo, circuito o malla. 
+
+Este tipo de redes en su mayoría son usadas para la distribución del agua potable en las ciudades y en algunos casos para la distribución del agua de riego en distritos o cultivos de mediada y gran escala. Estas redes se caracterizan por presentar demandas intermedias en los nodos.
+
+En la siguiente imagen se presenta un ejemplo de una típica red cerrada. En este caso dos tanques de nivel constante alimentan la red, la cual presenta algunos nodos con demandas y otros no. 
+
+IMAGEN
+
 ## Planteamiento y solución de sistemas hidráulicos de redes cerradas
+
+Para la solución de este tipo de redes es necesario el planteamiento de la ecuación de conservación de la masa (sumatoria de caudales) en cada nodo, considerando las demandas. Adicionalmente, deben estimarse las pérdidas de energía (fricción y por accesorios) entre los tramos que componen los circuitos o mallas.
+
+Para la solución de los sistemas de ecuaciones que se generan en la solución de estas redes hidráulicas, convencionalmente se divide el problema en función del número de mallas (análisis individual de cada malla) y para cada malla se tienen en cuenta cada tramo de tubería que las conforma. Para el caso de mallas que tengan la misma tubería con una malla equidistante, se debe considerar el cálculo de esta tubería por aparte en cada malla y posteriormente por un proceso de ensayo y error, repartir la diferencia de los cálculos en cada malla hasta que converja el sistema.
 
 ### Ecuaciones y variables. Solución de una red cerrada
 
-### Ejemplo conceptual. Solución de una red abierta
+Como se mencionó, para la solución de estos problemas es necesario el planteamiento de la ecuación de conservación de la energía y las ecuaciones de las pérdidas de energía entre cada tramo de tuberías tanto localizadas como por fricción.
 
+Con base en las actividades presentadas anteriormente en este módulo es posible plantear las pérdidas de energía totales en un tramo de la malla así:
+
+**Nota:** Para este ejemplo conceptual se consideró que la ecuación que definen las pérdidas por fricción es la ecuación de Darcy-Weisbach. Es posible el uso de otras ecuaciones, tales como la de Haze-William o Manning, ecuaciones y conceptos fuera del alcance del presente curso. 
+
+Para facilitar la presentación de esta ecuación es posible convertir las pérdidas de energía por accesorios en longitudes equivalentes o longitudes virtuales de tubería que, matemáticamente sean iguales a las pérdidas de fricción. Esto se logra igualando las ecuaciones así:
+
+Por tanto, es posible plantear la ecuación de pérdidas de energía totales considerando una longitud total que corresponda a la suma de la longitud real del tramo de tubería más la longitud equivalente, lo cual permite presentar la ecuación de pérdidas totales así:
+
+Considerando las constantes que se presentan en el problema, la ecuación puede ser transformada de manera general a:
+
+Donde,
+
+aij son las constantes agrupadas.
+
+Como el lector reconocerá con la anterior ecuación, las incgnitas en cada tubería y por tanto en cada malla corresponde al caudal. Para la estimación del caudal deben cosniderarse los caudales demandas y el caudal residual o remanente que se genera en las tubrías una vez a logrado satifacer la demanda del nodo.
+
+### Ejemplo conceptual. Método de solución de una red cerrada
+
+En la literatura existen diferentes metodologías que permiten la estimación del caudal remanente que se distribuye por cada tubería en función de la demanda de cada nodo, del caudal inicia y de las características hidráulicas y geometrica de cada tubería. 
+
+Entre los métodos más utilizados se destacan el método de Hardy Cross y el método de R.J. Cornish. Ambos métodos consideran una distribución inicial (que debe ser definida por lógica por el diseñador) y a partir de metodología iterativa estimar los caudales finales circulantes antes minimizando el error o diferencia de caudales entre iteraciones.
+
+El método de Cross se basa en reducir la diferencia de caudales ($/Delta Q$) a tal punto que entre cada proceso de iteración el valor de ($/Delta Q$) sea cero. La ecuación que define el error del caudal que circula entre los tramos de tuberías en una red cerrada corresponde a:
+
+En el caso del método de Cornish lo que se busca es minimizar la diferencia de las pérdidas ($/Delta H_t$). Al igual que con el método de Cross a partir de la suposición de datos iniciales y mediante un proceso de iteración o de tanteo debe minimizarse esta diferencia hasta encontrar la convergencia. La ecuación que define el error de las pérdidas de energía totales entre tramos de una red cerrada corresponde a:
 
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.11.08 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   6   |
+| 2022.11.08 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   7   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
