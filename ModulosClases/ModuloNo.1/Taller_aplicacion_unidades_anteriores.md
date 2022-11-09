@@ -27,9 +27,15 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
 ### Solución Problema 1A
 
 **a)** Para la determinación de los demás numerales es necesario conocer la densidad y la viscosidad del agua a 20°C. Revisando las tablas se tiene que:
+<div align="center">
+  $\rho=998.0 \frac{Kg}{m^3}$
+</div>
 
-$\rho=998.0 \frac{Kg}{m^3}$
-$\mu=1.003*10^{-3}\frac{kg}{m*s}$
+<div align="center">
+  $\mu=1.003*10^{-3}\frac{kg}{m*s}$
+</div>
+
+
 
 Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a lo sumo sea 2000 (para condición máximo de flujo laminar), es posible despejar la velocidad media del flujo así:
 
