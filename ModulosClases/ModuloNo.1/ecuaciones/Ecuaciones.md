@@ -130,3 +130,7 @@ $(EAS)_D=EAS-PV$
 <div align="center"> 
 $h_t=\frac{V^{2}_2-V^{2}_1}{2g}-\frac{P_2-P_1}{\gamma}+\sum_{}^{}h_k+\sum_{}^{}h_f$
 </div>
+
+<div align="center">
+$\sum_{i=1}^{n}Q_i=0$
+</div>

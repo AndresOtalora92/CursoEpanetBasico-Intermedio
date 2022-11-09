@@ -22,7 +22,7 @@ El objetivo principal de esta actividad es crear al usuario las nociones fundame
 
 ## Redes abiertas. Conceptos
 
-Por definición una red hidráulica abierta corresponda a aquellas tuberías que están dispuestas de tal manera que no crean una malla o circuito cerrado. En una red abierta las tuberías están configuradas están ramificadas sin interceptar, sin crear ciclos o mallas continuas. Los extremos de los ramales pueden finalizar en un tanque o pueden descargar a la atmósfera.
+Por definición una red hidráulica abierta corresponda a aquella red conformada por tuberías dispuestas de tal manera que no crean una malla o circuito cerrado. En una red abierta las tuberías están configuradas de tal manera que pueden crear ramificación, sin crear ciclos o mallas continuas. Los extremos de los ramales pueden finalizar en un tanque o pueden descargar a la atmósfera.
 
 En la siguiente imagen se presenta un ejemplo de una típica red abierta. En este caso tres tanques de nivel constante alimentan un tanque. Los tres tanques se conectan, en el nodo A, permitiendo que el caudal generado por los tres tanques llegue al cuarto.
 
@@ -40,13 +40,18 @@ En el caso particular de una red abierta es posible la estimación de las variab
 
 ### Ecuaciones y variables. Solución de una red abierta
 
-Como se ha visto en las demás actividades, las ecuaciones fundamentales para la solución de problemas relacionados con los flujos a presión corresponden a la conservación de la masa y la conservación de la energía. 
+Como se ha visto en las demás actividades, las ecuaciones fundamentales para la solución de problemas relacionados con los flujos a presión corresponden a la conservación de la masa y a la conservación de la energía. 
 
-Para un sistema abierto generalmente la incógnita corresponde al caudal que transita por cada tubería y la columna de presión en los nodos intermedios. Con base en esto,  se recomienda como primer paso identificar las incógnitas que definen el problema, posteriormente plantear las ecuaciones y finalmente solucionar el sistema de ecuaciones planteadas.
+Para un sistema abierto generalmente las incógnitas corresponden a los caudales que transitan por cada una de las tuberías y las columnas de presión en los nodos intermedios. Con base en esto, se recomienda como primer paso identificar las incógnitas que definen el problema, posteriormente plantear las ecuaciones y finalmente solucionar el sistema de ecuaciones planteadas.
 
 En cada nodo es necesario plantear la ecuación de conservación de la masa, identificando el caudal o los caudales que ingresas al nodo y el caudal o los caudales que salen del nodo así:
 
-ECUACIÓN
+<div align="center">
+
+  <img src="ecuaciones/Ecuacion35.PNG" width="100px">
+
+</div>
+
 
 Posteriormente, debe plantearse la ecuación de conservación de energía o Bernoulli entre dos puntos tantas veces como caudales deban determinarse. Los puntos de inicio y fin en el planteamiento de la ecuación de energía generalmente se seleccionan desde el inicio de uno de los ramales hasta un nodo o desde un nodo particular hasta el final de un ramal. Esta identificación dependerá del problema. 
 
@@ -91,6 +96,8 @@ En la siguiente imagen se presenta un ejemplo de una típica red cerrada. En est
 IMAGEN
 
 ## Planteamiento y solución de sistemas hidráulicos de redes cerradas
+
+En un sistema hidráulico compuesto por tuberías que funcionan con flujo a presión es necesario identificar los elementos que componen el sistema (tramos de tubería, nodos, accesorios, etc.) antes de plantera cualquier ecuación o cualquier sistema de ecuaciones.
 
 Para la solución de este tipo de redes es necesario el planteamiento de la ecuación de conservación de la masa (sumatoria de caudales) en cada nodo, considerando las demandas. Adicionalmente, deben estimarse las pérdidas de energía (fricción y por accesorios) entre los tramos que componen los circuitos o mallas.
 
