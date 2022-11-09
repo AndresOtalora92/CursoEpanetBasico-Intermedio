@@ -18,7 +18,7 @@ Keywords: `Hidráulica a Presión` `Conceptos de hidráulica a presión` `Taller
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.11.09 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   7   |
+| 2022.11.09 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
