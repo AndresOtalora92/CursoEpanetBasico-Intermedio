@@ -68,7 +68,11 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
   $Gradiente =\frac{\Delta P}{L}$
 </div>
 
-Gradiente = 100 Pa/m
+<div align="center">
+  <b> Gradiente = 100 Pa/m </b>
+</div>
+
+
 
 #### d) A partir del gradiente hidráulico y asumiendo que es igual a la pendiente de la línea de energía (Sf) es posible estimar el esfuerzo cortante así:
 
