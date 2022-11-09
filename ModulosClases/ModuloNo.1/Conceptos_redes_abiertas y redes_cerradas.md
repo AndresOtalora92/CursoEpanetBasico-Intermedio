@@ -191,7 +191,7 @@ En el caso del método de Cornish lo que se busca es minimizar la diferencia de 
 
 ### Ejercicio de aplicación solucionado
 
-Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice los ejercicios solucionados 1F y 1G.
+Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"](Taller_aplicacion_tres_unidades_anteriores.md) y analice los ejercicios solucionados 1F y 1G.
 
 ### Control de versiones
 
