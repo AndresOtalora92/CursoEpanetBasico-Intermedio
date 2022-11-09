@@ -143,7 +143,7 @@ Ejercicio 9.35 Mecánica de Fluidos. Un sistema hidráulico compuesto por dos ta
 
 ### Solución Problema 1C
 
-Con base en el caudal, se determina la velocidad media del flujo, velocidad que es constante en todos los tramos de tuberías:
+Con base en el caudal, se determina la velocidad media del flujo, velocidad que es constante en todos los tramos de las tuberías:
 
 <div align="center"> 
     $V = \frac{Q}{\pi/4*D0^2}$
@@ -194,19 +194,63 @@ Desarrolle el problema 1C considerando las pérdidas localizadas (ver los valore
 
 ### Solución Problema 1D
 
-Con base en el caudal, se determina la velocidad media del flujo, velocidad que es constante en todos los tramos de tuberías:
+Con base en el caudal, se determina la velocidad media del flujo, velocidad que es constante en todos los tramos de las tuberías:
+
+<div align="center"> 
+    $V = \frac{Q}{\pi/4*D0^2}$
+</div>
+
+<div align="center"> 
+    $V = \frac{100/1000}{\pi/4*0.150^2}=5.65 m/s$
+</div>
 
 Con los datos iniciales se estima la energía en la descarga o salida:
 
-Con los datos iniciales se estima la energía todas las pérdidas localizadas en el sistema:
+<div align="center"> 
+    $E_2=\frac{V^2_2}{2g}+\frac{P_2}{\gamma}+Z_2$
+</div>
 
-Con los datos iniciales se estima la energía todas las pérdidas pro fricción en el sistema:
+<div align="center"> 
+    $E_2=\frac{5.65^2}{2*9.81}+\frac{40*10^3}{1000*9.81}+160=165.71 m$
+</div>
 
 Se plantea la ecuación de energía a la entrada del sistema, dejando como incógnita la presión P1:
 
-Teniendo en cuenta que existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial menos todas las pérdidas de energía con la energía en la descarga:
+<div align="center"> 
+    $E_1=\frac{V^2_1}{2g}+\frac{P_1}{\gamma}+Z_1$
+</div>
 
-Se despeja el valor de P1:
+<div align="center"> 
+    $E_1=\frac{5.65^2}{2*9.81}+\frac{P_1}{1000*9.81}+26$
+</div>
+
+Con los datos iniciales se estiman las pérdidas localizadas en el sistema:
+
+<div align="center"> 
+    $h_f=\frac{0.015*(325+160+260)}{D}*\frac{5.65^2}{2g}=121.59 m$
+</div>
+
+<div align="center"> 
+    $h_k=(0.4+0.9+1)*\frac{5.65^2}{2g}=3.75 m$
+</div>
+
+Con los datos iniciales se estiman las pérdidas por fricción en el sistema:
+
+Teniendo en cuenta que existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial menos todas las pérdidas de energía con la energía en la descarga. Se despeja el valor de P1:
+
+<div align="center"> 
+    $P1=2.58 Mpa$
+</div>
+
+Como se puede observar cuando se tienen en cuenta todas las pérdidas de energía es necesario una mayor presión para lograr el mismo caudal. 
+
+Estimando la variación porcentual (aumento) de la presión requerida para transportar el mismo caudal se tiene que:
+
+<div align="center"> 
+    $Variación=\frac{2.58-1.35}{1.35}*100=91.1$
+</div>
+
+Se requiere de 91.1% más de presión considerando todas las pérdidas 
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1D.nb) o directamente el archivo en el siguiente [link de descarga]https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EY3i9C5-I9VKgfo9dQvtjsgBn3AWGnIUFz6uBOTSC6pypQ?e=ARvvDi)
 
