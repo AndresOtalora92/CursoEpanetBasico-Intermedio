@@ -254,6 +254,10 @@ Con los datos iniciales se estiman las pérdidas por fricción en el sistema:
 Teniendo en cuenta que existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial menos todas las pérdidas de energía con la energía en la descarga. Se despeja el valor de P1:
 
 <div align="center"> 
+    $\frac{5.65^2}{2*9.81}+\frac{P_1}{1000*9.81}+26-3.75-121.59=165.71$
+</div>
+
+<div align="center"> 
     $P1=2.58 MPa$
 </div>
 
