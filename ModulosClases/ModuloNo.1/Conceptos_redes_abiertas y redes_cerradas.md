@@ -27,9 +27,7 @@ Por definición una red hidráulica abierta corresponda a aquella red conformada
 En la siguiente imagen se presenta un ejemplo de una típica red abierta. En este caso tres tanques de nivel constante alimentan un tanque. Los tres tanques se conectan, en el nodo A, permitiendo que el caudal generado por los tres tanques llegue al cuarto.
 
 <div align="center">
-
-  <img src="Imagenes/FiguraNo.1.31.PNG" width="300px">
-
+  <img src="Imagenes/FiguraNo.1.31.PNG" width="380px">
 </div>
 
 ## Planteamiento y solución de sistemas hidráulicos de redes abiertas
@@ -47,9 +45,7 @@ Para un sistema abierto generalmente las incógnitas corresponden a los caudales
 En cada nodo es necesario plantear la ecuación de conservación de la masa, identificando el caudal o los caudales que ingresas al nodo y el caudal o los caudales que salen del nodo así:
 
 <div align="center">
-
   <img src="ecuaciones/Ecuacion35.PNG" width="100px">
-
 </div>
 
 
@@ -111,45 +107,87 @@ Este tipo de redes en su mayoría son usadas para la distribución de agua potab
 
 En la siguiente imagen se presenta un ejemplo de una típica red cerrada. En este caso, dos tanques de nivel constante alimentan la red, la cual presenta algunos nodos con demandas permanentes y otros sin demandas. 
 
-IMAGEN
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.32.PNG" width="380px">
+</div>
+
 
 ## Planteamiento y solución de sistemas hidráulicos de redes cerradas
 
 En un sistema hidráulico compuesto por tuberías que funcionan con flujo a presión es necesario identificar los elementos que componen el sistema (tramos de tubería, nodos, accesorios, etc.) antes de plantera cualquier ecuación o cualquier sistema de ecuaciones.
 
-Para la solución de este tipo de redes es necesario el planteamiento de la ecuación de conservación de la masa (sumatoria de caudales) en cada nodo, considerando las demandas. Adicionalmente, deben estimarse las pérdidas de energía (fricción y por accesorios) entre los tramos que componen los circuitos o mallas.
+Para la solución de este tipo de redes es necesario el planteamiento de la ecuación de conservación de la masa (sumatoria de caudales) en cada nodo teniendo en cuenta las salidas de agua al considerar las demandas. Adicionalmente, deben estimarse las pérdidas de energía totales (pérdidas por fricción y pérdidas por accesorios) entre los tramos que componen los circuitos o mallas.
 
-Para la solución de los sistemas de ecuaciones que se generan en la solución de estas redes hidráulicas, convencionalmente se divide el problema en función del número de mallas (análisis individual de cada malla) y para cada malla se tienen en cuenta cada tramo de tubería que las conforma. Para el caso de mallas que tengan la misma tubería con una malla equidistante, se debe considerar el cálculo de esta tubería por aparte en cada malla y posteriormente por un proceso de ensayo y error, repartir la diferencia de los cálculos en cada malla hasta que converja el sistema.
+Para la solución de los sistemas de ecuaciones que se generan en las redes hidráulicas, convencionalmente se divide el problema en función del número de mallas (análisis individual de cada malla) y para cada malla se debe tener en cuenta un análisis particular por cada tramo de tubería que las conforma. Para el caso de mallas que tengan la misma tubería con una malla equidistante, se debe considerar el cálculo de esta tubería por aparte en cada malla y posteriormente, en un proceso de ensayo y error, repartir la diferencia de los cálculos en cada malla hasta que lograr que el sistema converja.
 
 ### Ecuaciones y variables. Solución de una red cerrada
 
-Como se mencionó, para la solución de estos problemas es necesario el planteamiento de la ecuación de conservación de la energía y las ecuaciones de las pérdidas de energía entre cada tramo de tuberías tanto localizadas como por fricción.
+Como se mencionó, para la solución de estos problemas es necesario el planteamiento de la ecuación de conservación de la energía y las ecuaciones que definen las pérdidas de energía totales entre cada tramo de tuberías (localizadas como por fricción).
 
-Con base en las actividades presentadas anteriormente en este módulo es posible plantear las pérdidas de energía totales en un tramo de la malla así:
+Con base en las actividades presentadas anteriormente es posible plantear las pérdidas de energía totales en un tramo de la malla así:
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion40.PNG" width="280px">
+</div>
 
 **Nota:** Para este ejemplo conceptual se consideró que la ecuación que definen las pérdidas por fricción es la ecuación de Darcy-Weisbach. Es posible el uso de otras ecuaciones, tales como la de Haze-William o Manning, ecuaciones y conceptos fuera del alcance del presente curso. 
 
-Para facilitar la presentación de esta ecuación es posible convertir las pérdidas de energía por accesorios en longitudes equivalentes o longitudes virtuales de tubería que, matemáticamente sean iguales a las pérdidas de fricción. Esto se logra igualando las ecuaciones así:
+Para facilitar la presentación de esta ecuación es posible convertir las pérdidas de energía por accesorios en longitudes equivalentes o longitudes virtuales de tubería que, matemáticamente, sean iguales a las pérdidas por fricción. Esto se logra igualando las ecuaciones de pérdidas de energía y despejando la longitud así:
 
-Por tanto, es posible plantear la ecuación de pérdidas de energía totales considerando una longitud total que corresponda a la suma de la longitud real del tramo de tubería más la longitud equivalente, lo cual permite presentar la ecuación de pérdidas totales así:
-
-Considerando las constantes que se presentan en el problema, la ecuación puede ser transformada de manera general a:
+<div align="center">
+  <img src="ecuaciones/Ecuacion41.PNG" width="180px">
+</div>
 
 Donde,
 
-aij son las constantes agrupadas.
+Le, corresponde a la longitud equivalente de tubería que generaría la misma cantidad de pérdida por los accesorios.
 
-Como el lector reconocerá con la anterior ecuación, las incgnitas en cada tubería y por tanto en cada malla corresponde al caudal. Para la estimación del caudal deben cosniderarse los caudales demandas y el caudal residual o remanente que se genera en las tubrías una vez a logrado satifacer la demanda del nodo.
+Ki corresponde a los coeficientes de pérdidas localizadas en cada accesorio entre los tramos.
+
+Fi corresponde a los coeficientes de pérdidas por fricción en cada accesorio entre los tramos.
+
+Por tanto, es posible plantear la ecuación de pérdidas de energía totales considerando una longitud total que corresponda a la suma de la longitud real del tramo de tubería más la longitud equivalente, lo cual permite presentar la ecuación de pérdidas totales así:
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion42.PNG" width="250px">
+</div>
+
+Considerando las constantes que se presentan en el problema, la ecuación puede ser transformada de manera general a:
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion43.PNG" width="180px">
+</div>
+
+Donde,
+
+ai son las constantes agrupadas.
+
+En el caso de Darcy - Weisbach, ai se puede estimar como:
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion44.PNG" width="180px">
+</div>
+
+Como el lector reconocerá en la anterior ecuación, las incógnitas en cada tubería y por tanto, en cada malla, corresponden a los caudales. Para la estimación del caudal deben considerarse los caudales demandados en cada nodo y el caudal residual o remanente que se genera en las tuberías una vez ha logrado satisfacer la demanda del nodo.
 
 ### Ejemplo conceptual. Método de solución de una red cerrada
 
-En la literatura existen diferentes metodologías que permiten la estimación del caudal remanente que se distribuye por cada tubería en función de la demanda de cada nodo, del caudal inicia y de las características hidráulicas y geometrica de cada tubería. 
+En la literatura existen diferentes metodologías que permiten la estimación del caudal remanente que se distribuye por cada tubería en función de la demanda de cada nodo, de los caudales inicial y de las características hidráulicas y geométricas de cada tubería. 
 
-Entre los métodos más utilizados se destacan el método de Hardy Cross y el método de R.J. Cornish. Ambos métodos consideran una distribución inicial (que debe ser definida por lógica por el diseñador) y a partir de metodología iterativa estimar los caudales finales circulantes antes minimizando el error o diferencia de caudales entre iteraciones.
+Entre los métodos más utilizados se destacan el método de Hardy Cross y el método de R.J. Cornish. Ambos métodos consideran una distribución inicial (que debe ser definida por la lógica del diseñador) y a partir de procesos sucesivos de iteración deben minimizarse los errores de los caudales finales.
 
 El método de Cross se basa en reducir la diferencia de caudales ($/Delta Q$) a tal punto que entre cada proceso de iteración el valor de ($/Delta Q$) sea cero. La ecuación que define el error del caudal que circula entre los tramos de tuberías en una red cerrada corresponde a:
 
-En el caso del método de Cornish lo que se busca es minimizar la diferencia de las pérdidas ($/Delta H_t$). Al igual que con el método de Cross a partir de la suposición de datos iniciales y mediante un proceso de iteración o de tanteo debe minimizarse esta diferencia hasta encontrar la convergencia. La ecuación que define el error de las pérdidas de energía totales entre tramos de una red cerrada corresponde a:
+<div align="center">
+  <img src="ecuaciones/Ecuacion45.PNG" width="250px">
+</div>
+
+En el caso del método de Cornish lo que se busca es minimizar la diferencia de las pérdidas ($/Delta H_t$). Al igual que con el método de Cross, a partir de la suposición de datos iniciales y mediante un proceso de iteración o de tanteo debe minimizarse la diferencia hasta encontrar la convergencia. La ecuación que define el error de las pérdidas de energía totales entre tramos de una red cerrada corresponde a:
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion46.PNG" width="250px">
+</div>
+
 
 ### Ejercicio de aplicación solucionado
 

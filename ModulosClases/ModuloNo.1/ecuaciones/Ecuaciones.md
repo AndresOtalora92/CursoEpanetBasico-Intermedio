@@ -150,3 +150,31 @@ $\frac{V^{2}_3}{2g}+Z_3+\frac{P_3}{\gamma}-\sum_{}^{}\Delta h_f-\sum_{}^{}\Delta
 <div align="center"> 
 $\frac{V^{2}_a}{2g}+Z_a+\frac{P_a}{\gamma}-\sum_{}^{}\Delta h_f-\sum_{}^{}\Delta h_k=\frac{V^{2}_4}{2g}+Z_4+\frac{P_4}{\gamma}$
 </div>
+
+<div align="center"> 
+$\sum_{}^{}h_f+\sum_{}^{}h_k=\sum_{}^{}\frac{F_i*L_i}{2g}*\frac{V_i^2}{2g}+\sum_{}^{}K_i*\frac{V_i^2}{2g}$
+</div>
+
+<div align="center"> 
+$Le=\sum_{i=1}^{n}\frac{K_i*D_i}{F_i}$
+</div>
+
+<div align="center"> 
+$L_e=\sum_{}^{}\frac{F_i*(Lt+L_e)_i}{2g}*\frac{V_i^2}{2g}$
+</div>
+
+<div align="center"> 
+$hf_i=a_i*Q^2_i$
+</div>
+
+<div align="center"> 
+$a_i=\frac{8*f_i*L_i}{\pi^2*g*D_i^2}$
+</div>
+
+<div align="center"> 
+$\Delta Q= \frac{\sum_{i=1}^{n}(a_i*Q^{N-1}_i*\left|Q_i \right|)}{N*\sum_{i=1}^{n}(a_i*Q^{N-1}_i)}$
+</div>
+
+<div align="center"> 
+$\Delta H_i=-N*(\frac{Q_i+\sum_{i=1}^{n}Q_i}{\sum_{i=1}^{n}(Q_i/h_i)})$
+</div>
