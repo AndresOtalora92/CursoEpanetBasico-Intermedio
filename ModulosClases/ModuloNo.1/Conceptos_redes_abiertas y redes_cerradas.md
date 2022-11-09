@@ -40,29 +40,33 @@ En el caso particular de una red abierta es posible la estimación de las variab
 
 ### Ecuaciones y variables. Solución de una red abierta
 
-Como se ha visto en las demás actividades, las ecuaciones fundamentales para la solución de problemas relacionados con los flujos a presión corresponde a la conservación de la masa y la conservación de la energía. 
+Como se ha visto en las demás actividades, las ecuaciones fundamentales para la solución de problemas relacionados con los flujos a presión corresponden a la conservación de la masa y la conservación de la energía. 
 
-Para un sistema abierto generalmente la incognita corresponde al caudal que transita por cada tubería y la columna de presión en los nodos intermedios. Con base en estos, como primer paso se recomienda identificar las incógnitas que definen el problema y posteriormente plantear las ecuaciones.
+Para un sistema abierto generalmente la incógnita corresponde al caudal que transita por cada tubería y la columna de presión en los nodos intermedios. Con base en esto,  se recomienda como primer paso identificar las incógnitas que definen el problema, posteriormente plantear las ecuaciones y finalmente solucionar el sistema de ecuaciones planteadas.
 
-En cada nodo es necesario plantear la conservación de la masa, identificando el caudal o los caudales que ingresas al nodo y el caudal o los caudales que salen del nodo así:
+En cada nodo es necesario plantear la ecuación de conservación de la masa, identificando el caudal o los caudales que ingresas al nodo y el caudal o los caudales que salen del nodo así:
+
+ECUACIÓN
 
 Posteriormente, debe plantearse la ecuación de conservación de energía o Bernoulli entre dos puntos tantas veces como caudales deban determinarse. Los puntos de inicio y fin en el planteamiento de la ecuación de energía generalmente se seleccionan desde el inicio de uno de los ramales hasta un nodo o desde un nodo particular hasta el final de un ramal. Esta identificación dependerá del problema. 
 
-El usuario debe generar tantas ecuaciones como incógnitas tenga la red y solucionar el sistema de ecuaciones como mejor le convengan. En resumidas cuentas eso es lo que hace el código de EPANET, plantear sistemas de ecuaciones que permitan su solución con métodos numéricos. 
+El usuario debe generar tantas ecuaciones como incógnitas tenga la red y solucionar el sistema de ecuaciones como mejor le convenga. En resumidas cuentas, este procedimiento es lo que los desarrolladores del código de EPANET han planteado: La solución de sistemas de ecuaciones que permitan la determinación de las variables hidráulicas a partir de la aplicación de métodos numéricos. 
 
 ### Ejemplo conceptual. Solución de una red abierta
 
-Con el propósito de reforzar el concepto definido anteriormente se plantearán las ecuaciones necesarias para la determinación de los caudales (Qi) de las presiones(Pi) en la red abierta presentada anteriormente y que a continuación se amplía.
+Con el propósito de reforzar los conceptos definidos anteriormente se plantearán las ecuaciones necesarias para la determinación de los caudales (Qi) y las presiones(Pi) en la red abierta presentada anteriormente y que a continuación se amplía.
 
 IMAGEN
 
-Siguiendo las recomendaciones mencionadas, inicialmente se deben identificar las particularidades del sistema. En este caso se observan que el sistema está compuesto por tres tanques, que alimentan una cuarto tanque. Las tres primeras tuberías se unen al nodo A y desde el nodo A el agua fluye hasta el cuarto tanque.
+Siguiendo las recomendaciones mencionadas, inicialmente se deben identificar las particularidades del sistema. En este caso se observa que el sistema está compuesto por tres tanques que alimentan una cuarto tanque. Las tres primeras tuberías se unen al nodo A y desde el nodo A, el agua fluye hasta el cuarto tanque.
 
-Se reconocen 4 tuberías, en los cuales deben fluir cuatro (4) caudales distintos. En el nodo A debe existir conservación de la masa (sumatoria de caudales) y una columna de presión, diferente a la presión atmosférica.
+**Nota:** Para suponer la dirección del flujo en cada tubería debe identificarse la altura de los tanques o las presiones en el inicio de cada tubería.
 
-Posteriormente, se deben identificar las incógnitas. En este caso se identificaron 5 incógnitas: Los cuatro caudales que fluyen por los cuatro tramos de tubería y la presión en el nodo A. 
+En este problema se reconocen 4 tuberías, en los cuales deben fluir cuatro (4) caudales. En el nodo A debe existir conservación de la masa (sumatoria de caudales) y una columna de presión, diferente a la presión atmosférica.
 
-Finalmente se deben crear tantas ecuaciones como incógnitas definan la red. Para este caso particular se plantearán las siguientes cinco (5) ecuaciones:
+Posteriormente, se deben identificar las incógnitas. En este caso se identificaron cinco (5) incógnitas: Los cuatro caudales que fluyen por los cuatro tramos de tuberías y la presión en el nodo A. 
+
+Finalmente, se deben crear tantas ecuaciones como incógnitas tenga la red. Para este caso particular se plantearán cinco ecuaciones, las cuales corresponde a:
 
 1. Para el nodo A, se plantea la ecuación de conservación de la masa así:
 
@@ -81,6 +85,14 @@ El usuario debe solucionar este sistema de 5x5 tal como lo considere adecuado.
 
 Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice los ejercicios solucionados 1F y 1G.
 
+
+## Redes cerradas. Conceptos
+
+## Planteamiento y solución de sistemas hidráulicos de redes cerradas
+
+### Ecuaciones y variables. Solución de una red cerrada
+
+### Ejemplo conceptual. Solución de una red abierta
 
 
 ### Control de versiones
