@@ -203,5 +203,5 @@ _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
-| [Anterior](Conceptos_bombas_hidraulicas.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](Taller_aplicacion_tres_unidades_anteriores.md) |
+| [Anterior](Conceptos_bombas_hidraulicas.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](Taller_aplicacion_unidades_anteriores.md) |
 |----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
