@@ -145,13 +145,43 @@ Ejercicio 9.35 Mecánica de Fluidos. Un sistema hidráulico compuesto por dos ta
 
 Con base en el caudal, se determina la velocidad media del flujo, velocidad que es constante en todos los tramos de tuberías:
 
+<div align="center"> 
+    $V = \frac{Q}{\pi/4*D0^2}$
+</div>
+
+<div align="center"> 
+    $V = \frac{100/1000}{\pi/4*0.150^2}=5.65 m/s$
+</div>
+
 Con los datos iniciales se estima la energía en la descarga o salida:
+
+<div align="center"> 
+    $E_2=\frac{V^2_2}{2g}+\frac{P_2}{\gamma}+Z_2$
+</div>
+
+<div align="center"> 
+    $E_2=\frac{5.65^2}{2*9.81}+\frac{40*10^3}{1000*9.81}+160=165.71 m$
+</div>
 
 Se plantea la ecuación de energía a la entrada del sistema, dejando como incógnita la presión P1:
 
-Teniendo en cuenta que se asume que no existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial y la descarga:
+<div align="center"> 
+    $E_1=\frac{V^2_1}{2g}+\frac{P_1}{\gamma}+Z_1$
+</div>
 
-Se despeja el valor de P1:
+<div align="center"> 
+    $E_1=\frac{5.65^2}{2*9.81}+\frac{P_1}{1000*9.81}+26$
+</div>
+
+Teniendo en cuenta que se asume que no existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial y la descarga. Se despeja el valor de P1:
+
+<div align="center"> 
+    $165.71=\frac{5.65^2}{2*9.81}+\frac{P_1}{1000*9.81}+26$
+</div>
+
+<div align="center"> 
+    $P1=1.35 Mpa$
+</div>
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1C.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EV6AIZMgDxROuYosxaUgyv8Bu1wQoQOsl8StBfuDYA_dqw?e=bbz8g2)
 
@@ -162,7 +192,7 @@ Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica,
 Desarrolle el problema 1C considerando las pérdidas localizadas (ver los valores de K en la figura anterior) y las pérdidas por fricción, sabiendo que el coeficiente "F" de fricción se asume como constante y corresponde a 0.015. Compare la variación de la presión con respecto al problema 1C.
 
 
-### Solución Problema 1C
+### Solución Problema 1D
 
 Con base en el caudal, se determina la velocidad media del flujo, velocidad que es constante en todos los tramos de tuberías:
 
