@@ -107,7 +107,7 @@ En la siguiente figura se presenta un esquema general de la línea de energía y
 
 ### Ejercicio de aplicación solucionado
 
-Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice el ejercicio solucionado 1D.
+Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice el ejercicio solucionado 1C.
 
 ### Control de versiones
 

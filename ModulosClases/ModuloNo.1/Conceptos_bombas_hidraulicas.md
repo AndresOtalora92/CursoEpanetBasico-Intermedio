@@ -279,7 +279,7 @@ En sistemas complejos la curva característica del sistema se obtiene a partir d
 
 ### Ejercicio de aplicación solucionado
 
-Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"](Taller_aplicacion_tres_unidades_anteriores.md) y analice el ejercicio solucionado 1D.
+Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"](Taller_aplicacion_tres_unidades_anteriores.md) y analice el ejercicio solucionado 1E.
 
 
 

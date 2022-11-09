@@ -108,7 +108,7 @@ Para nuestro curso, estas ecuaciones pueden ser utilizadas para comparar y anali
 
 ### Ejercicio de aplicación solucionado
 
-Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice los ejercicios solucionados 1B y 1C.
+Para aplicar los conceptos vistos en esta actividad por favor diríjase a la sección ["Taller de aplicación de las unidades anteriores"]((Taller_aplicacion_tres_unidades_anteriores.md)) y analice el ejercicio solucionado 1B.
 
 ### Control de versiones
 
