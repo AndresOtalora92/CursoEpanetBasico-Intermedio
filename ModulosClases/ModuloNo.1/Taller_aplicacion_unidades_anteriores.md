@@ -135,10 +135,15 @@ Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica,
 
 ## Problema 1C - Conservación de la energía.
 
-Ejercicio 9.35 Mecánica de Fluidos. Un sistema hidráulico compuesto por dos tanques y tres tramos de tuberías de 150 mm, transporta un caudal de 100 L/s, si la presión P2 es igual a 40 kPa determine la presión en el tanque P1. Asuma que no existen pérdidas de energía en el sistema y que el agua se encuentra a una temperatura de 20°C.
+Ejercicio 9.35 Mecánica de Fluidos. Un sistema hidráulico compuesto por dos tanques y tres tramos de tuberías de 150 mm, transporta un caudal de 100 L/s, si la presión P2 es igual a 40 kPa determine la presión en el tanque P1. Asuma que no existen pérdidas de energía en el sistema.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.1.33.PNG" width="400px">
+</div>
+
+<div align="center">
+  Imagen tomada del libro Mecánica de Fluidos de Irving Shames (1995)
+<b>Problema sin considerar pérdidas de energía</b>
 </div>
 
 ### Solución Problema 1C
@@ -191,6 +196,14 @@ Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica,
 
 Desarrolle el problema 1C considerando las pérdidas localizadas (ver los valores de K en la figura anterior) y las pérdidas por fricción, sabiendo que el coeficiente "F" de fricción se asume como constante y corresponde a 0.015. Compare la variación de la presión con respecto al problema 1C.
 
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.33.PNG" width="400px">
+</div>
+
+<div align="center">
+  Imagen tomada del libro Mecánica de Fluidos de Irving Shames (1995)
+<b>Problema considerando pérdidas de energía por fricción y pérdidas por accesorios</b>
+</div>
 
 ### Solución Problema 1D
 

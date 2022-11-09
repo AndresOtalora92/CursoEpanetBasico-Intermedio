@@ -10,19 +10,19 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      7388,        199]
-NotebookOptionsPosition[      5669,        159]
-NotebookOutlinePosition[      6086,        175]
-CellTagsIndexPosition[      6043,        172]
+NotebookDataLength[      7391,        199]
+NotebookOptionsPosition[      5684,        159]
+NotebookOutlinePosition[      6089,        175]
+CellTagsIndexPosition[      6046,        172]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell["Soluci\[OAcute]n Problema 1 A", "Title",
- CellChangeTimes->{{3.876999010178986*^9, 
-  3.8769990272457533`*^9}},ExpressionUUID->"1ec1c3a8-d217-4ef3-8f41-\
+Cell["Soluci\[OAcute]n Problema 1 C", "Title",
+ CellChangeTimes->{{3.876999010178986*^9, 3.8769990272457533`*^9}, 
+   3.8770206761232157`*^9},ExpressionUUID->"1ec1c3a8-d217-4ef3-8f41-\
 1037a64f396e"],
 
 Cell["\<\
@@ -30,13 +30,13 @@ Ejercicio 9.35 Mec\[AAcute]nica de Fluidos. Un sistema hidr\[AAcute]ulico \
 compuesto por dos tanques y tres tramos de tuber\[IAcute]as de 150 mm, \
 transporta un caudal de 100 L/s, si la presi\[OAcute]n P2 es igual a 40 kPa \
 determine la presi\[OAcute]n en el tanque P1. Asuma que no existen \
-p\[EAcute]rdidas de energ\[IAcute]a en el sistema y que el agua se encuentra \
-a una temperatura de 20\[Degree]C.\
+p\[EAcute]rdidas de energ\[IAcute]a en el sistema.\
 \>", "Subtitle",
  CellChangeTimes->{{3.876999028468283*^9, 3.8769990603924265`*^9}, {
   3.8770173911547127`*^9, 3.877017392657458*^9}, {3.8770174586465516`*^9, 
-  3.8770174735690775`*^9}, {3.8770188403450317`*^9, 
-  3.877018842742633*^9}},ExpressionUUID->"24221f28-2c6f-43a1-80ac-\
+  3.8770174735690775`*^9}, {3.8770188403450317`*^9, 3.877018842742633*^9}, {
+  3.8770206122952943`*^9, 
+  3.8770206131586475`*^9}},ExpressionUUID->"24221f28-2c6f-43a1-80ac-\
 d58e9196f5c5"]
 }, Open  ]],
 
@@ -157,7 +157,7 @@ Cell[BoxData[
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{1141.2, 580.1999999999999},
+WindowSize->{1141.2, 574.8},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
 FrontEndVersion->"12.2 for Microsoft Windows (64-bit) (December 12, 2020)",
 StyleDefinitions->"Default.nb",
@@ -175,30 +175,30 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 174, 3, 97, "Title",ExpressionUUID->"1ec1c3a8-d217-4ef3-8f41-1037a64f396e"],
-Cell[757, 27, 717, 12, 149, "Subtitle",ExpressionUUID->"24221f28-2c6f-43a1-80ac-d58e9196f5c5"]
+Cell[580, 22, 199, 3, 97, "Title",ExpressionUUID->"1ec1c3a8-d217-4ef3-8f41-1037a64f396e"],
+Cell[782, 27, 707, 12, 117, "Subtitle",ExpressionUUID->"24221f28-2c6f-43a1-80ac-d58e9196f5c5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1511, 44, 214, 4, 97, "Title",ExpressionUUID->"1f0e35ac-2858-4a51-ab65-4472a76eac0b"],
-Cell[1728, 50, 859, 20, 46, "Input",ExpressionUUID->"e79a5527-592a-4597-8649-32171571ac35"]
+Cell[1526, 44, 214, 4, 97, "Title",ExpressionUUID->"1f0e35ac-2858-4a51-ab65-4472a76eac0b"],
+Cell[1743, 50, 859, 20, 46, "Input",ExpressionUUID->"e79a5527-592a-4597-8649-32171571ac35"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2624, 75, 272, 4, 97, "Title",ExpressionUUID->"4f762b74-fce6-45f7-a477-c8d9e3245c4c"],
+Cell[2639, 75, 272, 4, 97, "Title",ExpressionUUID->"4f762b74-fce6-45f7-a477-c8d9e3245c4c"],
 Cell[CellGroupData[{
-Cell[2921, 83, 378, 9, 48, "Input",ExpressionUUID->"cafd531b-09a2-40a4-b6bc-0c2306d12e07"],
-Cell[3302, 94, 194, 2, 32, "Output",ExpressionUUID->"51022194-11b5-49de-9ada-b19ace71e041"]
+Cell[2936, 83, 378, 9, 48, "Input",ExpressionUUID->"cafd531b-09a2-40a4-b6bc-0c2306d12e07"],
+Cell[3317, 94, 194, 2, 32, "Output",ExpressionUUID->"51022194-11b5-49de-9ada-b19ace71e041"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[3533, 101, 476, 10, 51, "Input",ExpressionUUID->"8081a55c-8fcd-459b-b3b3-c430de18cf4d"],
-Cell[4012, 113, 332, 5, 32, "Output",ExpressionUUID->"051854d4-6713-4502-9465-04c356191b15"]
+Cell[3548, 101, 476, 10, 51, "Input",ExpressionUUID->"8081a55c-8fcd-459b-b3b3-c430de18cf4d"],
+Cell[4027, 113, 332, 5, 32, "Output",ExpressionUUID->"051854d4-6713-4502-9465-04c356191b15"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[4381, 123, 476, 10, 51, "Input",ExpressionUUID->"cbb96010-99a8-4a7c-949b-02904a8f2552"],
-Cell[4860, 135, 244, 3, 32, "Output",ExpressionUUID->"04e877a1-fb76-4805-bb89-00f72f887e20"]
+Cell[4396, 123, 476, 10, 51, "Input",ExpressionUUID->"cbb96010-99a8-4a7c-949b-02904a8f2552"],
+Cell[4875, 135, 244, 3, 32, "Output",ExpressionUUID->"04e877a1-fb76-4805-bb89-00f72f887e20"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[5141, 143, 260, 5, 28, "Input",ExpressionUUID->"aabb212b-c0e9-46a7-8d0a-bcb7c5797f35"],
-Cell[5404, 150, 237, 5, 36, "Output",ExpressionUUID->"9b12db4b-7674-4e4d-995f-209f2da91089"]
+Cell[5156, 143, 260, 5, 28, "Input",ExpressionUUID->"aabb212b-c0e9-46a7-8d0a-bcb7c5797f35"],
+Cell[5419, 150, 237, 5, 36, "Output",ExpressionUUID->"9b12db4b-7674-4e4d-995f-209f2da91089"]
 }, Open  ]]
 }, Open  ]]
 }
