@@ -134,3 +134,19 @@ $h_t=\frac{V^{2}_2-V^{2}_1}{2g}-\frac{P_2-P_1}{\gamma}+\sum_{}^{}h_k+\sum_{}^{}h
 <div align="center">
 $\sum_{i=1}^{n}Q_i=0$
 </div>
+
+<div align="center"> 
+$\frac{V^{2}_1}{2g}+Z_1+\frac{P_1}{\gamma}-\sum_{}^{}\Delta h_f-\sum_{}^{}\Delta h_k=\frac{V^{2}_2}{2g}+Z_2+\frac{P_2}{\gamma}$
+</div>
+
+<div align="center"> 
+$\frac{V^{2}_2}{2g}+Z_2+\frac{P_2}{\gamma}-\sum_{}^{}\Delta h_f-\sum_{}^{}\Delta h_k=\frac{V^{2}_a}{2g}+Z_a+\frac{P_a}{\gamma}$
+</div>
+
+<div align="center"> 
+$\frac{V^{2}_3}{2g}+Z_3+\frac{P_3}{\gamma}-\sum_{}^{}\Delta h_f-\sum_{}^{}\Delta h_k=\frac{V^{2}_a}{2g}+Z_a+\frac{P_a}{\gamma}$
+</div>
+
+<div align="center"> 
+$\frac{V^{2}_a}{2g}+Z_a+\frac{P_a}{\gamma}-\sum_{}^{}\Delta h_f-\sum_{}^{}\Delta h_k=\frac{V^{2}_4}{2g}+Z_4+\frac{P_4}{\gamma}$
+</div>

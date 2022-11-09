@@ -59,15 +59,13 @@ El usuario debe generar tantas ecuaciones como incógnitas tenga la red y soluci
 
 ### Ejemplo conceptual. Solución de una red abierta
 
-Con el propósito de reforzar los conceptos definidos anteriormente se plantearán las ecuaciones necesarias para la determinación de los caudales (Qi) y las presiones(Pi) en la red abierta presentada anteriormente y que a continuación se amplía.
+Con el propósito de reforzar los conceptos definidos anteriormente se plantearán las ecuaciones necesarias para la determinación de los caudales (Qi) y las presiones(Pi) en la red abierta presentada anteriormente.
 
-IMAGEN
-
-Siguiendo las recomendaciones mencionadas, inicialmente se deben identificar las particularidades del sistema. En este caso se observa que el sistema está compuesto por tres tanques que alimentan una cuarto tanque. Las tres primeras tuberías se unen al nodo A y desde el nodo A, el agua fluye hasta el cuarto tanque.
+Siguiendo las recomendaciones mencionadas, inicialmente se deben identificar las particularidades del sistema. En este caso se observa que el sistema está compuesto por tres tanques que alimentan una cuarto tanque. Las tres primeras tuberías se unen al nodo A y desde el nodo A el agua fluye hasta el cuarto tanque.
 
 **Nota:** Para suponer la dirección del flujo en cada tubería debe identificarse la altura de los tanques o las presiones en el inicio de cada tubería.
 
-En este problema se reconocen 4 tuberías, en los cuales deben fluir cuatro (4) caudales. En el nodo A debe existir conservación de la masa (sumatoria de caudales) y una columna de presión, diferente a la presión atmosférica.
+En este problema se reconocen 4 tuberías, en los cuales fluyen cuatro (4) caudales. En el nodo A debe plantearse, como es lógico, la ecuación de conservación de la masa (sumatoria de caudales). En este punto (Nodo A), también debe plantearse como incógnita, para el posterior planteamiento de la ecuación de energía, la columna de presión, diferente a la presión atmosférica.
 
 Posteriormente, se deben identificar las incógnitas. En este caso se identificaron cinco (5) incógnitas: Los cuatro caudales que fluyen por los cuatro tramos de tuberías y la presión en el nodo A. 
 
@@ -75,13 +73,33 @@ Finalmente, se deben crear tantas ecuaciones como incógnitas tenga la red. Para
 
 1. Para el nodo A, se plantea la ecuación de conservación de la masa así:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion35.PNG" width="70px">
+</div>
+
 2. Entre el tanque 1 y el nodo A se plantea la ecuación de conservación de energía considerando las pérdidas en el sistema 1-a.
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion36.PNG" width="280px">
+</div>
 
 3. Entre el tanque 2 y el nodo A se plantea la ecuación de conservación de energía considerando las pérdidas en el sistema 2-a. 
 
-4. Entre el tanque 3 y el nodo A se plantea la ecuación de conservación de energía considerando las pérdidas en el sistema 3-a.
+<div align="center">
+  <img src="ecuaciones/Ecuacion37.PNG" width="280px">
+</div>
+
+5. Entre el tanque 3 y el nodo A se plantea la ecuación de conservación de energía considerando las pérdidas en el sistema 3-a.
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion38.PNG" width="280px">
+</div>
 
 5. Entre el nodo A y el tanque 4 se plantea la ecuación de conservación de energía considerando las pérdidas en el sistema a-4.
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion39.PNG" width="280px">
+</div>
 
 El usuario debe solucionar este sistema de 5x5 tal como lo considere adecuado.
 
