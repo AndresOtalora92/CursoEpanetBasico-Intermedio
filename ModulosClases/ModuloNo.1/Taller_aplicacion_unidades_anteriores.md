@@ -26,7 +26,7 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
 
 ### Solución Problema 1A
 
-**a)** Para la determinación de los demás numerales es necesario conocer la densidad y la viscosidad del agua a 20°C. Revisando las tablas se tiene que:
+#### a) Para la determinación de los demás numerales es necesario conocer la densidad y la viscosidad del agua a 20°C. Revisando las tablas se tiene que:
 
 <div align="center">
   $\rho=998.0 \frac{Kg}{m^3}$
@@ -52,7 +52,7 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 
 
 
-**b)** A partir de la velocidad media y utilizando el concepto de caudal se tiene que:
+#### b) A partir de la velocidad media y utilizando el concepto de caudal se tiene que:
 
 <div align="center">
   $Q = V*(\frac{\pi}{4}*D^2)$
@@ -62,7 +62,7 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
   <br> Q = 0.00031 m³/s </br> 
 </div>
 
-**c)** Conocida la longitud y la diferencia de presión entre los puntos extremos se tiene que:
+#### c) Conocida la longitud y la diferencia de presión entre los puntos extremos se tiene que:
 
 <div align="center">
   $Gradiente =\frac{\Delta P}{L}$
@@ -70,7 +70,7 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 
 Gradiente = 100 Pa/m
 
-**d)** A partir del gradiente hidráulico y asumiendo que es igual a la pendiente de la línea de energía (Sf) es posible estimar el esfuerzo cortante así:
+#### d) A partir del gradiente hidráulico y asumiendo que es igual a la pendiente de la línea de energía (Sf) es posible estimar el esfuerzo cortante así:
 
 <div align="center">
   $\tau=\gamma*R*S_f$
