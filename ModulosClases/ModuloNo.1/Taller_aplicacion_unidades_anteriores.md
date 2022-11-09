@@ -12,7 +12,49 @@
 
 Keywords: `Hidráulica a Presión` `Conceptos de hidráulica a presión` `Taller de práctica`
 
+## Problema 1A - Conceptos generales de los flujos a presión.
 
+Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 20°C. Si la tubería tiene una longitud total de 100 m y la diferencia de presión entre el punto inicial y el punto final de la tubería es de 10 kPa, determine:
+
+**a)** La velocidad máxima a la que debe fluir el agua para que el flujo sea laminar.
+
+**b)** El caudal máximo a la que debe fluir el agua para que el flujo sea laminar.
+
+**c)** El gradiente hidráulico.
+
+**d)** El esfuerzo cortante total que el flujo le genera a la tubería.
+
+### Solución Problema 1A
+
+**a)** Para la determinación de los demás numerales es necesario conocer la densidad y la viscosidad del agua a 20°C. Revisando las tablas se tiene que:
+
+$\rho=998.0 \frac{Kg}{m^3}$
+$\mu=1.003*10^{-3}\frac{kg}{m*s}$
+
+Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a lo sumo sea 2000 (para condición máximo de flujo laminar), es posible despejar la velocidad media del flujo así:
+
+$Re=\frac{\rho*V*D}{\mu}$
+$2000=\frac{998*V*(2*0.10)}{1.003*10^{-3}}$
+V =0.10 m/s
+
+**b)** A partir de la velocidad media y utilizando el concepto de caudal se tiene que:
+
+$Q = V*(\frac{\pi}{4}*D^2)$
+Q = 0.00031 m³/s
+
+**c)** Conocida la longitud y la diferencia de presión entre los puntos extremos se tiene que:
+
+$Gradiente =\frac{\Delta P}{L}$
+Gradiente = 100 Pa/m
+
+**d)** A partir del gradiente hidráulico y asumiendo que es igual a la pendiente de la línea de energía (Sf) es posible estimar el esfuerzo cortante así:
+
+$\tau=\gamma*R*S_f$
+$\tau=\rho*g*R*S_f$
+$\tau=\rho*g*A/P*S_f$
+$\tau=998*9.81*0.0314/0.628*100=48951.9 Pa$
+
+Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, el cual puede ser descargado en el [link de descarga]()
 
 ### Control de versiones
 
