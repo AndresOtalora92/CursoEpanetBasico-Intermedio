@@ -88,7 +88,7 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 </div>
 
 <div align="center">
-  $\tau=998*9.81*0.0314/0.628*100=48951.9 Pa$
+  $\tau=998*9.81*0.0314/0.628*100$
 </div>
 
 <div align="center">
@@ -96,6 +96,11 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 </div>
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1A.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EaT58Xbtpd9Og6eR72h8eBMBTGkl9Qn3bXSop4VVugQi5w?e=LkGyPO)
+
+
+## Problema 1B - Conceptos generales de los flujos a presión.
+
+
 
 ### Control de versiones
 
@@ -107,5 +112,5 @@ _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
-| [Anterior](Conceptos_redes_abiertas%20y%20redes_cerradas.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | 
-|----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|
+| [Anterior](Conceptos_redes_abiertas%20y%20redes_cerradas.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](../ModuloNo.2/Generalidades_EPANET.md) |
+|----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------|
