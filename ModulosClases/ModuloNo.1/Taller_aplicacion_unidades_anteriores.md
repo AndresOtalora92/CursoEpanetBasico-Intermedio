@@ -123,7 +123,7 @@ Con estos valores y conocida la ecuación de Hagen-Poiseuille se tiene que:
 </div>
 
 <div align="center"> 
-    $Q=\frac{\pi*9.81*0.2^4*(800/(9.81*998))}{128*(1.003*10^{-3}/998)*998}$
+    $Q=\frac{\pi*9.81*0.2^4*(800/(9.81*998))}{128*(1.003*10^{-3}/998)*100}$
 </div>
 
 <div align="center">
