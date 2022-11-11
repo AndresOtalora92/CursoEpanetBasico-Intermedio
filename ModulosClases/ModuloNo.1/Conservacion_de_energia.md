@@ -70,7 +70,7 @@ Con estas consideraciones, la ecuación de Bernoulli se puede escribir como:
   <img src="ecuaciones/Ecuacion15.PNG" width="350px">
 </div>
 
-Donde, .
+Donde,
 
  
 <br> $\sum_{}^{}\Delta h_f $: Pérdidas de energía debido a la fricción.
@@ -85,7 +85,7 @@ Tal como se describirá con más detalle en el apartado "Bombas hidráulicas" un
 En general la energía como columna de agua es función de la potencia hidráulica de la bomba (potencia mecánica por la eficiencia de la bomba), el caudal y el peso específico del fluido. A continuación se presenta la potencial de una bomba como metros columna de agua (m.c.a.)
 
 <div align="center">
-  <img src="ecuaciones/Ecuacion14.PNG" width="350px">
+  <img src="ecuaciones/Ecuacion16.PNG" width="250px">
 </div>
 
 
