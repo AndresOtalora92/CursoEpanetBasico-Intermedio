@@ -232,11 +232,11 @@ Con los datos iniciales se estima la energía en la descarga o salida:
 Se plantea la ecuación de energía a la entrada del sistema, dejando como incógnita la presión P1:
 
 <div align="center"> 
-    $E_1=\frac{V^2_1}{2g}+\frac{P_1}{\gamma}+Z_1$
+    $E_1=\frac{P_1}{\gamma}+Z_1$
 </div>
 
 <div align="center"> 
-    $E_1=\frac{5.65^2}{2*9.81}+\frac{P_1}{1000*9.81}+26$
+    $E_1=\frac{P_1}{1000*9.81}+26$
 </div>
 
 Con los datos iniciales se estiman las pérdidas localizadas en el sistema:
@@ -254,11 +254,11 @@ Con los datos iniciales se estiman las pérdidas por fricción en el sistema:
 Teniendo en cuenta que existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial menos todas las pérdidas de energía con la energía en la descarga. Se despeja el valor de P1:
 
 <div align="center"> 
-    $\frac{5.65^2}{2*9.81}+\frac{P_1}{1000*9.81}+26-3.75-121.59=165.71$
+    $\frac{P_1}{1000*9.81}+26-3.75-121.59=165.71$
 </div>
 
 <div align="center"> 
-    $P1=2.58 MPa$
+    $P1=2.60 MPa$
 </div>
 
 Como se puede observar cuando se tienen en cuenta todas las pérdidas de energía es necesario una mayor presión para lograr el mismo caudal. 
@@ -266,10 +266,10 @@ Como se puede observar cuando se tienen en cuenta todas las pérdidas de energí
 Estimando la variación porcentual (aumento) de la presión requerida para transportar el mismo caudal se tiene que:
 
 <div align="center"> 
-    $Variación=\frac{2.58-1.35}{1.35}*100=91.1$
+    $Variación=\frac{2.60-1.35}{1.35}*100=92.6$
 </div>
 
-Se requiere de 91.1% más de presión considerando todas las pérdidas. 
+Se requiere de 92.6% más de presión considerando todas las pérdidas. 
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1D.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EY3i9C5-I9VKgfo9dQvtjsgBn3AWGnIUFz6uBOTSC6pypQ?e=ARvvDi)
 
