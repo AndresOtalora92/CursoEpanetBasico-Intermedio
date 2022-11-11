@@ -271,7 +271,7 @@ Estimando la variación porcentual (aumento) de la presión requerida para trans
 
 Se requiere de 92.6% más de presión considerando todas las pérdidas. 
 
-Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1D.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EY3i9C5-I9VKgfo9dQvtjsgBn3AWGnIUFz6uBOTSC6pypQ?e=ARvvDi)
+Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1D.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EY3i9C5-I9VKgfo9dQvtjsgBn3AWGnIUFz6uBOTSC6pypQ?e=NgPXLV)
 
 
 ## Problema 1E - Bombas hidráulicas en sistemas a presión
@@ -288,12 +288,26 @@ Planteando la ecuación de energía se tiene que:
     $26+H_t-(0.4+0.9+1)*\frac{(\frac{Q}{\pi/4*D²})²}{2*9.81}-\frac{0.015*(325+160+260)}{D}*\frac{(\frac{Q}{\pi/4*D²})²}{2*9.81}=\frac{(\frac{Q}{\pi/4*D²})²}{2*9.81}+\frac{40*10^3}{1000*9.81}+160$
 </div>
 
+Con base en la anterior ecuación se procederá a despejar H_t para diferentes valores de caudal. Para este caso se definirán caudales desde 0.01 m³/s hasta 0.1 m³/s en intervalos de 0.005 m³/s. En la siguiente tabla se presenta la lista de caudales y los respectivos valores desoejados de Ht.
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.34.PNG" width="250px">
+</div>
+
+Representando los resultadoS en una gráfica se puede observa como a medida que se solicita mayor caudal descargado en el sistema, mayor energía de potencia se requeriría en la bomba para suplir la demanda. 
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.35.PNG" width="400px">
+</div>
+
+Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1E.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/ES9fcGZcxt5Gr-jhsWFTtLMB9PXlVvNsTSaTSqM7KX1Ivg?e=uANFdR)
+
 
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.11.09 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   4   |
+| 2022.11.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   8   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
