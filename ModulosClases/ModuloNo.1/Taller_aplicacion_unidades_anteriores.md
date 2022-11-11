@@ -172,21 +172,21 @@ Con los datos iniciales se estima la energía en la descarga o salida:
 Se plantea la ecuación de energía a la entrada del sistema, dejando como incógnita la presión P1:
 
 <div align="center"> 
-    $E_1=\frac{V^2_1}{2g}+\frac{P_1}{\gamma}+Z_1$
+    $E_1=\frac{P_1}{\gamma}+Z_1$
 </div>
 
 <div align="center"> 
-    $E_1=\frac{5.65^2}{2*9.81}+\frac{P_1}{1000*9.81}+26$
+    $E_1=\frac{P_1}{1000*9.81}+26$
 </div>
 
 Teniendo en cuenta que se asume que no existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial y la descarga. Se despeja el valor de P1:
 
 <div align="center"> 
-    $165.71=\frac{5.65^2}{2*9.81}+\frac{P_1}{1000*9.81}+26$
+    $165.71=\frac{P_1}{1000*9.81}+26$
 </div>
 
 <div align="center"> 
-    $P1=1.35 MPa$
+    $P1=1.37 MPa$
 </div>
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1C.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EV6AIZMgDxROuYosxaUgyv8Bu1wQoQOsl8StBfuDYA_dqw?e=bbz8g2)
@@ -273,6 +273,18 @@ Se requiere de 91.1% más de presión considerando todas las pérdidas.
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1D.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EY3i9C5-I9VKgfo9dQvtjsgBn3AWGnIUFz6uBOTSC6pypQ?e=ARvvDi)
 
+
+## Problema 1E - Bombas hidráulicas en sistemas a presión
+
+A partir del enunciado del problema 1D, considerando las pérdidas localizadas (ver los valores de K en la figura) y las pérdidas por fricción,determine la curva características del sistema (grafique Ht vs Q). Para este caso asuma que el tanque está abierto a la atmosféra y que en el primer tramo de tubería se ha instalado una bomba centrífuga.
+
+### Solución Problema 1E
+
+Para la determinación de la curva característica del sistema se requiere plantear la ecuación de energía en el sistema, tal como se realizó en el Problema 1E tomando como punto de partida el primer tanque y como descarga el segundo tanque. En este caso, para diferentes valores supuestos de Q, se debe despejar Ht, siendo esta la columna de energía proporcionada por la bomba. 
+
+<div align="center"> 
+    $\frac{Q^2}{2*9.81}+\frac{P_1}{1000*9.81}+26-3.75-121.59=165.71$
+</div>
 
 
 ### Control de versiones
