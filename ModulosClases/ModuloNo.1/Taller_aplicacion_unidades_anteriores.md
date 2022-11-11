@@ -282,8 +282,10 @@ A partir del enunciado del problema 1D, considerando las pérdidas localizadas (
 
 Para la determinación de la curva característica del sistema se requiere plantear la ecuación de energía en el sistema, tal como se realizó en el Problema 1E tomando como punto de partida el primer tanque y como descarga el segundo tanque. En este caso, para diferentes valores supuestos de Q, se debe despejar Ht, siendo esta la columna de energía proporcionada por la bomba. 
 
+Planteando la ecuación de energía se tiene que:
+
 <div align="center"> 
-    $\frac{Q^2}{2*9.81}+\frac{P_1}{1000*9.81}+26-3.75-121.59=165.71$
+    $26+H_t-(0.4+0.9+1)*\frac{(\frac{Q}{\pi/4*D²})²}{2*9.81}-\frac{0.015*(325+160+260)}{D}*\frac{(\frac{Q}{\pi/4*D²})²}{2*9.81}=\frac{(\frac{Q}{\pi/4*D²})²}{2*9.81}+\frac{40*10^3}{1000*9.81}+160$
 </div>
 
 
