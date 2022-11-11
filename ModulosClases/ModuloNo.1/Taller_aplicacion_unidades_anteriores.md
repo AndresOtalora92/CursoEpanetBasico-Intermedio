@@ -302,6 +302,13 @@ Representando los resultadoS en una gráfica se puede observa como a medida que 
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1E.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/ES9fcGZcxt5Gr-jhsWFTtLMB9PXlVvNsTSaTSqM7KX1Ivg?e=uANFdR)
 
+## Problema 1F - Redes abiertas y redes cerradas
+
+Un sistema de tuberías abiertas con flujo a presión está conformado por dos tanques que alimentan un tercero, tal como se observa en la siguiente gráfica. Si se conocen los niveles de agua en los tanques y la cota del nodo, determine los caudales que circulan por las tres tuberías y la presión en el nodo. 
+
+### Solución Problema 1F
+
+Tal como describió en la actividad de redes abiertas y cerradas, es necesario plantear las ecuaciones de c
 
 ### Control de versiones
 
