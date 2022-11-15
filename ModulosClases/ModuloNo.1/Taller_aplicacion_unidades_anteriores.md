@@ -357,6 +357,8 @@ $Q_3=$ <br>
 $P_a=$ <br>
 </div>
 
+Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1E.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/ES9fcGZcxt5Gr-jhsWFTtLMB9PXlVvNsTSaTSqM7KX1Ivg?e=uANFdR)
+
 
 
 ### Control de versiones
