@@ -184,5 +184,9 @@ $Z_1-\sum_{}^{}\Delta h_{f_{1-a}}=\frac{V^{2}_a}{2g}+Z_a+\frac{P_a}{\gamma}$
 </div>
 
 <div align="center"> 
-$Z_a+\frac{P_a}{\gamma}+\frac{V^{2}_a}{2g}-\sum_{}^{}\Delta h_{f_{1-a}}=Z_3$
+$Z_a+\frac{P_a}{\gamma}+\frac{V^{2}_a}{2g}-\sum_{}^{}\Delta h_{f_{a-3}}=Z_3$
+</div>
+
+<div align="center"> 
+$\sum_{i=1}^{n}Q_i=0$
 </div>

@@ -306,13 +306,24 @@ Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica,
 
 Un sistema de tuberías abiertas con flujo a presión está conformado por dos tanques que alimentan un tercero, tal como se observa en la siguiente gráfica. Si se conocen los niveles de agua en los tanques y la cota del nodo, determine los caudales que circulan por las tres tuberías y la presión en el nodo. Asuma que no existe pérdidas por accesorios. Tenga en cuenta las pérdidas por fricción en cada tubería. 
 
+
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.1.36.PNG" width="400px">
+</div>
+
 Las características de las tuberías son las siguientes:
 
+
+<div align="center">
+ 
 | Tramo | Diámetro (m) | Longitud (m) |   F   |
 |-------|:-------------|--------------|:-----:|
 | L_1-a | 0.40         | 1500         | 0.015 |
 | L_2-a | 0.60         | 1600         | 0.017 |
 | L_a-3 | 0.80         | 2500         | 0.013 |
+
+</div>
 
 ### Solución Problema 1F
 
@@ -329,8 +340,23 @@ Para resolver este sistema se debe plantear la ley de conservación de la masa y
 </div>
 
 <div align="center">
-  <img src="ecuaciones/Ecuacion49.PNG" width="200px">
+  <img src="ecuaciones/Ecuacion49.PNG" width="300px">
 </div>
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion50.PNG" width="130px">
+</div>
+
+Solucionando el sistema de ecuaciones, se tiene que:
+
+
+<div align="center">
+$Q_1=$ <br>
+$Q_2=$ <br>
+$Q_3=$ <br>
+$P_a=$ <br>
+</div>
+
 
 
 ### Control de versiones
