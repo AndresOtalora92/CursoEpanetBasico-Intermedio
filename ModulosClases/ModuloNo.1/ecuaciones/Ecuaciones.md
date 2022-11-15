@@ -178,3 +178,11 @@ $\Delta Q= \frac{\sum_{i=1}^{n}(a_i*Q^{N-1}_i*\left|Q_i \right|)}{N*\sum_{i=1}^{
 <div align="center"> 
 $\Delta H_i=-N*(\frac{Q_i+\sum_{i=1}^{n}Q_i}{\sum_{i=1}^{n}(Q_i/h_i)})$
 </div>
+
+<div align="center"> 
+$Z_1-\sum_{}^{}\Delta h_{f_{1-a}}=\frac{V^{2}_a}{2g}+Z_a+\frac{P_a}{\gamma}$
+</div>
+
+<div align="center"> 
+$Z_a+\frac{P_a}{\gamma}+\frac{V^{2}_a}{2g}-\sum_{}^{}\Delta h_{f_{1-a}}=Z_3$
+</div>

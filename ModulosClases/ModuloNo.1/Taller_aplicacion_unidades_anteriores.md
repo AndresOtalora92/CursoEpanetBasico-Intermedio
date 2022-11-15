@@ -304,17 +304,40 @@ Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica,
 
 ## Problema 1F - Redes abiertas y redes cerradas
 
-Un sistema de tuberías abiertas con flujo a presión está conformado por dos tanques que alimentan un tercero, tal como se observa en la siguiente gráfica. Si se conocen los niveles de agua en los tanques y la cota del nodo, determine los caudales que circulan por las tres tuberías y la presión en el nodo. 
+Un sistema de tuberías abiertas con flujo a presión está conformado por dos tanques que alimentan un tercero, tal como se observa en la siguiente gráfica. Si se conocen los niveles de agua en los tanques y la cota del nodo, determine los caudales que circulan por las tres tuberías y la presión en el nodo. Asuma que no existe pérdidas por accesorios. Tenga en cuenta las pérdidas por fricción en cada tubería. 
+
+Las características de las tuberías son las siguientes:
+
+| Tramo | Diámetro (m) | Longitud (m) |   F   |
+|-------|:-------------|--------------|:-----:|
+| L_1-a | 0.40         | 1500         | 0.015 |
+| L_2-a | 0.60         | 1600         | 0.017 |
+| L_a-3 | 0.80         | 2500         | 0.013 |
 
 ### Solución Problema 1F
 
-Tal como describió en la actividad de redes abiertas y cerradas, es necesario plantear las ecuaciones de c
+Tal como describió en la actividad de redes abiertas y cerradas, es necesario plantear las ecuaciones que definen el problema. En este caso particular se tienen tres incógnitas que corresponden a los caudales que fluyen por los tres tramos de tuberías. La incógnita adicional corresponde a la columna de presión en nodo A. 
+
+Para resolver este sistema se debe plantear la ley de conservación de la masa y las ecuaciones de Bernoullí entre los tanques 1 y 2 al punto A y desde el punto A al tanque 3, considerando las pérdidas por fricción así:
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion47.PNG" width="300px">
+</div>
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion48.PNG" width="300px">
+</div>
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion49.PNG" width="200px">
+</div>
+
 
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.11.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   8   |
+| 2022.11.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   9   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
