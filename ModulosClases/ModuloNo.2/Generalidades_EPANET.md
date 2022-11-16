@@ -12,7 +12,7 @@
 Keywords: `EPANET` `Ventanas` `Software` `herramientas`
 
 
-# EPANET. Historia 
+## EPANET. Historia 
 
 EPANET es un software de modelación hidráulica que permite desarrollar proyectos de sistemas con flujo a presión. 
 
@@ -32,4 +32,27 @@ geometría, la inclusión de información y los análisis simultáneos para dist
 
 La versión original del programa fue desarrollada en inglés pero su código fuente ha sido modificada y traducida al español por varias instituciones.
 
-### Link de descarga del software: https://epanet.es/descargas/epanet2-es/ 
+## Link de descarga del software
+
+En el siguiente link podrán descargar de manera gratuita el software de EPANET en su última versión en inglés V2.2
+
+[LINK DE DESCARGA](https://www.epa.gov/sciencematters/epanet-220-epa-and-water-community-collaboration)
+
+En el siguiente link podrán descargar de manera gratuita el software de EPANET en su última versión en español V2.0
+
+[LINK DE DESCARGA](https://epanet.es/descargas/)
+
+
+### Control de versiones
+
+| Versión    | Descripción   | Autor                                      | Horas |
+|------------|:--------------|--------------------------------------------|:-----:|
+| 2022.16.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
+
+_CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
+
+_¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
+
+
+| [Anterior](../ModuloNo.2/Generalidades_EPANET.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente] |
+|----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------|
