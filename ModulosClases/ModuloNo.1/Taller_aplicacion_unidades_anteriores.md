@@ -309,7 +309,7 @@ Un sistema de tuberías abiertas con flujo a presión está conformado por dos t
 
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.1.36.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.1.36.PNG" width="500px">
 </div>
 
 Las características de las tuberías son las siguientes:
@@ -319,9 +319,9 @@ Las características de las tuberías son las siguientes:
  
 | Tramo | Diámetro (m) | Longitud (m) |   F   |
 |-------|:-------------|--------------|:-----:|
-| L_1-a | 0.40         | 1500         | 0.015 |
-| L_2-a | 0.60         | 1600         | 0.017 |
-| L_a-3 | 0.80         | 2500         | 0.013 |
+| L_1-a | 0.20         | 1500         | 0.015 |
+| L_2-a | 0.25         | 1600         | 0.017 |
+| L_a-3 | 0.40         | 2500         | 0.013 |
 
 </div>
 
@@ -351,10 +351,10 @@ Solucionando el sistema de ecuaciones, se tiene que:
 
 
 <div align="center">
-$Q_1=$ <br>
-$Q_2=$ <br>
-$Q_3=$ <br>
-$P_a=$ <br>
+$Q_1=0.0798 m³/s $ <br>
+$Q_2=0.1429 m³/s $ <br>
+$Q_3=0.2227 m³/s $ <br>
+$P_a=-93739.3 Pa $ <br>
 </div>
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1E.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/ES9fcGZcxt5Gr-jhsWFTtLMB9PXlVvNsTSaTSqM7KX1Ivg?e=uANFdR)
