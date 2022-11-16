@@ -14,31 +14,22 @@ Keywords: `EPANET` `Ventanas` `Software` `herramientas`
 
 # EPANET. Historia 
 
-EPANET es un software de modelación hidráulica de sistemas a presión. Corresponde a un programa de dominio
-público, desarrollado por la Agencia de Protección Ambiental de Estados Unidos y difundido ampliamente en 
-el mundo para el desarrollo de actividades de consultoría, investigación aplicada, investigación teórica y
-como software de gestión para todo tipo de programas de tuberías presurizadas.Si bien fue diseñado para 
-el análisis de sistemas con agua potable, también puede ser utilizado para el análisis de cualquier 
-fluido no compresible con flujo a presión.
+EPANET es un software de modelación hidráulica que permite desarrollar proyectos de sistemas con flujo a presión. 
 
-La primera versión de EPANET fue lanzada en 1993 y posteriormente se lanzó EPANET 2, versión que dispone
-de código libre en lenguaje C. 
+Es un programa de dominio público desarrollado por la Agencia de Protección Ambiental de Estados Unidos (EPA por sus siglas en inglés) y difundido ampliamente en el mundo para el desarrollo de actividades de consultoría, investigación aplicada, investigación teórica y como software de gestión.
 
-El software permite realizar análisis hidráulicos en sistemas de tuberías presurizadas a partir de las 
-características físicas de las tuberías (longitud, material, coeficiente de rugosidad, diámetro) y la 
-dinámica de los nodos, los cuales puede incluir demandas de caudales (demanda constante o demanda variable).
+Si bien fue diseñado para el análisis de sistemas con agua potable, también puede ser utilizado para el análisis de cualquier fluido no compresible con flujo a presión.
 
-El software permite integrar, además de las redes de tuberías y nodos, tanques de alimentación, sistemas
-de bombeos y accesorios tipo válvulas a partir de la inclusión de coeficentes de pérdidas localizadas. 
+La primera versión de EPANET fue lanzada en 1993. Posteriormente, se lanzó EPANET 2, versión que dispone de código libre en lenguaje C. 
 
-Con el desarrollo de las herramientas computacionales, diseñadores y programadores de todo el mundo han
-elaborado distintas aplicaciones compatibles con el software original, permitiendo una interacción entre
-otros programas tales como: AutoCAD, QGis, ArcGis, SWMM, Python, R, entre otros. Esta interacción de 
-software ha permitido aumentar el volumen de procesamiento, acortando los procesos de construccion de la
-geometría, la inclusión de información y los análisis simultaneos para distintos escenarios. 
+El software permite realizar análisis hidráulicos en sistemas de tuberías presurizadas a partir de las características físicas de las tuberías longitud, material, coeficiente de rugosidad, diámetro) y las de los fluidos (densidad y viscosidad). Es un programa que solucionan las ecuaciones que se generan a la hora de determinar el flujo en una red abierta o cerrada.
 
-La versión original del programa fue desarrollada en inglés por la EPA y ha sido traducida al español por 
-varias instituciones. En España y Latinoamérica una de las de mayor difusión es la desarrollada por la 
-Universidad Politécnica de Valencia.
+El software permite integrar, además de las redes de tuberías y nodos, tanques de alimentación, sistemas de bombeos y accesorios a partir de la inclusión de coeficientes de pérdidas localizadas. 
+
+Con el desarrollo de las herramientas computacionales, diseñadores y programadores de todo el mundo han elaborado distintas aplicaciones compatibles con el software original, permitiendo una interacción entre
+otros programas tales como: AutoCAD, QGis, ArcGis, SWMM, Python, R, entre otros. Esta interacción de software ha permitido aumentar el número de procesamientos, acortando los procesos de construcción de la
+geometría, la inclusión de información y los análisis simultáneos para distintos escenarios. 
+
+La versión original del programa fue desarrollada en inglés pero su código fuente ha sido modificada y traducida al español por varias instituciones.
 
 ### Link de descarga del software: https://epanet.es/descargas/epanet2-es/ 
