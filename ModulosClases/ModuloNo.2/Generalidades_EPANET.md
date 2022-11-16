@@ -48,6 +48,66 @@ En el siguiente link podrán descargar de manera gratuita el software de EPANET 
   <img src="Imagenes/FiguraNo.2.1.PNG" width="500px">
 </div>
 
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.2.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.3.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.4.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.5.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.6.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.7.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.8.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.9.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.10.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.11.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.12.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.13.PNG" width="400px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.14.PNG" width="400px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.15.PNG" width="500px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.16.PNG" width="500px">
+</div>
+
 
 ### Control de versiones
 
