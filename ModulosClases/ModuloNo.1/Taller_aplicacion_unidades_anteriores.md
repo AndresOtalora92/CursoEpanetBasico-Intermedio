@@ -351,10 +351,10 @@ Solucionando el sistema de ecuaciones, se tiene que:
 
 
 <div align="center">
-$Q_1=0.0798 m³/s $ <br>
-$Q_2=0.1429 m³/s $ <br>
-$Q_3=0.2227 m³/s $ <br>
-$P_a=-93739.3 Pa $ <br>
+$Q_1=0.0798 m³/s$ <br>
+$Q_2=0.1429 m³/s$ <br>
+$Q_3=0.2227 m³/s$ <br>
+$P_a=-93739.3 Pa$ <br>
 </div>
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1F.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/Eaz4KFZ_XFhCsdI596ezJPoBueZlp3ZXOb2AudkcGiWdKQ?e=bxRbcW)
