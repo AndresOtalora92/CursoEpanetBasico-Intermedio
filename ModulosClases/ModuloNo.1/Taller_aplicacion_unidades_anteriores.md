@@ -365,7 +365,7 @@ Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica,
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.11.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   9   |
+| 2022.16.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   9   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
