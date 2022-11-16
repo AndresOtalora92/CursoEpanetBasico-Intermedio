@@ -276,7 +276,7 @@ Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica,
 
 ## Problema 1E - Bombas hidráulicas en sistemas a presión
 
-A partir del enunciado del problema 1D, considerando las pérdidas localizadas (ver los valores de K en la figura) y las pérdidas por fricción,determine la curva características del sistema (grafique Ht vs Q). Para este caso asuma que el tanque está abierto a la atmosféra y que en el primer tramo de tubería se ha instalado una bomba centrífuga.
+A partir del enunciado del problema 1D, considerando las pérdidas localizadas (ver los valores de K en la figura) y las pérdidas por fricción, determine la curva característica del sistema (grafique Ht vs Q). Para este caso asuma que el tanque está abierto a la atmosférica y que en el primer tramo de tubería se ha instalado una bomba centrífuga.
 
 ### Solución Problema 1E
 

@@ -42,6 +42,12 @@ En el siguiente link podrán descargar de manera gratuita el software de EPANET 
 
 [LINK DE DESCARGA](https://epanet.es/descargas/)
 
+## Herramientas, menús y botones del software EPANET
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.1.PNG" width="500px">
+</div>
+
 
 ### Control de versiones
 
