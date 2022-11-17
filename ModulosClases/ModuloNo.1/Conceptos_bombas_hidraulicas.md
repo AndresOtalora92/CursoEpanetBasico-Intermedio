@@ -70,7 +70,7 @@ La potencia útil o potencia real de la bomba corresponde a la energía suminist
 
 Donde,
 
-$/gamma$, corresponde al peso específico del agua
+$\gamma$, corresponde al peso específico del agua
 Q,        corresponde al caudal que circula por la tubería
 $H_p$,    corresponde a la energía suministrada por la bomba
 
@@ -88,7 +88,7 @@ $/omega$, corresponde a la velocidad angular de rotación del eje.
 
 ## Potencial eléctrica de una máquina hidráulica
 
-Actualmente, casi todos los sistemas mecánicos son alimentados por energía eléctrica, la cual, debido al cableado, los accesorios y los isntrumentos, pierde energía antes de convertirse en energía mecánica. 
+Actualmente, casi todos los sistemas mecánicos son alimentados por energía eléctrica, la cual, debido al cableado, los accesorios y los  instrumentos, pierde energía antes de convertirse en energía mecánica. 
 
 La potencia eléctrica, en términos generales, puede escribir como:
 
