@@ -270,8 +270,8 @@ Como se puede observar cuando se tienen en cuenta todas las pérdidas de energí
 
 Estimando la variación porcentual (aumento) de la presión requerida para transportar el mismo caudal se tiene que:
 
-<div align="center"> 
-    $Variación=\frac{2.60-1.35}{1.35}*100=92.6$
+<div align="center">
+  <img src="ecuaciones/Ecuacion85.PNG" width="300px">
 </div>
 
 Se requiere de 92.6% más de presión considerando todas las pérdidas. 
