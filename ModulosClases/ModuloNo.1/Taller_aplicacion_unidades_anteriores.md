@@ -29,6 +29,7 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
 #### a) Para la determinación de los demás numerales es necesario conocer la densidad y la viscosidad del agua a 20°C. Revisando las tablas se tiene que:
 
 $\rho$
+$\rho=998.0 \frac{Kg}{m^3}$
 
 <div align="center">
   $\rho=998.0 \frac{Kg}{m^3}$
