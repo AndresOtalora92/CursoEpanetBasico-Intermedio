@@ -105,7 +105,7 @@ V, corresponde al voltaje de la corriente
 
 Tal como se mencionó, en una máquina hidráulica existe una transformación de energías que conlleva a una transformación de potencias que inicia desde la potencial eléctrica, pasando por potencia mecánica hasta finalmente convertirse en potencia hidráulica. 
 
-La transformación de la energía y por tanto la transformación de la potencia necesariamente implica una pérdida de energía. La relación entre el tipo de energía inicial y la energía final es denominada eficiencia $\eta$.
+La transformación de la energía y por tanto, la transformación de la potencia necesariamente implica una pérdida de energía. La relación entre el tipo de energía inicial y la energía final es denominada eficiencia $\eta$.
 
 Es posible estimar la eficiencia eléctrica, al relacionar la potencia mecánica con la potencia eléctrica. La relación se denota como:
 
