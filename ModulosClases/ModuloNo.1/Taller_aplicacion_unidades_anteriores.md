@@ -24,7 +24,7 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
 
 **d)** El esfuerzo cortante total que el flujo le genera a la tubería.
 
-### Solución Problema 1A
+### Solución Problema 1A.
 
 #### a) Para la determinación de los demás numerales es necesario conocer la densidad y la viscosidad del agua a 20°C. Revisando las tablas se tiene que:
 
