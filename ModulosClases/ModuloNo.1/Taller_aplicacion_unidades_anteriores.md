@@ -32,7 +32,7 @@ $\rho$
 <br>
 $\rho=998.0 \frac{Kg}{m^3}$
 <br>
-$\mu=1.003*10^{-3}\frac{kg}{m*s}$
+$\mu$
 
 <br>
 
