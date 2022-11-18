@@ -289,8 +289,8 @@ Para la determinación de la curva característica del sistema se requiere plant
 
 Planteando la ecuación de energía se tiene que:
 
-<div align="center"> 
-    $26+H_t-(0.4+0.9+1)*\frac{(\frac{Q}{\pi/4*D²})²}{2*9.81}-\frac{0.015*(325+160+260)}{D}*\frac{(\frac{Q}{\pi/4*D²})²}{2*9.81}=\frac{(\frac{Q}{\pi/4*D²})²}{2*9.81}+\frac{40*10^3}{1000*9.81}+160$
+<div align="center">
+  <img src="ecuaciones/Ecuacion90.PNG" width="500px">
 </div>
 
 Con base en la anterior ecuación se procederá a despejar H_t para diferentes valores de caudal. Para este caso se definirán caudales desde 0.01 m³/s hasta 0.1 m³/s en intervalos de 0.005 m³/s. En la siguiente tabla se presenta la lista de caudales y los respectivos valores desoejados de Ht.
@@ -356,11 +356,21 @@ Solucionando el sistema de ecuaciones, se tiene que:
 
 
 <div align="center">
-$Q_1=0.0798 m³/s$ <br>
-$Q_2=0.1429 m³/s$ <br>
-$Q_3=0.2227 m³/s$ <br>
-$P_a=-93739.3 Pa$ <br>
+  <img src="ecuaciones/Ecuacion86.PNG" width="200px">
 </div>
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion87.PNG" width="200px">
+</div>
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion88.PNG" width="200px">
+</div>
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion89.PNG" width="200px">
+</div>
+
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1F.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/Eaz4KFZ_XFhCsdI596ezJPoBueZlp3ZXOb2AudkcGiWdKQ?e=bxRbcW)
 
