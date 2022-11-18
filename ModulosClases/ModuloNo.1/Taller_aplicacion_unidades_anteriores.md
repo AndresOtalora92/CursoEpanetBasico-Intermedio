@@ -244,24 +244,26 @@ Se plantea la ecuación de energía a la entrada del sistema, dejando como incó
 
 Con los datos iniciales se estiman las pérdidas localizadas en el sistema:
 
-<div align="center"> 
-    $h_k=(0.4+0.9+1)*\frac{5.65^2}{2g}=3.75 m$
+<div align="center">
+  <img src="ecuaciones/Ecuacion81.PNG" width="250px">
 </div>
+
 
 Con los datos iniciales se estiman las pérdidas por fricción en el sistema:
 
-<div align="center"> 
-    $h_f=\frac{0.015*(325+160+260)}{D}*\frac{5.65^2}{2g}=121.59 m$
+<div align="center">
+  <img src="ecuaciones/Ecuacion82.PNG" width="300px">
 </div>
+
 
 Teniendo en cuenta que existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial menos todas las pérdidas de energía con la energía en la descarga. Se despeja el valor de P1:
 
-<div align="center"> 
-    $\frac{P_1}{1000*9.81}+26-3.75-121.59=165.71$
+<div align="center">
+  <img src="ecuaciones/Ecuacion83.PNG" width="300px">
 </div>
 
-<div align="center"> 
-    $P1=2.60 MPa$
+<div align="center">
+  <img src="ecuaciones/Ecuacion84.PNG" width="100px">
 </div>
 
 Como se puede observar cuando se tienen en cuenta todas las pérdidas de energía es necesario una mayor presión para lograr el mismo caudal. 
