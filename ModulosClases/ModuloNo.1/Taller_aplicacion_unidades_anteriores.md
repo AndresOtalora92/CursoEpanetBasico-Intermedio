@@ -30,14 +30,10 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
 
 $\rho$
 $\rho=998.0 \frac{Kg}{m^3}$
+$\mu=1.003*10^{-3}\frac{kg}{m*s}$
 
 <div align="center">
-  $\rho=998.0 \frac{Kg}{m^3}$
-$\rho=998.0 \frac{Kg}{m^3}$
-</div>
-
-<div align="center">
-  $\mu=1.003*10^{-3}\frac{kg}{m*s}$
+$\mu=1.003*10^{-3}\frac{kg}{m*s}$
 </div>
 
 Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a lo sumo sea 2000 (condición máxima de flujo laminar), es posible despejar la velocidad media del flujo así:
