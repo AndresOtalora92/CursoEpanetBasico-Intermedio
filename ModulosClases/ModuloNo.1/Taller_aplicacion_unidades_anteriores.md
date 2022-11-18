@@ -121,17 +121,18 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
 
 Con estos valores y conocida la ecuación de Hagen-Poiseuille se tiene que:
 
-<div align="center"> 
-    $Q = \frac{\pi*g*D^4*\Delta(P/\gamma)}{128*\vartheta*L}$
-</div>
-
-<div align="center"> 
-    $Q=\frac{\pi*9.81*0.2^4*(800/(9.81*998))}{128*(1.003*10^{-3}/998)*100}$
+<div align="center">
+  <img src="ecuaciones/Ecuacion64.PNG" width="170px">
 </div>
 
 <div align="center">
-  $Q=0.313 m³/s$
+  <img src="ecuaciones/Ecuacion65.PNG" width="250px">
 </div>
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion66.PNG" width="150px">
+</div>
+
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1B.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/Efjvnstj7zRHjOoCda73zpsBtqWUZoA0dWBB_7rXbeu_3A?e=8yewk7)
 
@@ -154,38 +155,38 @@ Ejercicio 9.35 Mecánica de Fluidos. Un sistema hidráulico compuesto por dos ta
 
 Con base en el caudal, se determina la velocidad media del flujo, velocidad que es constante en todos los tramos de las tuberías:
 
-<div align="center"> 
-    $V = \frac{Q}{\pi/4*D0^2}$
+<div align="center">
+  <img src="ecuaciones/Ecuacion67.PNG" width="150px">
 </div>
 
-<div align="center"> 
-    $V = \frac{100/1000}{\pi/4*0.150^2}=5.65 m/s$
+<div align="center">
+  <img src="ecuaciones/Ecuacion68.PNG" width="250px">
 </div>
 
 Con los datos iniciales se estima la energía en la descarga o salida:
 
-<div align="center"> 
-    $E_2=\frac{V^2_2}{2g}+\frac{P_2}{\gamma}+Z_2$
+<div align="center">
+  <img src="ecuaciones/Ecuacion69.PNG" width="200px">
 </div>
 
-<div align="center"> 
-    $E_2=\frac{5.65^2}{2*9.81}+\frac{40*10^3}{1000*9.81}+160=165.71 m$
+<div align="center">
+  <img src="ecuaciones/Ecuacion70.PNG" width="350px">
 </div>
 
 Se plantea la ecuación de energía a la entrada del sistema, dejando como incógnita la presión P1:
 
-<div align="center"> 
-    $E_1=\frac{P_1}{\gamma}+Z_1$
+<div align="center">
+  <img src="ecuaciones/Ecuacion71.PNG" width="150px">
 </div>
 
-<div align="center"> 
-    $E_1=\frac{P_1}{1000*9.81}+26$
+<div align="center">
+  <img src="ecuaciones/Ecuacion72.PNG" width="200px">
 </div>
 
 Teniendo en cuenta que se asume que no existen pérdidas en el sistema, se procede a igualar la energía entre el punto inicial y la descarga. Se despeja el valor de P1:
 
-<div align="center"> 
-    $165.71=\frac{P_1}{1000*9.81}+26$
+<div align="center">
+  <img src="ecuaciones/Ecuacion73.PNG" width="200px">
 </div>
 
 <div align="center"> 
