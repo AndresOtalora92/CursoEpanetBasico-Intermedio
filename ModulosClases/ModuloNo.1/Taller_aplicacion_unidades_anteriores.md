@@ -290,7 +290,7 @@ Para la determinación de la curva característica del sistema se requiere plant
 Planteando la ecuación de energía se tiene que:
 
 <div align="center">
-  <img src="ecuaciones/Ecuacion90.PNG" width="500px">
+  <img src="ecuaciones/Ecuacion90.PNG" width="700px">
 </div>
 
 Con base en la anterior ecuación se procederá a despejar H_t para diferentes valores de caudal. Para este caso se definirán caudales desde 0.01 m³/s hasta 0.1 m³/s en intervalos de 0.005 m³/s. En la siguiente tabla se presenta la lista de caudales y los respectivos valores desoejados de Ht.
