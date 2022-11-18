@@ -28,24 +28,24 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
 
 #### a) Para la determinación de los demás numerales es necesario conocer la densidad y la viscosidad del agua a 20°C. Revisando las tablas se tiene que:
 
-$\rho=998.0 \frac{Kg}{m^3}$
+<div align="center">
+  <img src="ecuaciones/Ecuacion51.PNG" width="150px">
+</div>
 
-$\mu=1.003*10^{-3} \frac{kg}{m*s}$
-
-<br>
 
 <div align="center">
-$\mu=1.003*10^{-3}\frac{kg}{m*s}$
+  <img src="ecuaciones/Ecuacion52.PNG" width="200px">
 </div>
+
 
 Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a lo sumo sea 2000 (condición máxima de flujo laminar), es posible despejar la velocidad media del flujo así:
 
 <div align="center">
-  $Re=\frac{\rho*V*D}{\mu}$
+  <img src="ecuaciones/Ecuacion53.PNG" width="150px">
 </div>
 
 <div align="center">
-  $2000=\frac{998*V*(2*0.10)}{1.003*10^{-3}}$
+  <img src="ecuaciones/Ecuacion54.PNG" width="250px">
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 #### b) A partir de la velocidad media y utilizando el concepto de caudal se tiene que:
 
 <div align="center">
-  $Q = V*(\frac{\pi}{4}*D^2)$
+  <img src="ecuaciones/Ecuacion55.PNG" width="150px">
 </div>
 
 <div align="center">
@@ -67,7 +67,7 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 #### c) Conocida la longitud y la diferencia de presión entre los puntos extremos se tiene que:
 
 <div align="center">
-  $Gradiente =\frac{\Delta P}{L}$
+  <img src="ecuaciones/Ecuacion56.PNG" width="150px">
 </div>
 
 <div align="center">
@@ -78,23 +78,23 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 #### d) A partir del gradiente hidráulico y asumiendo que es igual a la pendiente de la línea de energía (Sf) es posible estimar el esfuerzo cortante así:
 
 <div align="center">
-  $\tau=\gamma*R*S_f$
+  <img src="ecuaciones/Ecuacion57.PNG" width="150px">
 </div>
 
 <div align="center">
-  $\tau=\rho*g*R*S_f$
+  <img src="ecuaciones/Ecuacion58.PNG" width="200px">
 </div>
 
 <div align="center">
-  $\tau=\rho*g*A/P*S_f$
+  <img src="ecuaciones/Ecuacion59.PNG" width="200px">
 </div>
 
 <div align="center">
-  $\tau=998*9.81*0.0314/0.628*100$
+  <img src="ecuaciones/Ecuacion60.PNG" width="200px">
 </div>
 
 <div align="center">
-  $\tau=48951.9 Pa$
+  <img src="ecuaciones/Ecuacion61.PNG" width="120px">
 </div>
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1A.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EaT58Xbtpd9Og6eR72h8eBMBTGkl9Qn3bXSop4VVugQi5w?e=LkGyPO)
@@ -110,12 +110,13 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
 
 #### a) Tal como se realizó en el numeral anterior los valores de la densidad y la viscosidad del fluido a 20°C:
 
+
 <div align="center">
-  $\rho=998.0 \frac{Kg}{m^3}$
+  <img src="ecuaciones/Ecuacion62.PNG" width="120px">
 </div>
 
 <div align="center">
-  $\mu=1.003*10^{-3}\frac{kg}{m*s}$
+  <img src="ecuaciones/Ecuacion63.PNG" width="160px">
 </div>
 
 Con estos valores y conocida la ecuación de Hagen-Poiseuille se tiene que:
