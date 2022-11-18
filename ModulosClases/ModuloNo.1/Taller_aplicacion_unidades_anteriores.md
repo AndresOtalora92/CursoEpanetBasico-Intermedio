@@ -30,7 +30,6 @@ Una tubería circular de 10 cm de radio con flujo a presión transporta agua a 2
 
 $\rho=998.0 \frac{Kg}{m^3}$
 
-
 $\mu=1.003*10^{-3} \frac{kg}{m*s}$
 
 <br>
