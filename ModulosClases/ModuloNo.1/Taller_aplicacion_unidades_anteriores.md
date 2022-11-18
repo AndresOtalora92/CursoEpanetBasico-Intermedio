@@ -189,13 +189,11 @@ Teniendo en cuenta que se asume que no existen pérdidas en el sistema, se proce
   <img src="ecuaciones/Ecuacion73.PNG" width="200px">
 </div>
 
-<div align="center"> 
-    $P1=1.37 MPa$
+<div align="center">
+  <img src="ecuaciones/Ecuacion74.PNG" width="150px">
 </div>
 
 Este ejercicio también se encuentra resuelto en código de Wolfram Mathematica, código que puede ser descargado en el [link de descarga](Soluciones/Solucion1C.nb) o directamente el archivo en el siguiente [link de descarga](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:u:/g/personal/andres_otalora_escuelaing_edu_co/EV6AIZMgDxROuYosxaUgyv8Bu1wQoQOsl8StBfuDYA_dqw?e=bbz8g2)
-
-
 
 ## Problema 1D - Pérdidas de energía.
 
@@ -215,33 +213,34 @@ Desarrolle el problema 1C considerando las pérdidas localizadas (ver los valore
 
 Con base en el caudal, se determina la velocidad media del flujo, velocidad que es constante en todos los tramos de las tuberías:
 
-<div align="center"> 
-    $V = \frac{Q}{\pi/4*D0^2}$
+<div align="center">
+  <img src="ecuaciones/Ecuacion75.PNG" width="150px">
 </div>
 
-<div align="center"> 
-    $V = \frac{100/1000}{\pi/4*0.150^2}=5.65 m/s$
+<div align="center">
+  <img src="ecuaciones/Ecuacion76.PNG" width="210px">
 </div>
 
 Con los datos iniciales se estima la energía en la descarga o salida:
 
-<div align="center"> 
-    $E_2=\frac{V^2_2}{2g}+\frac{P_2}{\gamma}+Z_2$
+<div align="center">
+  <img src="ecuaciones/Ecuacion77.PNG" width="210px">
 </div>
 
-<div align="center"> 
-    $E_2=\frac{5.65^2}{2*9.81}+\frac{40*10^3}{1000*9.81}+160=165.71 m$
+<div align="center">
+  <img src="ecuaciones/Ecuacion78.PNG" width="310px">
 </div>
 
 Se plantea la ecuación de energía a la entrada del sistema, dejando como incógnita la presión P1:
 
-<div align="center"> 
-    $E_1=\frac{P_1}{\gamma}+Z_1$
+<div align="center">
+  <img src="ecuaciones/Ecuacion79.PNG" width="150px">
 </div>
 
-<div align="center"> 
-    $E_1=\frac{P_1}{1000*9.81}+26$
+<div align="center">
+  <img src="ecuaciones/Ecuacion80.PNG" width="200px">
 </div>
+
 
 Con los datos iniciales se estiman las pérdidas localizadas en el sistema:
 
