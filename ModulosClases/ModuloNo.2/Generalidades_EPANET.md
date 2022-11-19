@@ -44,9 +44,29 @@ En el siguiente link podrán descargar de manera gratuita el software de EPANET 
 
 ## Herramientas, menús y botones del software EPANET
 
+Al ejecutar el software, la primera ventana que el usuario ve corresponde a la ventana principal del programa, la cual integra las barras de menús, las principales herramientas de cálculo y dibujo, las leyendas y la barra para la representación gráfica (visor).
+
+A continuación se describen los principales espacios que conforman la ventana principal del software en su versión 2.2 y posteriormente se describe cada uno de los componentes principales de los menus. 
+
+### Barra de herramientas.
+
+En la siguiente figura se presentan resaltados los elementos de la ventana principal de trabajo. 
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.1.PNG" width="500px">
 </div>
+
+**1)** Barra de Menus
+
+**2)** Barra de Herramientas Estandar
+
+**3)** Barra de Menus
+
+**4)** Barra de Menus
+
+**5)** Barra de Menus
+
+**6)** Barra de Menus
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.2.PNG" width="500px">
