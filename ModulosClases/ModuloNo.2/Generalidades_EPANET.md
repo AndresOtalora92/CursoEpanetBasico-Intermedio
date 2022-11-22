@@ -187,14 +187,21 @@ _1. Apagar y encender leyendas en Nodos y líneas:_ Permite apagar y encender la
 _2. Modificar la visualización de las leyendas Nudos y líneas:_ Permite configurar la paleta de colores de la barra de leyenda. Es posible modificar los valores medios y extremos que definen el espectro de los resultados. <br>
 
 
+_____________________________________________________________________________________
+
+**6) Barra de herramientas:** Tal como se aprecia en la siguiente imagen, esta herramienta permite "apagar" y "encender" las barras de herramientas "Estándar" y "Esquema"
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.8.PNG" width="500px">
 </div>
 
+**6) Opciones de esquema:** Esta herramienta permite modificar las características de la presentación de los nodos, líneas, rótulos, etiquetas, símbolos, fechas y del fondo. En la siguiente imagen se muestran las opciones mencionadas las cuales se despliegan al abrir esta herramienta:
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.9.PNG" width="500px">
 </div>
+
+**Nota:** La barra de "Opciones de esquema" también puede ser desplegada dando clic derecho del mouse en cualquier zona de la ventana de trabajo.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.10.PNG" width="500px">
