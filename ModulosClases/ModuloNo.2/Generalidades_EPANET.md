@@ -142,7 +142,17 @@ En la siguiente figura se presentan resaltados las herramientas que hacen parte 
   <img src="Imagenes/FiguraNo.2.4.PNG" width="500px">
 </div>
 
-**1) Editar Grupo:** Permite editar las características generales de un grupo de elementos, como por ejemplo la rugosidad de diferentes tramos de tuberías o ajustar la altura de diferentes nodos .<br>
+**1) Dimensiones:** Permite modificar las dimensiones del área de trabajo con referencia al vértice inferior izquierdo y al vértice superior derecho. También permite modificar las unidades de las dimensiones del área de trabajo: "Pies", "metros", "grados" y "ninguna".<br>
+
+**2) Mapa de Fondo:** Permite importar imágenes de fondo con formato tipo ".bmp", ".emf" y "wmf" <br>
+
+**3) Desplazar:** Permite mover el centro de la ventana de trabajo. <br>
+
+**4) Acerca:** Permite acercar una zona particular de la red en la ventana de trabajo. <br>
+
+**5) Alejar:** Permite alejarse de una zona particular de la red en la ventana de trabajo. <br>
+
+**6) Encuadre:** Permite que el sistema realice una "zoom" tal que se observe todos los objetos del dibujo que componen la red. <br>
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.5.PNG" width="500px">
