@@ -122,11 +122,27 @@ En la siguiente figura se presentan resaltados las herramientas que hacen parte 
   <img src="Imagenes/FiguraNo.2.3.PNG" width="500px">
 </div>
 
-**10) Copiar a:** Permite copiar al portapapeles del computador la información de la red: La imagen de la zona de trabajo y las coordenadas de los nodos con sus principales resultados.<br>
+**1) Copiar a:** Permite copiar al portapapeles del computador la información de la red: La imagen de la zona de trabajo y las coordenadas de los nodos con sus principales resultados.<br>
+
+_____________________________________________________________________________________
+
+**2) Seleccionar Objeto:** Permite seleccionar un objeto particular de la red.<br>
+**3) Seleccionar Vértice:** Permite seleccionar el vértice de una tramo o una malla de la red.<br>
+**4) Seleccionar Region:** Permite seleccionar diferentes objetos o elementos al mismo tiempo. La selección se hace a partir de la identificación de los objetos que quedan dentro del polígono que el usuario debe crear temporalmente arrastrando el mouse.<br>
+**5) Seleccionar Todo:** Permite seleccionar todos los elementos, nodos y objetos dibujados en la zona de trabajo que hace parte de la red.<br>
+_____________________________________________________________________________________
+
+**6) Editar Grupo:** Permite editar las características generales de un grupo de elementos, como por ejemplo la rugosidad de diferentes tramos de tuberías o ajustar la altura de diferentes nodos .<br>
+
+## Barra Ver.
+
+En la siguiente figura se presentan resaltados las herramientas que hacen parte de la barra Ver.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.4.PNG" width="500px">
 </div>
+
+**1) Editar Grupo:** Permite editar las características generales de un grupo de elementos, como por ejemplo la rugosidad de diferentes tramos de tuberías o ajustar la altura de diferentes nodos .<br>
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.5.PNG" width="500px">
