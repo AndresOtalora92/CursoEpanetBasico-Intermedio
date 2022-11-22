@@ -89,12 +89,30 @@ ________________________________________________________________________________
 **5.3)** Importar Red: Permite importar un esquema ya trazado de una red y sus accesorios con formato tipo ".inp"<br>
 
 **6) Importar:** Permite exportar tres tipos de archivos generados previamente en el archivo de EPANET que se está trabajando.<br>
+
 **6.1)** Exportar Esquema: Permite exportar una imagen de fondo con formato ".map"<br>
 **6.2)** Exportar Escenario: Permite exportar un escenario modelación de fondo con formato ".scn"<br>
 **6.3)** Exportar Red: Permite exportar un esquema ya trazado de una red y sus accesorios con formato tipo ".inp"<br>
 
 _____________________________________________________________________________________
 
+**7) Preparar página:** Al abrir esta aplicación se despliega una ventana que permite configurar las características del papel para su impresión y visualización.<br>
+
+**8) Vista previa:** Permite visualizar la zona de impresión antes de ejecutar la impresión física o ser guardado como archivo tipo "pdf".<br>
+
+**9) Imprimir:** Permite imprimir o guardar en formato tipo "pdf" la ventana de trabajo.<br>
+
+_____________________________________________________________________________________
+
+**10) Preferencias:** Permite definir con anticipación las preferencias de los formatos de texto y el número de decimales en los que se podrá ingresar la información y mostrar los resultados numéricos.<br>
+
+_____________________________________________________________________________________
+
+**11) Archivos recientes:** Atajo que muestra el archivo o los archivos más recientes trabajados por el usuario.<br>
+
+_____________________________________________________________________________________
+
+**12) Salir:** Permite salir del archivo que se está trabajando. No cierra el programa.<br>
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.3.PNG" width="500px">
@@ -158,6 +176,7 @@ ________________________________________________________________________________
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
 | 2022.16.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
+| 2022.22.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
