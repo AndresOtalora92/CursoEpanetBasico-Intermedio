@@ -77,17 +77,23 @@ En la siguiente figura se presentan resaltados las herramientas que hacen parte 
   <img src="Imagenes/FiguraNo.2.2.PNG" width="500px">
 </div>
 
-**1) Nuevo:** Permite crear un nuevo archivo en blanco. 
-**2) Abrir:** Permite abrir un archivo creado el cual se encuentre en el computador del usuario. 
-**3) Guardar:** Permite guardar un archivo del avance de trabajo cuando ya se ha guardado por primera vez.
-**4) Guardar como:** Permite guardar por primera vez un archivo.
-**5) Importar:** Permite traer o importar tres tipos de archivos generados previamente en un archivo tipo EPANET.
+**1) Nuevo:** Permite crear un nuevo archivo en blanco. <br>
+**2) Abrir:** Permite abrir un archivo creado el cual se encuentre en el computador del usuario. <br>
+**3) Guardar:** Permite guardar un archivo del avance de trabajo cuando ya se ha guardado por primera vez.<br>
+**4) Guardar como:** Permite guardar por primera vez un archivo.<br>
+_____________________________________________________________________________________
+**5) Importar:** Permite traer o importar tres tipos de archivos generados previamente en un archivo tipo EPANET.<br>
 
-**5.1)** Importar Esquema: Permite importar una imagen de fondo con formato ".map"
-**5.2)** Importar Escenario: Permite importar un escenario modelación de fondo con formato ".scn"
-**5.3)** Importar Red: Permite importar un esquem ya trazada de una red y sus accesorios con formato tipo ".inp"
+**5.1)** Importar Esquema: Permite importar una imagen de fondo con formato ".map"<br>
+**5.2)** Importar Escenario: Permite importar un escenario modelación de fondo con formato ".scn"<br>
+**5.3)** Importar Red: Permite importar un esquema ya trazado de una red y sus accesorios con formato tipo ".inp"<br>
 
+**6) Importar:** Permite exportar tres tipos de archivos generados previamente en el archivo de EPANET que se está trabajando.<br>
+**6.1)** Exportar Esquema: Permite exportar una imagen de fondo con formato ".map"<br>
+**6.2)** Exportar Escenario: Permite exportar un escenario modelación de fondo con formato ".scn"<br>
+**6.3)** Exportar Red: Permite exportar un esquema ya trazado de una red y sus accesorios con formato tipo ".inp"<br>
 
+_____________________________________________________________________________________
 
 
 <div align="center">
