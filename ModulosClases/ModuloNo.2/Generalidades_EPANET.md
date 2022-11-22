@@ -66,12 +66,29 @@ En la siguiente figura se presentan resaltados los elementos de la ventana princ
 
 **5) Visor:** Corresponde al conjunto de herramientas que permite mostrar los resultados de las modelaciones y de las características de los accesorios y tuberías. Es posible mostrar los resultados de manera numérica o a partir de la paleta de colores. Los resultados se pueden representar en los nodos o en las tuberías. 
 
-**6) Barra de estado:**
+**6) Barra de estado:** Barra que permite conocer las coordenadas de los puntos donde su ubica el cursor. También muestra las unidades en las cuales se está calculando el caudal y el porcentaje de ampliación de la ventana de trabajo y del área de trabajo.
 
+
+## Barra de Archivo.
+
+En la siguiente figura se presentan resaltados las herramientas que hacen parte de la barra de Archivo.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.2.PNG" width="500px">
 </div>
+
+**1) Nuevo:** Permite crear un nuevo archivo en blanco. 
+**2) Abrir:** Permite abrir un archivo creado el cual se encuentre en el computador del usuario. 
+**3) Guardar:** Permite guardar un archivo del avance de trabajo cuando ya se ha guardado por primera vez.
+**4) Guardar como:** Permite guardar por primera vez un archivo.
+**5) Importar:** Permite traer o importar tres tipos de archivos generados previamente en un archivo tipo EPANET.
+
+**5.1)** Importar Esquema: Permite importar una imagen de fondo con formato ".map"
+**5.2)** Importar Escenario: Permite importar un escenario modelación de fondo con formato ".scn"
+**5.3)** Importar Red: Permite importar un esquem ya trazada de una red y sus accesorios con formato tipo ".inp"
+
+
+
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.3.PNG" width="500px">
