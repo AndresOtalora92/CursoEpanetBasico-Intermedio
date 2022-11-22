@@ -114,9 +114,15 @@ ________________________________________________________________________________
 
 **12) Salir:** Permite salir del archivo que se está trabajando. No cierra el programa.<br>
 
+## Barra de Edición.
+
+En la siguiente figura se presentan resaltados las herramientas que hacen parte de la barra de Edición.
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.3.PNG" width="500px">
 </div>
+
+**10) Copiar a:** Permite copiar al portapapeles del computador la información de la red: La imagen de la zona de trabajo y las coordenadas de los nodos con sus principales resultados.<br>
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.4.PNG" width="500px">
