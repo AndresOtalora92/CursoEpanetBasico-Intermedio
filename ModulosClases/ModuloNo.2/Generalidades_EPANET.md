@@ -56,17 +56,18 @@ En la siguiente figura se presentan resaltados los elementos de la ventana princ
   <img src="Imagenes/FiguraNo.2.1.PNG" width="500px">
 </div>
 
-**1)** Barra de Menus
+**1) Barra de Menus:** Barra que contiene los principales menús del software, tales como las herramientas de edición del archivo, las herramientas de presentación de los resultados, las herramientas para la elaboración de informes y el menú de ayudas.
 
-**2)** Barra de Herramientas Estandar
+**2) Barra de Herramientas Estándar:** Barra que contiene las herramientas que permiten manipular, editar, guardar y abrir los archivos creados en EPANET y sus complementos. También se encuentran atajos para ejecutar el modelo y mostrar los resultados numéricos en tablas. 
 
-**3)** Barra de Menus
+**3) Barra de Herramientas del mapa:** Barra que contiene las herramientas para la creación de los objetos que hace parte de los accesorios y elementos que componen la red construida en el espacio de trabajo.
 
-**4)** Barra de Menus
+**4) Zona de trabajo y de dibujo:** Corresponde al espacio de trabajo que el usuario utiliza para dibujar su red con sus respectivos elementos y accesorios. En este espacio de dibujo también se representan los resultados a partir de la barra de visor y la barra de leyendas. 
 
-**5)** Barra de Menus
+**5) Visor:** Corresponde al conjunto de herramientas que permite mostrar los resultados de las modelaciones y de las características de los accesorios y tuberías. Es posible mostrar los resultados de manera numérica o a partir de la paleta de colores. Los resultados se pueden representar en los nodos o en las tuberías. 
 
-**6)** Barra de Menus
+**6) Barra de estado:**
+
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.2.PNG" width="500px">
