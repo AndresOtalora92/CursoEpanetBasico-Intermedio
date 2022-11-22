@@ -144,7 +144,19 @@ En la siguiente figura se presentan resaltados las herramientas que hacen parte 
 
 **1) Dimensiones:** Permite modificar las dimensiones del área de trabajo con referencia al vértice inferior izquierdo y al vértice superior derecho. También permite modificar las unidades de las dimensiones del área de trabajo: "Pies", "metros", "grados" y "ninguna".<br>
 
-**2) Mapa de Fondo:** Permite importar imágenes de fondo con formato tipo ".bmp", ".emf" y "wmf" <br>
+**2) Mapa de Fondo:** Permite importar imágenes de fondo con formato tipo ".bmp", ".emf" y "wmf".
+
+Al desplegar las opciones de "Mapa de fondo" se encuentran las siguientes herramientas:
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.6.PNG" width="500px">
+</div>
+
+_1. Cargar:_ Podrá "carga" una imagen de fondo en los formatos mencionados. <br>
+_2. Descargar:_ Podrá eliminar la imagen cargada.<br>
+_3. Alinear:_ Podrá mover o alinear la imagen con respecto al área de trabajo.<br>
+_4. Mostrar:_ Podrá mostrar y ocultar la imagen cargada sin la necesidad de "descargar" la imagen. <br>
+
 
 **3) Desplazar:** Permite mover el centro de la ventana de trabajo. <br>
 
@@ -162,21 +174,19 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-**9) Vista General:** Permite que generar una segunda ventana que muestre el paneo de todo el área de trabajo mientras se trabaja en la ventana principal con un "zoom" distinto. <br>
+**9) Vista General:** Permite generar una segunda ventana que muestra el paneo general de todo el área de trabajo. Esta ventana es independiente de la ventana principal con un "zoom" distinto. <br>
 
-**10) Leyenda:** Permite que generar una segunda ventana que muestre el paneo de todo el área de trabajo mientras se trabaja en la ventana principal con un "zoom" distinto. <br>
-
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.5.PNG" width="500px">
-</div>
-
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.6.PNG" width="500px">
-</div>
+**10) Leyenda:** Permite manipular las propiedades de las dos barras de leyendas dispuestas en la ventana de trabajo. Al desplegar las opciones de "Leyenda" se encuentran las siguientes herramientas:
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.7.PNG" width="500px">
 </div>
+
+_1. Apagar y encender leyendas en Nodos y líneas:_ Permite apagar y encender las leyendas de los resultados y propiedades de los nodos y de las líneas que se presentan en la ventana de trabajo. . <br>
+
+_2. Modificar la visualización de las leyendas Nudos y líneas:_ Permite configurar la paleta de colores de la barra de leyenda. Es posible modificar los valores medios y extremos que definen el espectro de los resultados. <br>
+
+
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.8.PNG" width="500px">
