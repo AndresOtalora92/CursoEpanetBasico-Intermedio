@@ -68,8 +68,7 @@ En la siguiente figura se presentan resaltados los elementos de la ventana princ
 
 **6) Barra de estado:** Barra que permite conocer las coordenadas de los puntos donde su ubica el cursor. También muestra las unidades en las cuales se está calculando el caudal y el porcentaje de ampliación de la ventana de trabajo y del área de trabajo.
 
-
-## Barra de Archivo.
+### Barra de herramientas "Archivo"
 
 En la siguiente figura se presentan resaltados las herramientas que hacen parte de la barra de Archivo.
 
@@ -114,7 +113,7 @@ ________________________________________________________________________________
 
 **12) Salir:** Permite salir del archivo que se está trabajando. No cierra el programa.<br>
 
-## Barra de Edición.
+### Barra de herramientas de "Edición"
 
 En la siguiente figura se presentan resaltados las herramientas que hacen parte de la barra de Edición.
 
@@ -134,7 +133,7 @@ ________________________________________________________________________________
 
 **6) Editar Grupo:** Permite editar las características generales de un grupo de elementos, como por ejemplo la rugosidad de diferentes tramos de tuberías o ajustar la altura de diferentes nodos .<br>
 
-## Barra Ver.
+### Barra de herramientas "Ver"
 
 En la siguiente figura se presentan resaltados las herramientas que hacen parte de la barra Ver.
 
@@ -189,13 +188,13 @@ _2. Modificar la visualización de las leyendas Nudos y líneas:_ Permite config
 
 _____________________________________________________________________________________
 
-**6) Barra de herramientas:** Tal como se aprecia en la siguiente imagen, esta herramienta permite "apagar" y "encender" las barras de herramientas "Estándar" y "Esquema"
+**11) Barra de herramientas:** Tal como se aprecia en la siguiente imagen, esta herramienta permite "apagar" y "encender" las barras de herramientas "Estándar" y "Esquema"
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.8.PNG" width="500px">
 </div>
 
-**6) Opciones de esquema:** Esta herramienta permite modificar las características de la presentación de los nodos, líneas, rótulos, etiquetas, símbolos, fechas y del fondo. En la siguiente imagen se muestran las opciones mencionadas las cuales se despliegan al abrir esta herramienta:
+**12) Opciones de esquema:** Esta herramienta permite modificar las características de la presentación de los nodos, líneas, rótulos, etiquetas, símbolos, fechas y del fondo. En la siguiente imagen se muestran las opciones mencionadas las cuales se despliegan al abrir esta herramienta:
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.9.PNG" width="500px">
@@ -203,9 +202,30 @@ ________________________________________________________________________________
 
 **Nota:** La barra de "Opciones de esquema" también puede ser desplegada dando clic derecho del mouse en cualquier zona de la ventana de trabajo.
 
+### Barra de herramientas "Proyecto":
+
+Permite conocer y editar las principales características del proyecto. Al desplegar las opciones de "Proyecto" se encuentran las siguientes herramientas:
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.10.PNG" width="500px">
 </div>
+
+
+**1) Resumen:** Permite abrir una nueva ventana que muestra el resumen de los elementos que componen la red dibujada en la zona de trabajo, las unidades del caudal, la fórmula utilizada para estimar las pérdidas por fricción y, si es el caso, las ecuaciones que rigen el parámetro de la calidad del agua. Un ejemplo del resumen que arroja la herramienta se presentan a continuación:
+
+    Número de Nudos Caudal  0
+    Número de Embalses      0
+    Número de Depósitos     0
+    Número de Tuberías      0
+    Número de Bombas        0
+    Número de Válvulas      0
+    Unidades de Caudal      LPS
+    Fórmula Pérdidas Carga  D-W
+    Parámetro de Calidad    Ninguno
+
+
+
+**1) Resumen:** P
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.11.PNG" width="500px">
