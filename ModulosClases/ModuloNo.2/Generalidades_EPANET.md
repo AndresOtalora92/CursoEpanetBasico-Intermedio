@@ -154,6 +154,18 @@ En la siguiente figura se presentan resaltados las herramientas que hacen parte 
 
 **6) Encuadre:** Permite que el sistema realice una "zoom" tal que se observe todos los objetos del dibujo que componen la red. <br>
 
+_____________________________________________________________________________________
+
+**7) Buscar:** Permite buscar a partir del código identificador (ID) un nodo, línea o fuente específica. <br>
+
+**8) Consultar:** Permite buscar y seleccionar los nodos o tuberías que cumplan un parámetro utilizando las comparaciones de "menor que", "mayor que" e "igual que". <br>
+
+_____________________________________________________________________________________
+
+**9) Vista General:** Permite que generar una segunda ventana que muestre el paneo de todo el área de trabajo mientras se trabaja en la ventana principal con un "zoom" distinto. <br>
+
+**10) Leyenda:** Permite que generar una segunda ventana que muestre el paneo de todo el área de trabajo mientras se trabaja en la ventana principal con un "zoom" distinto. <br>
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.5.PNG" width="500px">
 </div>
