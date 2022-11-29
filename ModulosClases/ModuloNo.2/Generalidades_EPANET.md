@@ -11,6 +11,14 @@
 
 Keywords: `EPANET` `Ventanas` `Software` `herramientas`
 
+## Introducción
+
+En este módulo se describe con detalle las ventanas, herramientas, opciones y menús que componen el software EPANET.
+
+## Objetivos
+
+El objetivo principal de esta actividad es permitir que el estudiante conozca con detalle los elementos que se usarán para la construcción del modelo, el manejo del programa y sus archivos y las diferentes herramientas de edición, calibración, complementación y alimentación de los objetos que componen la red.
+
 
 ## EPANET. Historia 
 
@@ -234,9 +242,16 @@ ________________________________________________________________________________
 
 **4) Calcular:** Permite ejecutar o correr el modelo de la red una vez se hayan introducido y cargado todos los parámetros hidráulicos y geométricos. Al ejecutar el programa se abrirá una ventana emergente que muestra el estado que definirá los posibles errores de la modelación o el éxito de su ejecución.
 
+
+### Barra de herramientas "Informe":
+
+Permite presentar de manera gráfica (histogramas) y numérica (tablas) los resultados de las modelaciones realizadas en EPANET. Al desplegar las opciones de "Proyecto" se encuentran las siguientes herramientas:
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.11.PNG" width="500px">
 </div>
+
+**1) Estado:** Permite ejecutar o correr e
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.12.PNG" width="500px">
