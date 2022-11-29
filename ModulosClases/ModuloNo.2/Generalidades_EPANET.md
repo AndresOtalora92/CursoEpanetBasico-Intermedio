@@ -225,6 +225,8 @@ Permite conocer y editar las principales características del proyecto. Al despl
 
 **2) Valores por defecto:** Herramienta que permite crear un prefijo para identificar los elementos que componen la red. Además, permite definir valores por defecto o iniciales (al crear un objeto). Entre las propiedades que se pueden definir por defecto se encuentra el diámetro de las tuberías, el diámetro de los depósitos, la longitud de las tuberías, la rugosidad de las tuberías entre otros. Finalmente, permite definir por defectos los parámetros hidráulicos, el módulo de solución (número de iteraciones y acción en el caso de no encontrar una solución), entre otros.
 
+**3) Datos de Calibración:** Herramienta que permite definir los valores parámetro que permiten la calibración de un modelo modificando una variables geométrica o hidráulica hasta alcanzar el o los valores parámetros. Los variables que pueden ser definidas como variables parámetros corresponde a: Demanda en nodos, Altura de un tanque, presión en un nodo, el caudal y la velocidad en un tramo de tubería.  
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.11.PNG" width="500px">
 </div>
