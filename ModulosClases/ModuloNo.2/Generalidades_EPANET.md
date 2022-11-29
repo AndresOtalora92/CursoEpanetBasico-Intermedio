@@ -227,6 +227,13 @@ Permite conocer y editar las principales características del proyecto. Al despl
 
 **3) Datos de Calibración:** Herramienta que permite definir los valores parámetro que permiten la calibración de un modelo hidráulica elaborado en EPANET. La calibración de un modelo puede realizar al indicarle al software que modifique una variable geométrica o variable hidráulica hasta alcanzar el o los valores parámetros. Los variables que pueden ser definidas como parámetros de calibración corresponden a: Demanda en nodos, altura de un tanque, presión en un nodo, el caudal y la velocidad en un tramo de tubería.  
 
+
+_____________________________________________________________________________________
+
+**4) Opciones de cálculo:** Herramienta que permite definir los parámetros predeterminados para la determinación de los métodos matemáticos (numéricos) que determinan el caudal y las pérdidas de energía entre tramos de una red. En esta herramienta se puede modificar las unidades del caudal, lás fórmulas para la estimación de las pérdidas (más adelante se describirán con detalle estas ecuaciones), la viscosidad y densidad como valores relativos de un fluido (patrones: densidad [1000 kg/m³] y densidad [1.007*E-6 m²/s]), el máximo número de iteraciones, el grado de precisión para detener la modelación (iteración) entre otros parámetros por defecto.
+
+**4) Opciones de cálculo:** Permite ejecutar o correr el modelo de la red una vez se hayan introducido y cargado todos los parámetros hidráulicos y geométricos. Al ejecutar el programa se abrirá una ventana emergente que muestra el estado que definirá los posibles errores de la modelación o el éxito de su ejecución.
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.11.PNG" width="500px">
 </div>
