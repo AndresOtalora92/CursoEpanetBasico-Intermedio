@@ -251,7 +251,30 @@ Permite presentar de manera gráfica (histogramas) y numérica (tablas) los resu
   <img src="Imagenes/FiguraNo.2.11.PNG" width="500px">
 </div>
 
-**1) Estado:** Permite ejecutar o correr e
+**1) Estado:** Permite revisar el estado generar de la red analizando las variables que se ejecutarán. Esta herramienta permite revisar la calidad de la modelación una vez se ha ejecutado el programa. 
+
+**2) Energía:** Una vez ejecutado el modelo, esta opción permite revisar la curva de eficiencia de la bomba o de las bombas que se agregaron en la red. 
+
+**3) Calibración:** Permite definir los valores por defecto que serán utilizados para realizar la calibración de la red.
+
+**4) Reacciones:** FUERA DEL ALCANCE DE ESTE CURSO.
+
+**5) Completo:** Permite guardar los resultados y la ejecución de la modelación en formato ".RPT"
+
+_____________________________________________________________________________________
+
+**6) Gráficos:** Permite presentar los resultados de las modelaciones en un diagrama de barras (histograma) permitiendo evaluar en una ruta (un tramo de la red definida por diferentes nodos) las variables hidráulicas"
+ 
+**7) Tablas:** Permite presentar a manera de resumen y en un o varias tablas los resultados obtenidos de la modelación en cada nodo o en cada tramo de tubería. Esta opción permite agregar o quitar variables antes de ejecutar el reporte, el cual puede ser copiado y pegado en un editar de texto o editor numérico como EXCEL."
+
+_____________________________________________________________________________________
+
+**8) Opciones:** FUERA DEL ALCANCE DE ESTE CURSO.
+
+### Barra de Visor:
+
+Permite visualizar de manera dinámica y con paleta de colores (representación gráfica con leyendas) los resultados y las variables introducidas al modelo tanto en los nodos como en los tramos de tuberías. Al desplegar las opciones de "Proyecto" se encuentran las siguientes herramientas:
+
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.12.PNG" width="500px">
@@ -280,6 +303,9 @@ Permite presentar de manera gráfica (histogramas) y numérica (tablas) los resu
 |------------|:--------------|--------------------------------------------|:-----:|
 | 2022.16.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
 | 2022.22.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
+| 2022.24.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
+| 2022.28.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
+| 2022.30.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 

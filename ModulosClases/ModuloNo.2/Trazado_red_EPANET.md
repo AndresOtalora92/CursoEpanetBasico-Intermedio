@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Generalidades de EPANET
+# Curso de Epanet - Módulo 1 - Elaboración y trazado de una red hidráulica. Construcción del esqueleto del modelo hidráulico
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">
@@ -24,8 +24,8 @@ El objetivo principal de esta actividad es permitir que el estudiante conozca co
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.16.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
-| 2022.22.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
+| 2022.29.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
+| 2022.30.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
