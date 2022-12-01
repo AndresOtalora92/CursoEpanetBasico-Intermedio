@@ -320,19 +320,19 @@ A continuación se nombran cada uno de los elementos que componen las dos barras
   <img src="Imagenes/FiguraNo.2.16.PNG" width="500px">
 </div>
 
-<br> 1. Crear nuevo documento   </br>
-<br> 2. Crear nuevo documento   </br>
-<br> 3. Crear nuevo documento   </br>
-<br> 4. Crear nuevo documento   </br>
-<br> 5. Crear nuevo documento   </br>
-<br> 6. Crear nuevo documento   </br>
-<br> 7. Crear nuevo documento   </br>
-<br> 8. Crear nuevo documento   </br>
-<br> 9. Crear nuevo documento   </br>
-<br> 10. Crear nuevo documento   </br>
-<br> 11. Crear nuevo documento   </br>
-<br> 12. Crear nuevo documento   </br>
-<br> 13. Crear nuevo documento   </br>
+<br> 1. Seleccionar elemento   </br>
+<br> 2. Seleccionar vértice   </br>
+<br> 3. Seleccionar por región (contenido en polígono)    </br>
+<br> 4. Mover espacio de trabajo   </br>
+<br> 5. Acercar/Alejar área de trabajo   </br>
+<br> 6. Máximo Zoom de los elementos en el área de trabajo  </br>
+<br> 7. Crear Nodo o Nudo   </br>
+<br> 8. Crear embalse  </br>
+<br> 9. Crear tanque o reservorio   </br>
+<br> 10. Crear tubería   </br>
+<br> 11. Agregar bomba   </br>
+<br> 12. Agregar Válvula   </br>
+<br> 13. Añadir rótulo   </br>
 
 ### Control de versiones
 
