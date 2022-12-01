@@ -289,13 +289,15 @@ Permite visualizar de manera dinámica y con paleta de colores (representación 
 
 **2)Esquema** Permite visualizar de manera didáctica y apoyado de las leyendas las variables hidráulicas en los nodos y en las tuberías. Entre las variables que pueden ser visualizados se encuentra la cota, el caudal de demanda, la demanda base, la atura de energía, la altura de presión, entre otras.  
 
+
+### Barra de herramientas con botones de rápido acceso: 
+
+Esta barra 
+
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.14.PNG" width="400px">
 </div>
-
-
-**2) Esquema** Permite visualizar de manera didáctica y apoyado de las leyendas las variables hidráulicas en las tuberías. Entre las variables que pueden ser visualizados se encuentra los accesorios como embalse, depósitos, bombas y válvulas .  
-
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.15.PNG" width="500px">
