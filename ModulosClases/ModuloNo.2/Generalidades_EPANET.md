@@ -271,25 +271,31 @@ ________________________________________________________________________________
 
 **8) Opciones:** FUERA DEL ALCANCE DE ESTE CURSO.
 
-**1)** 
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.12.PNG" width="500px">
+</div>
+
 
 ### Barra de Visor:
 
 Permite visualizar de manera dinámica y con paleta de colores (representación gráfica con leyendas) los resultados y las variables introducidas al modelo tanto en los nodos como en los tramos de tuberías. Al desplegar las opciones de "Proyecto" se encuentran las siguientes herramientas:
 
-**1) Datos** Permite visualizar de manera didáctica y apoyado de las leyendas las variables hidráulicas de... 
-
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.12.PNG" width="500px">
-</div>
-
 <div align="center">
   <img src="Imagenes/FiguraNo.2.13.PNG" width="400px">
 </div>
 
+
+**1)Datos** Permite visualizar de manera didáctica y apoyado de las leyendas las variables hidráulicas en los diferentes accesorios y objetos que componen la red. Entre las variables que pueden ser visualizados se encuentra los accesorios como embalse, depósitos, bombas y válvulas.  
+
+**2)Esquema** Permite visualizar de manera didáctica y apoyado de las leyendas las variables hidráulicas en los nodos y en las tuberías. Entre las variables que pueden ser visualizados se encuentra la cota, el caudal de demanda, la demanda base, la atura de energía, la altura de presión, entre otras.  
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.14.PNG" width="400px">
 </div>
+
+
+**2) Esquema** Permite visualizar de manera didáctica y apoyado de las leyendas las variables hidráulicas en las tuberías. Entre las variables que pueden ser visualizados se encuentra los accesorios como embalse, depósitos, bombas y válvulas .  
+
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.15.PNG" width="500px">
@@ -308,7 +314,8 @@ Permite visualizar de manera dinámica y con paleta de colores (representación 
 | 2022.22.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
 | 2022.24.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
 | 2022.28.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
-| 2022.30.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
+| 2022.30.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   2   |
+| 2022.01.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
