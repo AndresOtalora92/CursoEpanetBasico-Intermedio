@@ -271,10 +271,13 @@ ________________________________________________________________________________
 
 **8) Opciones:** FUERA DEL ALCANCE DE ESTE CURSO.
 
+**1)** 
+
 ### Barra de Visor:
 
 Permite visualizar de manera dinámica y con paleta de colores (representación gráfica con leyendas) los resultados y las variables introducidas al modelo tanto en los nodos como en los tramos de tuberías. Al desplegar las opciones de "Proyecto" se encuentran las siguientes herramientas:
 
+**1) Datos** Permite visualizar de manera didáctica y apoyado de las leyendas las variables hidráulicas de... 
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.12.PNG" width="500px">
