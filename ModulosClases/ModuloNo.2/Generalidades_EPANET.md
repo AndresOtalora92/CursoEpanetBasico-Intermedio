@@ -271,42 +271,65 @@ ________________________________________________________________________________
 
 **8) Opciones:** FUERA DEL ALCANCE DE ESTE CURSO.
 
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.12.PNG" width="500px">
-</div>
-
-
 ### Barra de Visor:
 
 Permite visualizar de manera dinámica y con paleta de colores (representación gráfica con leyendas) los resultados y las variables introducidas al modelo tanto en los nodos como en los tramos de tuberías. Al desplegar las opciones de "Proyecto" se encuentran las siguientes herramientas:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.13.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.13.PNG" width="200px">
 </div>
 
 
 **1)Datos** Permite visualizar de manera didáctica y apoyado de las leyendas las variables hidráulicas en los diferentes accesorios y objetos que componen la red. Entre las variables que pueden ser visualizados se encuentra los accesorios como embalse, depósitos, bombas y válvulas.  
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.14.PNG" width="300px">
+</div>
 
 **2)Esquema** Permite visualizar de manera didáctica y apoyado de las leyendas las variables hidráulicas en los nodos y en las tuberías. Entre las variables que pueden ser visualizados se encuentra la cota, el caudal de demanda, la demanda base, la atura de energía, la altura de presión, entre otras.  
 
 
 ### Barra de herramientas con botones de rápido acceso: 
 
-Esta barra 
+Esta barra permite realizar alguna de las tareas que ya se presentaron en las barras de herramientas y menus.
 
+A continuación se nombran cada uno de los elementos que componen las dos barras:
 
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.14.PNG" width="400px">
-</div>
+**Barra No. 1:** Agrupación de botones con acceso directo a la edicación y ejecución del programa. 
 
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.15.PNG" width="500px">
-</div>
+<br> 1. Crear nuevo documento   </br>
+<br> 2. Crear nuevo documento   </br>
+<br> 3. Crear nuevo documento   </br>
+<br> 4. Crear nuevo documento   </br>
+<br> 5. Crear nuevo documento   </br>
+<br> 6. Crear nuevo documento   </br>
+<br> 7. Crear nuevo documento   </br>
+<br> 8. Crear nuevo documento   </br>
+<br> 9. Crear nuevo documento   </br>
+<br> 10. Crear nuevo documento   </br>
+<br> 11. Crear nuevo documento   </br>
+<br> 12. Crear nuevo documento   </br>
+<br> 13. Crear nuevo documento   </br>
+
+**Barra No. 2:** Agrupación de botones que permiten desplazarse por la zona de trabajo, realizar acercamientos y crear los objetos o elementos que componen las redes.
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.16.PNG" width="500px">
 </div>
 
+<br> 1. Crear nuevo documento   </br>
+<br> 2. Crear nuevo documento   </br>
+<br> 3. Crear nuevo documento   </br>
+<br> 4. Crear nuevo documento   </br>
+<br> 5. Crear nuevo documento   </br>
+<br> 6. Crear nuevo documento   </br>
+<br> 7. Crear nuevo documento   </br>
+<br> 8. Crear nuevo documento   </br>
+<br> 9. Crear nuevo documento   </br>
+<br> 10. Crear nuevo documento   </br>
+<br> 11. Crear nuevo documento   </br>
+<br> 12. Crear nuevo documento   </br>
+<br> 13. Crear nuevo documento   </br>
 
 ### Control de versiones
 
