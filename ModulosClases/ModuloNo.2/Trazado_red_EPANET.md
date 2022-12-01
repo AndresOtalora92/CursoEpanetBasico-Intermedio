@@ -17,14 +17,27 @@ En este módulo se detallan algunas metodologías para la creación del esquelet
 
 ## Objetivos
 
-El objetivo principal de esta actividad es presentar diferentes alternativas para la creación del esqueleto o geometría de un sistema hidráulica a presión conformado por una red abierta o una red cerrada. El usuario decidirá cuál de los procedimientos aquí explicado es el más adecuado teniendo en cuenta la magnitud y dificultad de su red.   
+El objetivo principal de esta actividad es presentar diferentes alternativas para la creación del esqueleto o geometría de un sistema hidráulica a presión conformado por una red abierta o una red cerrada. El usuario decidirá cuál de los procedimientos aquí explicado es el más adecuado teniendo en cuenta la magnitud y dificultad de su red.  
+
+
+## Trazar una red con las herramientas de EPANET
+
+(carga un ejemplo de una figura para reproducir)
+
+### Carga una imagen de fondo para el trazado (cargar imagen desde GoogleEarth) 
+(paso a paso de como cargar una imagen desde Maps, convertirlo y cargalo de fondo, trazar sobre ese fondo, medir)
+
+[Link de descarga de convertir de formato de Imagen ".BPM"](https://convertio.co/es/download/3ef514d1b96e6cc159c006dea82a1738a67b94/)
+
+### Carga una red previamente elaborado en AutoCAD (uso de EPACAD)
+
+[Link de descarga del aplicativo EPACAD](https://www.google.com/search?q=epacad&rlz=1C1SQJL_esCO854CO854&oq=epacad&aqs=chrome..69i57j0i512l4j0i10i512l2j0i512.1360j0j7&sourceid=chrome&ie=UTF-8)
 
 ### Control de versiones
 
-| Versión    | Descripción   | Autor                                      | Horas |
-|------------|:--------------|--------------------------------------------|:-----:|
-| 2022.29.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
-| 2022.30.11 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
+| Versión  | Descripción   | Autor                                      | Horas |
+|----------|:--------------|--------------------------------------------|:-----:|
+| 2022.01.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
