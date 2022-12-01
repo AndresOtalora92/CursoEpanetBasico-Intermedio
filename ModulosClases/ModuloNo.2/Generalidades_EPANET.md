@@ -156,7 +156,7 @@ En la siguiente figura se presentan resaltados las herramientas que hacen parte 
 Al desplegar las opciones de "Mapa de fondo" se encuentran las siguientes herramientas:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.6.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.6.PNG" width="650px">
 </div>
 
 _1. Cargar:_ Podrá "carga" una imagen de fondo en los formatos mencionados. <br>
@@ -186,7 +186,7 @@ ________________________________________________________________________________
 **10) Leyenda:** Permite manipular las propiedades de las dos barras de leyendas dispuestas en la ventana de trabajo. Al desplegar las opciones de "Leyenda" se encuentran las siguientes herramientas:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.7.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.7.PNG" width="650px">
 </div>
 
 _1. Apagar y encender leyendas en Nodos y líneas:_ Permite apagar y encender las leyendas de los resultados y propiedades de los nodos y de las líneas que se presentan en la ventana de trabajo. . <br>
@@ -199,13 +199,13 @@ ________________________________________________________________________________
 **11) Barra de herramientas:** Tal como se aprecia en la siguiente imagen, esta herramienta permite "apagar" y "encender" las barras de herramientas "Estándar" y "Esquema"
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.8.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.8.PNG" width="600px">
 </div>
 
 **12) Opciones de esquema:** Esta herramienta permite modificar las características de la presentación de los nodos, líneas, rótulos, etiquetas, símbolos, fechas y del fondo. En la siguiente imagen se muestran las opciones mencionadas las cuales se despliegan al abrir esta herramienta:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.9.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.9.PNG" width="600px">
 </div>
 
 **Nota:** La barra de "Opciones de esquema" también puede ser desplegada dando clic derecho del mouse en cualquier zona de la ventana de trabajo.
@@ -215,7 +215,7 @@ ________________________________________________________________________________
 Permite conocer y editar las principales características del proyecto. Al desplegar las opciones de "Proyecto" se encuentran las siguientes herramientas:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.10.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.10.PNG" width="650px">
 </div>
 
 
@@ -295,7 +295,7 @@ Esta barra permite realizar alguna de las tareas que ya se presentaron en las ba
 
 A continuación se nombran cada uno de los elementos que componen las dos barras:
 
-**Barra No. 1:** Agrupación de botones con acceso directo a la edicación y ejecución del programa. 
+**Barra No. 1:** Agrupación de botones con acceso directo a la edición y ejecución del programa. 
 
 <br> 1. Crear nuevo documento   </br>
 <br> 2. Crear nuevo documento   </br>
