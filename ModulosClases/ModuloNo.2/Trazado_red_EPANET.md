@@ -22,12 +22,98 @@ El objetivo principal de esta actividad es presentar diferentes alternativas par
 
 ## Trazar una red con las herramientas de EPANET
 
-(carga un ejemplo de una figura para reproducir)
+A continuación se detallan los procedimientos sugeridos para realizar el trazado de una red hidráulica (mismo procedimiento si la red es abierta o cerrada), tomando como referencia esquemas previamente realizados. 
+
+
+**1. Definir el esquema general de la red:** Para el primer trazado se utilizará la red abierta planteada en el ejercicio 1F y que se presenta nuevamente a continuación:
+
+<div align="center">
+  <img src="../ModuloNo.1/Imagenes/FiguraNo.1.36.PNG" width="500px">
+</div>
+
+**2. Crear nuevo archivo y área de trabajo:** Abrir el programa y guardar un nuevo archivo
+
+_a. Buscar el software en su computador personal_
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.18.PNG" width="400px">
+</div>
+
+_b. Definir en la barra de herramienta la opción "Menu"_
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.19.PNG" width="400px">
+</div>
+
+_b. Definir en la barra de herramienta la opcion "Guardar" o "Guardar Como"_
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.20.PNG" width="400px">
+</div>
+
+_c. Buscar la ruta y la carpeta donde desea crear su nuevo archivo de EPANET. Crear un nombre corto, sin tilde evitando los caracteres especiales"_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.21.PNG" width="400px">
+</div>
+
+**3. Creación de nodos, tanques y tramos de tuberías**
+
+_a. Seleccionar la opción "Añadir Embalse"_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.22.PNG" width="400px">
+</div>
+
+_b. Picar en cualquier zona del área de trabajo_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.23.PNG" width="400px">
+</div>
+
+_c. Para simular los tres tanques, debe repetir el trabajo, agregando dos tanques más._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.24.PNG" width="400px">
+</div>
+
+_d. Seleccionar la opción "Añadir Nudo Caudal"_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.25.PNG" width="400px">
+</div>
+
+_d. Picar en la zona de trabajo, procurando simular de manera aproximada la ubicación del nodo según la imagen de guía._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.26.PNG" width="400px">
+</div>
+
+_e. Seleccionar la opción "Añadir tubería""._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.27.PNG" width="400px">
+</div>
+
+_e. Para agregar los segmentos de tuberías, siempre se debe seleccionar como primer punto el nodo o el tanque aguas arriba en el sistema y picar posteriormente el nudo o el tanque aguas abajo de dicho tramo_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+</div>
 
 ### Carga una imagen de fondo para el trazado (cargar imagen desde GoogleEarth) 
 (paso a paso de como cargar una imagen desde Maps, convertirlo y cargalo de fondo, trazar sobre ese fondo, medir)
 
-[Link de descarga de convertir de formato de Imagen ".BPM"](https://convertio.co/es/download/3ef514d1b96e6cc159c006dea82a1738a67b94/)
+[Link de descarga para convertir el formato de una imagen a formato ".BPM"](https://convertio.co/es/download/3ef514d1b96e6cc159c006dea82a1738a67b94/)
+
+**1. Definir el esquema general de la red:** 
+
+Para el segundo trazado correspondiente a la red cerrada, se utilizará el siguiente esquema general de una red cerrada, la cual se presenta a continuación:
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.17.PNG" width="500px">
+</div>
+
+**2. Crear nuevo archivo y área de trabajo:** Repetir el mismo procedimiento del numeral 2 de "Red Abierta"
+
+**3. Creación de nodos, tanques y tramos de tuberías**
 
 ### Carga una red previamente elaborado en AutoCAD (uso de EPACAD)
 
