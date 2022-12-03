@@ -135,6 +135,25 @@ _d.Con el siguiente link convertir la imagen descargada de Google Earth y guarda
   <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
 </div>
 
+_e.Desde el EPANET, en la barra de herramientas Ver, seleccionar la opción "Mapa de Fondo" y seleccinar la subcategoria "Cargar"_ 
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+</div>
+
+_f. Buscar la ubicación del archivo y cargarlo al EPANET_ 
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+</div>
+
+_g. Iniciar con la creación de nodos, tanques y tuberías tal como se indicó en el primer apartado de esta actividad. El usuario puede apagar y prender la imagen de fondo para evaluar como está realizado el trazado_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+</div>
+
+
 
 ### Carga una red previamente elaborado en AutoCAD (uso de EPACAD)
 
