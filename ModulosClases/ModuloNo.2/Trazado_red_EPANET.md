@@ -107,24 +107,24 @@ Para orientar al usuario a manera de ejemplo a continuación se presenta el proc
 _a. Buscar y abrir el software previamente instalado_
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.29.PNG" width="400px">
 </div>
 
 
-_b. Seleccionar la zona que deseea tomar como referencia para el trazado de la red_
+_b. Seleccionar la zona que desea tomar como referencia para el trazado de la red_
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.30.PNG" width="400px">
 </div>
 
 _c. Ubicar adecuadamente la zona donde solicitará al software descargar la imagen, picar el botón "guardar imagen" el cual se guardará por defecto con formato ".jpg" o ".png"_
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.31.PNG" width="400px">
 </div>
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.32.PNG" width="400px">
 </div>
 
 _d.Con el siguiente link convertir la imagen descargada de Google Earth y guardada en una carpeta del pc. Debe buscar el archivo en la ruta dond guardó el archivo e indicar que el archivo lo desea transformar a formato ".BPM"_ 
@@ -132,25 +132,25 @@ _d.Con el siguiente link convertir la imagen descargada de Google Earth y guarda
 [Link de descarga para convertir el formato de una imagen a formato ".BPM"](https://convertio.co/es/download/3ef514d1b96e6cc159c006dea82a1738a67b94/)
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.33.PNG" width="400px">
 </div>
 
 _e.Desde el EPANET, en la barra de herramientas Ver, seleccionar la opción "Mapa de Fondo" y seleccinar la subcategoria "Cargar"_ 
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.35.PNG" width="400px">
 </div>
 
 _f. Buscar la ubicación del archivo y cargarlo al EPANET_ 
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.37.PNG" width="400px">
 </div>
 
-_g. Iniciar con la creación de nodos, tanques y tuberías tal como se indicó en el primer apartado de esta actividad. El usuario puede apagar y prender la imagen de fondo para evaluar como está realizado el trazado_
+_g. Iniciar con la creación de nodos, tanques y tuberías tal como se indicó en el primer apartado de esta actividad. El usuario puede apagar y encender la imagen de fondo para evaluar como está realizado el trazado_
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.38.PNG" width="400px">
 </div>
 
 
