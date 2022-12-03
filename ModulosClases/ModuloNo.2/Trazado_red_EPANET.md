@@ -99,21 +99,42 @@ _e. Para agregar los segmentos de tuberías, siempre se debe seleccionar como pr
 </div>
 
 ### Carga una imagen de fondo para el trazado (cargar imagen desde GoogleEarth) 
-(paso a paso de como cargar una imagen desde Maps, convertirlo y cargalo de fondo, trazar sobre ese fondo, medir)
+
+Una de las herramientas de EPANET más usadas y prácticas corresponde al cargue de imágenes de fondo, tomando como referencia una imagen con formato ".BPM". 
+
+Para orientar al usuario a manera de ejemplo a continuación se presenta el procedimiento sugerido para cargar imágenes tipo ".BPM" usando como base una imagen tomada de Google Earth.
+
+_a. Buscar y abrir el software previamente instalado_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+</div>
+
+
+_b. Seleccionar la zona que deseea tomar como referencia para el trazado de la red_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+</div>
+
+_c. Ubicar adecuadamente la zona donde solicitará al software descargar la imagen, picar el botón "guardar imagen" el cual se guardará por defecto con formato ".jpg" o ".png"_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
+</div>
+
+_d.Con el siguiente link convertir la imagen descargada de Google Earth y guardada en una carpeta del pc. Debe buscar el archivo en la ruta dond guardó el archivo e indicar que el archivo lo desea transformar a formato ".BPM"_ 
 
 [Link de descarga para convertir el formato de una imagen a formato ".BPM"](https://convertio.co/es/download/3ef514d1b96e6cc159c006dea82a1738a67b94/)
 
-**1. Definir el esquema general de la red:** 
-
-Para el segundo trazado correspondiente a la red cerrada, se utilizará el siguiente esquema general de una red cerrada, la cual se presenta a continuación:
-
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.17.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.28.PNG" width="400px">
 </div>
 
-**2. Crear nuevo archivo y área de trabajo:** Repetir el mismo procedimiento del numeral 2 de "Red Abierta"
-
-**3. Creación de nodos, tanques y tramos de tuberías**
 
 ### Carga una red previamente elaborado en AutoCAD (uso de EPACAD)
 
