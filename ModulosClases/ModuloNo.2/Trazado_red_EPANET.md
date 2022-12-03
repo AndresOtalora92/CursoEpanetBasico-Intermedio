@@ -127,7 +127,7 @@ _c. Ubicar adecuadamente la zona donde solicitará al software descargar la imag
   <img src="Imagenes/FiguraNo.2.32.PNG" width="400px">
 </div>
 
-_d.Con el siguiente link convertir la imagen descargada de Google Earth y guardada en una carpeta del pc. Debe buscar el archivo en la ruta dond guardó el archivo e indicar que el archivo lo desea transformar a formato ".BPM"_ 
+_d.Con el siguiente link convertir la imagen descargada de Google Earth y guardada en una carpeta del pc. Debe buscar el archivo en la ruta donde guardó el archivo e indicar que el archivo lo desea transformar a formato ".BPM"_ 
 
 [Link de descarga para convertir el formato de una imagen a formato ".BPM"](https://convertio.co/es/download/3ef514d1b96e6cc159c006dea82a1738a67b94/)
 
@@ -135,7 +135,7 @@ _d.Con el siguiente link convertir la imagen descargada de Google Earth y guarda
   <img src="Imagenes/FiguraNo.2.33.PNG" width="400px">
 </div>
 
-_e.Desde el EPANET, en la barra de herramientas Ver, seleccionar la opción "Mapa de Fondo" y seleccinar la subcategoria "Cargar"_ 
+_e.Desde el EPANET, en la barra de herramientas Ver, seleccionar la opción "Mapa de Fondo" y seleccionar la subcategoria "Cargar"_ 
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.35.PNG" width="400px">
@@ -153,17 +153,16 @@ _g. Iniciar con la creación de nodos, tanques y tuberías tal como se indicó e
   <img src="Imagenes/FiguraNo.2.38.PNG" width="400px">
 </div>
 
-
-
 ### Carga una red previamente elaborado en AutoCAD (uso de EPACAD)
 
 [Link de descarga del aplicativo EPACAD](https://www.google.com/search?q=epacad&rlz=1C1SQJL_esCO854CO854&oq=epacad&aqs=chrome..69i57j0i512l4j0i10i512l2j0i512.1360j0j7&sourceid=chrome&ie=UTF-8)
 
 ### Control de versiones
 
-| Versión  | Descripción   | Autor                                      | Horas |
-|----------|:--------------|--------------------------------------------|:-----:|
+| Versión    | Descripción   | Autor                                      | Horas |
+|------------|:--------------|--------------------------------------------|:-----:|
 | 2022.01.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
+| 2022.03.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
