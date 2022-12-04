@@ -92,12 +92,12 @@ _j. Revise que las tuberías y los nodos hayan sido cargados exitosamente. Revis
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.04.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  1.5  |
+| 2022.04.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   2   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
 
-| [Anterior](../ModuloNo.2/Generalidades_EPANET.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente] |
+| [Anterior](../ModuloNo.2/Trazado_red_EPANET.md)| [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente] |
 |----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------|
