@@ -28,12 +28,65 @@ Al crear polilíneas independientes, divididas en los vertices que se convertir�
 
 [Link de descarga del aplicativo EPACAD](https://www.google.com/search?q=epacad&rlz=1C1SQJL_esCO854CO854&oq=epacad&aqs=chrome..69i57j0i512l4j0i10i512l2j0i512.1360j0j7&sourceid=chrome&ie=UTF-8)
 
-_g. Iniciar con la creación de nodos, tanques y tuberías tal como se indicó en el primer apartado de esta actividad. El usuario puede apagar y encender la imagen de fondo para evaluar como está realizado el trazado_
+_a. Abrir el AUTOCAD o el CIVIL3D en el cual se haya construido previamente la red (se debe tener en cuenta que cada final de un polilínea se convertirá en un nodo_
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.38.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.39.PNG" width="700px">
 </div>
 
+_b. En la barra de menu del AUTOCAD o del CIVIL3D buscar la opción "guardar como" o "guardar con otro formato"_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.40.PNG" width="700px">
+</div>
+
+_c. Seleccionar la opción formato ".dxf"_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.41.PNG" width="700px">
+</div>
+
+_d. Seleccionar la ruta en la cual guardará el archivo con este formato_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.42.PNG" width="700px">
+</div>
+
+_e. Buscar y abrir el software EPACAD previamente instalado_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.43.PNG" width="700px">
+</div>
+
+_f. En la barra de herramientas dar click en "abrir" o "abrir archivo" y buscar la ruta donde guardó el archivo ".dfx"_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.44.PNG" width="700px">
+</div>
+
+_g. Seleccionar la capa donde creó todA la red (en este caso la capa se construyó en la capa "0". Seleccionar en el "modo de conversión" la opción "Modo Node" y dar clic en "siguiente"_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.45.PNG" width="700px">
+</div>
+
+_h. Guardar el archivo en formato ".inp" en la ruta que el usuario decida y pueda encontrarla fácilmente_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.46.PNG" width="700px">
+</div>
+
+_i. Abrir el EPANET y en la barra de herramientas "Archivo" busca la opción "abrir" y busque el archivo con extensión ".inp"_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.47.PNG" width="700px">
+</div>
+
+_j. Revise que las tuberías y los nodos hayan sido cargados exitosamente. Revise las propiedades y comparé si su red creado en AUTOCAD o CIVIL3D coincide con lo importado al EPANET_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.48.PNG" width="700px">
+</div>
 
 ### Control de versiones
 

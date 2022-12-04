@@ -153,21 +153,6 @@ _g. Iniciar con la creación de nodos, tanques y tuberías tal como se indicó e
   <img src="Imagenes/FiguraNo.2.38.PNG" width="700px">
 </div>
 
-### Carga una red previamente construido en AutoCAD (uso de EPACAD)
-
-Otra manera de tener una red en EPANET consiste en cargar una red previamente elaborada en CAD, bien sea en AutoCAD clásico o en Civil3D. 
-
-Al crear polilíneas independientes, divididas en los vertices que se convertirán en nodos y trabajando todo sobre una capa, es posible cargar el archivo en EPANET utilizando el software EPACAD, software que puede ser descargado en el siguiente link:
-
-[Link de descarga del aplicativo EPACAD](https://www.google.com/search?q=epacad&rlz=1C1SQJL_esCO854CO854&oq=epacad&aqs=chrome..69i57j0i512l4j0i10i512l2j0i512.1360j0j7&sourceid=chrome&ie=UTF-8)
-
-_g. Iniciar con la creación de nodos, tanques y tuberías tal como se indicó en el primer apartado de esta actividad. El usuario puede apagar y encender la imagen de fondo para evaluar como está realizado el trazado_
-
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.38.PNG" width="700px">
-</div>
-
-
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
