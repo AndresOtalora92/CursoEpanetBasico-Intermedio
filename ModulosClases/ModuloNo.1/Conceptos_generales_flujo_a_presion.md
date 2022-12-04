@@ -15,7 +15,7 @@ Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
-    <img src="Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
+    <img src="Imagenes/INTRODUCCION_MOD1_ACT1.PNG" width="800px">
 </div>
 
 ## Introducción

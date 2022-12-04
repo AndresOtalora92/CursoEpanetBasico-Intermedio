@@ -11,6 +11,16 @@
 
 <br>
 
+
+<div align="center">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ET_dkp9RjfFLozQ0Mhd8VngB7qYRgBuEmNCEBfVUOXegoA?e=gPqJHs">
+   
+    <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px"
+        alt="Logotipo de Mozilla que dirige a la página inicial de Mozilla"
+      />
+    </a>
+</div>
+
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
     <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
