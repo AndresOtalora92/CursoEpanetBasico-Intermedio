@@ -55,7 +55,7 @@ _d. Seleccionar la ruta en la cual guardará el archivo con este formato_
 _e. Buscar y abrir el software EPACAD previamente instalado_
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.43.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.43.PNG" width="500px">
 </div>
 
 _f. En la barra de herramientas dar click en "abrir" o "abrir archivo" y buscar la ruta donde guardó el archivo ".dfx"_
