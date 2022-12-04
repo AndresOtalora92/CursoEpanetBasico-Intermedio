@@ -11,6 +11,13 @@
 
 Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
+    <img src="Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
+</div>
+
 ## Introducción
 
 En el presente capítulo se describen algunos conceptos generales relacionados con los flujos a presión. Se definen fundamentos de la hidráulica que el lector debe conocer o recordar antes de trabajar las siguientes actividades. También se describen los principales usos y aplicaciones de los flujos a presión y se mencionan algunas clasificaciones de los flujos a presión y de las redes que componen los sistemas hidráulicos.

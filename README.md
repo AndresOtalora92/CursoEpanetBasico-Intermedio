@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-    <b>VIDEO DE INTRODUCCIÓN </b>
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
     <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
 </div>
 
