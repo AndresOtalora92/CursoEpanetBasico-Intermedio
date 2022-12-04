@@ -82,7 +82,7 @@ _i. Abrir el EPANET y en la barra de herramientas "Archivo" busca la opción "ab
   <img src="Imagenes/FiguraNo.2.47.PNG" width="700px">
 </div>
 
-_j. Revise que las tuberías y los nodos hayan sido cargados exitosamente. Revise las propiedades y comparé si su red creado en AUTOCAD o CIVIL3D coincide con lo importado al EPANET_
+_j. Revise que las tuberías y los nodos hayan sido cargados exitosamente. Revise las propiedades y comparé si su red creado en AUTOCAD o CIVIL3D coincide con lo importado al EPANET._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.48.PNG" width="700px">
