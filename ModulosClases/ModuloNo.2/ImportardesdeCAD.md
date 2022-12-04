@@ -88,7 +88,7 @@ _j. Revise que las tuberías y los nodos hayan sido cargados exitosamente. Revis
   <img src="Imagenes/FiguraNo.2.48.PNG" width="700px">
 </div>
 
-### Control de versiones
+### Control de versiones...
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
