@@ -138,7 +138,7 @@ _d.Con el siguiente link convertir la imagen descargada de Google Earth y guarda
 _e.Desde el EPANET, en la barra de herramientas Ver, seleccionar la opción "Mapa de Fondo" y seleccionar la subcategoría "Cargar"_ 
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.35.PNG" width="100px">
+  <img src="Imagenes/FiguraNo.2.35.PNG" width="700px">
 </div>
 
 _f. Buscar la ubicación del archivo y cargarlo al EPANET_ 
