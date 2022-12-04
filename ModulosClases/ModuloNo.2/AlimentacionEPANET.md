@@ -27,7 +27,9 @@ A continuación se presenta la información base correspondiente a la red de tub
   <img src="Imagenes/FiguraNo.2.17.PNG" width="700px">
 </div>
 
-Nota: Las cotas de cada nodo se presentan en la siguiente tabla:
+**Nota: Las cotas de cada nodo se presentan en la siguiente tabla:**
+
+<div align="center">
 
 | Nodo | Cota (m.s.n.m.) | 
 |------|:----------------|
@@ -37,6 +39,7 @@ Nota: Las cotas de cada nodo se presentan en la siguiente tabla:
 | 4    | 241             |
 | 5    | 241             |
 | 6    | 239             |
+</div>
 
 ### Control de versiones
 
