@@ -13,19 +13,36 @@ Keywords: `EPANET` `geometría` `Cargue información`
 
 ## Introducción
 
-En este módulo se describe un procedimiento particular para el cargue o importación de la geometría básica de una red de tuberías (incluyendo sus nodos) tomando un archivo previamente elaborado el AUTOCAD o CIVIL3D utilizando el software complementario EPACAD.
+En este módulo se muestra el procedimiento sugerido para el cargue de información básica que deben tener los elementos u objetos básicos que componen una red de tuberías utilizando el software EPANET.
 
 ## Objetivos
 
-El objetivo principal de esta actividad es permitirle al usuario aprender una metodología adicional para la elaboración del esqueleto o geometría de una red utilizando AUTOCAD o CIVIL3D. En los casos de la ingeniería aplicada, como por ejemplo redes complejas de edificaciones o red de acueducto, el manejo de la información gráfica requiere que la red sea construida o elaborada en software de dibujo técnico. 
+El objetivo principal de esta actividad es mostrarle al usuario como cargar, ingresar y editar la información básica necesaria para alimentar adecuadamente la red. Para realizar este objetivo se utilizará un problema base teórico con información de longitudes, materiales, diámetros, niveles y caudales demandados en alguno de los nodos que componen una red cerrada con un solo ciclo, cuyo caudal es generado por el nivel constante en un tanque. 
 
+## Ejercicio base de aplicación
 
+A continuación se presenta la información base correspondiente a la red de tuberías (sistema cerrado con un ciclo) alimentada por un tanque elevado de nivel constante que descarga a varios tramos de red. La información de la geometría, demanda en los niveles y nivel del tanque se presentan resumidos en la siguiente imagen:
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.17.PNG" width="700px">
+</div>
+
+Nota: Las cotas de cada nodo se presentan en la siguiente tabla:
+
+| Nodo | Cota (m.s.n.m.) | 
+|------|:----------------|
+| 1    | 250             |
+| 2    | 248             |
+| 3    | 242             |
+| 4    | 241             |
+| 5    | 241             |
+| 6    | 239             |
 
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.04.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   2   |
+| 2022.04.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  1   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
