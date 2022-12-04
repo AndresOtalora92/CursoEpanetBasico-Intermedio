@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.png" width="400px">
+  <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="400px">
 </div>
 
 
