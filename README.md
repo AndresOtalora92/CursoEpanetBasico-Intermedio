@@ -9,6 +9,8 @@
 <br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
 </div>
 
+<br>
+
 <div align="center">
     <b>VIDEO DE INTRODUCCIÓN </b>
     <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
