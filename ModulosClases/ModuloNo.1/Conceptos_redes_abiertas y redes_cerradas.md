@@ -12,6 +12,18 @@
 
 Keywords: `Redes cerradas` `Redes abiertas` `Solución de sistemas` `Nodos`
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EX3A9L6eb3NGiGx8BBddNccB2qWo6AZS82Yy2isCQFpC8A?e=Eva5AV">
+        <img src="Imagenes/INTRODUCCION_MOD1_ACT6.PNG" width="800px">
+    </a>
+</div>
+
+
 ## Introducción
 
 En esta actividad se describen los conceptos generales y las principales características de los sistemas hidráulicos compuestos por redes, los cuales pueden ser clasificados como redes abiertas y redes cerradas. Se describirán conceptualmente algunas metodologías numéricas para la solución de los sistemas de ecuaciones que se generan cuando se requiere la estimación del caudal en estos sistemas. Finalmente, se describirán algunas recomendaciones a la hora de plantear estos sistemas matemáticos.

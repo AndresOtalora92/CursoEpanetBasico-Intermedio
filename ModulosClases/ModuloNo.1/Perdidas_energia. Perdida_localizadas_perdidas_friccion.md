@@ -11,6 +11,18 @@
 
 Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EcRb1LreSzBEmGEz29yFhUQBFw7C_Jg-zJIT8lTA3c5gHQ?e=ggDpk0">
+        <img src="Imagenes/INTRODUCCION_MOD1_ACT4.PNG" width="800px">
+    </a>
+</div>
+
+
 ## Introducción
 
 En este módulo se describen los conceptos relacionados con las pérdidas de energía en un sistema hidráulico con flujos a presión. Se detallan las metodologías más usadas para la estimación de las pérdidas de energía debido a la fricción o rozamiento del fluido y las pérdidas de energía debido a accesorios.

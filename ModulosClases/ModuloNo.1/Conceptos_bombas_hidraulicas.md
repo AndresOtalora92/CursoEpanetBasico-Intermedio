@@ -11,6 +11,18 @@
 
 Keywords: `Turbomáquinas` `Bombas` `Eficiencia` `NPSH`
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EVWjv2ckoENKmvMDwZHYwRAB_wM4prKbmU0VxvtU7722fg?e=7EC0aO">
+        <img src="Imagenes/INTRODUCCION_MOD1_ACT5.PNG" width="800px">
+    </a>
+</div>
+
+
 ## Introducción
 
 En este módulo se describe el concepto general de una turbomáquina. Se detallan las principales características de las bombas hidráulicas, su clasificación, sus usos y aplicaciones y el desarrollo numérico y conceptual de las bombas en los problemas de flujos a presión en redes cerradas y redes abiertas.

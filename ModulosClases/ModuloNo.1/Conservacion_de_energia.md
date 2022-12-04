@@ -11,6 +11,19 @@
 
 Keywords: `Energía` `Bernoulli` `Línea de Corriente` `Conservación de la energía`
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ERjexa1U1iZNpHhm_8vCb5MBXP0wCzpyHXzs59Nu2On_ag?e=rBHC3F">
+        <img src="Imagenes/INTRODUCCION_MOD1_ACT3.PNG" width="800px">
+    </a>
+</div>
+
+
+
 ## Introducción
 
 En este módulo se presentan de manera general los conceptos básicos y las ecuaciones que definen la conservación de la energía en sistemas hidráulicos a presión. Se definirá de manera general los conceptos básicos de la energía cinética, energía potencial y energía de presión. Se describirá de manera general las pérdidas de energía en un sistema a presión y se conceptualizará el uso de la ecuación de Bernoulli para la solución de problemas aplicados. 
