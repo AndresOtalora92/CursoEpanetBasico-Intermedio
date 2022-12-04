@@ -173,7 +173,8 @@ _g. Iniciar con la creación de nodos, tanques y tuberías tal como se indicó e
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
 | 2022.01.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
-| 2022.03.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  3.   |
+| 2022.03.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
+| 2022.04.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   4   |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
