@@ -40,15 +40,15 @@ _a. Buscar el software en su computador personal_
 
 _b. Definir en la barra de herramienta la opción "Menu"_
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.19.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.19.PNG" width="600px">
 </div>
 
-_b. Definir en la barra de herramienta la opcion "Guardar" o "Guardar Como"_
+_c. Definir en la barra de herramienta la opcion "Guardar" o "Guardar Como"_
 <div align="center">
   <img src="Imagenes/FiguraNo.2.20.PNG" width="400px">
 </div>
 
-_c. Buscar la ruta y la carpeta donde desea crear su nuevo archivo de EPANET. Crear un nombre corto, sin tilde evitando los caracteres especiales"_
+_d. Buscar la ruta y la carpeta donde desea crear su nuevo archivo de EPANET. Crear un nombre corto, sin tilde evitando los caracteres especiales"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.21.PNG" width="400px">
@@ -160,6 +160,13 @@ Otra manera de tener una red en EPANET consiste en cargar una red previamente el
 Al crear polilíneas independientes, divididas en los vertices que se convertirán en nodos y trabajando todo sobre una capa, es posible cargar el archivo en EPANET utilizando el software EPACAD, software que puede ser descargado en el siguiente link:
 
 [Link de descarga del aplicativo EPACAD](https://www.google.com/search?q=epacad&rlz=1C1SQJL_esCO854CO854&oq=epacad&aqs=chrome..69i57j0i512l4j0i10i512l2j0i512.1360j0j7&sourceid=chrome&ie=UTF-8)
+
+_g. Iniciar con la creación de nodos, tanques y tuberías tal como se indicó en el primer apartado de esta actividad. El usuario puede apagar y encender la imagen de fondo para evaluar como está realizado el trazado_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.38.PNG" width="400px">
+</div>
+
 
 ### Control de versiones
 
