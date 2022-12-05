@@ -65,6 +65,12 @@ _b.De doble clic sobre la imagen que representa el tanque. Se abrirá la ventana
   <img src="Imagenes/FiguraNo.2.50.PNG" width="700px">
 </div>
 
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.51.PNG" width="700px">
+</div>
+
+<br>
+
 **1) Asigne un nombre corto que permita identificar la descripción**
 <br>
 **2) Asigne un nombre corto que permita identificar la etiqueta**
@@ -72,20 +78,15 @@ _b.De doble clic sobre la imagen que representa el tanque. Se abrirá la ventana
 **3) Escriba el valor del nivel del agua en el tanque en unidades de metros sobre el nivel de mar (m.s.n.m.)**
 <br>
 
-_c.XXXX_
-
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.51.PNG" width="700px">
-</div>
-
-
 ## Cargar información en los nodos (incluyendo caudales de demanda)
+
+_c. Antes de cargar la información correspondiente a los nodos, revise las unidades del caudal. Para este caso, diríjase a la barra de herramientas "Proyecto", después en la opción "Valores por defecto" y revise si las unidades del caudal se encuentra en litros/segundo (LPS o L/s)_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.52.PNG" width="700px">
 </div>
 
-_d.XXXX_
+_d.De doble clic sobre la imagen que representa uno de los nodos. Se abrirá la ventana de información del nodo. Una vez esté abierta esta ventana proceda a editar de la siguiente manera (debe repetir este procedimiento para todos los nodos del sistema):_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.53.PNG" width="700px">
@@ -95,9 +96,17 @@ _d.XXXX_
   <img src="Imagenes/FiguraNo.2.54.PNG" width="700px">
 </div>
 
+**1) Asigne un nombre corto que permita identificar la descripción**
+<br>
+**2) Asigne un nombre corto que permita identificar la etiqueta**
+<br>
+**3) Escriba el valor del nivel del agua en el tanque en unidades de metros sobre el nivel de mar (m.s.n.m.)**
+<br>
+**4) Escriba el valor del caudal en LPS. Si el nodo no requiere de una demanda (consumo) escriba (0)**
+
 ## Cargar información en las tuberías y tramos de la red
 
-_e.XXXX_
+_e.De doble clic sobre la imagen que representa un tramo de tubería. Se abrirá la ventana de información de la tubería. Una vez esté abierta esta ventana proceda a editar de la siguiente manera (debe repetir este procedimiento para todos los nodos del sistema):_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.55.PNG" width="700px">
@@ -107,33 +116,43 @@ _e.XXXX_
   <img src="Imagenes/FiguraNo.2.56.PNG" width="700px">
 </div>
 
+**1) Asigne un nombre corto que permita identificar la descripción**
+<br>
+**2) Asigne un nombre corto que permita identificar la etiqueta**
+<br>
+**3) Escriba la longitud del tramo de la tubería (si tiene inclinación debe ingresar la longitud total real y no la longitud del trazado en planta de un posible plano) en unidades de (m)**
+<br>
+**4) Escriba el diámetro de la tubería en unidades de milímetros (mm)**
+<br>
+**5) Escriba la rugosidad absoluta del material de la tubería en unidades de (mm)**
+
 ## Revisar la información cargada 
 
-_f.XXXX_
+_f.Una vez cargada la información el siguiente paso es revisar que esta haya sido cargada adecuadamente. Una de las formas más fáciles de hacerlo (ya que puede visualizarse todo el sistema de manera resumida) es con la herramienta de "informes" y la categoría "Tablas"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.57.PNG" width="700px">
 </div>
 
-_g.XXXX_
+_g.Una vez ejecutada la categoría "Tablas" seleccionada "Línea de la red" y dar clic en aceptar_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.58.PNG" width="700px">
 </div>
 
-_h.XXXX_
+_h.Se abrirá una tabla la cual puede comparar con la tabla inicial del problema_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.59.PNG" width="700px">
 </div>
 
-_i.XXXX_
+_i.Repita el mismo procedimiento del numeral "f" pero esta vez seleccione la opción "Nodos o Nudos en la red" y de clic en aceptar_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.60.PNG" width="700px">
 </div>
 
-_j.XXXX_
+_j. Al igual que con el paso "h" se abrirá una tabla la cual puede comparar con la tabla y el esquem inicial del problema_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.61.PNG" width="700px">
@@ -145,7 +164,7 @@ _j.XXXX_
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
 | 2022.04.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
-| 2022.05.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  2.5   |
+| 2022.05.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  3  |
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 
