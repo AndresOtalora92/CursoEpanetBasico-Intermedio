@@ -41,6 +41,13 @@ A continuación se presenta la información base correspondiente a la red de tub
 | 6    | 239             |
 </div>
 
+
+## Cargar información en el tanque de alimentación de nivel constante
+
+## Cargar información en las tuberías y tramos de la red
+
+## Cargar información en los nodos (incluyendo caudales de demanda)
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
