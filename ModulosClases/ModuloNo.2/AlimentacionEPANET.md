@@ -19,7 +19,7 @@ En este módulo se muestra el procedimiento sugerido para el cargue de informaci
 
 El objetivo principal de esta actividad es mostrarle al usuario como cargar, ingresar y editar la información básica necesaria para alimentar adecuadamente la red. Para realizar este objetivo se utilizará un problema base teórico con información de longitudes, materiales, diámetros, niveles y caudales demandados en alguno de los nodos que componen una red cerrada con un solo ciclo, cuyo caudal es generado por el nivel constante en un tanque. 
 
-## Ejercicio base de aplicación
+## Enunciado del problema para la aplicación de la actividad.
 
 A continuación se presenta la información base correspondiente a la red de tuberías (sistema cerrado con un ciclo) alimentada por un tanque elevado de nivel constante que descarga a varios tramos de red. La información de la geometría, demanda en los niveles y nivel del tanque se presentan resumidos en la siguiente imagen:
 
@@ -27,7 +27,10 @@ A continuación se presenta la información base correspondiente a la red de tub
   <img src="Imagenes/FiguraNo.2.17.PNG" width="700px">
 </div>
 
-**Nota: Las cotas de cada nodo se presentan en la siguiente tabla:**
+
+**Notas:** 
+
+**1. Las cotas de cada nodo se presentan en la siguiente tabla:**
 
 <div align="center">
 
@@ -40,13 +43,98 @@ A continuación se presenta la información base correspondiente a la red de tub
 | 5    | 241             |
 | 6    | 239             |
 </div>
+**2. La rugosidad del material de las tuberías es de 0.02 mm:**
+**3. Se asumirá que no existen pérdidas de energía localizadas o menores:**
 
 
 ## Cargar información en el tanque de alimentación de nivel constante
 
-## Cargar información en las tuberías y tramos de la red
+_a.XXXX_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.49.PNG" width="700px">
+</div>
+
+
+
+_b.XXXX_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.50.PNG" width="700px">
+</div>
+
+_c.XXXX_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.51.PNG" width="700px">
+</div>
+
 
 ## Cargar información en los nodos (incluyendo caudales de demanda)
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.52.PNG" width="700px">
+</div>
+
+_d.XXXX_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.53.PNG" width="700px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.54.PNG" width="700px">
+</div>
+
+## Cargar información en las tuberías y tramos de la red
+
+_e.XXXX_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.55.PNG" width="700px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.56.PNG" width="700px">
+</div>
+
+## Revisar la información cargada 
+
+_f.XXXX_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.57.PNG" width="700px">
+</div>
+
+_g.XXXX_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.58.PNG" width="700px">
+</div>
+
+_h.XXXX_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.59.PNG" width="700px">
+</div>
+
+_i.XXXX_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.60.PNG" width="700px">
+</div>
+
+_j.XXXX_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.61.PNG" width="700px">
+</div>
+
+
+
+
+
+
 
 ### Control de versiones
 
