@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Elaboración y trazado de una red hidráulica. Construcción del esqueleto del modelo hidráulico
+# Curso de Epanet - Módulo 2 - Elaboración y trazado de una red hidráulica. Construcción del esqueleto del modelo hidráulico
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">

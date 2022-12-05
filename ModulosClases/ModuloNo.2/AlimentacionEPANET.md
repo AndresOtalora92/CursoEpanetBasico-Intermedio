@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Alimentación del modelo Epanet. Elementos de la red
+# Curso de Epanet - Módulo 2 - Alimentación del modelo Epanet. Elementos de la red
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">

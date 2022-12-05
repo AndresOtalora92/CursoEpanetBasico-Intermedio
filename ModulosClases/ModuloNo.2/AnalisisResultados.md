@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Resultados. Análisis y revisión.
+# Curso de Epanet - Módulo 2 - Resultados. Análisis y revisión.
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">

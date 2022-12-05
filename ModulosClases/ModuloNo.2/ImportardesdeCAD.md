@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Importación de elementos desde AutoCAD a EPANET utilizando EPACAD
+# Curso de Epanet - Módulo 2 - Importación de elementos desde AutoCAD a EPANET utilizando EPACAD
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">

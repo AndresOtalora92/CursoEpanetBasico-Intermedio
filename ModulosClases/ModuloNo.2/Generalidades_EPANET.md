@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 1 - Generalidades de EPANET
+# Curso de Epanet - Módulo 2 - Generalidades de EPANET
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">
