@@ -53,19 +53,24 @@ A continuación se presenta la información base correspondiente a la red de tub
 
 ## Cargar información en el tanque de alimentación de nivel constante
 
-_a.XXXX_
+_a. Una vez haya creado el esqueleto o geometría base del problema (ver las actividades anteriores de este módulo), abra el archivo donde lo creo y revise con cuidado_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.49.PNG" width="700px">
 </div>
 
-
-
-_b.XXXX_
+_b.De doble clic sobre la imagen que representa el tanque. Se abrirá la ventana de información del tanque. Una vez esté abierta esta ventana proceda a editar de la siguiente manera:_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.50.PNG" width="700px">
 </div>
+
+**1) Asigne un nombre corto que permita identificar la descripción**
+<br>
+**2) Asigne un nombre corto que permita identificar la etiqueta**
+<br>
+**3) Escriba el valor del nivel del agua en el tanque en unidades de metros sobre el nivel de mar (m.s.n.m.)**
+<br>
 
 _c.XXXX_
 
@@ -133,11 +138,6 @@ _j.XXXX_
 <div align="center">
   <img src="Imagenes/FiguraNo.2.61.PNG" width="700px">
 </div>
-
-
-
-
-
 
 
 ### Control de versiones
