@@ -166,7 +166,7 @@ _j. Al igual que con el paso "h" se abrirá una tabla la cual puede comparar con
 | 2022.04.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
 | 2022.05.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  3  |
 
-_CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
+_CursoEpanetBasico-Intermedio es de uso libre para fines académicos..
 
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
