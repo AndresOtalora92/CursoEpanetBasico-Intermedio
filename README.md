@@ -91,7 +91,7 @@ A continuación, se presenta el contenido programático de los tres módulos que
 |Curvas de rendimiento| Utilizando las herramientas de Epanet se incluirán curvas de rendimiento de bombas hidráulicas. Se analizarán las características de una curva de rendimiento real y se analizará la variación de los caudales en un sistema hidráulico a presión cuando variando la curva de rendimiento de una bomba | 
 |Tanque de alimentación asimétricos| Utilizando las herramientas de Epanet se incluirán tanques de alimentación con formas asimétrica (diferentes a un cubo o a un paralelepipedo) en un sistema hidráulico con una red de flujo a presión.                                                                                                | 
 | Programación en Epanet.| A partir de diferentes herramientas de programación se realizará el cargue de información, edición de parámetros y análisis de información utilizando diferentes programadores de consola, entre ellos la integración de Epanet y Python                                                              |
-|Taller de Aplicación| Planteamiento de ejercicios resueltos de los numerales anteriores. Planteamiento de ejercicios para que el estudiante pueda practicar lo aprendido. |
+
 
 *En la siguiente imagen se presenta el contenido programático resumido en un diagrama de flujo.*
 
