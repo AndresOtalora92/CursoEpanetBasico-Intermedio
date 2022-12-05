@@ -43,9 +43,13 @@ A continuación se presenta la información base correspondiente a la red de tub
 | 5    | 241             |
 | 6    | 239             |
 </div>
+<br>
+
 **2. La rugosidad del material de las tuberías es de 0.02 mm:**
+<br>
 **3. Se asumirá que no existen pérdidas de energía localizadas o menores:**
 
+<br>
 
 ## Cargar información en el tanque de alimentación de nivel constante
 
