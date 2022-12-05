@@ -13,11 +13,11 @@ Keywords: `Resultados` `Histogramas` `Análisis`
 
 ## Introducción
 
-En este módulo se presentan algunas recomendaciones 
+En este módulo se presentan algunas recomendaciones para la visualización y exportación de los resultados obtenidos en EPANET una vez se ha creado la geometría, se ha alimentado el modelo y ejecutado.
 
 ## Objetivos
 
-El objetivo principal 
+El objetivo principal de esta actividad es permitirle al usuario tener diferentes herramientas de visualización de los resultados a partir del resumen de los mismos en tablas, contornos y gráficas, que pueden ser utilizados por el diseñador para tomar decisiones en una red hidráulica. 
 
 
 ### Control de versiones
