@@ -21,7 +21,7 @@ El objetivo principal de esta actividad es permitirle al usuario tener diferente
 
 ## Ejecutar el modelo hidráulico
 
-_a.Una vez ingresado todos los objetos de la red con su respectiva información se procede a ejecutar el modelo. Para esto diríjase a la barra de menus de los atajos y de clic sobre el ícono en forma de rayo. Si todo está bien, le aparecerá una pantalla ue indica que la "Simulación es válida"_
+_a. Una vez ingresado todos los objetos de la red con su respectiva información se procede a ejecutar el modelo. Para esto diríjase a la barra de menus de los atajos y de clic sobre el ícono en forma de rayo. Si todo está bien, le aparecerá una pantalla ue indica que la "Simulación es válida"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.62.PNG" width="700px">
@@ -33,19 +33,19 @@ _b. Una de las primeras metodologías para visualizar los resultados corresponde
   <img src="Imagenes/FiguraNo.2.63.PNG" width="700px">
 </div>
 
-_c.Para visualizar de mejor manera los resultados es posible indicarle al programa que engruese las líneas y muestre las etiquetas de los resultados tanto de los nodos y de las tuberías. Esto lo pueden realizar el buscar en la barra de herramientas "Ver" y en "opciones de Esquema" indicar la información que se desea mostrar_
+_c. Para visualizar de mejor manera los resultados es posible indicarle al programa que engruese las líneas y muestre las etiquetas de los resultados tanto de los nodos y de las tuberías. Esto lo pueden realizar el buscar en la barra de herramientas "Ver" y en "opciones de Esquema" indicar la información que se desea mostrar_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.64.PNG" width="700px">
 </div>
 
-_d.En la siguiente imagen se muestra el resultado de modificar las opciones de Esquema_
+_d. En la siguiente imagen se muestra el resultado de modificar las opciones de Esquema_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.65.PNG" width="700px">
 </div>
 
-_e.A manera de ejemplos complementarios, a continuación se presentan dos esquemas con el uso de leyendas. En la primera imagen se asignó como variables en los nodos las cotas y en las tuberías las velocidades. En la segunda imagen se asignó en los nodos la presión y en las tuberías las pérdidas de energía por unidad de longitud_
+_e. A manera de ejemplos complementarios, a continuación se presentan dos esquemas con el uso de leyendas. En la primera imagen se asignó como variables en los nodos las cotas y en las tuberías las velocidades. En la segunda imagen se asignó en los nodos la presión y en las tuberías las pérdidas de energía por unidad de longitud_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.66.PNG" width="700px">
@@ -94,43 +94,43 @@ _i. A manera de ejemplo en las siguientes imágenes se presenta el perfil de pre
   <img src="Imagenes/FiguraNo.2.74.PNG" width="700px">
 </div>
 
-_a._
+_j. También es posible extraer información y analizarla adecuadamente utilizando tablas que resumen la información tanto en los nodos como en las tuberías. En la barra de herramientas "Informes" en la opción "Tablas" puede seleccionar las tablas para los Nodos y para las tuberías. A manera de ejemplo a continuación se muestra la creación de estas tablas en los nodos._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.75.PNG" width="700px">
 </div>
 
-_a._
+_k. En "Columnas" seleccionar la información que quiere mostrar en cada nodo y dar clic en aceptar._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.76.PNG" width="700px">
 </div>
 
-_a._
+_l. Al realizar esto se abrirá la tabla que resumen en cada uno de los nodos la información seleccionada. En este caso se presenta la cota, la demanda base, la demanda total, la altura de energía, la altura de presión y la calidad del fluido (NO APLICA PARA ESTE CURSO)_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.77.PNG" width="700px">
 </div>
 
-_a._
+_m. Repitiendo este mismo procedimiento pero ahora seleccionado en el "Tipo" la opción "Línea de la Red" (tuberías)_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.78.PNG" width="700px">
 </div>
 
-_a._
+_n. Indique en las opciones de "Columnas" las variables que desea presentar en la tabla resumen de cada tramo de tubería_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.79.PNG" width="700px">
 </div>
 
-_a._
+_o. Al realizar esto se abrirá la tabla que resumen en cada uno de las tuberías o tramos de tuberías con la información seleccionada. En este caso se presenta la longitud, el diámetro, la rugosidad absoluta, el caudal, la velocidad, las pérdidas por unidad de longitud, el factor de fricción y el estado de las posibles válvulas definidas en el modelo._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.80.PNG" width="700px">
 </div>
 
-_a._
+_p._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.81.PNG" width="700px">
