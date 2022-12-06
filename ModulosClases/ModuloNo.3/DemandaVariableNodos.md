@@ -20,13 +20,7 @@ En este módulo se presentan algunas recomendaciones para la visualización y ex
 El objetivo principal de esta actividad es permitirle al usuario tener diferentes herramientas de visualización de los resultados a partir del resumen de los mismos en tablas, contornos y gráficas, que pueden ser utilizados por el diseñador para tomar decisiones en una red hidráulica. 
 
 
-_a._
-
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.61.PNG" width="700px">
-</div>
-
-### Control de versiones`
+### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
