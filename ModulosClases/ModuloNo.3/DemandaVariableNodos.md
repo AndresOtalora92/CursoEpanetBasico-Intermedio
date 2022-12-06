@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 3 - Inclusión de demanda variable en los nodos
+# Curso de Epanet - Módulo 3 - Inclusión de demanda variable en los nodos(análisis de periodo extendido)
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">
@@ -13,10 +13,13 @@ Keywords: `Demanda` `Consumo` `Caudal` `Nodos`
 
 ## Introducción
 
+En esta actividad se presentan los conceptos generales de una demanda variable en un nodo en una red y se presenta la metodología sugerida para su incorporación en una red previamente construida y modelada en EPANET. Se presentan un ejemplo utilizando el archivo previamente creado en las diferentes actividades que componen el módulo 2.
 
 ## Objetivos
 
+El objetivo principal de esta actividad es darle a conocer al usuario las herramientas que tiene el software EPANET para permitir agregar una demanda variable en los nodos de un sistema de tuberías.
  
+## Caudales variables o demanda variable. Conceptos.
 
 ### Control de versiones
 
