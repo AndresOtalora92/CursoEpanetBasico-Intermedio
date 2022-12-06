@@ -83,7 +83,7 @@ _h. En este ejemplo se ha seleccionado la opción de "Magnitud" la variable "Cot
   <img src="Imagenes/FiguraNo.2.72.PNG" width="700px">
 </div>
 
-_i. A manera de ejemplo en las siguientes imágenes se presenta el perfil de presiones tomando como referencia la ruta definida por los nodos "Tanque 1", "Nodo 2", "Nodo 3", "Nodo 5", "Nodo 6": _
+_i. A manera de ejemplo en las siguientes imágenes se presenta el perfil de presiones tomando como referencia la ruta definida por los nodos "Tanque 1", "Nodo 2", "Nodo 3", "Nodo 5", "Nodo 6". Con esta herramienta en muy fácil identificar los puntos críticos y su variación con respecto al espacio: _
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.73.PNG" width="700px">
