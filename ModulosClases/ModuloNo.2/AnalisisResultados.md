@@ -130,28 +130,28 @@ _o. Al realizar esto se abrirá la tabla que resumen en cada uno de las tubería
   <img src="Imagenes/FiguraNo.2.80.PNG" width="700px">
 </div>
 
-_p._
+_p. También es posible exportar el esqueleto o geometría base a diferentes formatos que pueden ser abiertos en otros software como por ejemplo AutoCAD, Civil3D, ArcGis y QGis. A manera de ejemplo a continuación se presenta como exportar el esquema del sistema. En la barra de herramientas "Archivo" en la opción "Exportar" seleccione la categoría "Esquema". Seleccione la opción de formato "Fichero intercambio Dibujo (.dxf)"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.81.PNG" width="700px">
 </div>
 
 
-_a._
+_q. Seleccione la ruta donde el usuario desee exportar la información. Respete la extensión ".dxf"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.82.PNG" width="700px">
 </div>
 
 
-_a._
+_r. Para revisar la exportación y trabajar con el resultado, abra el archivo "dxf" utilizando uno de los software indicados anteriormente. En nuestro ejemplo se abrió el software Civil3D y se abrió el archivo_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.83.PNG" width="700px">
 </div>
 
 
-_a._
+_s. También es posible exportar el escenario lo cual corresponde a la geometría incluyendo los diámetros, la rugosidad de las tuberías y la demanda en los nodos. Esta exportación se cargará en formato: ".inp", formato que puede ser ejecutado desde otro archivo y otro dicumento de EPANET._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.84.PNG" width="700px">
@@ -164,7 +164,8 @@ _a._
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.05.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   3   |
+| 2022.05.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   2   |
+| 2022.06.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  2.5  |
 
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
