@@ -27,7 +27,7 @@ _a.Una vez ingresado todos los objetos de la red con su respectiva información 
   <img src="Imagenes/FiguraNo.2.62.PNG" width="700px">
 </div>
 
-_a._
+_b. Una de las primeras metodologías para visualizar los resultados corresponde al uso de las leyendas_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.63.PNG" width="700px">
