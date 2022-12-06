@@ -19,8 +19,9 @@ En este módulo se presentan algunas recomendaciones para la visualización y ex
 
 El objetivo principal de esta actividad es permitirle al usuario tener diferentes herramientas de visualización de los resultados a partir del resumen de los mismos en tablas, contornos y gráficas, que pueden ser utilizados por el diseñador para tomar decisiones en una red hidráulica. 
 
+## Ejecutar el modelo hidráulico
 
-_a._
+_a.Una vez ingresado todos los objetos de la red con su respectiva información se procede a ejecutar el modelo. Para esto diríjase a la barra de menus de los atajos y de clic sobre el ícono en forma de rayo. Si todo está bien, le aparecerá una pantalla ue indica que la "Simulación es válida"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.62.PNG" width="700px">
