@@ -71,25 +71,24 @@ _g. Una vez lo haya guardado abra el archivo con uno de los software indicados a
   <img src="Imagenes/FiguraNo.2.70.PNG" width="700px">
 </div>
 
-_a._
+_g. También es posible representar los resultados utilizando la opción "gráfico" en la barra de herramientas "Informes" y seleccionando la categoría "Perfil Longitudinal". Para este caso debe seleccionar la ruta indicándola a partir de los nodos que conforma la ruta_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.71.PNG" width="700px">
 </div>
 
-_a._
+_h. En este ejemplo se ha seleccionado la opción de "Magnitud" la variable "Cota" y se ha definido la ruta representada por los nodos "Tanque 1", "Nodo 2", "Nodo 3", "Nodo 5", "Nodo 6". Los resultados se presentan a continuación:_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.72.PNG" width="700px">
 </div>
 
-_a._
+_i. A manera de ejemplo en las siguientes imágenes se presenta el perfil de presiones tomando como referencia la ruta definida por los nodos "Tanque 1", "Nodo 2", "Nodo 3", "Nodo 5", "Nodo 6": _
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.73.PNG" width="700px">
 </div>
 
-_a._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.74.PNG" width="700px">
