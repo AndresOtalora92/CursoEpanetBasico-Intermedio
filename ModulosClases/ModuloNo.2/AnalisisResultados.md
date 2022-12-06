@@ -23,8 +23,146 @@ El objetivo principal de esta actividad es permitirle al usuario tener diferente
 _a._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.61.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.62.PNG" width="700px">
 </div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.63.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.64.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.65.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.66.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.67.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.68.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.69.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.70.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.71.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.72.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.73.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.74.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.75.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.76.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.77.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.78.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.79.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.80.PNG" width="700px">
+</div>
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.81.PNG" width="700px">
+</div>
+
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.82.PNG" width="700px">
+</div>
+
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.83.PNG" width="700px">
+</div>
+
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.84.PNG" width="700px">
+</div>
+
+
+
 
 ### Control de versiones`
 
