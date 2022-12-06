@@ -27,31 +27,29 @@ _a.Una vez ingresado todos los objetos de la red con su respectiva información 
   <img src="Imagenes/FiguraNo.2.62.PNG" width="700px">
 </div>
 
-_b. Una de las primeras metodologías para visualizar los resultados corresponde al uso de las leyendas_
+_b. Una de las primeras metodologías para visualizar los resultados corresponde al uso de las leyendas. En este caso se ha seleccionado en la barra "Visor", para las tuberías la variable caudal y en los nodos la variable presión. En la parte izquierda de la ventana de trabajo aparecerá la leyenda con barra de colores, representados po una escala gradual._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.63.PNG" width="700px">
 </div>
 
-_a._
+_c.Para visualizar de mejor manera los resultados es posible indicarle al programa que engruese las líneas y muestre las etiquetas de los resultados tanto de los nodos y de las tuberías. Esto lo pueden realizar el buscar en la barra de herramientas "Ver" y en "opciones de Esquema" indicar la información que se desea mostrar_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.64.PNG" width="700px">
 </div>
 
-_a._
+_d.En la siguiente imagen se muestra el resultado de modificar las opciones de Esquema_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.65.PNG" width="700px">
 </div>
 
-_a._
+_e.A manera de ejemplos complementarios, a continuación se presentan dos esquemas con el uso de leyendas. En la primera imagen se asignó como variables en los nodos las cotas y en las tuberías las velocidades. En la segunda imagen se asignó en los nodos la presión y en las tuberías las pérdidas de energía por unidad de longitud_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.66.PNG" width="700px">
 </div>
-
-_a._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.67.PNG" width="700px">
