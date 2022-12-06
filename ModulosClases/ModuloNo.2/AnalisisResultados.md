@@ -55,19 +55,17 @@ _e.A manera de ejemplos complementarios, a continuación se presentan dos esquem
   <img src="Imagenes/FiguraNo.2.67.PNG" width="700px">
 </div>
 
-_a._
+_f. Otra manera de visualizar los resultados de la ejecución del modelo es exportándolo a un formato manipulable tipo: ".rpt" que puede ser abierto con un block de nota, un excel o un note++. En la barra de herramientas "informes" opción "Completp", puede exportar los resultados en la ruta que desee el usuario._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.68.PNG" width="700px">
 </div>
 
-_a._
+_g. Una vez lo haya guardado abra el archivo con uno de los software indicados anteriormente. En las siguientes dos imágenes se presentan los resultados obtenidos del informe generado por EPANET En este resume o reporte se puede encontrar los resultados en cada uno de los elementos que componen la red, en nuestro ejemplo los resultados en el tanque de alimentación, en los nodos y en las tuberías._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.69.PNG" width="700px">
 </div>
-
-_a._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.70.PNG" width="700px">
