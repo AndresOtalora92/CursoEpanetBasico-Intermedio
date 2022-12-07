@@ -50,18 +50,43 @@ Utilizando la red hidráulica construida y presentada en las actividades anterio
 
 A continuación se presenta de manera resumida el procedimiento utilizado para ingresar un rociador o emisor(como lo llama EPANET) en uno de los nodos del problema. 
 
-_a._
+_a. Primer debe dirigirse a la barra de herramientas del "Visor" seleccionar "Opciones" y la opción "Hidráulicas". Seleccione o pique el nodo 6 de la red y define por defecto como exponente definida en la ecuación del rociador igual a 0.5._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.10.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.109.PNG" width="700px">
 </div>
 
+<br>
+
+_b. Sobre el nudo 6 (el cual se definió que contendría el rociador) dar doble clic y en el apartado "Coeficiente del Emisor" introducir el valor "C" (coeficiente de demanda) que, para nuestro enunciado es igual a 0.70 LPS/m.c.a _
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.110.PNG" width="700px">
+</div>
+
+<br>
+
+_c. A manera de comparación se mostrarán los resultados de la red ejecutada sin incluir el rociador en el nodo 6 y posteriormente la misma red incluyendo el rociador. Como puede observar, en el nodo 6 la presión es de 6.16 m.c.a. Utilizaremos este valor como patrón para evaluar como cambia al agregar nuestro rociador_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.111.PNG" width="700px">
+</div>
+
+<br>
+
+_d. Una vez ejecutado el modelo incluyendo el rociador -(emisor) la presión en el nodo 6 (donde se encuentra el rociador) cambia a una presión de 5.31 m.c.a. Cabe resaltar que esta variación de presión modifica adicionalmente la presión y el caudal en todo el sistema (nodos y tuberías), tal como se presenta en la siguiente imagen_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.112.PNG" width="700px">
+</div>
+
+<br>
 
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.07.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
+| 2022.07.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   2   |
 
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
@@ -69,5 +94,5 @@ _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
 
-| [Anterior](../ModuloNo.2/AnalisisResultados.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](../ModuloNo.3/ComparacionMetodos.md) |
-|--------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|---------------|
+| [Anterior](../ModuloNo.3/ComparacionMetodos.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](../ModuloNo.3/CurvasRendimiento.md) |
+|-------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|---------------|
