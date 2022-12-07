@@ -33,6 +33,10 @@ El primer módulo corresponde a un repaso básico de algunos conceptos de la hid
 # Particularidad del curso.
 La Universidad Escuela Colombiana de Ingeniería Julio Garavito ofrece este curso virtual de educación continuada por medio del cual se ofrece la formación necesaria para realizar modelos hidráulicos de sistemas de tuberías con flujos a presión empleando el programa de EPANET.
 
+
+# Dirigido a
+Entidades públicas, empresas prestadoras de servicios, autoridades ambientales, privados, profesionales y/o estudiantes en Ingeniería Civil, Ingeniería Sanitaria y Ambiental, personal que labore áreas de consultoría, en el diseño de redes de acueducto, redes internas de edificaciones, redes para riego y tomadores de decisiones en el ámbito de la hidráulica a presión.
+
 # Objetivo principal del curso. 
 El objetivo general de este curso corresponde al estudio y aplicación del software de simulación hidráulica EPANET en su versión 2.2 en español. El curso se desarrolla a partir de la solución de diferentes ejercicios aplicados tomando como punto de partida los fundamentos básicos de la hidráulica a presión, los conceptos de conservación de la energía y la conservación de la masa y los conceptos que definen el comportamiento hidráulico de las redes abiertas y de las redes cerradas en un sistema presurizado.
 
