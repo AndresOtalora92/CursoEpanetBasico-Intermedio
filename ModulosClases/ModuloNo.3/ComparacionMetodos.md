@@ -27,13 +27,33 @@ Utilizando la red hidráulica construida y presentada en las diferentes activida
 
 El método de Hazen-William es utilizado mayormente en Estados Unidos y fue desarrollado principalmente poara la estimación de la pérdida de carga en agua y para el diseño de redes de tubería en alcantarillados.
 
+La ecuación original de este método corresponde a:
+
+Al discretizar todos los parámetros, EPANET define el método como:
+
+Donde "C" es un factor adimensional que depende del material de la tubería. En la siguiente tabla se presentan algunos valores para los materiales más usados:
+
 ## Método de Darcy-Weisbach.
 
-El método de Darcy-Weisbach es el método más utilizado en el mundo es mayormente utilizado para flujo a presión. Su ecuación es función del coeficiente de fricción "f" y de la columna de velocidad en el tramo de tubería evaluado
+El método de Darcy-Weisbach es el método más utilizado en el mundo es mayormente utilizado para flujo a presión. Su ecuación es función del coeficiente de fricción "f" y de la columna de velocidad en el tramo de tubería evaluado.
+
+La ecuación original de este método corresponde a:
+
+Al discretizar todos los parámetros, EPANET define el método como:
+
+Donde "f" es el coeficiente de fricción que puede ser determinado, tal como se vio en el módulo 1 utilizando el diagrama de Moodle o la ecuación de Colebrook and White.
 
 ## Método de Chezy-Manning.
 
 El método de Chezy-Manning corresponde a la unión de dos métodos. Fundamentalmente, este método aplica el método de Chezy reemplanzando su factor de pérdidas "C" en función de los parámetros de la ecuación de Manning.
+
+La ecuación original de este método corresponde a:
+
+Al reemplazar el valor "C" (parámetro adimensional de Chezy que depende del material) por los parámetros de la ecuación de Manning, la cual se presenta a continuación:
+
+EPANET define el método como:
+
+Donde "n" es el factor de rugosidad de Manning el cual depende del material que recubre la tubería. En la siguiente tabla se presentan algunos valores para los materiales más usados:
 
 
 ### Control de versiones
