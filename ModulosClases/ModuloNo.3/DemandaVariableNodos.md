@@ -107,19 +107,19 @@ _k. El usuario también puede evaluar el cambio de los valores hidráulicos tant
   <img src="Imagenes/FiguraNo.2.95.PNG" width="150px">
 </div>
 
-_l._
+_l. En la siguiente imagen se observa una comparación de la misma red para diferentes intervalos de tiempo (2 horas, 6 horas y 9 horas respectivamente). Se puede apreciar la variación del caudal que fluye en cada tramo de tubería y la variación en el tiempo de la presión en cada uno de los nodos_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.96.PNG" width="700px">
 </div>
 
-_m._
+_m. Tal como se presentó en la última actividad del módulo 2, también es posible presentar los resultados con tablas. En esta ocasión como se ejecutó el modelo incluyendo un análisis extendido en el tiempo, las opciones de "Selección de Tabla" incluido en la barra de herramientas "informe" incluirá nuevas propiedades, como lo es crear una tabla definiendo un tiempo particular o el resumen de la variable para un solo elementos (nodo o tubería en este caso) en el tiempo (para cada intervalo de evaluación)_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.97.PNG" width="700px">
 </div>
 
-_n._
+_n. A continuación se presenta la tabla resumen dada por EPANET en el tiempo para el nodo 3. En esta ocasión se definió como parámetros de visualización la demanda en el nodo, la altura de energía, la altura de presión y el caudal demando_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.98.PNG" width="700px">
