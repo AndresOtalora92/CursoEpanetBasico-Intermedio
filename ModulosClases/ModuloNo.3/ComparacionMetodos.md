@@ -139,6 +139,7 @@ _f. Seleccionando un coeficiente de rugosidad de Manning "n" de 0.012 (adimensio
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
 | 2022.06.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  1.5  |
+| 2022.07.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  0.5  |
 
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
