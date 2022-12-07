@@ -132,7 +132,7 @@ _f. Seleccionando un coeficiente de rugosidad de Manning "n" de 0.012 (adimensio
   <img src="Imagenes/FiguraNo.2.106.PNG" width="800px">
 </div>
 
-_El usuario y/o diseñador debe ser muy cuidadoso a la hora de seleccionar el método de solución y la forma como ingresa los parámetros. Este curso es una guía de trabajo y no un curso de diseño o de hidráulica. El usuario debe definir las metodologías de solución con base en el origen y aplicación de las fórmulas.
+**El usuario y/o diseñador debe ser muy cuidadoso a la hora de seleccionar el método de solución y la forma como ingresa los parámetros. Este curso es una guía de trabajo y no un curso de diseño o de hidráulica. El usuario debe definir las metodologías de solución con base en el origen y aplicación de las fórmulas.**
 
 ### Control de versiones
 
