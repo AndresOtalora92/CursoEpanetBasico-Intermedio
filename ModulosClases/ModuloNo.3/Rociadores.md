@@ -139,5 +139,5 @@ _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
 
-| [Anterior](../ModuloNo.3/DemandaVariableNodos.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](../ModuloNo.3/Rociadores.md) |
-|-------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------|
+| [Anterior](../ModuloNo.2/AnalisisResultados.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](../ModuloNo.3/ComparacionMetodos.md) |
+|--------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|---------------|
