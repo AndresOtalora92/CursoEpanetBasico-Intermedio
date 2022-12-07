@@ -29,11 +29,11 @@ En caso teórico es posible definir de manera simplificada el consumo como un va
 Utilizando la red hidráulica construida y presentada en las diferentes actividades del módulo 2, se definirá un patron de demanda (o como lo llama EPANET, un análisis de tiempo extendido) utilizando como demanda media los caudales de demanda definidos en los nodos 3 y 6 de la red mencionada. Los patrones de demanda se presentan a continuación en forma de histogramas::
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.85.PNG" width="500px">
+  <img src="Imagenes/FiguraESP1.png" width="500px">
 </div>
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.86.PNG" width="500px">
+  <img src="Imagenes/FiguraESP1.png" width="500px">
 </div>
 
 ## Asignación y uso de la demanda variable o Análisis extendido en el tiempo
