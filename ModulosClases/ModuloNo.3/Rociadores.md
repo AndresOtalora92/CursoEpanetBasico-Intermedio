@@ -33,6 +33,14 @@ A manera de contexto a continuación se presenta algunas imágenes de los difere
   <img src="Imagenes/FiguraNo.2.108.PNG" width="400px">
 </div>
 
+Epanet define los rociadores a partir de la implementación de una ecuación genérica la cual depende de la relación del caudal con la presión. La ecuación se presentan a continuación:
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion97.PNG" width="300px">
+</div>
+
+El exponente, para la mayoría de los rociadores (depende del diseño y el proveedor) corresponde a 0.5. El coeficiente C, también llamado el coeficiente de gasto, corresponde a la relación del caudal descargado por el rociador sobre la presión del rociador. En pocas palabras, el caudal descargado está condicionado a la presión ejercida sobre el nodo donde se instala el rociador. 
+
 ## Ejemplo de aplicación.
 
 Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se asumirá que existe un rociador en el nodo 6 con un exponente de 0.5 y un coeficiente de caudal o de gasto de 0.70 LPS/m.c.a
