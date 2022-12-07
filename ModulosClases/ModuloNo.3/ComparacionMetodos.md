@@ -129,7 +129,7 @@ _e. Repitiendo el proceso en la barra de herramientas "Proyecto" en la opción "
 _f. Seleccionando un coeficiente de rugosidad de Manning "n" de 0.012 (adimensional) que corresponde al mismo material que el evaluado anteriormente en "D-W" y en "H-W" los resultados se presentan a continuación. En el tramo de tubería 2-4 y la presión en el nodo N4 los resultados son 12.09 LPS y -0.49 m respectivamente. Como se puede observar prácticamente no existen cambios en el caudal en el tramo de tuberías y un cambio sustancial en la columna de presión en el nodo._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.106.PNG" width="600px">
+  <img src="Imagenes/FiguraNo.2.106.PNG" width="800px">
 </div>
 
 _El usuario y/o diseñador debe ser muy cuidadoso a la hora de seleccionar el método de solución y la forma como ingresa los parámetros. Este curso es una guía de trabajo y no un curso de diseño o de hidráulica. El usuario debe definir las metodologías de solución con base en el origen y aplicación de las fórmulas.
@@ -138,7 +138,7 @@ _El usuario y/o diseñador debe ser muy cuidadoso a la hora de seleccionar el m�
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.06.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   2   |
+| 2022.06.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  1.5  |
 
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
