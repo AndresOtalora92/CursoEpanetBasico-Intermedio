@@ -40,49 +40,49 @@ Utilizando la red hidráulica construida y presentada en las diferentes activida
 
 Con el concepto de caudal o demanda variable definido ya es posible definir esta característica en la red que se elaboró en el módulo 2. A continuación se presentan los pasos recomendados para realizar el análisis extendido en el tiempo:
 
-_a._
+_a. En la barra de herramientas "Visor" seleccionar la opción "Curva de Modulación" y dar en el ícono de "agregar"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.85a.PNG" width="700px">
 </div>
 
-_b._
+_b. Para este ejercicio se crearán dos patrones de curvas de demanda; el número "1" corresponde a la curva del nodo 3 y el número "2" corresponde a la curva del nodo 3_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.86a.PNG" width="700px">
 </div>
 
-_c._
+_c. Se debe agregar el patron del consumo, que tal como se mencionó en la descripción del ejercicio de aplicación de esta actividad, es un patrón horario (cada hora). Se asignará cada patrón de consumo siguiendo las tablas de los factores presentados al inicio de esta actividad_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.87.PNG" width="700px">
 </div>
 
-_d._
+_d. En las siguientes imagenes se presentan los resultados del histograma de los dos patrones (nodo 3 y nodo 6) una vez se haya cargado el patrón horario de demanda. Este histograma se genera inmediatamente se ingresa cada factor de demanda._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.88.PNG" width="700px">
 </div>
 
-_e._
-
 <div align="center">
   <img src="Imagenes/FiguraNo.2.89.PNG" width="700px">
 </div>
 
-_f._
+_f. Ahora se le indicará al software el intervalo de la modelación, el inicio de las iteraciones y el final de las iteraciones. Para realizar esto debe abrir nuevamente la herramienta "Visor" en la sección "Opciones" en la subsección "Opciones de Tiempo" y definir los parámetros de la modelación en el tiempo tal como se presenta en la siguiente imagen_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.90.PNG" width="700px">
 </div>
 
-_g._
+## Presentación de los resultados de un sistema hidráulico con análisis de tiempo extendido
+
+_g. Una vez haya ejecutado el modelo (símbolo del rayo) es posible visualizar de distintas maneras los resultados obtenidos, tanto gráficamente como numéricamente (en tablas). Una de las formas más utilizadas para revisar los resultados de este tipo de modelaciones es a partir de la opción "Selección de la Gráfica" la cual se encuentra en la barra de atajos. Es posible evaluar, por ejemplo, como cambia en el tiempo (cada hora) la presión en el nodo 3:_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.91.PNG" width="700px">
 </div>
 
-_h._
+_h. Los resultados de los parámetros definidos se presenta en una gráfica de líneas en cuyas abscisas se presenta el tiempo y en las ordenadas, para este caso en particular, la presión en el nodo 3._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.92.PNG" width="700px">
