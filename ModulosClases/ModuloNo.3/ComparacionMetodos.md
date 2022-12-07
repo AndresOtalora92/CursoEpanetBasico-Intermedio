@@ -105,7 +105,7 @@ _a. Para iniciar con esta comparación, se procederá a modelar la red presentad
 _b. Seleccionando un coeficiente de rugosidad absoluta de 0.02 mm los resultados se presentan a continuación. Como parámetro de comparación se revisará el caudal en el tramo de tubería 2-4 y la presión en el nodo N4. Para esta modelación los resultados son 12.09 LPS y 5.55 m respectivamente._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.102.PNG" width="600px">
+  <img src="Imagenes/FiguraNo.2.102.PNG" width="700px">
 </div>
 
 _c. Repitiendo el proceso en la barra de herramientas "Proyecto" en la opción "Opciones Hidráulicas" de selección en "fórmulas de pérdidas" la opción "H-W" que corresponde a "Hazen-William"_
@@ -117,7 +117,7 @@ _c. Repitiendo el proceso en la barra de herramientas "Proyecto" en la opción "
 _d. Seleccionando un coeficiente de pérdidas de 130 (adimensional) que corresponde al mismo material que el evaluado anteriormente en "D-W" los resultados se presentan a continuación. En el tramo de tubería 2-4 y la presión en el nodo N4 los resultados son 12.05 LPS y 4.60 m respectivamente. Como se puede observar prácticamente no existen cambios en el caudal en el tramo de tuberías y un cambio sustancial en la columna de presión en el nodo._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.104.PNG" width="600px">
+  <img src="Imagenes/FiguraNo.2.104.PNG" width="800px">
 </div>
 
 _e. Repitiendo el proceso en la barra de herramientas "Proyecto" en la opción "Opciones Hidráulicas" de selección en "fórmulas de pérdidas" la opción "C-M" que corresponde a "Chezy-Manning"_
