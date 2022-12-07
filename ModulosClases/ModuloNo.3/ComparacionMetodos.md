@@ -25,13 +25,25 @@ Utilizando la red hidráulica construida y presentada en las diferentes activida
 
 ## Método de Hazen-William.
 
-El método de Hazen-William es utilizado mayormente en Estados Unidos y fue desarrollado principalmente poara la estimación de la pérdida de carga en agua y para el diseño de redes de tubería en alcantarillados.
+El método de Hazen-William es utilizado mayormente en Estados Unidos y fue desarrollado principalmente para la estimación de la pérdida de carga en agua y para el diseño de redes de tubería en alcantarillados.
 
 La ecuación original de este método corresponde a:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion91.PNG" width="300px">
+</div>
+
 Al discretizar todos los parámetros, EPANET define el método como:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion92.PNG" width="300px">
+</div>
+
 Donde "C" es un factor adimensional que depende del material de la tubería. En la siguiente tabla se presentan algunos valores para los materiales más usados:
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.99.PNG" width="400px">
+</div>
 
 ## Método de Darcy-Weisbach.
 
@@ -39,9 +51,24 @@ El método de Darcy-Weisbach es el método más utilizado en el mundo es mayorme
 
 La ecuación original de este método corresponde a:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion93.PNG" width="250px">
+</div>
+
 Al discretizar todos los parámetros, EPANET define el método como:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion94.PNG" width="300px">
+</div>
+
 Donde "f" es el coeficiente de fricción que puede ser determinado, tal como se vio en el módulo 1 utilizando el diagrama de Moodle o la ecuación de Colebrook and White.
+
+La rugosidad absoluta $\epsilon$ también depende del material que recubre la tubería. En la siguiente tabla se presentan algunos valores para los materiales más usados:
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.100.PNG" width="300px">
+</div>
+
 
 ## Método de Chezy-Manning.
 
