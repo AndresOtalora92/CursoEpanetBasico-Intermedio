@@ -78,10 +78,21 @@ La ecuación original de este método corresponde a:
 
 Al reemplazar el valor "C" (parámetro adimensional de Chezy que depende del material) por los parámetros de la ecuación de Manning, la cual se presenta a continuación:
 
+<div align="center">
+  <img src="ecuaciones/Ecuacion95.PNG" width="200px">
+</div>
+
 EPANET define el método como:
+
+<div align="center">
+  <img src="ecuaciones/Ecuacion96.PNG" width="250px">
+</div>
 
 Donde "n" es el factor de rugosidad de Manning el cual depende del material que recubre la tubería. En la siguiente tabla se presentan algunos valores para los materiales más usados:
 
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.99.PNG" width="300px">
+</div>
 
 ### Control de versiones
 
