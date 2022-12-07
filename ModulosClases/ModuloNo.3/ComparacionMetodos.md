@@ -94,11 +94,44 @@ Donde "n" es el factor de rugosidad de Manning el cual depende del material que 
   <img src="Imagenes/FiguraNo.2.99.PNG" width="500px">
 </div>
 
+## Comparación de resultados modificando el método de cálculo
+
+_a._
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.101.PNG" width="500px">
+</div>
+
+_b._
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.102.PNG" width="500px">
+</div>
+
+_c._
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.103.PNG" width="500px">
+</div>
+
+_d._
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.104.PNG" width="500px">
+</div>
+
+_e._
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.105.PNG" width="500px">
+</div>
+
+_f._
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.106.PNG" width="500px">
+</div>
+
+
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.06.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   1   |
+| 2022.06.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   2   |
 
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
