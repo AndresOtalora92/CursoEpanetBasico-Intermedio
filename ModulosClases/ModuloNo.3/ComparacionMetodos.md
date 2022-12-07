@@ -98,32 +98,32 @@ Donde "n" es el factor de rugosidad de Manning el cual depende del material que 
 
 _a._
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.101.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.101.PNG" width="600px">
 </div>
 
 _b._
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.102.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.102.PNG" width="600px">
 </div>
 
 _c._
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.103.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.103.PNG" width="600px">
 </div>
 
 _d._
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.104.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.104.PNG" width="600px">
 </div>
 
 _e._
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.105.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.105.PNG" width="600px">
 </div>
 
 _f._
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.106.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.106.PNG" width="600px">
 </div>
 
 
