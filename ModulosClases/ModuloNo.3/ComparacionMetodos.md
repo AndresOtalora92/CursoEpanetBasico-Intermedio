@@ -96,36 +96,43 @@ Donde "n" es el factor de rugosidad de Manning el cual depende del material que 
 
 ## Comparación de resultados modificando el método de cálculo
 
-_a._
+_a. Para iniciar con esta comparación, se procederá a modelar la red presentada en el módulo 2 y en la actividad 1 del módulo 3. Para esto en la barra de herramientas "Proyecto" en la opción "Opciones Hidráulicas" de selección en "fórmulas de pérdidas" la opción "D-W" que corresponde a "Darcy-Weisbach"_
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.101.PNG" width="600px">
 </div>
 
-_b._
+_b. Seleccionando un coeficiente de rugosidad absoluta de 0.02 mm los resultados se presentan a continuación. Como parámetro de comparación se revisará el caudal en el tramo de tubería 2-4 y la presión en el nodo N4. Para esta modelación los resultados son 12.09 LPS y 5.55 m respectivamente._
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.102.PNG" width="600px">
 </div>
 
-_c._
+_c. Repitiendo el proceso en la barra de herramientas "Proyecto" en la opción "Opciones Hidráulicas" de selección en "fórmulas de pérdidas" la opción "H-W" que corresponde a "Hazen-William"_
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.103.PNG" width="600px">
 </div>
 
-_d._
+_d. Seleccionando un coeficiente de pérdidas de 130 (adimensional) que corresponde al mismo material que el evaluado anteriormente en "D-W" los resultados se presentan a continuación. En el tramo de tubería 2-4 y la presión en el nodo N4 los resultados son 12.05 LPS y 4.60 m respectivamente. Como se puede observar prácticamente no existen cambios en el caudal en el tramo de tuberías y un cambio sustancial en la columna de presión en el nodo._
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.104.PNG" width="600px">
 </div>
 
-_e._
+_e. Repitiendo el proceso en la barra de herramientas "Proyecto" en la opción "Opciones Hidráulicas" de selección en "fórmulas de pérdidas" la opción "C-M" que corresponde a "Chezy-Manning"_
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.105.PNG" width="600px">
 </div>
 
-_f._
+_f. Seleccionando un coeficiente de rugosidad de Manning "n" de 0.012 (adimensional) que corresponde al mismo material que el evaluado anteriormente en "D-W" y en "H-W" los resultados se presentan a continuación. En el tramo de tubería 2-4 y la presión en el nodo N4 los resultados son 12.09 LPS y -0.49 m respectivamente. Como se puede observar prácticamente no existen cambios en el caudal en el tramo de tuberías y un cambio sustancial en la columna de presión en el nodo._
+
 <div align="center">
   <img src="Imagenes/FiguraNo.2.106.PNG" width="600px">
 </div>
 
+_El usuario y/o diseñador debe ser muy cuidadoso a la hora de seleccionar el método de solución y la forma como ingresa los parámetros. Este curso es una guía de trabajo y no un curso de diseño o de hidráulica. El usuario debe definir las metodologías de solución con base en el origen y aplicación de las fórmulas.
 
 ### Control de versiones
 
