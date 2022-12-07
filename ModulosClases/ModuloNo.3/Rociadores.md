@@ -26,11 +26,11 @@ Un rociador corresponde a un accesorio tipo válvula con una boquilla que permit
 A manera de contexto a continuación se presenta algunas imágenes de los diferentes disposiciones y diseños de geometrías:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.107.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.107.PNG" width="400px">
 </div>
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.108.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.108.PNG" width="400px">
 </div>
 
 ## Ejemplo de aplicación.
