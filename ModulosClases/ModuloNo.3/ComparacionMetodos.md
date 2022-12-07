@@ -21,7 +21,7 @@ El objetivo principal de esta actividad es darle a conocer al usuario los difere
 
 ## Ejemplo de aplicación.
 
-Utilizando la red hidráulica construida y presentada en las diferentes actividades del módulo 2 se asumirá que el material de la tubería es de plástico o PVC y se realizarán modelaciones, modificando el método de estimación de la pérdida de energía o pérdida de carga.
+Utilizando la red hidráulica construida y presentada en las diferentes actividades del módulo 2 se asumirá que el material de la tubería es de cemento u hormigón y se realizarán modelaciones, modificando el método de estimación de la pérdida de energía o pérdida de carga.
 
 ## Método de Hazen-William.
 
@@ -66,7 +66,7 @@ Donde "f" es el coeficiente de fricción que puede ser determinado, tal como se 
 La rugosidad absoluta $\epsilon$ también depende del material que recubre la tubería. En la siguiente tabla se presentan algunos valores para los materiales más usados:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.100.PNG" width="300px">
+  <img src="Imagenes/FiguraNo.2.100.PNG" width="400px">
 </div>
 
 
@@ -91,7 +91,7 @@ EPANET define el método como:
 Donde "n" es el factor de rugosidad de Manning el cual depende del material que recubre la tubería. En la siguiente tabla se presentan algunos valores para los materiales más usados:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.99.PNG" width="300px">
+  <img src="Imagenes/FiguraNo.2.99.PNG" width="400px">
 </div>
 
 ### Control de versiones
