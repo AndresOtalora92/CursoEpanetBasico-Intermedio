@@ -91,7 +91,7 @@ EPANET define el método como:
 Donde "n" es el factor de rugosidad de Manning el cual depende del material que recubre la tubería. En la siguiente tabla se presentan algunos valores para los materiales más usados:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.99.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.99.PNG" width="500px">
 </div>
 
 ### Control de versiones
