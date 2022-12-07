@@ -98,7 +98,7 @@ A continuación, se presenta el contenido programático de los tres módulos que
 
 <div align="center">
 
-  <img src=".icons/DiagramasCursob.svg" width="500px">
+  <img src=".icons/DiagramasCursob.svg" width="800px">
 
 </div>
 
