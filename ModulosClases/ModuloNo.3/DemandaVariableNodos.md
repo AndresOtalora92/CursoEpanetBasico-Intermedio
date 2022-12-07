@@ -33,7 +33,7 @@ Utilizando la red hidráulica construida y presentada en las diferentes activida
 </div>
 
 <div align="center">
-  <img src="Imagenes/FiguraESP1.png" width="500px">
+  <img src="Imagenes/FiguraESP2.png" width="500px">
 </div>
 
 ## Asignación y uso de la demanda variable o Análisis extendido en el tiempo
@@ -89,19 +89,19 @@ _h. Los resultados de los parámetros definidos se presenta en una gráfica de l
 </div>
 
 
-_i._
+_i. Ahora realizaremos el mismo procedimiento que el definido en el paso anterior, pero agregando como elementos dos tramos de la red, analizando la variación del caudal en el tiempo:_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.93.PNG" width="700px">
 </div>
 
-_j._
+_j. Los resultados de los parámetros definidos se presenta en una gráfica de líneas en cuyas abscisas se presenta el tiempo y en las ordenadas, para este caso en particular, el caudal en dos tramos distintos de tuberías que conforman la red._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.94.PNG" width="700px">
 </div>
 
-_k._
+_k. El usuario también puede evaluar el cambio de los valores hidráulicos tanto en los nodos como en las tuberías de manera dinámica al dar clic en la barra de "play" que se encuentra en la herramienta "Visor". El usuario verá en tiempo real como se acomodan los colores de la paleta de leyendas y los valores en cada nodo o tubería dependiendo del avance del tiempo (en este caso desde la hora 0 a la hora 10 en intervalos de 1 hora)_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.95.PNG" width="150px">
