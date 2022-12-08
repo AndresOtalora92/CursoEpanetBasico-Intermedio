@@ -47,12 +47,15 @@ A continuación se presentan un ejemplo de una curva de capacidad o de almacenam
 
 Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se desarollará esta actividad. Se adicionará a la red un nuevo tramo que descargará al nodo 6 y que inicia en un tanque o reservorio asimétrico con la siguiente curva de almacenamiento o curva de capacidad:
 
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.124.PNG" width="300px">
-</div>
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.125.PNG" width="600px">
+  <img src="Imagenes/FiguraNo.2.125.PNG" width="700px">
+</div>
+
+<br>
+
+<<div align="center">
+  <img src="Imagenes/FiguraNo.2.124.PNG" width="380px">
 </div>
 
 ### Control de versiones
