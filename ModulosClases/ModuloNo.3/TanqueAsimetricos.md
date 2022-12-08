@@ -45,7 +45,7 @@ A continuación se presentan un ejemplo de una curva de capacidad o de almacenam
 
 ## Ejemplo de aplicación.
 
-Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se desarollará esta actividad. Se adicionará a la red un nuevo tramo que descargará al nodo 6 y que inicia en un tanque o reservorio asimétrico con la siguiente curva de almacenamiento o curva de capacidad:
+Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se desarollará esta actividad. Se adicionará a la red un nuevo tramo que descargará al nodo 2 y que inicia en un tanque o reservorio asimétrico con la siguiente curva de almacenamiento o curva de capacidad:
 
 
 <div align="center">
@@ -56,6 +56,52 @@ Utilizando la red hidráulica construida y presentada en las actividades anterio
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.124.PNG" width="380px">
+</div>
+
+Se asumirá que el nivel inicial del tanque en la modelación es de 240.8 m.s.n.m (siendo este también el nivel máximo) y con un nivel mínimo e 239.4 m.s.n.m
+
+## Tanque asimétrico con curva de almacenamiento en EPANET
+
+_a._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.126.PNG" width="380px">
+</div>
+
+_b._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.127.PNG" width="380px">
+</div>
+
+_c._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.128.PNG" width="380px">
+</div>
+
+_d._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.129.PNG" width="380px">
+</div>
+
+_e._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.130.PNG" width="380px">
+</div>
+
+_f._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.131.PNG" width="380px">
+</div>
+
+_g._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.132.PNG" width="380px">
 </div>
 
 ### Control de versiones
