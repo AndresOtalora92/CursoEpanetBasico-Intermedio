@@ -29,8 +29,19 @@ Para este ejercicio se realizarán dos modelaciones:
 1. Asumiendo una bomba de arranque directo con potencia constante de 15 kW.
 2. Asumiendo una bomba de arranque directo con una curva de rendimiento o curva característica que presenta los siguientes puntos de operación:
 
+<div align="center">
+
+| Caudal (LPS) | Ht(m) | 
+|--------------|:------|
+| 50           | 80    | 
+ |60   | 60    | 
+ |30   | 10    | 
+
+</div>
+
 ## Concepto de bomba centrífuga y curva característica
 
+Se recomienda que antes de revisar esta actividad el lector y usuario de EPANET revise nuevamente los conceptos detallados y explicados en la actividad> [Conceptos_bombas_hidraulicas](../ModuloNo.3/Conceptos_bombas_hidraulicas.md) presentada en el módulo 1 de este curso.
 
 ### Control de versiones
 
