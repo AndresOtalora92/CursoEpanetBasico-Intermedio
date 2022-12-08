@@ -25,9 +25,28 @@ Como su nombre lo indica, un tanque asimétrico corresponde a aquel tanque cuya 
 
 A continuación se presentan algunos ejemplos de tanque asimétricos.
 
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.120.PNG" width="700px">
+</div>
+
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.121.PNG" width="700px">
+</div>
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.122.PNG" width="700px">
+</div>
+
+
+
 Una curva de capacidad o curva de almacenamiento corresponde al gráfico y/o función que representa el volumen acumulado para cada nivel de agua que se mida en el tanque.  
 
 A continuación se presentan un ejemplo de una curva de capacidad o de almacenamiento.
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.123.PNG" width="700px">
+</div>
 
 ## Ejemplo de aplicación.
 
