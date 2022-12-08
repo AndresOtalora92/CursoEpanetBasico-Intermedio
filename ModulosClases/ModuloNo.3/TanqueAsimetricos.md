@@ -43,7 +43,7 @@ A continuación se presentan un ejemplo de una curva de capacidad o de almacenam
   <img src="Imagenes/FiguraNo.2.123.PNG" width="400px">
 </div>
 
-## Ejemplo de aplicación.
+## Ejemplo de aplicación
 
 Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se desarollará esta actividad. Se adicionará a la red un nuevo tramo que descargará al nodo 2 y que inicia en un tanque o reservorio asimétrico con la siguiente curva de almacenamiento o curva de capacidad:
 
@@ -55,7 +55,7 @@ Utilizando la red hidráulica construida y presentada en las actividades anterio
 <br>
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.124.PNG" width="380px">
+  <img src="Imagenes/FiguraNo.2.124.PNG" width="450px">
 </div>
 
 Se asumirá que el nivel inicial del tanque en la modelación es de 240.8 m.s.n.m (siendo este también el nivel máximo) y con un nivel mínimo e 239.4 m.s.n.m

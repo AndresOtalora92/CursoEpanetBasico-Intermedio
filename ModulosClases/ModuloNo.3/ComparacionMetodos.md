@@ -19,11 +19,11 @@ En esta actividad se presentan los conceptos fundamentales de los tres métodos 
 
 El objetivo principal de esta actividad es darle a conocer al usuario los diferentes métodos que EPANET incorpora en su software para la determinación de los caudales solucionando el sistema de ecuaciones (que incluye la conservación de la energía entre dos puntos). Para cumplir este objetivo se realiza un análisis de los resultados en una misma red para utilizando los tres métodos definidos por el software.
 
-## Ejemplo de aplicación.
+## Ejemplo de aplicación
 
 Utilizando la red hidráulica construida y presentada en las diferentes actividades del módulo 2 se asumirá que el material de la tubería es de cemento u hormigón y se realizarán modelaciones, modificando el método de estimación de la pérdida de energía o pérdida de carga.
 
-## Método de Hazen-William.
+## Método de Hazen-William
 
 El método de Hazen-William es utilizado mayormente en Estados Unidos y fue desarrollado principalmente para la estimación de la pérdida de carga en agua y para el diseño de redes de tubería en alcantarillados.
 
@@ -45,7 +45,7 @@ Donde "C" es un factor adimensional que depende del material de la tubería. En 
   <img src="Imagenes/FiguraNo.2.99.PNG" width="400px">
 </div>
 
-## Método de Darcy-Weisbach.
+## Método de Darcy-Weisbach
 
 El método de Darcy-Weisbach es el método más utilizado en el mundo es mayormente utilizado para flujo a presión. Su ecuación es función del coeficiente de fricción "f" y de la columna de velocidad en el tramo de tubería evaluado.
 
@@ -70,7 +70,7 @@ La rugosidad absoluta $\epsilon$ también depende del material que recubre la tu
 </div>
 
 
-## Método de Chezy-Manning.
+## Método de Chezy-Manning
 
 El método de Chezy-Manning corresponde a la unión de dos métodos. Fundamentalmente, este método aplica el método de Chezy reemplanzando su factor de pérdidas "C" en función de los parámetros de la ecuación de Manning.
 
