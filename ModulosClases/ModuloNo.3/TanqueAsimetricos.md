@@ -31,7 +31,7 @@ A continuación se presentan algunos ejemplos de tanque asimétricos.
 
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.121.PNG" width="300px">
+  <img src="Imagenes/FiguraNo.2.121.PNG" width="400px">
 </div>
 
 <div align="center">
