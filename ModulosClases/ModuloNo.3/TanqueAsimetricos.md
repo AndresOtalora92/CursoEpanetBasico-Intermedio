@@ -62,43 +62,43 @@ Se asumirá que el nivel inicial del tanque en la modelación es de 240.8 m.s.n.
 
 ## Tanque asimétrico con curva de almacenamiento en EPANET
 
-_a._
+_a. Tomando como referencia la red de drenaje construida y trabajando en las actividades anteriores se procederá a adicionarle un tanque asimétrico con curva de almacenamiento el cual alimentará de manera variable el nodo N2. En la siguiente imagen se presenta es esquema base de trabajo._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.126.PNG" width="700px">
 </div>
 
-_b._
+_b. Para crear la curva de capacidad del tanque o reservorio es necesario seleccionar la opción "Curva de Comportamiento" presente en "Datos" de la barra de herramientas "Visor"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.127.PNG" width="700px">
 </div>
 
-_c._
+_c. Una vez dentro en la opción "Curva de comportamiento"  seleccionar "Tipo de Curva" y buscar la opción "Cubicación". En las dos columnas que se presenta en esta ventana escriba digite los valores que corresponden a la curva de almacenamiento_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.128.PNG" width="700px">
 </div>
 
-_d._
+_d. Ahora se adicionará el tanque dando clic en el símbolo de la imagen y picando en cualquier lugar del área de trabajo._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.129.PNG" width="700px">
 </div>
 
-_e._
+_e. Una vez construido, de doble clic en el tanque dibujado y se abrirá la ventana de opciones del tanque. Escriba la información requerida en el tanque la cual corresponde a: Cota de la solera (fondo del tanque), Nivel Inicial, Nivel Máximo y Nivel Mínimo. En la opción "Curva de Cubicación" escriba el nombre de la curva de almacenamiento que acaba de crear, que en este caso corresponde a "2"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.130.PNG" width="700px">
 </div>
 
-_f._
+_f. Para unir el tanque que se ha creado con uno de los nodos existentes (nodo 2) procederemos a crear un tramo de tubería, siguiendo el procedimiento explicado en la actividad 2 y 3 del módulo 2. Se diligencia la información respectiva y se revisan los valores por defecto_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.131.PNG" width="700px">
 </div>
 
-_g._
+_g. Una vez unido el tanque con el nodo 2 y revisado la información ingresada al modelo, se procede a ejecutarlo. Como se puede observar en la siguiente imagen, existe una variación importante del caudal transitado en cada una de las tuberías y en las presiones de los nodos. La tarea del usuario y del diseñador es tomar la decisión sobre la lógica de los resultados y como estos se acomodan a los diseños planteados en su proyecto_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.132.PNG" width="700px">
@@ -116,5 +116,5 @@ _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
 
-| [Anterior](../ModuloNo.3/CurvasRendimiento.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente] |
+| [Anterior](../ModuloNo.3/CurvasRendimiento.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda / Colabora] | [Siguiente](../ModuloNo.3/ValvulasyAccesorios.md) |
 |-------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------|
