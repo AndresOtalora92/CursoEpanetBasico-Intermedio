@@ -84,7 +84,7 @@ A continuación, se presenta el contenido programático de los tres módulos que
 | [Resultados. Análisis y revisión](ModulosClases/ModuloNo.2/AnalisisResultados.md)                                                                                                             | Con la red construida, los accesorios definidos y las características de la red, se describirán los procedimientos para la ejecución del modelo hidráulico y la extración de los resultados. Se aprenderá metodología para el análisis de la información utilizando herramientas de Office, herramientas SIG y las herramientas integradas directamente en EPANET.                               | 
 
 
-## Módulo No. 3 - Uso y aplicación intermedia de EPANET. 
+## Módulo No. 3 - Uso y aplicación intermedia de EPANET.. 
 
 
 | Actividad                                                                                                                                             | Alcance                                                                                                                                                                                                                                                                                                | 
