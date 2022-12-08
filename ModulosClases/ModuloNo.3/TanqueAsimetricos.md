@@ -65,43 +65,43 @@ Se asumirá que el nivel inicial del tanque en la modelación es de 240.8 m.s.n.
 _a._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.126.PNG" width="380px">
+  <img src="Imagenes/FiguraNo.2.126.PNG" width="700px">
 </div>
 
 _b._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.127.PNG" width="380px">
+  <img src="Imagenes/FiguraNo.2.127.PNG" width="700px">
 </div>
 
 _c._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.128.PNG" width="380px">
+  <img src="Imagenes/FiguraNo.2.128.PNG" width="700px">
 </div>
 
 _d._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.129.PNG" width="380px">
+  <img src="Imagenes/FiguraNo.2.129.PNG" width="700px">
 </div>
 
 _e._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.130.PNG" width="380px">
+  <img src="Imagenes/FiguraNo.2.130.PNG" width="700px">
 </div>
 
 _f._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.131.PNG" width="380px">
+  <img src="Imagenes/FiguraNo.2.131.PNG" width="700px">
 </div>
 
 _g._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.132.PNG" width="380px">
+  <img src="Imagenes/FiguraNo.2.132.PNG" width="700px">
 </div>
 
 ### Control de versiones
