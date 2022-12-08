@@ -9,18 +9,20 @@
 <br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
 </div>
 
-Keywords: `Pérdidas de Energía` `Carga` `Método de estimación de caudal` `Hazen-William` `Darcy-Weisbach``Chezy-Manning`
+Keywords: `Bombas` `Curva de rendimientos` `Sistemas de bombeo`
 
 ## Introducción
 
-En esta actividad se 
+En esta actividad se presenta la metodología sugerida para la asignación de una bomba en un sistema de tuberías con flujo a presión incluyendo su curva de calibración o curvas de rendimientos utilizando el software EPANET.
 
 ## Objetivos
 
-El objetivo principal de esta actividad es 
+El objetivo principal de esta actividad es, con base en los conceptos analizados en el módulo 1 de la actividad "Conceptos de bombas hidráulicas", darle a conocer al usuario el procedimiento sugerido para ingresar una curva de rendimiento o curva característica de una bomba en una red hidráulica. 
 
 
+## Ejemplo de aplicación.
 
+Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se agregará se le adicionará una bomba centrífuga con la siguiente curva de rendimiento:
 
 
 ### Control de versiones
