@@ -31,6 +31,17 @@ En este módulo se describe el concepto general de una turbomáquina. Se detalla
 
 El objetivo principal de esta actividad es permitir que el estudiante entienda los conceptos de las bombas hidráulicas y que tenga los conceptos para la toma de decisiones a la hora de implantar una bomba hidráulica en una red con flujo a presión. 
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ET_dkp9RjfFLozQ0Mhd8VngB7qYRgBuEmNCEBfVUOXegoA?e=AWgrqA">
+        <img src="Imagenes/CLASE_MOD1_ACT5.PNG" width="800px">
+    </a>
+</div>
+
 ## Turbomáquinas. Máquinas hidráulicas
 
 Una máquina corresponde a un sistema que permite transformar, generalmente energía eléctrica en energía mecánica. Particularmente una máquina que agregar energía a un sistema hidráulico es denominada máquinas de fluidos o bombas hidráulicas. 

@@ -32,6 +32,17 @@ En esta actividad se describen los conceptos generales y las principales caracte
 
 El objetivo principal de esta actividad es crear al usuario las nociones fundamentales que gobiernan la hidráulica de una red cerrada y de una red abierta y sus posibles métodos de estimación del caudal circulante por cada tubería o circuito, con el propósito de que se tengan los conceptos generales a la hora de trazar y posteriormente solucionar el sistema utilizando el software de modelación EPANET y sus complementos de trazado tales como EPA-CAD y el mismo AutoCAD.
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ET_dkp9RjfFLozQ0Mhd8VngB7qYRgBuEmNCEBfVUOXegoA?e=AWgrqA">
+        <img src="Imagenes/CLASE_MOD1_ACT6.PNG" width="800px">
+    </a>
+</div>
+
 ## Redes abiertas. Conceptos
 
 Por definición una red hidráulica abierta corresponda a aquella red conformada por tuberías dispuestas de tal manera que no crean una malla o circuito cerrado. En una red abierta las tuberías están configuradas de tal manera que pueden crear ramificación, sin crear ciclos o mallas continuas. Los extremos de los ramales pueden finalizar en un tanque o pueden descargar a la atmósfera.

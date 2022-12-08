@@ -31,6 +31,17 @@ En este módulo se describen los conceptos relacionados con las pérdidas de ene
 
 El objetivo principal de esta actividad es permitir que el estudiante comprenda las ecuaciones y las metodologías para la estimación de las pérdidas de energía y de esta manera pueda comprender, a la hora de utilizar el software EPANET, las implicaciones de las pérdidas de energía en los valores estimados de caudal y presión en un sistema hidráulico a presión.
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ET_dkp9RjfFLozQ0Mhd8VngB7qYRgBuEmNCEBfVUOXegoA?e=AWgrqA">
+        <img src="Imagenes/CLASE_MOD1_ACT4.PNG" width="800px">
+    </a>
+</div>
+
 ## **Pérdidas de energía. Pérdidas localizadas**
 
 Debido a la fricción generada por el material de la superficie de la tubería, el flujo pierde energía a medida que se mueve a lo largo del sistema. Las pérdidas de energía, por lo general, se representan en función de la columna de velocidad y de un factor de proporcionada, el cual depende de la viscosidad del fluido.
