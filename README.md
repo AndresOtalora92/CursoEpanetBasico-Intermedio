@@ -20,7 +20,7 @@
     </a>
 </div>
 
-# Introducción. 
+# Introducción 
 
 Un modelo numérico corresponde a la representación matemática de los procesos físicos que domina el comportamiento de un sistema. En el caso particular de la hidráulica y especialmente para los problemas dominados por los flujos a presión, existen muchos programas, elaborados con diferentes lenguajes de programación, que buscan lo mismo: la determinación de los parámetros hidráulicos de una red a partir de la solución numérica de las ecuaciones de conservación de la energía y de la conservación de la masa. 
 
@@ -30,17 +30,17 @@ Este curso se ha elaborado con el objetivo de proporcionarle al estudiante herra
 
 El primer módulo corresponde a un repaso básico de algunos conceptos de la hidráulica a presión. El segundo módulo busca que el estudiante comprenda el uso del programa, sus ventanas y herramientas y aprenda como ingresar la información de los diferentes elementos que comprenden un proyecto en EPANET. El tercer módulo busca que el estudiante profundice en las herramientas más complejas integradas en el programa. En este último módulo se analizará con detalle las ecuaciones utilizadas por el software y el uso de elementos particulares de una red de drenaje tales como rociadores y tanques de alimentación asimétricos. También se explicarán las metodologías para la integración del lenguaje de programación PYTHON en los proyectos elaborados en EPANET.
 
-# Particularidad del curso.
+# Particularidad del curso
 La Universidad Escuela Colombiana de Ingeniería Julio Garavito ofrece este curso virtual de educación continuada por medio del cual se ofrece la formación necesaria para realizar modelos hidráulicos de sistemas de tuberías con flujos a presión empleando el programa de EPANET.
 
 
 # Dirigido a
 Entidades públicas, empresas prestadoras de servicios, autoridades ambientales, privados, profesionales y/o estudiantes en Ingeniería Civil, Ingeniería Sanitaria y Ambiental, personal que labore áreas de consultoría, en el diseño de redes de acueducto, redes internas de edificaciones, redes para riego y tomadores de decisiones en el ámbito de la hidráulica a presión.
 
-# Objetivo principal del curso. 
+# Objetivo principal del curso 
 El objetivo general de este curso corresponde al estudio y aplicación del software de simulación hidráulica EPANET en su versión 2.2 en español. El curso se desarrolla a partir de la solución de diferentes ejercicios aplicados tomando como punto de partida los fundamentos básicos de la hidráulica a presión, los conceptos de conservación de la energía y la conservación de la masa y los conceptos que definen el comportamiento hidráulico de las redes abiertas y de las redes cerradas en un sistema presurizado.
 
-# Objetivos secundarios del curso. 
+# Objetivos secundarios del curso 
 **1.** Conceptualización de los fundamentos de la hidráulica a presión.
 
 **2.** Análisis de las herramientas básicas del software de EPANET.
@@ -84,7 +84,7 @@ A continuación, se presenta el contenido programático de los tres módulos que
 | [Resultados. Análisis y revisión](ModulosClases/ModuloNo.2/AnalisisResultados.md)                                                                                                             | Con la red construida, los accesorios definidos y las características de la red, se describirán los procedimientos para la ejecución del modelo hidráulico y la extración de los resultados. Se aprenderá metodología para el análisis de la información utilizando herramientas de Office, herramientas SIG y las herramientas integradas directamente en EPANET.                               | 
 
 
-## Módulo No. 3 - Uso y aplicación intermedia de EPANET.. 
+## Módulo No. 3 - Uso y aplicación intermedia de EPANET 
 
 
 | Actividad                                                                                                                                             | Alcance                                                                                                                                                                                                                                                                                                | 
