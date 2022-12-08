@@ -50,7 +50,7 @@ EPANET dentro de su base de datos permite la modelación de seis (6) tipos de v�
 
 Tomando la información del manual de ayuda al usuario de EPANET en su apartado 3.1.8 es posible distinguir los tipos de válvulas y sus usos. A continuación se transcribe este resumen:
 
-### Válvula reductora de presión (PRV): 
+### Válvula reductora de presión (PRV) 
 La PRV limita la presión en un punto de la red, sobre un tramo de tubería. EPANET establece tres formas de operación:
 
 • Parcialmente abierta (es decir, activa) para mantener una presión aguas abajo, siempre y cuando la presión aguas arriba sea superior a esta.
@@ -71,38 +71,23 @@ La PSV mantiene una presión determinada en un punto específico de la red. EPAN
 
 
 
-Válvula de rotura de carga (PBV): la PBV obliga a que la caída
-de presión en la válvula sea siempre un valor predeterminado
-por el usuario. El caudal que conduce la válvula puede ir en ambas
-direcciones. Las PBV no son mecanismos físicos verdaderos,
-pero pueden usarse para modelar situaciones donde exista
-una caída de presión local conocida.
-Válvula limitadora o controladora de caudal (FCV): las FCV
-limitan el caudal a un valor específico. EPANET mostrará un
-mensaje de advertencia si el caudal no se puede mantener sin
-un aporte de presión en la válvula (es decir, el caudal no se podrá
-mantener con la válvula totalmente abierta). Se debe tener
-especial atención en las FCV a la hora de simular un modelo
-hidráulico, ya que no pueden conectarse directamente a un depósito
-o tanque (utilice una tubería para separarlos).
-Válvula de regulación o reguladora por estrangulación
-(TCV): las TCV simulan una válvula parcialmente cerrada,
-ajustando adecuadamente el valor del coeficiente de pérdidas
-menores. Normalmente los fabricantes proporcionan
-una relación entre el grado de cierre de la válvula y el coeficiente
-de pérdidas resultante.
-Válvula de propósito general (GPV): las GPV se utilizan para
-representar un elemento con un comportamiento diferente y
-una relación entre el caudal y las pérdidas de energía. Además,
-se puede hacer uso de esta válvula para simular otro tipo
-de elementos físicos en un sistema de acueducto. Por ejemplo,
-simular turbinas, pozos de aspiración o válvulas preventivas
-contracorriente y reductoras de caudal (Rossman, 2000).
-Para lograr modelar una GPV se requiere de una curva característica
-(se utiliza la misma ruta de acceso descrita para una curva
-característica de una bomba) que relacione las pérdidas de energía
-en el eje de las ordenadas (expresado en metros) y el caudal en
-el eje de las abscisas (expresado en litros por segundo).
+### Válvula de rotura de carga (PBV)
+
+La PBV obliga a que la caída de presión en la válvula sea siempre un valor predeterminado por el usuario. El caudal que conduce la válvula puede ir en ambas direcciones. Las PBV no son mecanismos físicos verdaderos, pero pueden usarse para modelar situaciones donde exista una caída de presión local conocida.
+
+### Válvula limitadora o controladora de caudal (FCV)
+
+Las FCV limitan el caudal a un valor específico. EPANET mostrará un mensaje de advertencia si el caudal no se puede mantener sin un aporte de presión en la válvula (es decir, el caudal no se podrá mantener con la válvula totalmente abierta). Se debe tener especial atención en las FCV a la hora de simular un modelo hidráulico, ya que no pueden conectarse directamente a un depósito o tanque (utilice una tubería para separarlos).
+
+### Válvula de regulación o reguladora por estrangulación
+(TCV)
+
+Las TCV simulan una válvula parcialmente cerrada, ajustando adecuadamente el valor del coeficiente de pérdidas
+menores. Normalmente, los fabricantes proporcionan una relación entre el grado de cierre de la válvula y el coeficiente de pérdidas resultante.
+
+## Válvula de propósito general (GPV)
+
+Las GPV se utilizan para representar un elemento con un comportamiento diferente y una relación entre el caudal y las pérdidas de energía. Además, se puede hacer uso de esta válvula para simular otro tipo de elementos físicos en un sistema de acueducto. Por ejemplo, simular turbinas, pozos de aspiración o válvulas preventivas contracorriente y reductoras de caudal (Rossman, 2000).  Para lograr modelar una GPV se requiere de una curva característica (se utiliza la misma ruta de acceso descrita para una curva característica de una bomba) que relacione las pérdidas de energía en el eje de las ordenadas (expresado en metros) y el caudal en el eje de las abscisas (expresado en litros por segundo).
 
 
 
