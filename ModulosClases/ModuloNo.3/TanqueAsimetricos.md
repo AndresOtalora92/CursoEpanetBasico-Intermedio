@@ -59,7 +59,7 @@ Utilizando la red hidráulica construida y presentada en las actividades anterio
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.07.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  1   |
+| 2022.08.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |   2   |
 
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
