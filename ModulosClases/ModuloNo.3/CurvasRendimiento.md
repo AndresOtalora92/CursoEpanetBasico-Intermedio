@@ -22,14 +22,21 @@ El objetivo principal de esta actividad es, con base en los conceptos analizados
 
 ## Ejemplo de aplicación.
 
-Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se agregará se le adicionará una bomba centrífuga con la siguiente curva de rendimiento:
+Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se le adicionará a la red un nuevo tramo en el que se incluye una bomba centrífuga.
+
+Para este ejercicio se realizarán dos modelaciones:
+
+1. Asumiendo una bomba de arranque directo con potencia constante de 15 kW.
+2. Asumiendo una bomba de arranque directo con una curva de rendimiento o curva característica que presenta los siguientes puntos de operación:
+
+## Concepto de bomba centrífuga y curva característica
 
 
 ### Control de versiones
 
 | Versión    | Descripción   | Autor                                      | Horas |
 |------------|:--------------|--------------------------------------------|:-----:|
-| 2022.06.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  1.5  |
+| 2022.07.12 | Versión No. 1 | [AndresOtalora92](https://github.com/AndresOtalora92)  |  1.5  |
 
 
 _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
