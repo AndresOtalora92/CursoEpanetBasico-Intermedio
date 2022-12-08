@@ -54,7 +54,7 @@ Utilizando la red hidráulica construida y presentada en las actividades anterio
 
 <br>
 
-<<div align="center">
+<div align="center">
   <img src="Imagenes/FiguraNo.2.124.PNG" width="380px">
 </div>
 
