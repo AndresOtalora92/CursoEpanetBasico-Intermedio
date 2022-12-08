@@ -26,16 +26,16 @@ Como su nombre lo indica, un tanque asimétrico corresponde a aquel tanque cuya 
 A continuación se presentan algunos ejemplos de tanque asimétricos.
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.120.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.120.PNG" width="300px">
 </div>
 
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.121.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.121.PNG" width="300px">
 </div>
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.122.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.122.PNG" width="300px">
 </div>
 
 
