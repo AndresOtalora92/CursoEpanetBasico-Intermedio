@@ -26,11 +26,11 @@ Como su nombre lo indica, un tanque asimétrico corresponde a aquel tanque cuya 
 A continuación se presentan algunos ejemplos de tanque asimétricos.
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.121.PNG" width="400px">
+  <img src="Imagenes/FiguraNo.2.121.PNG" width="500px">
 </div>
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.122.PNG" width="200px">
+  <img src="Imagenes/FiguraNo.2.122.PNG" width="400px">
 </div>
 
 
@@ -40,7 +40,7 @@ Una curva de capacidad o curva de almacenamiento corresponde al gráfico y/o fun
 A continuación se presentan un ejemplo de una curva de capacidad o de almacenamiento.
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.123.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.123.PNG" width="400px">
 </div>
 
 ## Ejemplo de aplicación.
@@ -48,11 +48,11 @@ A continuación se presentan un ejemplo de una curva de capacidad o de almacenam
 Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se desarollará esta actividad. Se adicionará a la red un nuevo tramo que descargará al nodo 6 y que inicia en un tanque o reservorio asimétrico con la siguiente curva de almacenamiento o curva de capacidad:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.124.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.124.PNG" width="300px">
 </div>
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.125.PNG" width="500px">
+  <img src="Imagenes/FiguraNo.2.125.PNG" width="600px">
 </div>
 
 ### Control de versiones
