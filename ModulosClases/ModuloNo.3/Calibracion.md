@@ -1,4 +1,4 @@
-# Curso de Epanet - Módulo 3 - Calibración de una red hidráulica utilizando EPANET
+# Curso de Epanet - Módulo 3 - Incorporación de datos de calibración de una red hidráulica utilizando EPANET
 
 <div align="center">
   <img src="../../.icons/IconoEpanetV3.png" width="600px">
@@ -31,66 +31,83 @@ Cabe destacar que el software EPANET no integra herramientas que le permitan rea
 
 ## Ejemplo de aplicación
 
-Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo se desarrollará esta actividad. Se procede
+Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo, se desarrollará esta actividad. 
 
-## Datos para calibración e informe de calibración
+Se requiere ingresar los datos de calibración presentados en el siguiente cuadro que corresponden a valores de presión medidos en campo en los seis (6) nodos qfr la red con el objetivo que, en posteriores procedimientos, la red pueda ser calibrada modificando los parámetros hidráulicos y geométricos, como por ejemplo el coeficiente de rugosidad:
 
-_a._
+<div align="center">
+
+| Nombre del Nodo | Presión (m.c.a) | 
+|-----------------|:----------------|
+| N2              | 7               |
+| N3              | 5               |
+| N4              | 6               |
+| N5              | 6               |
+| N6              | 7               |
+
+</div>
+
+
+
+## Datos para calibración e informe de calibración en EPANET
+
+
+_a Se tomará como modelo hidráulico base la red presentada en la siguiente imagen._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.145.PNG" width="700px">
 </div>
 
 
-_b._
+_b. En la barra de herramientas "Proyecto" buscar la opción "Datos de calibración"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.146.PNG" width="700px">
 </div>
 
-_c._
+_c. Se abrirá una ventana en la cual se presentan las variables que pueden ser ingresadas como datos base de una posible calibración_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.147.PNG" width="700px">
 </div>
 
-_d._
+_d. Se crea el archivo base en el editor de texto. Se editan las tres columnas que se presentan en el formato indicado anteriormente revisando detalladamente el nombre de los objetos a los cuales se les ingresarán estos valores de calibración_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.148.PNG" width="700px">
 </div>
 
-_e._
+_e. En la ventana de "Datos de calibración", en el campo "Presión" se da clic en el botón "Examinar" y se busca la ubicación del documento con formato ".dat" creado previamente, se selecciona y se da clic en el botón aceptar._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.149.PNG" width="700px">
 </div>
 
-_f._
+_f. Una vez ingresado los datos se procede a ejecutar el modelo. Para realizar la revisión y la comparación que hace EPANET entre los datos modelados y los datos ingresados, se procede a buscar la opción "Calibración" de la barra de herramientas "Informe"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.150.PNG" width="700px">
 </div>
 
-_g._
+_g. Se abrirá una ventana con el tipo de variables que puede hacer un informe de comparación. En este caso seleccionamos la opción "presión"_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.151.PNG" width="700px">
 </div>
 
-_h._
+_h. Se selecciona la primera opción y se obtiene un primer reporte numérico a manera de tabla que puede ser importado o copiado a un editor de cálculo como por ejemplo Excel. En este reporte se comparan los valores modelados en los objetos seleccionados con los valores de calibración. También se presenta el error natural y error cuadrático medios entre los dos valores de cada objeto_
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.152.PNG" width="700px">
 </div>
 
-_i._
+_i. En la segunda opción se abrirá una gráfica de dispersión en la cual se comparan los datos obtenidos con los datos calibrados. Entre más cerca estén los puntos a la gráfica (línea a 45°) mejor será la aproximación numérica y menor será el error._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.153.PNG" width="700px">
 </div>
 
-_j._
+_j. En la tercera opción se presenta, también de manera gráfica pero esta vez con un diagrama de barras (histograma), la comparación entre los valores obtenidos con la simulación numérica con los datos tomados en campo para cada uno de los objetos seleccionados._
 
 <div align="center">
   <img src="Imagenes/FiguraNo.2.154.PNG" width="700px">
