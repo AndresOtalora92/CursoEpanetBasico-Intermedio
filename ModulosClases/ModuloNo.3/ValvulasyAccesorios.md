@@ -25,7 +25,7 @@ El objetivo principal de esta actividad es aplicar en el software los conceptos 
 Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se desarollará esta actividad. Se adicionará los siguientes accesorios a la red (los valores de "K" de cada tramo de tubería fueron tomados de las tablas de la actividad "Pérdidas de energía" del módulo 1:
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.133.PNG" width="550px">
+  <img src="Imagenes/FiguraNo.2.133.PNG" width="700px">
 </div>
 
 
@@ -48,6 +48,21 @@ EPANET dentro de su base de datos permite la modelación de seis (6) tipos de v�
 
 </div>
 
+Las variables que deben definirse para cada una de las válvulas corresponden a:
+
+<div align="center">
+
+| Siglas | "Consigna" o "restricción"             |
+|--------|:---------------------------------------|
+| PRV    | Presión (m o psi)                      | 
+| PSV    | Presión (m o psi)                      | 
+| PBV    | Presión (m o psi)                      | 
+| FCV    | Caudal (en unidades de caudal)         | 
+| TCV    | Coeficiente de pérdidas (adimensional) | 
+| GPV    | ID o curva de pérdidas                 | 
+
+</div>
+
 Tomando la información del manual de ayuda al usuario de EPANET en su apartado 3.1.8 es posible distinguir los tipos de válvulas y sus usos. A continuación se transcribe este resumen:
 
 ### Válvula reductora de presión (PRV) 
@@ -63,7 +78,7 @@ está por debajo de la especificada en la propiedad Consigna (Setting); el pará
 ### Válvula sostenedora de presión (PSV) 
 La PSV mantiene una presión determinada en un punto específico de la red. EPANET diferencia tres modos de funcionamiento:
 
-• Parcialmente abierta, para mantener la presión  especificada en la propiedad Consigna) aguas arriba de la válvula cuando la presión aguas abajo es menor.
+• Parcialmente abierta, para mantener la presión especificada en la propiedad Consigna) aguas arriba de la válvula cuando la presión aguas abajo es menor.
 
 • Totalmente abierta, si la presión aguas abajo es  superior a la especificada en la propiedad Consigna.
 
@@ -85,19 +100,65 @@ Las FCV limitan el caudal a un valor específico. EPANET mostrará un mensaje de
 Las TCV simulan una válvula parcialmente cerrada, ajustando adecuadamente el valor del coeficiente de pérdidas
 menores. Normalmente, los fabricantes proporcionan una relación entre el grado de cierre de la válvula y el coeficiente de pérdidas resultante.
 
-## Válvula de propósito general (GPV)
+### Válvula de propósito general (GPV)
 
 Las GPV se utilizan para representar un elemento con un comportamiento diferente y una relación entre el caudal y las pérdidas de energía. Además, se puede hacer uso de esta válvula para simular otro tipo de elementos físicos en un sistema de acueducto. Por ejemplo, simular turbinas, pozos de aspiración o válvulas preventivas contracorriente y reductoras de caudal (Rossman, 2000).  Para lograr modelar una GPV se requiere de una curva característica (se utiliza la misma ruta de acceso descrita para una curva característica de una bomba) que relacione las pérdidas de energía en el eje de las ordenadas (expresado en metros) y el caudal en el eje de las abscisas (expresado en litros por segundo).
 
-
-
-
 ## Accesorios menores, pérdidas localizadas y válvulas utilizando EPANET
 
-_a._
+_a. Para este ejericio se agregarán en cada uno de los cuatro tramos definidos en el enunciado del problema, la suma de los coeficientes de pérdidas de los accesorios que se encuentra en los tramos._
 
 <div align="center">
-  <img src="Imagenes/FiguraNo.2.126.PNG" width="700px">
+  <img src="Imagenes/FiguraNo.2.135.PNG" width="700px">
+</div>
+
+_b. Dando doble clic en la tubería 1-2 y escribiendo en el espacio "Coeficiente de pérdidas menores" la sumatoria de los coeficientes K de pérdidas de los accesorios en el tramo de tubería que corresponde a: 22.8._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.136.PNG" width="700px">
+</div>
+
+_c. Dando doble clic en la tubería 2-4 y escribiendo en el espacio "Coeficiente de pérdidas menores" la sumatoria de los coeficientes K de pérdidas de los accesorios en el tramo de tubería que corresponde a: 0.40._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.137.PNG" width="700px">
+</div>
+
+_d. Dando doble clic en la tubería 5-6 y escribiendo en el espacio "Coeficiente de pérdidas menores" la sumatoria de los coeficientes K de pérdidas de los accesorios en el tramo de tubería que corresponde a: 2.40._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.138.PNG" width="700px">
+</div>
+
+
+_e. Dando doble clic en la tubería 4-6 y escribiendo en el espacio "Coeficiente de pérdidas menores" la sumatoria de los coeficientes K de pérdidas de los accesorios en el tramo de tubería que corresponde a: 0.70._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.139.PNG" width="700px">
+</div>
+
+_f. Una vez completado los coeficientes de pérdidas menores en todos los tramos que tienen accesorios, se procede a ejecutar el modelo. Tal como es lógico, al comparar los resultados obtenidos en el primer modelo (modelo que no incluye pérdidas menores) con el nuevo modelo (inlcuyendo las pérdidas menores) se observa una clara reducción en los caudales que circulan por el sistema. Esto se debe, tal como se explica en el módulo 1, a la disminución de las pérdidas de energía entre tramos debido a estos accesorios. Estas pérdidas de energía en el sistema también afecta, como es de esperarse, a las presiones en cada uno de los nodos que conforman la red._
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.140.PNG" width="700px">
+</div>
+
+_g. Ahora se realizará un ejemplo de inclusión de una válvula reductora de presión que restrinja la presión en -8.0 m.c.a (ver el capítulo de "Válvula reductora de presión (PRV)"). Para realizar esto se eliminará el tramo de tubería que une los nodos N2 y N4 y se agregará una válvula (que incluye a su vez el tramo de tubería), utilizando el ícono de la válvula que se encuentra en la barra de herramientas de "atajos"_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.142.PNG" width="700px">
+</div>
+
+_h. Una los nodos N2 y N4 con la válvula. Diligencia los campo solicitados por el programa al dar doble clic sobre la válvula que acaba de crear.  En la opción "tipo válvula" seleccione, para este caso, "Reductor". En la opción "Consigna" escriba la restricción de presión, que en este caso es -8.0 m.c.a. En la opción "Estado Forzado" escriba "ninguno" (también es posible abierto o cerrado dependiendo de lo que se quiere hacer una vez se alcance esta presión). Finalmente, para representar el tramo que se eliminó, en la opción "Coef. Pérdidas" digite la sumatoria de pérdidas menores que había en el tramo 2-4_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.143.PNG" width="700px">
+</div>
+
+_i. Ejecute el modelo y revise la información. Como se podrá dar cuenta viendo la siguiente imagen, debido a que la presión aguas abajo es mayor a la presión aguas arriba y mayor que -8.0 m.c.a, la válvula se ha cerrado cuando el flujo en este punto (N4) alcanzó la presión límite, restringiendo el caudal que llega al N6 y por tanto, restringiendo el caudal en el tramo de tubería 2-4_
+
+<div align="center">
+  <img src="Imagenes/FiguraNo.2.144.PNG" width="700px">
 </div>
 
 ### Control de versiones
