@@ -99,7 +99,7 @@ A continuación, se presenta el contenido programático de los tres módulos que
 
 
 
-*En la siguiente imagen se presenta el contenido programático resumido en un diagrama de flujo.*
+**En la siguiente imagen se presenta el contenido programático resumido en un diagrama de flujo.**
 
 <div align="center">
 
