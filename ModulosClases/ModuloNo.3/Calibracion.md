@@ -24,10 +24,6 @@ El objetivo principal de esta actividad e
 
 Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se desarollará esta actividad. Se adicionará los siguientes accesorios a la red (los valores de "K" de cada tramo de tubería fueron tomados de las tablas de la actividad "Pérdidas de energía" del módulo 1:
 
-<div align="center">
-  <img src="Imagenes/FiguraNo.2.133.PNG" width="700px">
-</div>
-
 
 ### Control de versiones
 
