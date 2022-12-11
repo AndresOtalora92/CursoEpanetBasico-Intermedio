@@ -32,7 +32,6 @@ El objetivo principal de esta actividad es permitir que el estudiante conozca co
 </div>
 
 
-
 ## EPANET. Historia 
 
 EPANET es un software de modelación hidráulica que permite desarrollar proyectos de sistemas con flujo a presión. 
@@ -313,6 +312,7 @@ A continuación se nombran cada uno de los elementos que componen las dos barras
 <div align="center">
   <img src="Imagenes/FiguraNo.2.15.PNG" width="500px">
 </div>
+
 
 <br> 1. Crear nuevo documento   </br>
 <br> 2. Abrir documento   </br>
