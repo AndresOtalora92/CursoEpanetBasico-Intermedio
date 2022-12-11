@@ -19,6 +19,16 @@ En este módulo se describe un procedimiento particular para el cargue o importa
 
 El objetivo principal de esta actividad es permitirle al usuario aprender una metodología adicional para la elaboración del esqueleto o geometría de una red utilizando AUTOCAD o CIVIL3D. En los casos de la ingeniería aplicada, como por ejemplo redes complejas de edificaciones o red de acueducto, el manejo de la información gráfica requiere que la red sea construida o elaborada en software de dibujo técnico. 
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ETyNs0lPA8ZAsQ4FQiYf1pUBQH45uoxK1WyeP_MMnkxRbw?e=kbnYXI">
+        <img src="Imagenes/CLASE_MOD2_ACT3.PNG" width="800px">
+    </a>
+</div>
 
 ### Carga una red previamente construido en AutoCAD (uso de EPACAD)
 

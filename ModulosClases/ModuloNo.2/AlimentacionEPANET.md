@@ -19,6 +19,18 @@ En este módulo se muestra el procedimiento sugerido para el cargue de informaci
 
 El objetivo principal de esta actividad es mostrarle al usuario como cargar, ingresar y editar la información básica necesaria para alimentar adecuadamente la red. Para realizar este objetivo se utilizará un problema base teórico con información de longitudes, materiales, diámetros, niveles y caudales demandados en alguno de los nodos que componen una red cerrada con un solo ciclo, cuyo caudal es generado por el nivel constante en un tanque. 
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EaFYYSCacVlKgnqj0eAfzWkBXK44GYIFJUQ1TM03q1Gbkw?e=nDN4fM">
+        <img src="Imagenes/CLASE_MOD2_ACT4.PNG" width="800px">
+    </a>
+</div>
+
+
 ## Enunciado del problema para la aplicación de la actividad.
 
 A continuación se presenta la información base correspondiente a la red de tuberías (sistema cerrado con un ciclo) alimentada por un tanque elevado de nivel constante que descarga a varios tramos de red. La información de la geometría, demanda en los niveles y nivel del tanque se presentan resumidos en la siguiente imagen:

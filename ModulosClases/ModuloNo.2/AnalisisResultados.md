@@ -17,7 +17,20 @@ En este módulo se presentan algunas recomendaciones para la visualización y ex
 
 ## Objetivos
 
-El objetivo principal de esta actividad es permitirle al usuario tener diferentes herramientas de visualización de los resultados a partir del resumen de los mismos en tablas, contornos y gráficas, que pueden ser utilizados por el diseñador para tomar decisiones en una red hidráulica. 
+El objetivo principal de esta actividad es permitirle al usuario tener diferentes herramientas de visualización de los resultados a partir del resumen de los mismos en tablas, contornos y gráficas, que pueden ser utilizados por el diseñador para tomar decisiones en una red hidráulica.
+
+
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EaFYYSCacVlKgnqj0eAfzWkBXK44GYIFJUQ1TM03q1Gbkw?e=nDN4fM">
+        <img src="Imagenes/CLASE_MOD2_ACT5.PNG" width="800px">
+    </a>
+</div>
+
 
 ## Ejecutar el modelo hidráulico
 
