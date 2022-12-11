@@ -26,7 +26,7 @@ El objetivo principal de esta actividad es permitir que el estudiante conozca co
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ERI0RgNeFHpJsnsby1wvU80BHeA0D1joscrabW-hC_2jGA?e=xD2LCd">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ERI0RgNeFHpJsnsby1wvU80BHeA0D1joscrabW-hC_2jGA?e=vIVczj">
         <img src="Imagenes/CLASE_MOD2_ACT1.PNG" width="800px">
     </a>
 </div>

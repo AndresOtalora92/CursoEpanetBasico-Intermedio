@@ -25,7 +25,7 @@ El objetivo principal de esta actividad es mostrarle al usuario como cargar, ing
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EaFYYSCacVlKgnqj0eAfzWkBXK44GYIFJUQ1TM03q1Gbkw?e=nDN4fM">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EaFYYSCacVlKgnqj0eAfzWkBXK44GYIFJUQ1TM03q1Gbkw?e=aQTJ1o">
         <img src="Imagenes/CLASE_MOD2_ACT4.PNG" width="800px">
     </a>
 </div>

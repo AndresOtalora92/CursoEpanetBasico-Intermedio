@@ -26,7 +26,7 @@ El objetivo principal de esta actividad es permitirle al usuario tener diferente
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EXYLT8XQb45Oo0Oo3yEde3cB_fOKRewklVm3w_APHIMR6A?e=p7L4Gx">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EXYLT8XQb45Oo0Oo3yEde3cB_fOKRewklVm3w_APHIMR6A?e=R1iWbQ">
         <img src="Imagenes/CLASE_MOD2_ACT5.PNG" width="800px">
     </a>
 </div>
