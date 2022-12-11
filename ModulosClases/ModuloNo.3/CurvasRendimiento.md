@@ -20,6 +20,18 @@ En esta actividad se presenta la metodología sugerida para la asignación de un
 El objetivo principal de esta actividad es, con base en los conceptos analizados en el módulo 1 de la actividad "Conceptos de bombas hidráulicas", darle a conocer al usuario el procedimiento sugerido para ingresar una curva de rendimiento o curva característica de una bomba en una red hidráulica. 
 
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EabvTerE5-1Fiw6U_pxYsjUBsl1ydbyrl5ael80XsXHviA?e=rp9BJW">
+        <img src="Imagenes/CLASE_MOD3_ACT4.PNG" width="800px">
+    </a>
+</div>
+
+
 ## Ejemplo de aplicación
 
 Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo (módulo 3) se le adicionará a la red un nuevo tramo en el que se incluye una bomba centrífuga.
