@@ -20,6 +20,19 @@ En este módulo se describe con detalle las ventanas, herramientas, opciones y m
 El objetivo principal de esta actividad es permitir que el estudiante conozca con detalle los elementos que se usarán para la construcción del modelo, el manejo del programa y sus archivos y las diferentes herramientas de edición, calibración, complementación y alimentación de los objetos que componen la red.
 
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EZamne9i1ixKrBNk1KSFvcIBi3Rp1Xv7ws8HzwZuU4UGow?e=MsEczQ">
+        <img src="Imagenes/CLASE_MOD2_ACT1.PNG" width="800px">
+    </a>
+</div>
+
+
+
 ## EPANET. Historia 
 
 EPANET es un software de modelación hidráulica que permite desarrollar proyectos de sistemas con flujo a presión. 

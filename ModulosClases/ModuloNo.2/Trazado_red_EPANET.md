@@ -20,6 +20,17 @@ En este módulo se detallan algunas metodologías para la creación del esquelet
 El objetivo principal de esta actividad es presentar diferentes alternativas para la creación del esqueleto o geometría de un sistema hidráulica a presión conformado por una red abierta o una red cerrada. El usuario decidirá cuál de los procedimientos aquí explicado es el más adecuado teniendo en cuenta la magnitud y dificultad de su red.  
 
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EZamne9i1ixKrBNk1KSFvcIBi3Rp1Xv7ws8HzwZuU4UGow?e=MsEczQ">
+        <img src="Imagenes/CLASE_MOD2_ACT2.PNG" width="800px">
+    </a>
+</div>
+
 ## Trazar una red con las herramientas de EPANET
 
 A continuación se detallan los procedimientos sugeridos para realizar el trazado de una red hidráulica (mismo procedimiento si la red es abierta o cerrada), tomando como referencia esquemas previamente realizados. 
