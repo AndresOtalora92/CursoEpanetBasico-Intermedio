@@ -19,6 +19,17 @@ En esta actividad se presenta de manera general el concepto general de un rociad
 
 El objetivo principal de esta actividad es darle a conocer al usuario las metodologías sugeridas por EPANET para tener en cuenta el comportamiento hidráulico de un rociador en una red hidráulica a presión. Como se verá más adelante los rociadores descarga un caudal en función de la variación de la presión en su salida.
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EXYLT8XQb45Oo0Oo3yEde3cB_fOKRewklVm3w_APHIMR6A?e=p7L4Gx">
+        <img src="Imagenes/CLASE_MOD3_ACT3.PNG" width="800px">
+    </a>
+</div>
+
 
 ## Rociadores
 Un rociador corresponde a un accesorio tipo válvula con una boquilla que permite dispersar el fluido (agua-espuma) de manera controlada en un radio de influencia definido por la presión y el caudal. Generalmente, este tipo de accesorios son utilizados en las redes contra-incendios en las edificaciones, oficinas, bodegas entre otros. 

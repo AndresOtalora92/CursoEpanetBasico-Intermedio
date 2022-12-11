@@ -24,6 +24,17 @@ Como se mencionó a lo largo del curso, especialmente en el módulo 2, en un nod
 
 En caso teórico es posible definir de manera simplificada el consumo como un valor permanente o constante en el tiempo. En la ingeniería aplicada los consumo en las redes de drenaje presentan diferentes patrones de demanda, los cuales pueden ser representados como un porcentaje o factor menor o mayor a la unidad del caudal medio de consumo. 
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EXYLT8XQb45Oo0Oo3yEde3cB_fOKRewklVm3w_APHIMR6A?e=p7L4Gx">
+        <img src="Imagenes/CLASE_MOD3_ACT1.PNG" width="800px">
+    </a>
+</div>
+
 ## Ejemplo de aplicación
 
 Utilizando la red hidráulica construida y presentada en las diferentes actividades del módulo 2, se definirá un patron de demanda (o como lo llama EPANET, un análisis de tiempo extendido) utilizando como demanda media los caudales de demanda definidos en los nodos 3 y 6 de la red mencionada. Los patrones de demanda se presentan a continuación en forma de histogramas:
