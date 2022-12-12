@@ -19,6 +19,16 @@ En esta actividad se presenta el procedimiento recomendado para tener en cuenta 
 
 El objetivo principal de esta actividad es aplicar en el software los conceptos vistos en la actividad "Pérdidas de energía" del módulo 1. A partir de un ejercicio de aplicación y conociendo los coeficientes de pérdidas menores de diferentes accesorios, se ingresará la información. Adicionalmente se comprenderán los tipos de válvulas incorporadas en EPANET.
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EVlQVWCsCLFLo9YQszWft3YBKNL0PcsOp25AV1Segx4SzQ?e=aj0rhs">
+        <img src="Imagenes/CLASE_MOD3_ACT6.PNG" width="800px">
+    </a>
+</div>
 
 ## Ejemplo de aplicación
 
