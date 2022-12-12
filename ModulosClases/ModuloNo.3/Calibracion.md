@@ -35,7 +35,7 @@ Cabe destacar que el software EPANET no integra herramientas que le permitan rea
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EVlQVWCsCLFLo9YQszWft3YBKNL0PcsOp25AV1Segx4SzQ?e=aj0rhs">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EYHRj9LCio5Eh8RQI0VjcVwBV4r_WZ1tzhSVN_lIG6-oTw?e=2Od08y">
         <img src="Imagenes/CLASE_MOD3_ACT7.PNG" width="800px">
     </a>
 </div>
