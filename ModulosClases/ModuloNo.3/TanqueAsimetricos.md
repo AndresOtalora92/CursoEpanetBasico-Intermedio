@@ -19,6 +19,18 @@ En esta actividad se presenta la metodología y los conceptos para trabajar con 
 
 El objetivo principal de esta actividad es darle a conocer el usuario las posibilidades que tiene para incorporar tanques simétricos o asimétricos a partir del ingres de su curva de almacenamiento o capacidad. 
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EabvTerE5-1Fiw6U_pxYsjUBsl1ydbyrl5ael80XsXHviA?e=rp9BJW">
+        <img src="Imagenes/CLASE_MOD3_ACT5.PNG" width="800px">
+    </a>
+</div>
+
+
 ## Tanque asimétricos y curva de capacidad
 
 Como su nombre lo indica, un tanque asimétrico corresponde a aquel tanque cuya geometría no es regular y por tanto, el volumen de almacenado (cuando el tanque es alimentado)  o volumen de descarga (cuando el tanque es alimentado) cambia en función del nivel del agua en dicho tanque. Los tanques irregulares son generalmente usados en viviendas, edicificaciones de poca altura, hospitales, zonas de extracción de minerales, zonas con reservorios temporales, entre otros.
@@ -42,6 +54,8 @@ A continuación se presentan un ejemplo de una curva de capacidad o de almacenam
 <div align="center">
   <img src="Imagenes/FiguraNo.2.123.PNG" width="400px">
 </div>
+
+
 
 ## Ejemplo de aplicación
 
