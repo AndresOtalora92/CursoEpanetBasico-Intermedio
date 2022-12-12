@@ -29,6 +29,18 @@ Una vez ingresado los datos y generado los informes, es necesario que el usuario
 
 Cabe destacar que el software EPANET no integra herramientas que le permitan realizar múltiples iteraciones modificando una variable tal que se pueda calibrar la red a partir de variables de entrada tomados en campo. Es posible crear desarrollos en otros lenguajes (o en el mismo programador de EPANET) para que esto sea posible.
 
+<br>
+
+<br>
+
+<div align="center">
+    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EVlQVWCsCLFLo9YQszWft3YBKNL0PcsOp25AV1Segx4SzQ?e=aj0rhs">
+        <img src="Imagenes/CLASE_MOD3_ACT7.PNG" width="800px">
+    </a>
+</div>
+
+
 ## Ejemplo de aplicación
 
 Utilizando la red hidráulica construida y presentada en las actividades anteriores de este módulo, se desarrollará esta actividad. 
