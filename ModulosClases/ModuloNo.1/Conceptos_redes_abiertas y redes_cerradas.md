@@ -18,7 +18,7 @@ Keywords: `Redes cerradas` `Redes abiertas` `Solución de sistemas` `Nodos`
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EX3A9L6eb3NGiGx8BBddNccB2qWo6AZS82Yy2isCQFpC8A?e=Eva5AV">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ETZkhCcmMQhGh7E4oUGXvb4BLyWU2sp1dSgA-_vvnSD6iA?e=6xkfmK">
         <img src="Imagenes/INTRODUCCION_MOD1_ACT6.PNG" width="800px">
     </a>
 </div>
@@ -38,7 +38,7 @@ El objetivo principal de esta actividad es crear al usuario las nociones fundame
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EZamne9i1ixKrBNk1KSFvcIBi3Rp1Xv7ws8HzwZuU4UGow?e=MsEczQ">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EapFLf6ACk1Cvo8P_RkSEwkBD9tW0ySI4aSl9VsdsFasWw?e=5a8qet">
         <img src="Imagenes/CLASE_MOD1_ACT6.PNG" width="800px">
     </a>
 </div>

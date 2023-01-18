@@ -17,7 +17,7 @@ Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EcRb1LreSzBEmGEz29yFhUQBFw7C_Jg-zJIT8lTA3c5gHQ?e=ggDpk0">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EeaCi969o65IivfMEFGes_ABZ2plo4E7pEO5gXklNm52Sg?e=zpdt6x">
         <img src="Imagenes/INTRODUCCION_MOD1_ACT4.PNG" width="800px">
     </a>
 </div>
@@ -37,7 +37,7 @@ El objetivo principal de esta actividad es permitir que el estudiante comprenda 
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EZwRdiB3HbxDvbQ1j3MoB-oBoa444IYuZZ-NeX7ZmQWw4Q?e=xhYPDx">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EXWmASLfg_1FvLWjBEKdzhwBQvdvhwpjnj_OEPiaKU1GXw?e=k0OyaU">
         <img src="Imagenes/CLASE_MOD1_ACT4.PNG" width="800px">
     </a>
 </div>

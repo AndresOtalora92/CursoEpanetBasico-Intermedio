@@ -17,7 +17,7 @@ Keywords: `Energía` `Bernoulli` `Línea de Corriente` `Conservación de la ener
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ERjexa1U1iZNpHhm_8vCb5MBXP0wCzpyHXzs59Nu2On_ag?e=rBHC3F">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EYHYt5ITubdMtPWk118sTYkB9dGSj4zbPG5m00W-nT7xLg?e=A6uyQ4">
         <img src="Imagenes/INTRODUCCION_MOD1_ACT3.PNG" width="800px">
     </a>
 </div>
@@ -38,7 +38,7 @@ El objetivo principal de esta actividad es introducir al estudiante en los conce
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ETIIN4sIB2tErf4Nd_qajhwBboVcME000xEF7a6xzUWLSA?e=qKhu6v">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EXNwjpczJ6xPn0_hUlAc1bMB3gQbqgMXThdNP8WG8ZRk0g?e=OvV19Z">
         <img src="Imagenes/CLASE_MOD1_ACT3.PNG" width="800px">
     </a>
 </div>

@@ -18,7 +18,7 @@ Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EXVPYBSfySNLpHKJA6viEuYBQHE-L56zahCiuwOqIzeEQQ?e=yNocEw">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EeZ6ilMzS5lFuTXQuh8TeIABz9391wfFpVXcmp53BLbOdQ?e=YOrkT7">
         <img src="Imagenes/INTRODUCCION_MOD1_ACT2.PNG" width="800px">
     </a>
 </div>
@@ -39,7 +39,7 @@ El objetivo principal de esta actividad es introducir al estudiante en los conce
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EfhCVWNSmfFCsNcmKQs9R4ABAPk3EoYgPSDuh0qjRQ-riA?e=8SV4Av">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EdiDQw-J1J5MpSoLrsOO4FoB7U90UTijK0BCc7vzysAZ7g?e=6cfIfC">
         <img src="Imagenes/CLASE_MOD1_ACT2.PNG" width="800px">
     </a>
 </div>
