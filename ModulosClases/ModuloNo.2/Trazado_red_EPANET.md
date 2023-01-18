@@ -26,7 +26,7 @@ El objetivo principal de esta actividad es presentar diferentes alternativas par
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EZ1ACpeAEnxJrSX2Kx3Q58YBs6XeZlo8di-KfFimkfp4fA?e=edIhVg">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EViob_XGqANEjXyRS2a5O-MBlnEQg1z_AsnoVxLv1iJi-w?e=irWz57">
         <img src="Imagenes/CLASE_MOD2_ACT2.PNG" width="800px">
     </a>
 </div>
