@@ -25,7 +25,7 @@ El objetivo principal de esta actividad es aplicar en el software los conceptos 
 
 <div align="center">
     <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EdwHtpbfv0ZDkejTWm16vk4BovowEAroSxG8jYsEE0GZlg?e=5aW39d">
+    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EXL-nYBKJ8FPgxqDFyd_doUB6wr8CMU8MpbbPNX55tvZdg?e=banY05">
         <img src="Imagenes/CLASE_MOD3_ACT6.PNG" width="800px">
     </a>
 </div>
