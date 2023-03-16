@@ -1,15 +1,5 @@
 <div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBanner.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
 
-<div align="center">
-  <img alt="R.LTWB" src=".icons/R.LTWB.svg" width="250px">
-  <br><b>Balance hidrológico de largo plazo para estimación de caudales medios usando SIG.</b><br>Long-term water balance by r.cfdtools@gmail.com<br><br>  
-</div>
-
-<div align="center">
-<br><img alt="R.LTWB" src=".icons/LTWB.png" width="75%"><br>
-<sub>Fuente: propia, creada con el catálogo de objetos de Microsoft Paint 3D.</sub><br><br>
-</div>
-
 # Bienvenido al curso de Epanet. Uso y aplicaciones. 
 
 <div align="center">
