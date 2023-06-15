@@ -3,6 +3,10 @@
 # Curso de Epanet - Módulo 3 - Incorporación de datos de calibración de una red hidráulica utilizando EPANET
 
 <div align="center">
+  <img src="../../.icons/IconoEpanetV3.png" width="600px">
+</div>
+
+<div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
 <br></div>
 
