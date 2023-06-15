@@ -20,9 +20,6 @@ Profesor del Centro de Estudios Hidráulicos
 andres.otalora@escuelaing.edu.co
 <br></div>
 
-
-Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
-
 <br>
 
 <br>
@@ -32,6 +29,8 @@ Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
         <img src="../../.icons/INICIO_OBJETIVOS.PNG" width="800px">
     </a>
 </div>
+
+Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
 
 ## Introducción
 
