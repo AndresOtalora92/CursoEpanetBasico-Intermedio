@@ -50,7 +50,7 @@ El objetivo principal de esta actividad es permitir que el estudiante aprenda, r
 
 <div align="center">
        <a href="https://youtu.be/lCAYWE2EI9U">
-        <img src="../../.icons/INICIO_ACTIVIDAD.png" width="800px">
+        <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 
