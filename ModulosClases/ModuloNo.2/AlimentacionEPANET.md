@@ -1,3 +1,5 @@
+<div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBanner.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+
 # Curso de Epanet - Módulo 2 - Alimentación del modelo Epanet. Elementos de la red
 
 <div align="center">
@@ -6,8 +8,19 @@
 
 <div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
-<br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
-</div>
+<br></div>
+
+<div align="center">
+Andrés Humberto Otálora Carmona
+<br></div>
+
+<div align="center">
+Profesor del Centro de Estudios Hidráulicos
+<br></div>
+
+<div align="center">
+andres.otalora@escuelaing.edu.co
+<br></div>
 
 Keywords: `EPANET` `geometría` `Cargue información`
 
@@ -24,12 +37,10 @@ El objetivo principal de esta actividad es mostrarle al usuario como cargar, ing
 <br>
 
 <div align="center">
-    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EY0-xTsOK4JKkReDshJhdSIBZcepSIu5TKohsU-_6V8UnA?e=3ic7st">
-        <img src="Imagenes/CLASE_MOD2_ACT4.PNG" width="800px">
+       <a href="https://youtu.be/Wdpnb97uE7s">
+        <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
-
 
 ## Enunciado del problema para la aplicación de la actividad.
 
@@ -187,3 +198,5 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 |----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------|
 
 <div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/LC_SA_MN.LC_FRM_ADM_EC_CMP.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBotonCertificado.png" alt="R.LTWB" width="260" border="0" /></a></div>
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src="../../.icons/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
