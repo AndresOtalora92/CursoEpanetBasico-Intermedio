@@ -6,8 +6,19 @@
 
 <div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
-<br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
-</div>
+<br></div>
+
+<div align="center">
+Andrés Humberto Otálora Carmona
+<br></div>
+
+<div align="center">
+Profesor del Centro de Estudios Hidráulicos
+<br></div>
+
+<div align="center">
+andres.otalora@escuelaing.edu.co
+<br></div>
 
 Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 
@@ -16,9 +27,8 @@ Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 <br>
 
 <div align="center">
-    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ERBrV4ETmvJKs8sYYwATYCgBRNfb5bX92Qu0SdPQ7JPd-w?e=eTOF0v">
-        <img src="Imagenes/INTRODUCCION_MOD1_ACT1.PNG" width="800px">
+       <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ERBrV4ETmvJKs8sYYwATYCgBRNfb5bX92Qu0SdPQ7JPd-w?e=eTOF0v">
+        <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
     </a>
 </div>
 
