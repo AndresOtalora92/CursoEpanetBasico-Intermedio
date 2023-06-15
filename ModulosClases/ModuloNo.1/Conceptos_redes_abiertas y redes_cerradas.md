@@ -47,7 +47,7 @@ El objetivo principal de esta actividad es crear al usuario las nociones fundame
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/lG6kyNjbyHw">
+       <a href="https://youtu.be/0ajGmxmIPI0">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
