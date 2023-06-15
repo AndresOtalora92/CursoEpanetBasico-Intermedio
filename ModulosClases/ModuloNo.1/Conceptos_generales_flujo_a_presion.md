@@ -49,7 +49,7 @@ El objetivo principal de esta actividad es permitir que el estudiante aprenda, r
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/xFDHVijvIH0">
+       <a href="https://youtu.be/lCAYWE2EI9U">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
