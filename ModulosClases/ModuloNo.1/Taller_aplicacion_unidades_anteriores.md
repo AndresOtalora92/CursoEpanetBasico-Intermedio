@@ -1,3 +1,6 @@
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/LC_SA_MN.LC_FRM_ADM_EC_CMP.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBannerCertificado.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+
+
 # Curso de Epanet - Módulo 1 - Taller de aplicación de las actividades anteriores. 
 
 <div align="center">
@@ -6,9 +9,19 @@
 
 <div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
-<br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
-</div>
+<br></div>
 
+<div align="center">
+Andrés Humberto Otálora Carmona
+<br></div>
+
+<div align="center">
+Profesor del Centro de Estudios Hidráulicos
+<br></div>
+
+<div align="center">
+andres.otalora@escuelaing.edu.co
+<br></div>
 
 Keywords: `Hidráulica a Presión` `Conceptos de hidráulica a presión` `Taller de práctica`
 
