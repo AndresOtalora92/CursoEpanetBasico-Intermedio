@@ -27,7 +27,7 @@ andres.otalora@escuelaing.edu.co
 <br>
 
 <div align="center">
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EUsU7qE4tcJPmb9NvuUjc9wBPtv6gSdI_W4witqq_63cSA?e=XpKif3">
+    <a href="https://youtu.be/HpYWdZIFtAY">
         <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
     </a>
 </div>
