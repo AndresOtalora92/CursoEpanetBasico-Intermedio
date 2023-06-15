@@ -27,8 +27,8 @@ Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 <br>
 
 <div align="center">
-       <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ERBrV4ETmvJKs8sYYwATYCgBRNfb5bX92Qu0SdPQ7JPd-w?e=eTOF0v">
-        <img src="../ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
+       <a href="https://youtu.be/xFDHVijvIH0">
+        <img src="../../.icons/INICIO_OBJETIVOS.png" width="800px">
     </a>
 </div>
 
@@ -49,12 +49,10 @@ El objetivo principal de esta actividad es permitir que el estudiante aprenda, r
 <br>
 
 <div align="center">
-    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EYdAMv9N3dRCqIyN4Gn8-cUB0s5qKtY8RliBSPj6sKZUfg?e=ogSeoL">
-        <img src="Imagenes/CLASE_MOD1_ACT1.PNG" width="800px">
+       <a href="https://youtu.be/lCAYWE2EI9U">
+        <img src="../../.icons/INICIO_ACTIVIDAD.png" width="800px">
     </a>
 </div>
-
 
 ## Flujo a presión. Definiciones y características
 
@@ -280,3 +278,8 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 
 [^1]: Saldarriaga, Juan. Hidráulica a Presión (2019).
 [^2]: Frank M. White. Mecánica De Fluidos (2020).
+
+##
+
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=".icons/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
