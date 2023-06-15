@@ -20,7 +20,7 @@ Profesor del Centro de Estudios Hidráulicos
 andres.otalora@escuelaing.edu.co
 <br></div>
 
-Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
+
 
 <br>
 
@@ -31,6 +31,8 @@ Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
         <img src="../../.icons/INICIO_OBJETIVOS.PNG" width="800px">
     </a>
 </div>
+
+Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 
 ## Introducción
 

@@ -20,7 +20,7 @@ Profesor del Centro de Estudios Hidráulicos
 andres.otalora@escuelaing.edu.co
 <br></div>
 
-Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
+
 
 
 <br>
@@ -33,7 +33,7 @@ Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
     </a>
 </div>
 
-
+Keywords: `Energía` `Bernoulli` `Flujo` `Flujo másico` `masa`
 
 ## Introducción
 
