@@ -34,7 +34,7 @@ andres.otalora@escuelaing.edu.co
 
 # Introducción 
 
-Un modelo numérico corresponde a la representación matemática de los procesos físicos que domina el comportamiento de un sistema. En el caso particular de la hidráulica y especialmente para los problemas dominados por los flujos a presión, existen muchos programas, elaborados con diferentes lenguajes de programación, que buscan lo mismo: la determinación de los parámetros hidráulicos de una red a partir de la solución numérica de las ecuaciones de conservación de la energía y de la conservación de la masa. 
+Unn modelo numérico corresponde a la representación matemática de los procesos físicos que domina el comportamiento de un sistema. En el caso particular de la hidráulica y especialmente para los problemas dominados por los flujos a presión, existen muchos programas, elaborados con diferentes lenguajes de programación, que buscan lo mismo: la determinación de los parámetros hidráulicos de una red a partir de la solución numérica de las ecuaciones de conservación de la energía y de la conservación de la masa. 
 
 Uno de los software más utilizados para la modelación de redes hidráulicas a presión en condiciones de flujo permanente, es el software EPANET, software que corresponde al objeto principal del presente curso. 
 
