@@ -8,19 +8,19 @@
 
 <div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
-<br><i>
+<br>
 
 <div align="center">
 Andrés Humberto Otálora Carmona
-<br><i>
+<br>
 
 <div align="center">
 Profesor del Centro de Estudios Hidráulicos
-<br><i>
+<br>
 
 <div align="center">
 andres.otalora@escuelaing.edu.co
-<br><i>
+<br>
 
 <br>
 
