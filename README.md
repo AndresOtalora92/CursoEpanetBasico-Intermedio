@@ -1,6 +1,6 @@
 <div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBanner.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
 
-# Bienvenido al curso de Epanet. Uso y aplicaciones. 
+# Curso de Epanet. Uso y aplicaciones. Nivel Básico Intermedio 
 
 <div align="center">
   <img src=".icons/IconoEpanetV3.png" width="600px">
@@ -8,7 +8,14 @@
 
 <div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
-<br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
+<br><i>
+
+Universidad Escuela Colombiana de Ingeniería Julio Garavito
+Andrés Humberto Otálora Carmona
+
+Profesor del Centro de Estudios Hidráulicos
+andres.otalora@escuelaing.edu.co
+</i>
 </div>
 
 <br>
@@ -16,7 +23,6 @@
 <br>
 
 <div align="center">
-    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
     <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EUsU7qE4tcJPmb9NvuUjc9wBPtv6gSdI_W4witqq_63cSA?e=XpKif3">
         <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
     </a>
