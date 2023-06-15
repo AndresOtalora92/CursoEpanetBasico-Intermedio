@@ -6,8 +6,20 @@
 
 <div align="center">
 <b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
-<br><i>Andrés Humberto Otálora Carmona, andres.otalora@escuelaing.edu.co </i>
-</div>
+<br></div>
+
+<div align="center">
+Andrés Humberto Otálora Carmona
+<br></div>
+
+<div align="center">
+Profesor del Centro de Estudios Hidráulicos
+<br></div>
+
+<div align="center">
+andres.otalora@escuelaing.edu.co
+<br></div>
+
 
 Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
 
@@ -16,12 +28,10 @@ Keywords: `Energía` `Pérdidas` `Fricción` `Localizadas`
 <br>
 
 <div align="center">
-    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE INTRODUCCIÓN </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EeaCi969o65IivfMEFGes_ABZ2plo4E7pEO5gXklNm52Sg?e=zpdt6x">
-        <img src="Imagenes/INTRODUCCION_MOD1_ACT4.PNG" width="800px">
+       <a href="https://youtu.be/3C-B68Jw-Gg">
+        <img src="../../.icons/INICIO_OBJETIVOS.PNG" width="800px">
     </a>
 </div>
-
 
 ## Introducción
 
@@ -36,9 +46,8 @@ El objetivo principal de esta actividad es permitir que el estudiante comprenda 
 <br>
 
 <div align="center">
-    <b>PIQUE LA IMAGEN PARA VER EL VIDEO DE LA ACTIVIDAD </b>
-    <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/EXWmASLfg_1FvLWjBEKdzhwBQvdvhwpjnj_OEPiaKU1GXw?e=k0OyaU">
-        <img src="Imagenes/CLASE_MOD1_ACT4.PNG" width="800px">
+       <a href="https://youtu.be/VxK0WOuqPLo">
+        <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 
@@ -419,3 +428,8 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 |----------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
 
 <div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/LC_SA_MN.LC_FRM_ADM_EC_CMP.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBotonCertificado.png" alt="R.LTWB" width="260" border="0" /></a></div>
+
+##
+
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src="../../.icons/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
