@@ -28,7 +28,7 @@ Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 
 <div align="center">
        <a href="https://youtu.be/xFDHVijvIH0">
-        <img src="../../.icons/INICIO_OBJETIVOS.png" width="800px">
+        <img src="../../.icons/INICIO_OBJETIVOS.PNG" width="800px">
     </a>
 </div>
 
