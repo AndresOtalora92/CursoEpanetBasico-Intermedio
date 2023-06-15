@@ -26,7 +26,7 @@ andres.otalora@escuelaing.edu.co
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/fbVyBCXzCa0">
+       <a href="https://youtu.be/lG6kyNjbyHw">
         <img src="../../.icons/INICIO_OBJETIVOS.PNG" width="800px">
     </a>
 </div>
@@ -47,7 +47,7 @@ El objetivo principal de esta actividad es crear al usuario las nociones fundame
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/onhEay6eoRs">
+       <a href="https://youtu.be/lG6kyNjbyHw">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
