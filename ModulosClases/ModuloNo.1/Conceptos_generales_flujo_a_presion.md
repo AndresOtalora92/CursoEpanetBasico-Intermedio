@@ -28,7 +28,7 @@ Keywords: `Presión` `Hidráulica` `Redes` `Flujo`
 
 <div align="center">
        <a href="https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_otalora_escuelaing_edu_co/ERBrV4ETmvJKs8sYYwATYCgBRNfb5bX92Qu0SdPQ7JPd-w?e=eTOF0v">
-        <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
+        <img src="../ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
     </a>
 </div>
 
