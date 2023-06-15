@@ -50,7 +50,7 @@ El objetivo principal de esta actividad es permitir que el estudiante aprenda, r
 
 <div align="center">
        <a href="https://youtu.be/xFDHVijvIH0">
-        <img src="../../.icons/INICIO_OBJETIVOS.PNG" width="800px">
+        <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 
@@ -279,7 +279,8 @@ _¡Encontraste útil este repositorio!, apoya su difusión marcando este reposit
 [^1]: Saldarriaga, Juan. Hidráulica a Presión (2019).
 [^2]: Frank M. White. Mecánica De Fluidos (2020).
 
+
 ##
 
 
-<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=".icons/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=".icons/Banner1.SVG" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
