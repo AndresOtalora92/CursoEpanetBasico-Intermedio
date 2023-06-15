@@ -150,8 +150,8 @@ _CursoEpanetBasico-Intermedio es de uso libre para fines académicos.
 _¡Encontraste útil este repositorio!, apoya su difusión marcando este repositorio con una ⭐ o síguenos dando clic en el botón Follow de [AndresOtalora92](https://github.com/AndresOtalora92?tab=repositories) en GitHub._
 
 
-| [Anterior](../ModuloNo.3/ValvulasyAccesorios.md) | [:house: Inicio](../../README.md) | [Fin del curso] |
-|-------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------|
+| [Anterior](../ModuloNo.3/ValvulasyAccesorios.md) | [:house: Inicio](../../README.md) | [Fin del curso](../../README.md) |
+|-------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------|
 
 <div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/LC_SA_MN.LC_FRM_ADM_EC_CMP.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBotonCertificado.png" alt="R.LTWB" width="260" border="0" /></a></div>
 
