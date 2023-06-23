@@ -124,7 +124,7 @@ A continuación, se presenta el contenido programático de los tres módulos que
 Tal como se describió anteriormente, se recomienda que el estudiante revise, estudie y analice la información contenida en cada actividad, siguiendo el orden definido en el contenido programático. En el 
 caso que el estudiante requiera la certificación del curso, este deberá realizar las actividades y presentarlas al tutor siguiendo las instrucciones del caso, en los tiempos establecidos.
 
-<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/LC_SA_MN.LC_FRM_ADM_EC_CMP.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBannerCertificado.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL?&" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBannerCertificado.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
 
 ##
 
