@@ -27,7 +27,7 @@ andres.otalora@escuelaing.edu.co
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/fbVyBCXzCa0">
+       <a href="https://youtu.be/dFOL79dWCsg">
         <img src="../../.icons/INICIO_OBJETIVOS.PNG" width="800px">
     </a>
 </div>
@@ -48,7 +48,7 @@ El objetivo principal de esta actividad es permitir que el estudiante entienda l
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/onhEay6eoRs">
+       <a href="https://youtu.be/zdsXa9YzI-4">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

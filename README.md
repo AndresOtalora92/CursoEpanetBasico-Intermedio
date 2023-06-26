@@ -27,7 +27,7 @@ andres.otalora@escuelaing.edu.co
 <br>
 
 <div align="center">
-    <a href="https://youtu.be/HpYWdZIFtAY">
+    <a href="https://youtu.be/4MaLCDYVrXo">
         <img src="ModulosClases/ModuloNo.1/Imagenes/INTRODUCCION_CURSO.PNG" width="800px">
     </a>
 </div>

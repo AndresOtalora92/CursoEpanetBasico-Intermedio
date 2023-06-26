@@ -38,7 +38,7 @@ El objetivo principal de esta actividad es presentar diferentes alternativas par
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/haEa2cXvFME">
+       <a href="https://youtu.be/u-O-luVKyp8">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

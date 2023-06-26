@@ -47,7 +47,7 @@ Cabe destacar que el software EPANET no integra herramientas que le permitan rea
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/Er-C39YTS1E">
+       <a href="https://youtu.be/TFpLtc_It1k">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

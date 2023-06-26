@@ -35,7 +35,7 @@ El objetivo principal de esta actividad es darle a conocer al usuario las metodo
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/f-YYvjTS_F0">
+       <a href="https://youtu.be/eGYaA9XkwXU">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

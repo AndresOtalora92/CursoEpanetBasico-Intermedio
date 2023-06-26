@@ -29,7 +29,7 @@ andres.otalora@escuelaing.edu.co
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/l-_FobZWvJ8">
+       <a href="https://youtu.be/gYG3_E8rok4">
         <img src="../../.icons/INICIO_OBJETIVOS.PNG" width="800px">
     </a>
 </div>
@@ -52,7 +52,7 @@ El objetivo principal de esta actividad es introducir al estudiante en los conce
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/e8s4U8kXtbE">
+       <a href="https://youtu.be/ph-hsxRTO28">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

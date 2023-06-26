@@ -39,7 +39,7 @@ El objetivo principal de esta actividad es permitirle al usuario aprender una me
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/m9yGCOlW4Fs">
+       <a href="https://youtu.be/4siPA2Ys1gg">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

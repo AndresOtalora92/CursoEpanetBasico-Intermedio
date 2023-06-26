@@ -37,7 +37,7 @@ El objetivo principal de esta actividad es darle a conocer el usuario las posibi
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/saruRhmkK-w">
+       <a href="https://youtu.be/HCymWjrhSbg">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

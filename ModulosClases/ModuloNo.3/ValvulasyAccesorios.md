@@ -37,7 +37,7 @@ El objetivo principal de esta actividad es aplicar en el software los conceptos 
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/74m2GHN_szI">
+       <a href="https://youtu.be/MF-Ttb07TsM">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

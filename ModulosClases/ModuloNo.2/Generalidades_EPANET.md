@@ -38,7 +38,7 @@ El objetivo principal de esta actividad es permitir que el estudiante conozca co
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/pGrTPH6akZo">
+       <a href="https://youtu.be/EyjbS4aL2CI">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

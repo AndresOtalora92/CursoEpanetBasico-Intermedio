@@ -42,7 +42,7 @@ En caso teórico es posible definir de manera simplificada el consumo como un va
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/RGNlQ2xergI">
+       <a href="https://youtu.be/AePvM_f_XdM">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

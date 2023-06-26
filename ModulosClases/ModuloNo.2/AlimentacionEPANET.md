@@ -37,7 +37,7 @@ El objetivo principal de esta actividad es mostrarle al usuario como cargar, ing
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/Wdpnb97uE7s">
+       <a href="https://youtu.be/o1hGSWjHXRs">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

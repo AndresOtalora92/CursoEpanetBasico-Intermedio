@@ -38,7 +38,7 @@ El objetivo principal de esta actividad es, con base en los conceptos analizados
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/bXVoDU5H7E0">
+       <a href="https://youtu.be/xggq2CE1lb4">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

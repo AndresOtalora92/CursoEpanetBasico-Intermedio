@@ -38,7 +38,7 @@ El objetivo principal de esta actividad es permitirle al usuario tener diferente
 <br>
 
 <div align="center">
-       <a href="https://youtu.be/BBPH4BSrv4Y">
+       <a href="https://youtu.be/gUM-sLZmRiU">
         <img src="../../.icons/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
