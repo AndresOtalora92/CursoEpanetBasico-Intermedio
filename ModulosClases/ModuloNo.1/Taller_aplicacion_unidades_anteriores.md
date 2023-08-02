@@ -65,7 +65,7 @@ Con estos valores y sabiendo que se requiere que el Número de Reynolds (Re) a l
 </div>
 
 <div align="center">
-  <b> V =0.10 m/s </b> 
+  <b> V =0.010 m/s </b> 
 </div>
 
 
