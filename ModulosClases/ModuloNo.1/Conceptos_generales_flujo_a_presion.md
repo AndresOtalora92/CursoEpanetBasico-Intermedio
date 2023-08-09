@@ -239,7 +239,7 @@ En la siguiente imagen se presenta un ejemplo de estas redes.
 
 ### Tipos de redes. Descripción
 
-Los sistemas y redes que trabajan con flujos a presiones pueden clasificarse según la distribución espacial de los elementos que componen la red. Es común clasificar las redes em: redes abiertas y redes cerradas.
+Los sistemas y redes que trabajan con flujos a presiones pueden clasificarse según la distribución espacial de los elementos que componen la red. Es común clasificar las redes en: redes abiertas y redes cerradas.
 
 </br><b> Red cerrada: </b> Una red cerrada corresponde a un sistema hidráulico compuesto por tuberías y accesorios cuya disposición permite crear una malla cerrada, donde el flujo puede recircular desde su punto de inicio hasta su punto final. 
 
