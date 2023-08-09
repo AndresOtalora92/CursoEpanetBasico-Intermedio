@@ -73,7 +73,7 @@ En el siguiente link podrán descargar de manera gratuita el software de EPANET 
 
 En el siguiente link podrán descargar de manera gratuita el software de EPANET en su última versión en español V2.0
 
-[LINK DE DESCARGA](https://epanet.es/descargas/)
+[LINK DE DESCARGA](http://www.instagua.upv.es/epanet/EpanetCastellano.htm)
 
 ## Herramientas, menús y botones del software EPANET
 
